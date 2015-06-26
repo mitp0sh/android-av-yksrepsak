@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/kis_li_issue_aux_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/li_issue_license_description" style="@style/kis_li_issue_aux_text" />
+    <TextView android:id="@id/li_issue_license_expiration_date" style="@style/kis_li_issue_aux_text" />
+    <TextView android:id="@id/li_issue_license_days_remaining" style="@style/kis_li_issue_aux_text" />
+    <TextView android:id="@id/li_issue_license_license_key" style="@style/kis_li_issue_aux_text" />
+    <TextView android:id="@id/li_issue_license_device_id" style="@style/kis_li_issue_aux_text" />
+</LinearLayout>

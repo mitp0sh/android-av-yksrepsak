@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="str_license_activation_done">
+        <item quantity="other">&amp;lt;b>Спасибо за активацию программы&amp;lt;/b>&amp;lt;br>Теперь у вас есть лицензия на %d дней.</item>
+        <item quantity="zero">&amp;lt;b>Спасибо за активацию программы&amp;lt;/b>&amp;lt;br>Теперь у вас есть лицензия на %d дней.</item>
+        <item quantity="one">&amp;lt;b>Спасибо за активацию программы&amp;lt;/b>&amp;lt;br>Теперь у вас есть лицензия на %d день.</item>
+        <item quantity="two">&amp;lt;b>Спасибо за активацию программы&amp;lt;/b>&amp;lt;br>Теперь у вас есть лицензия на %d дня.</item>
+        <item quantity="few">&amp;lt;b>Спасибо за активацию программы&amp;lt;/b>&amp;lt;br>Теперь у вас есть лицензия на %d дня.</item>
+        <item quantity="many">&amp;lt;b>Спасибо за активацию программы&amp;lt;/b>&amp;lt;br>Теперь у вас есть лицензия на %d дней.</item>
+    </plurals>
+    <plurals name="str_activation_code_info_details_code">
+        <item quantity="other">С помощью данного кода вы можете активировать программу на другом устройстве на оставшиеся %s дней.</item>
+        <item quantity="zero">С помощью данного кода вы можете активировать программу на другом устройстве на оставшиеся %s дней.</item>
+        <item quantity="one">С помощью данного кода вы можете активировать программу на другом устройстве на оставшийся %s день.</item>
+        <item quantity="two">С помощью данного кода вы можете активировать программу на другом устройстве на оставшиеся %s дня.</item>
+        <item quantity="few">С помощью данного кода вы можете активировать программу на другом устройстве на оставшиеся %s дня.</item>
+        <item quantity="many">С помощью данного кода вы можете активировать программу на другом устройстве на оставшиеся %s дней.</item>
+    </plurals>
+</resources>

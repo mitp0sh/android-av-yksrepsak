@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:orientation="vertical" a:layout_width="fill_parent" a:layout_height="fill_parent"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <com.kaspersky.kts.gui.KMSAbsoluteLayout a:orientation="vertical" a:layout_width="fill_parent" a:layout_height="fill_parent">
+        <RelativeLayout a:id="@id/wizard_bg" a:background="@drawable/bg_wizard" a:layout_width="fill_parent" a:layout_height="fill_parent" a:layout_marginTop="-15.0px">
+            <fragment a:id="@id/wizard_step" a:layout_width="0.0px" a:layout_height="0.0px" class="com.kaspersky.kts.gui.wizard.WizardFragment" />
+            <FrameLayout a:id="@id/wizard_details" a:layout_width="fill_parent" a:layout_height="fill_parent" a:layout_above="@id/wizard_steps_counter" a:layout_alignParentRight="true" />
+            <com.kaspersky.kts.gui.wizard.StepsCounterControl a:id="@id/wizard_steps_counter" a:padding="10.0dip" a:layout_width="fill_parent" a:layout_height="wrap_content" a:layout_toRightOf="@id/wizard_step" a:layout_alignParentBottom="true" />
+        </RelativeLayout>
+    </com.kaspersky.kts.gui.KMSAbsoluteLayout>
+</LinearLayout>

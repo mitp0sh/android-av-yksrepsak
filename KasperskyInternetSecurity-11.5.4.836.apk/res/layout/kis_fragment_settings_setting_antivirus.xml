@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/kis_fragment_settings_setting"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <TextView a:text="@string/settings_detail_free_av_info_info" style="@style/kis_fragment_settings_setting_text" />
+    <ImageView a:layout_width="fill_parent" a:layout_height="wrap_content" a:src="@drawable/av_ilustrashka" />
+    <TextView a:text="@string/settings_detail_free_av_info_second_text" style="@style/kis_fragment_settings_setting_text" />
+</LinearLayout>

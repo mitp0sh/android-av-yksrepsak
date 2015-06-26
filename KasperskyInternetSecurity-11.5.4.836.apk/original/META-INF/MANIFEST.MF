@@ -1,0 +1,6090 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_22 (Sun Microsystems Inc.)
+
+Name: ae/com/sun/xml/bind/v2/model/impl/Messages_zh_CN.properties
+SHA1-Digest: +A72o6LzDEJTB1Vn8p3eyEjiV3U=
+
+Name: res/drawable-hdpi/icon_features_3_gray.png
+SHA1-Digest: yAE3fZT5+lgnP2Mh7Tm+dKXZWCg=
+
+Name: res/raw-ru/kis_71778.html
+SHA1-Digest: vWTk2YxDWPsVjyURQgwpwTAvPug=
+
+Name: res/raw-es-US/kis_74780.html
+SHA1-Digest: /yPudJYUOKoPENTcGAn6FV2A6WE=
+
+Name: res/layout/antispam_list.xml
+SHA1-Digest: qvVDGK5rFFw6evNLpygk4whIWUQ=
+
+Name: res/drawable-nodpi/hdr_premium.9.png
+SHA1-Digest: z1fyKGBASodIhJs1vKooVmhFifw=
+
+Name: ae/com/sun/xml/bind/v2/model/annotation/Messages_zh_TW.propertie
+ s
+SHA1-Digest: OMUkZOWUOe+K92TD2kFyDqYwfC8=
+
+Name: res/raw-es/kis_71790.html
+SHA1-Digest: TDDaImElu64EEtf7GD6OL1rwLiI=
+
+Name: assets/main_window_at_glance_ru.png
+SHA1-Digest: af3oUQA0gBoIHQ4YbHeuV5Q1GtM=
+
+Name: res/drawable/kis_dialog_button.xml
+SHA1-Digest: XrgkJ+PFYbqoV+dF/z3Z2Z0LMk4=
+
+Name: res/drawable-hdpi/kts_dialog_checkbox_disabled_off.png
+SHA1-Digest: 4OEv3IYmZYyzIxg/HhhWlla0RF4=
+
+Name: res/raw-es-US/kis_71828.html
+SHA1-Digest: EG6P0ZQCVL3FjOp2hAfHX5qJ3lg=
+
+Name: res/raw-fr/kis_61373.html
+SHA1-Digest: bU+ZMlRX/m7oRGqgBGzU+63Y6hk=
+
+Name: res/raw/kis_71778.html
+SHA1-Digest: TMWjjZvc+DBabLkOGxFjC8kWxK8=
+
+Name: res/raw-ru/kis_71829.html
+SHA1-Digest: u3Uu0AHhLIicfruRslJ4i8iWdQ0=
+
+Name: res/layout/kts_agreement_item.xml
+SHA1-Digest: ZL9wyxj9sUeKL3RFRTSFnftJBi8=
+
+Name: res/drawable/kis_menu_background.xml
+SHA1-Digest: 6SdhPOfOOvPD/gAMMxbVqy8Yo1k=
+
+Name: ae/com/sun/xml/bind/v2/doc-files/readme.txt
+SHA1-Digest: AEWKeJbgoWzjqP0S+jbzkhd10AI=
+
+Name: com/amazonaws/services/sqs/request.handlers
+SHA1-Digest: WC9fBbU0TWBnuMmBhb8lcwvQcy0=
+
+Name: res/raw-de/kis_71877.html
+SHA1-Digest: uaPIwYjmIaXNwtKdbvRa814t5bY=
+
+Name: res/layout/wizard_no_connection_screen_kts.xml
+SHA1-Digest: egZGG4vsiy575a61hCaq0uK/b3w=
+
+Name: res/drawable/alert_20.png
+SHA1-Digest: 7iX/G9lcCvUiF0a4+NjH4yCdDeI=
+
+Name: assets/status_window_es-rUS.png
+SHA1-Digest: Vg+4gIEPYRsvHyg8zx//E8NXnpE=
+
+Name: res/raw-es-US/kis_71865.html
+SHA1-Digest: Aj8ITjWxGYzpUfYNdE0NRfEZ8wc=
+
+Name: res/raw-ru/kis_61603.html
+SHA1-Digest: Br/HPpW3uejteGLZnd+dWmydu4o=
+
+Name: res/drawable-xhdpi/kis_checkbox_off_disabled_focused_holo_light.
+ png
+SHA1-Digest: T81ug93IqDniL+5ZlfuMNuiB8a8=
+
+Name: res/raw-pt/kis_71875.html
+SHA1-Digest: c9XFl1YMU9WpJe3Z7Z9n2/inTKk=
+
+Name: res/drawable-xhdpi/kis_checkbox_on_focused_holo_light.png
+SHA1-Digest: zS/IodSPY+KwniRTzFCZdGcSfUM=
+
+Name: res/layout/form_edit_control_kts.xml
+SHA1-Digest: mcaEkHIFoooYOfGtedHivYAPRtg=
+
+Name: res/raw-fr/kis_71835.html
+SHA1-Digest: yU3So4RvhCfTdN23JdK8e3vw7kk=
+
+Name: res/raw-it/kis_71845.html
+SHA1-Digest: /NMq4P9YdpRZG4TLXQepwgG0wno=
+
+Name: res/raw-it/kis_71925.html
+SHA1-Digest: z4dtCMOvsAGHOopSBDNrWnkJ0P0=
+
+Name: res/drawable/kts_progress_bar_png.9.png
+SHA1-Digest: LQj+izF84KGyt+CceG7E1SQgReA=
+
+Name: res/raw-pt/kis_71854.html
+SHA1-Digest: PyXYx/sRJdfAIV2OMxspHiELVZ0=
+
+Name: res/raw-es/kis_61355.html
+SHA1-Digest: JCMZDCkLd3Q3RhmEJ7V3eyhZUIo=
+
+Name: res/layout/block_text.xml
+SHA1-Digest: MTwSY96kUT5sxX8lEb8cr+fANUU=
+
+Name: res/raw-es-US/kis_71791.html
+SHA1-Digest: HotvRfhmr7CUF8MTym0A0jXwbpE=
+
+Name: res/raw-pt/kis_71882.html
+SHA1-Digest: 6gDCXgW2CxSDIBmXHB2446nyUtQ=
+
+Name: res/drawable/kms_ksn_disconnect.png
+SHA1-Digest: b7q33PT3p5rWyIXsV0lNFnLvv4M=
+
+Name: res/layout/alert_dialog_user_action_virus_info.xml
+SHA1-Digest: L5FyIFNJaGHwx7fFDTapZ8KBgbw=
+
+Name: res/drawable/button_disable_png.9.png
+SHA1-Digest: WKgUTatBOfStv/taQOSYJsSDxxQ=
+
+Name: res/raw-de/kis_71826.html
+SHA1-Digest: aL6k+HFKWYE6MtyyVxcVHNCeErw=
+
+Name: res/layout/kis_dialog_li.xml
+SHA1-Digest: BgDACt/BFCtxPnlLLFFwa05kRWQ=
+
+Name: res/raw-it/kis_71855.html
+SHA1-Digest: RW0IIVTiz8dJLoO+yhiM83ymmLY=
+
+Name: res/raw-de/kis_71869.html
+SHA1-Digest: t5IXrOHX+dq+3TCzS1E8axcN0ik=
+
+Name: res/drawable-nodpi/notification_bg.9.png
+SHA1-Digest: 9b6yK9cHrkqE/7TOTYY6LPcfy/A=
+
+Name: res/raw-fr/kis_71796.html
+SHA1-Digest: WeDoDwft4hbC+AwWU2/JCSuTvM8=
+
+Name: res/raw-pt/kis_71801.html
+SHA1-Digest: YR/cl7QOovLOdOBxfFhaWZ3e8ic=
+
+Name: assets/main_window_at_glance_cs.png
+SHA1-Digest: VtvDI6oDQWYvU+VOBldyZ7JeJog=
+
+Name: res/drawable-nodpi/kts_ico_folder_30.png
+SHA1-Digest: +2W+SOfJSByKYou8muEjVKOdbwI=
+
+Name: res/raw-pt/kis_71885.html
+SHA1-Digest: zZzYvfS3o0tmEvPIwZE2qfOpR5M=
+
+Name: res/raw-fr/kis_71828.html
+SHA1-Digest: rSf1b5/YU/SCmSTXWABgH3By+iI=
+
+Name: res/raw/kis_71843.html
+SHA1-Digest: Rl7DdmVS3I+S0DF8Fs+Q9oYmf3k=
+
+Name: res/raw/kis_71828.html
+SHA1-Digest: TMbGexoLWcp1DT1XZHUzdbcUwWs=
+
+Name: res/raw-fr/kis_71833.html
+SHA1-Digest: ZuqO/LMxGib5FJaNDDoOgVyzD5s=
+
+Name: res/drawable-xhdpi/kis_checkbox_off_disabled_holo_light.png
+SHA1-Digest: kriNnN+pH9Xo1Oc2A6ECZ7RGano=
+
+Name: res/raw-es-US/kis_71842.html
+SHA1-Digest: jHu6BLY8la/2iigiPFqDFYIZVsY=
+
+Name: res/raw-de/kis_71792.html
+SHA1-Digest: A4uKEJb6D1BlyOzzRtNL6JQDYqI=
+
+Name: res/raw-es-US/kis_71854.html
+SHA1-Digest: 3E39lQL3V5CPEnI74LTgvpJy9k8=
+
+Name: res/drawable/f_right_nofocus.png
+SHA1-Digest: djhNSEID4ixGdLzYH0hGQLThmHY=
+
+Name: res/layout/kts_settings_fragment_layout.xml
+SHA1-Digest: AsQO+0txHlXIGEfXRDofRMH2zDU=
+
+Name: res/raw-de/kis_71833.html
+SHA1-Digest: Fa4fBJcxXCFOoS/VRF3nlfwaoeA=
+
+Name: res/raw-fr/kis_71829.html
+SHA1-Digest: 4oahHCCkKVSSiB3OMNodxqlNI04=
+
+Name: res/raw-it/kis_61603.html
+SHA1-Digest: GQWmBMKtzE/0k2fD6wR4M08k/RU=
+
+Name: res/raw-it/kis_71847.html
+SHA1-Digest: 0BZS4N/XtT57Nls1JEPAW5wk0uI=
+
+Name: res/layout/license_settings_general.xml
+SHA1-Digest: 7NYSw+9a6UTfzjf7lDmtGz8wR30=
+
+Name: assets/main_window_at_glance_ja.png
+SHA1-Digest: wDoFSKO4Y5HwGT3Pr5ha8ZeZrJ8=
+
+Name: res/raw-pt/kis_71863.html
+SHA1-Digest: kqds6hh9coHJ9QMKer433Xb5tmE=
+
+Name: res/drawable/w6.png
+SHA1-Digest: hlK1BzzuoXfrFfqniPkd8FrJoso=
+
+Name: res/raw-de/kis_71836.html
+SHA1-Digest: jkEu2LCPpA8ga3awJTpth6Fo3kA=
+
+Name: res/raw-es/kis_71885.html
+SHA1-Digest: Tu0idQMTvfgLeJjQwIH5yK04bgU=
+
+Name: res/drawable-mdpi/kis_checkbox_off_focused_holo_light.png
+SHA1-Digest: hIgeep9Rpv6RARvaBsvs7EwoInA=
+
+Name: res/drawable-nodpi/separator_hrd_line1.xml
+SHA1-Digest: wAJZ5Fh23oAcZz8Oobsa9rXzGGo=
+
+Name: res/raw-pt/kis_71821.html
+SHA1-Digest: cC1e6Dg3fv1uXC8/FJ8R0c6NpPw=
+
+Name: res/raw-es/kis_71825.html
+SHA1-Digest: RtQKnUUX5AvdGEUPEhqVq1DblBM=
+
+Name: ae/com/sun/xml/bind/unmarshaller/Messages_es.properties
+SHA1-Digest: c44r2Y06ia7nEL6+wZvTgcJBzRA=
+
+Name: res/raw-pt/kis_71831.html
+SHA1-Digest: w5mRRqTEwqsrWPrFwbWpfmfEEKc=
+
+Name: res/raw-es-US/kis_71835.html
+SHA1-Digest: Nnhjh8x9EgsSTfJwIskElxsQJQo=
+
+Name: com/amazonaws/javax/xml/stream/xerces/impl/msg/XMLSchemaMessages
+ .properties
+SHA1-Digest: 5Bka5S/eCprRJqcdaDuO5lYVlec=
+
+Name: res/layout/wizard_activation_kts_port.xml
+SHA1-Digest: EyB3flW7ICzeMtT71MgYbBvBObw=
+
+Name: res/raw/kis_71814.html
+SHA1-Digest: 0qUYPnNmhnJI69DFtFltx10Jlng=
+
+Name: res/raw/ipm_oper.key
+SHA1-Digest: 6FRi100voa/dsvJfElNHL0eYbc0=
+
+Name: res/drawable/kts_progress_bar.xml
+SHA1-Digest: JpmepJznbb79EeRRe9UNRA9D2kY=
+
+Name: res/drawable-nodpi/popup_dialog_background.9.png
+SHA1-Digest: TrEZv3oM5SyheW/pMAc6jTwIMQo=
+
+Name: ae/com/sun/xml/bind/v2/runtime/unmarshaller/Messages_zh_CN.prope
+ rties
+SHA1-Digest: 5n7fuz/3JjhQ5ZdXAmiAjTgddOk=
+
+Name: res/drawable-nodpi/settings_detail_checkbox_disabled_on.png
+SHA1-Digest: SowwVfS1y7wyKMJokqp0WIUhjTA=
+
+Name: res/raw-es/kis_58977.html
+SHA1-Digest: zj0a/QJAVRrs7X1yb+ohc+vuQvk=
+
+Name: res/raw/kis_71817.html
+SHA1-Digest: oalFn/w4Ud6C31+3tNlJTepjrWQ=
+
+Name: res/drawable-xhdpi/kis_premium_features_bg.9.png
+SHA1-Digest: B4Lzv5HNA7uIedP3yjnx9EHIGJI=
+
+Name: res/raw-es/kis_71852.html
+SHA1-Digest: hpoU18N9AUIDL5zW1kT61CQyMb0=
+
+Name: lib/armeabi/libapp_services.so
+SHA1-Digest: UmM4CVqEkqo/EgfxW4Vq4J4lGZA=
+
+Name: res/raw-de/kis_71806.html
+SHA1-Digest: n2psWjyax3Z23D3HBNlZDvbFjjY=
+
+Name: lib/x86/libpacked_io.so
+SHA1-Digest: IBls3R9nR/CDZ2+E8xefHQdm+Ck=
+
+Name: res/raw-fr/kis_71809.html
+SHA1-Digest: 8lPcJY/JtRB2LZ468fBQmuEXTLs=
+
+Name: res/drawable-nodpi/lock_screen_logo.png
+SHA1-Digest: Hh4l0zr6k8tm7NpJmgus5ooA/HM=
+
+Name: res/drawable-hdpi/kis_li_issue_show.png
+SHA1-Digest: efdQ8cjUAeeQhG4V2aq37Mk2Uhs=
+
+Name: res/drawable-mdpi/kis_checkbox_off_disabled_focused_holo_light.p
+ ng
+SHA1-Digest: 5pXfXXN2L+yJI8dNFW9xZfkGnR8=
+
+Name: res/drawable-mdpi/kis_switch_thumb_disabled_holo_light.9.png
+SHA1-Digest: 8FuiUre5Uwk6jiTuYJ7DzzkFOfE=
+
+Name: res/raw-pt/kis_71890.html
+SHA1-Digest: dUiht2N9ytc/x3xafI3HTPNEwuk=
+
+Name: res/drawable/round_enabled.png
+SHA1-Digest: f77vbOhJ3AbmQZoMeJEa6TsNiWg=
+
+Name: res/drawable-hdpi/kis_switch_thumb_pressed_holo_light.9.png
+SHA1-Digest: /U/AvJ7cSFhZYsApixx4ZUJJYvQ=
+
+Name: res/raw-es-US/kis_71797.html
+SHA1-Digest: /rFPOn9agoZWNaIomVkwLKutN/w=
+
+Name: res/drawable-nodpi/settings_detail_checkbox_disabled_off.png
+SHA1-Digest: 4OEv3IYmZYyzIxg/HhhWlla0RF4=
+
+Name: res/drawable-hdpi/kis_menu_button_settings.png
+SHA1-Digest: E81e8oZQXeUtHgiy54nTcqOSKIc=
+
+Name: res/raw-es-US/kis_71806.html
+SHA1-Digest: KLJY0pBPkamCidyRlYAZCwS0ciw=
+
+Name: res/raw-de/kis_71874.html
+SHA1-Digest: KnOPKEgD+jc6NEb3E3lkfKkzsfg=
+
+Name: res/raw-pt/kis_71888.html
+SHA1-Digest: xv/JllMVU1vutGOQqivAdrED8RU=
+
+Name: res/drawable-xhdpi/star.png
+SHA1-Digest: Lnca1KNSOe/6JILB4cBlujEKZK8=
+
+Name: res/drawable-mdpi/kis_checkbox_on_focused_holo_light.png
+SHA1-Digest: BpQm2oIYa95WGeYWKvRlsxqFMSw=
+
+Name: res/drawable-xhdpi/icon_features_3.png
+SHA1-Digest: 4deC6X/ZrbiEt52irFaBw6sG9ZE=
+
+Name: res/layout/kis_li_issue_license_info.xml
+SHA1-Digest: /VJVcp7/jt/Fynl9s3oTywk7keo=
+
+Name: res/drawable-nodpi/settings_main_home_ico.PNG
+SHA1-Digest: kdffmMem3aef0qHrQD6uYXM7FV0=
+
+Name: res/drawable/kis_setting_tab_webportal_states.xml
+SHA1-Digest: 2KVktW7pKaMrRFo/Vvo4QSWVckc=
+
+Name: res/raw-fr/kis_71807.html
+SHA1-Digest: HXqN+FpWQVOiLA366O97QRkFeps=
+
+Name: res/raw-ru/kis_71881.html
+SHA1-Digest: C5++Ca1ji+2r0VvjByUoezk97P4=
+
+Name: res/layout/lock.xml
+SHA1-Digest: CmrRbTEqXzmWc5YDn6Q4gc7KV0w=
+
+Name: res/raw-fr/kis_71843.html
+SHA1-Digest: OPH9RN0/e5vORKAq/hsO4ypmdi0=
+
+Name: res/drawable-mdpi/ico_license_expired_25.png
+SHA1-Digest: aSVgy2MF86aSKHozzQIkWJYFX7c=
+
+Name: res/raw-es/kis_71865.html
+SHA1-Digest: Yyinq8FkDxdjeGOpL6k3QgHA+zY=
+
+Name: assets/status_window_en.png
+SHA1-Digest: cI5zqLjTDAb2fHz6+kVl+KwN4xA=
+
+Name: res/drawable/kts_ico_phone_message_30.png
+SHA1-Digest: nlvreJG8iDtRuCx+8hjPFjBU0n8=
+
+Name: res/drawable-nodpi/settings_detail_checkbox_enabled_on_press.png
+SHA1-Digest: G6BIvxCJFKg2a/K10H4MushHR6c=
+
+Name: res/raw-es-US/kis_71784.html
+SHA1-Digest: NFzbH1btJC+5RU+LdUFcIc9spY4=
+
+Name: ae/com/sun/xml/bind/v2/model/impl/Messages_ja.properties
+SHA1-Digest: R2AsbpCYLqQUB+E5xLFjlQa3Vtc=
+
+Name: res/raw-ru/kis_71834.html
+SHA1-Digest: HpAeHN3C8DCR1Xg2f5B6BrACajg=
+
+Name: res/raw-fr/kis_71884.html
+SHA1-Digest: pwfC6HFpjomFu1dD/shuHwneHII=
+
+Name: res/raw/kis_71825.html
+SHA1-Digest: dGY5PP68bCyuXIWNuF1hrgkBmVY=
+
+Name: res/raw-fr/kis_71870.html
+SHA1-Digest: vFgD4xtAuql86pRcdC0XwW1cq+o=
+
+Name: res/raw-ru/kis_71803.html
+SHA1-Digest: OHz+UlkDi2QOxJlpq5uaAN7WX7Q=
+
+Name: res/raw-pt/kis_71836.html
+SHA1-Digest: 110ZmI/wf//iB4/u7X0xoo1Z8sk=
+
+Name: res/raw/kis_71889.html
+SHA1-Digest: FTTHyjWlyNFZy7xVuVVh4y5GxSk=
+
+Name: res/layout/kts_lock_screen_new.xml
+SHA1-Digest: OG9CCHw7iyFxwVkPPAUX4UFc5pM=
+
+Name: res/layout/kms_settings_detail_caption.xml
+SHA1-Digest: B59EPGqYvISxCRPyVD+uSLolPGI=
+
+Name: res/raw-it/kis_71870.html
+SHA1-Digest: dQJyC1IIvHzOXlV8Q8z3UPxICVo=
+
+Name: res/layout/settings_ucp_choose_activation_code.xml
+SHA1-Digest: PuXGNEnpVvRRuzOHYQkbczE7L3k=
+
+Name: res/raw-pt/kis_71886.html
+SHA1-Digest: INvlsVsc3ti6/zSrAG13i+XVh4Q=
+
+Name: res/drawable/ico_ipm_warning.png
+SHA1-Digest: Wi1vRuvArrD9GpeN4cTwn6Dthxc=
+
+Name: res/raw-pt/kis_79898.html
+SHA1-Digest: XL44H+rBUJ9544mwSZhoaptoJJM=
+
+Name: res/drawable/shadow_up.png
+SHA1-Digest: ZbqDjXv3+Df2KJ+LJnOVdSJpaac=
+
+Name: res/raw-es/kis_71867.html
+SHA1-Digest: U3FIsvG+qB0rKL+ChFqgp0NtEDA=
+
+Name: res/raw-it/kis_72505.html
+SHA1-Digest: qmT9+0r12/hoOBnPhdHyUmdE2jc=
+
+Name: res/raw-it/kis_71835.html
+SHA1-Digest: o7ncE79IFzrj6vOL5+Y3Ax4Ikfs=
+
+Name: res/raw-de/kis_71801.html
+SHA1-Digest: DV5ySr4tCWSxaLxOBG8/1VjBdMQ=
+
+Name: res/raw-es/kis_72426.html
+SHA1-Digest: HqncsHtAOPF+uD/oqj/IvojXvaA=
+
+Name: res/drawable/dot_green.png
+SHA1-Digest: 2myCBGyBfDKA9oCGyVm/NAeEYFY=
+
+Name: res/raw-pt/kis_71802.html
+SHA1-Digest: Z7Y7qfzgDVidJy9LcaiRU3HSRFA=
+
+Name: res/drawable/button_hover_png_kts.9.png
+SHA1-Digest: KHqQhwSE9RTrGtUU27bHWOp7Un4=
+
+Name: res/raw-it/kis_71822.html
+SHA1-Digest: 8Vc33BCEi/4ttojpeaOlb8/DYAU=
+
+Name: res/drawable-nodpi/settings_detail_list_selector.xml
+SHA1-Digest: wlQP6mb5LaWdXyIg3yupPu+pGNY=
+
+Name: assets/ucp/ucp-ns-root.pem
+SHA1-Digest: 7gb10UlzEMPHjLJ2KSkT8Y/WvgM=
+
+Name: res/layout/kis_activity_top_hint.xml
+SHA1-Digest: 9FNAavpjZcTemy1sJbbssdSGPJA=
+
+Name: res/raw-it/kis_71893.html
+SHA1-Digest: JBoYFbphOgAVy1WcI/kMfQa7buc=
+
+Name: assets/main_window_at_glance_de.png
+SHA1-Digest: kj1L42jguGZXzwY2u2aaoQLazgk=
+
+Name: res/raw-fr/kis_71860.html
+SHA1-Digest: hBh4kF1C69hxk5cYSOoZ6s97EPA=
+
+Name: com/amazonaws/sdk/versionInfo.properties
+SHA1-Digest: wRfs3WNRVoQOwMiGtiLJGRs/8hg=
+
+Name: res/drawable-mdpi/kis_radiobutton_off_focused_holo_light.png
+SHA1-Digest: 0CP2myiqT0Iw+8r0dR9frMN3t08=
+
+Name: res/drawable-hdpi/arrow_right.png
+SHA1-Digest: RIAm6eP/aP0bpZz1OzpkoeN7ztY=
+
+Name: res/raw-ru/kis_71890.html
+SHA1-Digest: Via5HwY6d1w0t9vnzeiIyuXMRjQ=
+
+Name: res/raw-es-US/kis_71869.html
+SHA1-Digest: fnx00kirqXR+9fhGQg2tvY7fdBc=
+
+Name: res/drawable-mdpi/kis_checkbox_off_disabled_holo_light.png
+SHA1-Digest: SqDHkR+S2v1XiHVkLPBcKksJSVc=
+
+Name: res/raw/kis_71775.html
+SHA1-Digest: zp71IpGczISfDKKiHCIesxlw57A=
+
+Name: res/raw-it/kis_71899.html
+SHA1-Digest: Mk05ssqxzEnMl2GR+CdpQhfh4WU=
+
+Name: res/layout/kis_dialog_title.xml
+SHA1-Digest: SEfJoWltJv0pyrurGmMK3h3InUo=
+
+Name: res/raw-ru/kis_79898.html
+SHA1-Digest: Mt0U52Do+1ZMJsEfNQTn4J/U0cY=
+
+Name: res/layout/kts_info_screen_layout.xml
+SHA1-Digest: q6zgTLjxBapn94MhpXWmuywE+88=
+
+Name: res/raw-it/permission_denied_counterfeit.html
+SHA1-Digest: fVDhMjlIj/rXm8NkwvqCGNbj/mM=
+
+Name: res/layout/kis_fragment_shield.xml
+SHA1-Digest: mHhEZfRUHTm5lWlsPYhyxvTHxuM=
+
+Name: res/layout/kts_lock_screen_new_recovery.xml
+SHA1-Digest: UzqIfhBCGxL/URRQFR9tKs+Ib+U=
+
+Name: res/drawable-nodpi/tablet_premium_bg_hover.png
+SHA1-Digest: bmOl1XbsONmEmklY8+gNrMe81Tk=
+
+Name: res/drawable-xhdpi/kis_dialog_user_action_subtitle.9.png
+SHA1-Digest: 0NX9+5hy1MVaondoyo3/2C02BgQ=
+
+Name: res/drawable/ico_warning_30.png
+SHA1-Digest: TJ7L2gPoF1DRN8AuqWpEUsI7fwY=
+
+Name: res/layout/enter_activation_code_control.xml
+SHA1-Digest: t1SHgoqrG799xnyfT0hz8n7PeTQ=
+
+Name: res/drawable-hdpi/ico_wizard_welcome.png
+SHA1-Digest: M3XKChNTfA2OOvwo3tN4xP4BN6A=
+
+Name: res/drawable-nodpi/wizard_triangle.png
+SHA1-Digest: uKPvEWWZyXoPtJac0n/atn6whyI=
+
+Name: res/raw-pt/kis_71826.html
+SHA1-Digest: ILUvpgTxgrj9lH8EzS6abhrem+o=
+
+Name: res/raw-pt/kis_71813.html
+SHA1-Digest: M+W/JN3ZQSkYwv8TuYy919ms0gk=
+
+Name: res/drawable/button_png.9.png
+SHA1-Digest: 6jtAFnQFBfLPPGmZ2DvDyyLt6I0=
+
+Name: res/drawable/w1.PNG
+SHA1-Digest: vRT6bMFwEHH5JUo9tY2/QWENizo=
+
+Name: res/raw/kis_71868.html
+SHA1-Digest: h79gKf4cHAaXBG0J4wv/XJcaSxo=
+
+Name: res/raw-pt/kis_71810.html
+SHA1-Digest: EyTQwlwDCSI3A/Ewk36a9jByahI=
+
+Name: res/raw-es/kis_71849.html
+SHA1-Digest: F8kLv8gLeezErtBcKlokZg1t+2g=
+
+Name: res/raw-es-US/kis_71870.html
+SHA1-Digest: dGI0JhU3Zg3hUDxyPFtRudWYfyM=
+
+Name: res/raw-es/kis_71863.html
+SHA1-Digest: NAPNw7BFC/Ry5cvZz4JxNCgpuxw=
+
+Name: assets/status_window_pt-rBR.png
+SHA1-Digest: +PWWDLeVrrCt+0kGKRV4tfk1c9A=
+
+Name: res/layout/license_expired_info.xml
+SHA1-Digest: 4WR7hgykPkIq+dGn6QPaEN247/Q=
+
+Name: res/anim/slide_down.xml
+SHA1-Digest: ODIyiO59uTNP8YtWCy6YbCdJxq8=
+
+Name: res/layout/kms_settings_detail_quarantine_item.xml
+SHA1-Digest: IOlWLx1jGlYU5GsCAF9G9OejSLM=
+
+Name: res/raw/httpsca.jks
+SHA1-Digest: hBD94XdMM29s3loI83Wc43Bf1v0=
+
+Name: res/raw-es/kis_61373.html
+SHA1-Digest: B27GHoOQFG3fvXsI14Tqk87m1+E=
+
+Name: res/drawable/agreement_button.xml
+SHA1-Digest: BM+CeIEjWbykkqMNsIj5GrASLiA=
+
+Name: res/raw-ru/kis_71869.html
+SHA1-Digest: tMPw0m39wnyvabR4hhiABr5dO1Q=
+
+Name: res/raw-de/kis_71852.html
+SHA1-Digest: h896h+EortFUqgl/zb6HLzKF3hE=
+
+Name: res/drawable/ico_k_25.png
+SHA1-Digest: Wi1vRuvArrD9GpeN4cTwn6Dthxc=
+
+Name: res/raw/kis_71875.html
+SHA1-Digest: zxy6sTGqAK9ZsXlKG7u5runNy2s=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: A03XqMGnpoInxNE8fG9bKE0sWkc=
+
+Name: res/drawable-hdpi/kis_radiobutton_off_disabled_focused_holo_ligh
+ t.png
+SHA1-Digest: AzpH92szoVcf/+J29/TRJLRYuYQ=
+
+Name: res/raw-pt/kis_74780.html
+SHA1-Digest: 7MMtJ1R4lYIl+SVqu7JkLnh63/o=
+
+Name: res/drawable/round_button.xml
+SHA1-Digest: 6BuLVtyK3yW85Kman1rHXlXCzN0=
+
+Name: res/raw-ru/kis_71817.html
+SHA1-Digest: tTl5DDXZtZrJL59RaTh8KFALG4M=
+
+Name: res/drawable-xhdpi/kis_radiobutton_on_pressed_holo_light.png
+SHA1-Digest: 5H/rCYJs7l7s2zuDVHRSAwkxa9Q=
+
+Name: res/drawable-xhdpi/kis_switch_thumb_activated_holo_light.9.png
+SHA1-Digest: HTpN2dIuUqzNfgH6Om2yxTEv7ec=
+
+Name: res/drawable/kis_textview_selector.xml
+SHA1-Digest: LeSXdBfMwIVaImuhu2wSXLs8InE=
+
+Name: res/raw-es-US/kis_71867.html
+SHA1-Digest: ZWOIF9hjczdTaT48dT0tyRuItE8=
+
+Name: assets/blocks/b-forms/search.png
+SHA1-Digest: Oog4EtA0lA9tWw1xqaFtRkEnSxk=
+
+Name: res/drawable-nodpi/dot_grey_tr_big.png
+SHA1-Digest: isFmyRZq0gw7KRRz+fFqxtDEtEs=
+
+Name: res/drawable-hdpi/kis_menu_button_antitheft.png
+SHA1-Digest: 9F/j4KwXnT+uORZ5lrVKuu2SZQI=
+
+Name: res/raw-de/kis_71864.html
+SHA1-Digest: tGbUiCb3/r5cUXjGeznqHril/q4=
+
+Name: res/raw-fr/kis_61347.html
+SHA1-Digest: a44MUBtrBzhEyzTFiS3dBa8mCUI=
+
+Name: res/raw-es-US/kis_71813.html
+SHA1-Digest: x8PLG6i+C1JpwL0FzHKdXRy/Ak0=
+
+Name: res/drawable-nodpi/settings_group_call_green.png
+SHA1-Digest: ahcZyW8WG9da1a+WDhBhrWx59uk=
+
+Name: res/drawable-hdpi/kts_dialog_checkbox.xml
+SHA1-Digest: TtSQpHoyiCGjxIVPQgoXtPUcXe8=
+
+Name: ae/com/sun/xml/bind/v2/model/impl/Messages_zh_TW.properties
+SHA1-Digest: 3sBDrpkpYq7mcB6xQIggI36lF0c=
+
+Name: res/drawable-nodpi/ico_btn_try.png
+SHA1-Digest: FHH3qfcdtHxafdzIqRe5L5WmHw8=
+
+Name: res/raw-es-US/kis_71790.html
+SHA1-Digest: v78vVFOx2TojNyZ35J7o+r4NF60=
+
+Name: assets/blocks/b-content/content.css
+SHA1-Digest: kl+0850Kw/cw79xJynWkJrrKwvk=
+
+Name: res/layout/alert_dialog_title.xml
+SHA1-Digest: ugNuJgxAm1xMuVsOHZ/f+zaIo+A=
+
+Name: res/drawable-xhdpi/kis_radiobutton_off_holo_light.png
+SHA1-Digest: CMSRTb8seqB+KglLzQOq1JLWgEA=
+
+Name: res/raw-es-US/kis_71925.html
+SHA1-Digest: bRvjnyG6W2tNnIcrerZnlrD5ons=
+
+Name: res/raw-de/kis_71796.html
+SHA1-Digest: E4PXi/KGVjM/6HGVD/xE5tVIqYs=
+
+Name: res/raw/kis_71879.html
+SHA1-Digest: 1tELeSyY+roVlGTFaAHQhywHpPA=
+
+Name: res/raw-es/kis_71832.html
+SHA1-Digest: Bdin2ebLaTS3XVqiFiVEQ9iJPuY=
+
+Name: res/raw-pt/kis_71820.html
+SHA1-Digest: yQgLfRaNtpkkfznAePeW8ow1nAA=
+
+Name: res/drawable-hdpi/icon_features_1_gray.png
+SHA1-Digest: sM61UEBPGrPEHrny+fT9RO9ojpo=
+
+Name: res/raw/kis_71883.html
+SHA1-Digest: MgMKXTamSjOaAjWkY6DJeEYXvQs=
+
+Name: res/raw-ru/kis_71879.html
+SHA1-Digest: yz41wzloDzH5hTXOsSkWWQi0R4E=
+
+Name: res/layout/alert_dialog_user_action.xml
+SHA1-Digest: P1UX4hTB2lVsB04HCRzEzGi3dgo=
+
+Name: res/drawable-nodpi/ico_renew_70.png
+SHA1-Digest: RUwIp2MFGAUGOc9LtJiRBb8snkQ=
+
+Name: res/layout/kts_agreement_header.xml
+SHA1-Digest: pA6c101ID7T082yLKFo7RpegfAs=
+
+Name: res/raw-de/kis_61347.html
+SHA1-Digest: JuvmgOvC18yk2aJoy11ovzDvsN4=
+
+Name: res/raw-it/kis_71797.html
+SHA1-Digest: f/XpY+Czt4P8zfnzsiJI/SaGAYI=
+
+Name: res/raw-it/kis_71840.html
+SHA1-Digest: 86regs0vocaDdIYYrxwjQrddDgk=
+
+Name: res/raw-es-US/kis_71881.html
+SHA1-Digest: WRe+p+mMm56FfYAQFIaT9CrzxQo=
+
+Name: res/drawable-mdpi/kis_radiobutton_on_disabled_holo_light.png
+SHA1-Digest: +srzyrE48kf2j5s3FudncXZQRRE=
+
+Name: res/raw-es/kis_71853.html
+SHA1-Digest: /bN1V8ZBdVYYqHVhUMjn8O+xH0M=
+
+Name: res/raw-es/kis_71871.html
+SHA1-Digest: zxeK5+y6vbWBI95OM7OyiZL+RdI=
+
+Name: res/raw-it/kis_71782.html
+SHA1-Digest: 2s+liwRfOrBhaKr5YfKOlcGMacM=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: yL80HsGU0wkqY/ZJfsRo3K+4Gj4=
+
+Name: res/raw-es-US/kis_71888.html
+SHA1-Digest: ifaJEb6nwpramw1Rs5fJYScQH4A=
+
+Name: res/raw-de/kis_71884.html
+SHA1-Digest: +Bh4S7VrYKaVZfaqiD2OiIXbVHU=
+
+Name: res/raw-it/kis_71860.html
+SHA1-Digest: DNJCZIPFUV2jzYRN2uNTb55CFDc=
+
+Name: res/drawable-hdpi/free2.png
+SHA1-Digest: tYO73uenQg8sblBHzumjF7e0Xq0=
+
+Name: res/drawable/ico_contact_30.png
+SHA1-Digest: Qz7sTosEVXBKbLW5bKwsvYZmKFo=
+
+Name: res/raw-es/permission_denied_counterfeit.html
+SHA1-Digest: 3NtTDq2zsm/a0uCQDyIBC3phaKw=
+
+Name: res/layout/wizard_agreement_kts.xml
+SHA1-Digest: Bis0uqeroEUUtvOGFqlhalDsUIw=
+
+Name: res/raw-de/kis_71846.html
+SHA1-Digest: s533dAvy5K7QvDXxHdWsQL/p8kw=
+
+Name: res/drawable-ldpi/progress_bar.png
+SHA1-Digest: RBfPR84i11RhL5VAH7uzYXY/hKs=
+
+Name: res/raw-fr/kis_71883.html
+SHA1-Digest: mGpjI+AsxqGXkTL60j+JTuUq0WQ=
+
+Name: res/raw-de/kis_71823.html
+SHA1-Digest: pyHFEksaCsvCoGrG9GfMg2KIpfU=
+
+Name: res/raw-de/kis_72800.html
+SHA1-Digest: s1Hzl/dEE1uScBy//oFUEnDWdjk=
+
+Name: res/layout/alert_dialog_select_li_singlechoice.xml
+SHA1-Digest: sIHO38RQVvxSITdYiXb/75gFYKs=
+
+Name: res/raw-es/kis_71812.html
+SHA1-Digest: fKOVMCP6fySiTvvw5jYjdECYcK0=
+
+Name: res/raw-fr/kis_71808.html
+SHA1-Digest: JBvdfP4UxkWB+0hgZSyoem1JtbY=
+
+Name: res/raw-it/kis_71823.html
+SHA1-Digest: m6HyGHqmpjnuoUARfbjPojbWqy8=
+
+Name: res/drawable/kis_menu_button_warning_bg.xml
+SHA1-Digest: 0Q0vTm0KGhXMP/TuoSNAiK9x/OQ=
+
+Name: res/raw-es/kis_71862.html
+SHA1-Digest: bOGvDDOH1u0o/k4V6da238Rmf1k=
+
+Name: res/raw-it/kis_78739.html
+SHA1-Digest: C74CXaBbjmd8sRTXgjFGG34EmtQ=
+
+Name: res/drawable-hdpi/arrow_left.png
+SHA1-Digest: VQiV/hNS9ZfdHMBi6JU5RCqh1T4=
+
+Name: res/drawable/kms_ksn_connect.png
+SHA1-Digest: yMl0TjuzNP3gPCvwm4ewIKWb5HY=
+
+Name: res/raw-pt/kis_61373.html
+SHA1-Digest: V/iT3QyQDNTTHnoXpsQDHUY8dOM=
+
+Name: res/raw-it/kis_71876.html
+SHA1-Digest: wetaKB9tpGgkRJH1i0otOvklg1Y=
+
+Name: res/layout/phone_number.xml
+SHA1-Digest: OH81HovFXEU0e5IFWFZTSmluS/c=
+
+Name: res/drawable-nodpi/settings_group_call_white.png
+SHA1-Digest: xn+TRxUMGTYLAlVouhpTaiPkXyk=
+
+Name: res/layout/send_command_info.xml
+SHA1-Digest: yJ8n55yeLrpRntS6VSu4SDIKz8k=
+
+Name: res/raw-fr/kis_59757.html
+SHA1-Digest: ykpg4V9oHj1f0QBLDdSQFjVj8kY=
+
+Name: res/drawable-hdpi/kis_checkbox_on_disabled_holo_light.png
+SHA1-Digest: 0pW2qaeo/EsvKuavP6GTkttJBfI=
+
+Name: res/raw-it/kis_71825.html
+SHA1-Digest: 6zPCb7Z/M2Zldr5ECUzsoMNCITg=
+
+Name: res/raw-es/kis_71880.html
+SHA1-Digest: o2woq3JWf7UB5/tbgXYJDMVaQfc=
+
+Name: res/drawable-nodpi/tablet_premium_bg.png
+SHA1-Digest: HujvLlOfrvO6o/PcOeSTEcjuqQ8=
+
+Name: res/layout/kis_activity_main_footer.xml
+SHA1-Digest: 2L5SgMolMtP24w5/H2OsAUujBFg=
+
+Name: res/raw-de/kis_71803.html
+SHA1-Digest: zbyhbt9GtutjITtc3euWAyQE6MQ=
+
+Name: res/menu/kms_menu_quarantine.xml
+SHA1-Digest: qbAaWUZJv/7qFob/ffh6s2I3XhE=
+
+Name: res/raw-de/kis_71831.html
+SHA1-Digest: +p5fknBZcLKNAL+m6nSVi084vzQ=
+
+Name: res/raw-pt/kis_71794.html
+SHA1-Digest: 7OBnUKvyHRxtkb8GxcokwVWWPCY=
+
+Name: res/layout/db_info_panel.xml
+SHA1-Digest: Jv1wgaesre36/YuP1/1OYKEkpuM=
+
+Name: res/raw-ru/kis_71899.html
+SHA1-Digest: YTVhmgi9b8i7XmFoSQ7UYfs7qqk=
+
+Name: res/layout/wizard_final_kts_ucp.xml
+SHA1-Digest: bxkOGS+B8y4qL3XdexGATgHNI1Q=
+
+Name: res/raw-fr/kis_78739.html
+SHA1-Digest: a7XdPymx7KhcgGsF6rmkWUHuJBw=
+
+Name: res/drawable/kts_button.xml
+SHA1-Digest: ialZ61LZOD8Lgo09eMvL3Hw0WQA=
+
+Name: res/drawable/button_enter_normal.9.png
+SHA1-Digest: 05wjI0TrCVCgxNGVJ7yVyvipz/o=
+
+Name: res/drawable-xhdpi/icon_features_2_gray.png
+SHA1-Digest: JUtNEepKSLAieULrC/vxkzjJNEg=
+
+Name: res/raw-ru/kis_71605.html
+SHA1-Digest: ZZxNQRs3xbBncbvHK8acGJLf26k=
+
+Name: assets/main_window_at_glance_pt.png
+SHA1-Digest: XzIuAAYkx0XfZMoD4L9moiAPGKI=
+
+Name: res/drawable-nodpi/settings_main_info_ico.PNG
+SHA1-Digest: 1K3LKxgHsUiqaMWaiTQVmm4wRxA=
+
+Name: res/drawable-xhdpi/kis_radiobutton_off_pressed_holo_light.png
+SHA1-Digest: 3U/4CNC/EVfJ0S06rP0iopbvyYQ=
+
+Name: res/drawable/round_disabled.png
+SHA1-Digest: qLyRH1qQMtIaT1dvO7q4cOylUL0=
+
+Name: res/layout/kis_li_setting_dropdown.xml
+SHA1-Digest: Wm9V3DzDe8Xy0PJ42kS4EPYNK7A=
+
+Name: res/raw-es/kis_71847.html
+SHA1-Digest: 76Aa7G3ozla21lo/2dYQZRqXN+U=
+
+Name: res/raw-es/kis_71826.html
+SHA1-Digest: WMWZJ0t3aSZRQV9s/jMQrzkpWwo=
+
+Name: res/drawable-nodpi/shield_orangefill.png
+SHA1-Digest: +em9yU1nJa/iLF7jrAMCZDRYHJ0=
+
+Name: res/raw-it/permission_denied.html
+SHA1-Digest: l9AJasdUTpFg7EAuAdAYx98wkhk=
+
+Name: res/raw-pt/kis_71879.html
+SHA1-Digest: 5b5NebyXzG6AKtNjFSIelmn1gyM=
+
+Name: res/raw-es-US/kis_71833.html
+SHA1-Digest: /MEO2nINZjyiOAcZv3g9dDObhlw=
+
+Name: res/drawable-xhdpi/kis_radiobutton_off_disabled_holo_light.png
+SHA1-Digest: C/hSG0F/yExS7Lsd1C43QmwMQ9A=
+
+Name: res/raw-fr/kis_71925.html
+SHA1-Digest: s387qOeWMjw6F8Sn8C0bJ5F49Ns=
+
+Name: res/layout/dialog_kitkat_warning.xml
+SHA1-Digest: 34ojlaaKAQJ+gpD/9jJXNNZT3/g=
+
+Name: res/drawable/ico_k_25_disabled.png
+SHA1-Digest: OmVOLiddKRPabvwicxvzR2wHIzk=
+
+Name: res/raw-pt/kis_71859.html
+SHA1-Digest: WToc6ze5G+HLTD602UGSXz48fLk=
+
+Name: res/drawable/kis_dialog_user_action_button_yes_icon.xml
+SHA1-Digest: OM4afx5jqP3qvcSICiECaseL/mk=
+
+Name: res/raw-ru/kis_71843.html
+SHA1-Digest: dThHnvThH+7EuVvHwScr4+OLfjo=
+
+Name: res/drawable-hdpi/wizard_activation_codes_arrow.png
+SHA1-Digest: eaiWK0JZm5Xg6Gpmwte/VchuWQg=
+
+Name: res/raw-es-US/kis_71875.html
+SHA1-Digest: 3LIlp5YYvpYBvSUhNeUxH2NrGBs=
+
+Name: res/raw-ru/kis_71880.html
+SHA1-Digest: ed/doXwsVr7w8H+R9FhpoClChPI=
+
+Name: res/raw-es/kis_61347.html
+SHA1-Digest: lnqv8XhlZF4hXgMPysBDIeApQDY=
+
+Name: res/raw-es/kis_71840.html
+SHA1-Digest: mB27fiYdef3JyaKFHBnf9LazGDg=
+
+Name: res/raw-pt/kis_59757.html
+SHA1-Digest: yFutg9Uk3SLy5hATRhc1xQ8aCBo=
+
+Name: res/raw/infected.wav
+SHA1-Digest: MY3FcyTGB5IHg4r7IIR4n0Auy7c=
+
+Name: res/layout/kms_info_screen_layout.xml
+SHA1-Digest: juTZWfC1F96+Nel+PdLWKOIwmSk=
+
+Name: res/drawable-nodpi/ico_unclock_btn.PNG
+SHA1-Digest: JCQH+/kYAAVryaC3P1U15SufVow=
+
+Name: res/layout/kms_settings_account_info.xml
+SHA1-Digest: 2k6PUdE263yjSsUz+OUWjCK6piw=
+
+Name: res/raw-es/kis_71899.html
+SHA1-Digest: D3YM6Mr9H/FQsxSpiiWJroozhJg=
+
+Name: res/drawable-nodpi/settings_detail_help_btn_selector.xml
+SHA1-Digest: rB/N01WDCIReHm4FftP0bqSiThk=
+
+Name: res/layout/wizard_final_kts.xml
+SHA1-Digest: xrmkD8vr2etWXETwkmEkpc2g7zM=
+
+Name: res/raw-es-US/kis_71890.html
+SHA1-Digest: hPuxW9T3qAVgqnn1KHl/QG0vPrA=
+
+Name: res/raw-es-US/kis_79376.html
+SHA1-Digest: W7SB6ya7luJn2Xax9oFuAE+cAPY=
+
+Name: res/drawable-nodpi/button_big_normal.9.png
+SHA1-Digest: ESS49d+D1vUu2YJ8i234mYI+Tnk=
+
+Name: ae/com/sun/xml/bind/v2/runtime/reflect/Messages_pt_BR.properties
+SHA1-Digest: IdoxpeIEoTNz46qS1sgYJ5intj8=
+
+Name: res/anim/slide_out_to_right.xml
+SHA1-Digest: 8lKHZCldlqd/KdSgT9bfJG1LL2s=
+
+Name: assets/status_window_ru.png
+SHA1-Digest: r5Mx3Tuerj6wtao9aoCeHNgbT+0=
+
+Name: res/raw-es/kis_71864.html
+SHA1-Digest: UM6yHJ+tgmEaxHmR9r7mgCCJ/Yo=
+
+Name: res/drawable-nodpi/settings_group_shield_green.png
+SHA1-Digest: NB/IActfn6NKEXSZe7kT6TNbOfs=
+
+Name: ae/com/sun/xml/bind/v2/Messages_zh_TW.properties
+SHA1-Digest: pRywyw/GrZpvVDih3NotLKqne74=
+
+Name: res/layout/kis_activity_header.xml
+SHA1-Digest: 5cH5swFxadua4h2KbjbvM7Xt5E4=
+
+Name: res/raw-ru/kis_71868.html
+SHA1-Digest: 22w37QpPR9xDsiHcfr9Q2AZlEQE=
+
+Name: res/raw-ru/kis_71777.html
+SHA1-Digest: 87IYpd9Hb+nKB9aZ4Wayfi9l/1w=
+
+Name: res/raw-ru/kis_71835.html
+SHA1-Digest: hw1sUv7N0NrRn6z/vqe78IALlTI=
+
+Name: res/layout/dialog_scan_result.xml
+SHA1-Digest: klIkoOASXfwdrI7h8pFBeeqqJWI=
+
+Name: res/drawable/agreement_button_normal.xml
+SHA1-Digest: ItSfPlt2X0B3sqx/pWyFt1F38yo=
+
+Name: res/raw-es/kis_71926.html
+SHA1-Digest: xOKo+VAWlrySO16fV3EOXWpfvwo=
+
+Name: ae/com/sun/xml/bind/v2/runtime/unmarshaller/Messages_it.properti
+ es
+SHA1-Digest: s5T5P0pKod8ivTmmHCXKaX1Gfts=
+
+Name: assets/permission_denied.html
+SHA1-Digest: vxemD82+IQEQDfdhr0nTxr/fH3s=
+
+Name: res/raw-de/kis_79898.html
+SHA1-Digest: 6TdOCdP9cLXd8BD31JNRVVhgxJc=
+
+Name: res/raw-ru/kis_71826.html
+SHA1-Digest: l5B0s//25YcBLu4q4N7v/nv/8Bs=
+
+Name: res/raw-es-US/kis_71860.html
+SHA1-Digest: tYTLjIvD82TEGXUavY4QBcCASmo=
+
+Name: res/raw-fr/kis_61355.html
+SHA1-Digest: 551kMiIm/OlxKZ3hdkFmxMapzzs=
+
+Name: res/raw-fr/kis_71777.html
+SHA1-Digest: Kb4zURwzK38L+yW22jCDhN4zWvA=
+
+Name: ae/com/sun/xml/bind/v2/schemagen/Messages_ko.properties
+SHA1-Digest: 57l50Uwjdez2i7QBrejRWYoSesA=
+
+Name: res/raw-pt/license.html
+SHA1-Digest: WHWAu9p1PJmXkNCsu3rdGHf3JRI=
+
+Name: res/raw-de/kis_71828.html
+SHA1-Digest: +YVqJ/Z8oJMIqzg/4qhnYIeJYTU=
+
+Name: res/drawable/kts_dialog_footer.xml
+SHA1-Digest: wEoyBHA7tXXwYzc+BDmZ51bz3Fs=
+
+Name: res/drawable-xhdpi/button_green_hover_png_kts.9.png
+SHA1-Digest: d7GbdMXW2QtxhcNdhushx1KVzw4=
+
+Name: res/raw/kis_71927.html
+SHA1-Digest: Rn2xjRXm8j+WpYTs/6tdjOqlfIQ=
+
+Name: res/raw/index.html
+SHA1-Digest: X5R1VkHlNhAoy+o/Pm6MLMUtiGw=
+
+Name: res/drawable/button_press_png.9.png
+SHA1-Digest: itA8OZzNaGSZ3JoecWYVz8kaS7s=
+
+Name: res/layout/agreement_webview.xml
+SHA1-Digest: 7SpcPtVpD4yvBColNO/RnkpzAVc=
+
+Name: res/raw-pt/permission_denied_counterfeit.html
+SHA1-Digest: fVDhMjlIj/rXm8NkwvqCGNbj/mM=
+
+Name: res/raw-it/kis_71791.html
+SHA1-Digest: aAqVlD9RdOVAcHA/ANGtcp7gNfA=
+
+Name: res/raw-fr/kis_71838.html
+SHA1-Digest: 4eGb9c68d6WkBPOpLyXxY1FaYTk=
+
+Name: org/codehaus/jackson/map/VERSION.txt
+SHA1-Digest: BsOo8+D0LAkLCFJH0BVt3tXSzts=
+
+Name: res/raw-it/kis_71871.html
+SHA1-Digest: tvgc8nlW+OfSq/9Cad/3RcWI7ts=
+
+Name: res/drawable-xhdpi/kis_switch_thumb_holo_light.9.png
+SHA1-Digest: osOTmv/WoEdr5e8LLj5PylAvnc8=
+
+Name: res/raw-ru/kis_71873.html
+SHA1-Digest: I5xLGx9/vkDa4l+h7PFsc5r8zzU=
+
+Name: res/drawable-hdpi/kis_checkbox_off_disabled_holo_light.png
+SHA1-Digest: SQU83EspWPYmUAu/q10Gmiux4JA=
+
+Name: res/raw-es/kis_79376.html
+SHA1-Digest: 7RyELSqdQtZJbC+O4yuLN/HBBOY=
+
+Name: res/drawable/ico_clear_39_light.png
+SHA1-Digest: 2ZjmIK4EV1OE93PYxXXRLFtUyjA=
+
+Name: res/drawable-nodpi/shield_warning.png
+SHA1-Digest: 8CvpkhSjHCJkWzA3tQncaQ+WILI=
+
+Name: res/raw-fr/kis_71892.html
+SHA1-Digest: pAoKOeMz2Eek3gUmv8JZP83Brwo=
+
+Name: res/drawable-xhdpi/button_blue_disable_png_kts.9.png
+SHA1-Digest: tbdS8LUL1Jvk0IhWCbAXtKEwyYo=
+
+Name: res/raw-es-US/kis_71826.html
+SHA1-Digest: Z6+hOcCS0zkMUQE7yn72NJtgD58=
+
+Name: res/raw-it/kis_79898.html
+SHA1-Digest: 5Zeyyc605n9aBlf2Had8tUmAqPc=
+
+Name: res/drawable-nodpi/shield_error.png
+SHA1-Digest: QoWiyMp+v0dq4UzswaAEO+XrBYo=
+
+Name: res/raw/kis_79376.html
+SHA1-Digest: NqU8C1O0JxuEfS79FgNhlxIwcgE=
+
+Name: res/raw/local_client.jks
+SHA1-Digest: HVaiUefNeaxyOZyB+8FNq/oFPh0=
+
+Name: lib/armeabi/libdns_client.so
+SHA1-Digest: DKN8Cn/NHiCt1jfIN4njViUDtR8=
+
+Name: res/layout/wizard_activation_code_item.xml
+SHA1-Digest: rXgydZD0uJAIWpNqDB4j1LeD2c4=
+
+Name: res/drawable/kts_icon.png
+SHA1-Digest: 0D0VSWdfYyERHgyMgMSxMmMM7zg=
+
+Name: res/anim/slide_in_from_left.xml
+SHA1-Digest: BXf5ks7zzRFbmerTQfqvUUnKads=
+
+Name: res/layout/license_info_kts.xml
+SHA1-Digest: bnVQNk0Gf+3LG48QQhq5FAZghZ0=
+
+Name: res/raw-it/kis_71778.html
+SHA1-Digest: +jiuD+aHtxMGmNpzseQJIqNAc0g=
+
+Name: res/drawable-xhdpi/kis_menu_button_safe_browser_disabled.png
+SHA1-Digest: k/BrNvpywq4xAnVt8rqsXWqzkNA=
+
+Name: res/raw-ru/kis_71874.html
+SHA1-Digest: lYH2mtGoWhbKdlSfdiR6SoHaVbU=
+
+Name: res/layout/kts_renewal_form_activity.xml
+SHA1-Digest: HxZ89sZ5tbLrlkP7UAK58L7H360=
+
+Name: res/raw-ru/kis_71794.html
+SHA1-Digest: HlUVxU9w5zmCE6b5JS4FuqrmiVk=
+
+Name: res/drawable-mdpi/license_ok.png
+SHA1-Digest: uC+0QJRl9cBFrlTgFjXUZCrzPWs=
+
+Name: res/raw-ru/kis_71781.html
+SHA1-Digest: BTBcxO0BH1uPFbX0OFL6usBiyn8=
+
+Name: res/raw-de/kis_71891.html
+SHA1-Digest: 9wlvDhJ2cVnP/zUJT2LB+dAgtEs=
+
+Name: lib/armeabi/libscan_kavd_pie.so
+SHA1-Digest: 8Tjy6TECvITWv8Q4+2yK8oN86X8=
+
+Name: res/drawable/kis_checkbox_holo_light.xml
+SHA1-Digest: ECccEyCtn3ZrZJO8nnh1lTDj2nc=
+
+Name: assets/status_window_sv.png
+SHA1-Digest: iZhwxuSn317dmVzD/r+aTNQGm30=
+
+Name: res/drawable-mdpi/kis_radiobutton_on_disabled_focused_holo_light
+ .png
+SHA1-Digest: IQhebrJxxF5CEMbhyStA4p5ZIEk=
+
+Name: res/raw-es-US/kis_71816.html
+SHA1-Digest: MNMYh8TRG1Q6AklReWdqutou9FE=
+
+Name: res/drawable-hdpi/kis_radiobutton_off_holo_light.png
+SHA1-Digest: R0w0ik3glRbAirLKyCESXQRIA6Q=
+
+Name: ae/com/sun/xml/bind/unmarshaller/Messages_zh_CN.properties
+SHA1-Digest: 0wCqzLaRgrPGlebPlP2MAqfYWlg=
+
+Name: res/raw-es/kis_71605.html
+SHA1-Digest: DBQIyMpQFu+Fdnhx7yIFaUtnLA4=
+
+Name: res/drawable-hdpi/kis_radiobutton_on_pressed_holo_light.png
+SHA1-Digest: AGhkNR1r3JsOF2Ske14eSBWZ/ao=
+
+Name: res/raw/license.html
+SHA1-Digest: hKo8PGLwbnwacc5poOWfSX7DFS4=
+
+Name: assets/swipe-panel_es-rUS.png
+SHA1-Digest: 8p0NEWFXeSBBgdVNwwTkNxyS0As=
+
+Name: res/raw/kis_71816.html
+SHA1-Digest: YsAgMAykFIlXJRkETjqLO4kqEHU=
+
+Name: assets/call_text_filter.png
+SHA1-Digest: 2vChHHGj5Hcno7GOmfNdiCgfV9o=
+
+Name: res/anim/circle_rotation.xml
+SHA1-Digest: W40PzoHXI2rieNHJW0gMhvvRhEs=
+
+Name: res/raw-fr/kis_71823.html
+SHA1-Digest: jIzB+9oUYsuesrCJGdLK14489QU=
+
+Name: ae/com/sun/xml/bind/v2/runtime/property/Messages_zh_CN.propertie
+ s
+SHA1-Digest: ETDoNLSBb9lOH99v6fG8TakJoBw=
+
+Name: res/raw-ru/kis_71883.html
+SHA1-Digest: Vb423GL/Z0SXluhMX/gkQ2yEXbU=
+
+Name: res/layout/user_action_item.xml
+SHA1-Digest: gd411Yt2xdNdHo+5jl1AnsF84dY=
+
+Name: res/raw-pt/privacy.html
+SHA1-Digest: ZjZx7QaAS8OCXEXnNFuGC9pCWnA=
+
+Name: res/raw-fr/kis_71814.html
+SHA1-Digest: v+JNuIAxOTEpLj9FokQ9vwcYoAs=
+
+Name: res/drawable/tab_hover.9.png
+SHA1-Digest: iHi+n2/nEP2XoYR9vvFwo/wrv5M=
+
+Name: assets/shield.png
+SHA1-Digest: FF/UO6Im5RDelltdwyYHP2kjfrs=
+
+Name: res/drawable-nodpi/settings_group_selector.xml
+SHA1-Digest: UtqKHXt9F3EFUsYParGRBvJnMDI=
+
+Name: res/raw-ru/kis_71854.html
+SHA1-Digest: 52gebARlLIltoZnYsWLHpuOrNbM=
+
+Name: res/layout/about_kts.xml
+SHA1-Digest: 2ZxG8B7A9kQUyAYfqdWCwGq1Lk8=
+
+Name: res/raw-pt/kis_71605.html
+SHA1-Digest: PNVPxztpndO465V+io1M1iJO/Ps=
+
+Name: res/raw-de/kis_71808.html
+SHA1-Digest: hxwVDc7wnR9bBQYSu0LORJuOC4Y=
+
+Name: res/layout/enter_data_kts.xml
+SHA1-Digest: ggV9vfs8xDBu0ILRaOevQ8aTT9I=
+
+Name: lib/armeabi-v7a/libdns_client.so
+SHA1-Digest: BK+BWQtIaMelBTAA4gySzMM95rY=
+
+Name: res/raw-de/kis_71802.html
+SHA1-Digest: ewrXmKDSKInp7h1qPs8lAEIzrR0=
+
+Name: res/layout/contacts_item.xml
+SHA1-Digest: AhQV3aPibJoidsK3NfFjv4Ti+IY=
+
+Name: res/layout/kis_settings_setup_panel.xml
+SHA1-Digest: 22XICwKwTK3vszAfD2zWKgmA1jM=
+
+Name: res/raw-de/kis_71880.html
+SHA1-Digest: h77r24uLq+bGjBkfTY09jM0BpIY=
+
+Name: res/raw-es/kis_71796.html
+SHA1-Digest: f9PQTg7U4cMA0BgieH06w582qAs=
+
+Name: res/layout/kts_settings_detail_checkbox.xml
+SHA1-Digest: L6TbcKM+Q9ZsOSp2B8DmQZ7t5C4=
+
+Name: res/raw-fr/kis_72505.html
+SHA1-Digest: C8KSr7cuL9rBuOiEvZqyrHZhoiM=
+
+Name: res/raw-es/kis_71782.html
+SHA1-Digest: ylo9k6u/YhGntoJOchgFYQGw058=
+
+Name: res/raw-es/kis_71869.html
+SHA1-Digest: EV1c93sZlHVkiZ2WHMArwSeOIsc=
+
+Name: res/drawable-xhdpi/kis_radiobutton_off_disabled_focused_holo_lig
+ ht.png
+SHA1-Digest: Cx6CYUVY9gHWWP2f82on2cSEfPE=
+
+Name: res/drawable/ico_missed_sms_25.png
+SHA1-Digest: b1aMKBFMa3pBQuh3uu/DhhymLzI=
+
+Name: res/raw-pt/kis_71844.html
+SHA1-Digest: DGAXKHy4UkS1EnLoiax1BfnFqL0=
+
+Name: res/raw-pt/kis_72505.html
+SHA1-Digest: cHZl4CwZY2ELhpXh4dE6tJ90QSI=
+
+Name: res/anim/main_detail_animation.xml
+SHA1-Digest: 8IvTy1LASiBVUcgQnrbm98p/UrM=
+
+Name: res/drawable/kis_dialog_button_pressed.xml
+SHA1-Digest: mFE8viD9KRlsEQeLeFHJfSAjQjU=
+
+Name: res/drawable-mdpi/kis_radiobutton_on_pressed_holo_light.png
+SHA1-Digest: +UtKF428L71OGzLpGitW6b06rE8=
+
+Name: assets/blocks/b-btns/download.png
+SHA1-Digest: 3HiNo7S680/yicE/dnXwJe9jBnI=
+
+Name: res/raw-de/kis_71882.html
+SHA1-Digest: EADmptYWfN58rMs8Icm/R5y1muM=
+
+Name: res/raw-pt/kis_71876.html
+SHA1-Digest: b7R46WDd1DuHIyjSQGn1DlGSc7c=
+
+Name: assets/swipe-panel_de.png
+SHA1-Digest: c9EHf2AmIjNwFhGn0dwy4ric8dM=
+
+Name: res/drawable-nodpi/ico_buy_70.png
+SHA1-Digest: lpfse1jqRnEPlWDtGet6DsoKmAI=
+
+Name: res/raw-it/kis_71832.html
+SHA1-Digest: iqdG5wukHdLqxI2pOxAIJPid+5I=
+
+Name: res/drawable-mdpi/kis_switch_thumb_pressed_holo_light.9.png
+SHA1-Digest: RJGKeZf7iPUOTuBBfV3EFYFqk2E=
+
+Name: res/raw-pt/kis_71924.html
+SHA1-Digest: IEwFphINbtfcRtoEZYfTxcaQwFY=
+
+Name: res/drawable-nodpi/settings_top_btn_selector.xml
+SHA1-Digest: Xx7z7cHkJC+2LZywbbitnlx2wI0=
+
+Name: res/layout/kts_settings_detail_togglebox.xml
+SHA1-Digest: zQbPk61ySe/hw6w8xCQDSX0NRAY=
+
+Name: res/raw/kis_71777.html
+SHA1-Digest: JVC+CUPvaye/zR1DywdiCFCmPys=
+
+Name: res/layout/kms_lock_screen_new_recovery.xml
+SHA1-Digest: FfQwMMCgfKXUk/bXvWn6ogzXoIE=
+
+Name: ae/com/sun/xml/bind/v2/model/impl/Messages_es.properties
+SHA1-Digest: jA/BT9ONWKKTbz4BurykfX3IF2s=
+
+Name: res/drawable/gradient_separator.xml
+SHA1-Digest: I7UMIUzSBzLqDfkU8rvp9G0av/w=
+
+Name: res/layout/kis_fragment_menu_bubble.xml
+SHA1-Digest: asBSzkpuIYAcTtN1FN+RPxKHhE4=
+
+Name: res/layout/call_log.xml
+SHA1-Digest: YgIhAkOx9G4DcBCHXj/nYYsLtMs=
+
+Name: res/drawable-mdpi/star.png
+SHA1-Digest: cqfgyWWTkMxfrSYT4LvXosCaDKg=
+
+Name: res/drawable-nodpi/settings_detail_checkbox_enabled_off.png
+SHA1-Digest: 9bw5n5P5ABQsFP4vQLdeJ2WpnhM=
+
+Name: res/drawable/drop_button.xml
+SHA1-Digest: cdTMRsTqglAaCny/X2Scw1qt//s=
+
+Name: ae/com/sun/xml/bind/v2/runtime/property/Messages_ko.properties
+SHA1-Digest: O7dchOzX772suhkvp7PyHW24QsM=
+
+Name: res/layout/antispam_item.xml
+SHA1-Digest: UBytjMnlqWU7bEBdF/EFgCUJiSA=
+
+Name: res/layout/alert_dialog_select_li_singlechoice_with_subtitle.xml
+SHA1-Digest: aW/fpkuWPhrTLMwsxhpCJoXB87E=
+
+Name: assets/status_window_tr.png
+SHA1-Digest: MQpNL9X4XCMxjPkpK1s3+hslnGE=
+
+Name: res/raw-pt/kis_71868.html
+SHA1-Digest: oqfJFWS7HkUlzP60VYbZO9d3ECQ=
+
+Name: res/raw-pt/kis_71783.html
+SHA1-Digest: PhaV9P1uBtM+fI31qboRbYm7u5Y=
+
+Name: res/raw-fr/kis_71861.html
+SHA1-Digest: id0iWJ7+7CCGd+12LDwvkBx1Ng4=
+
+Name: res/layout/kis_li_issue_title.xml
+SHA1-Digest: zYyOz6hoZvNlDMTYBc7K47ILRQM=
+
+Name: res/raw-de/kis_71783.html
+SHA1-Digest: DWUC8EauWcPfnr0JaAt6BL3eF00=
+
+Name: res/raw-it/kis_71793.html
+SHA1-Digest: 9B+g8tvU33noY//V+XreGgqNe+8=
+
+Name: assets/ico_k_25.png
+SHA1-Digest: TIX+LReEXLs+LhrL+9ijjYxCJ50=
+
+Name: assets/pp_settings.png
+SHA1-Digest: UVY8AGVRTqgfexRXIjdyHWRV9ko=
+
+Name: res/drawable/dark_background.9.png
+SHA1-Digest: v+NDQSM1llFT62uASd0uBz2GyVc=
+
+Name: assets/main_window_at_glance_it.png
+SHA1-Digest: jlSmm5oNq9sbDkanEeR/CrDFPV8=
+
+Name: res/layout/kts_settings_detail_clickitem.xml
+SHA1-Digest: ylSrrgLVfAyg8JPT6wujYIoYajs=
+
+Name: res/raw-es-US/kis_71775.html
+SHA1-Digest: 8tUzU+/w1lReC0es10guVBVVlr8=
+
+Name: res/raw-de/kis_72358.html
+SHA1-Digest: qOcXZe/xTDREgX+t10oBxOrfUaA=
+
+Name: res/raw-fr/kis_71810.html
+SHA1-Digest: jSE8JFomChIDMpByW7Ojp4PZiEk=
+
+Name: res/raw-fr/kis_71890.html
+SHA1-Digest: vCBXSpnx9OS5NUHXy7hcINxbvfY=
+
+Name: assets/main_window_at_glance_da.png
+SHA1-Digest: 9ruF62pd+1rkEYUc7Oc02kIrqMM=
+
+Name: ae/com/sun/xml/bind/v2/Messages_pt_BR.properties
+SHA1-Digest: CO3QvjNBkhi39eokv96/k7icB5U=
+
+Name: res/drawable/kts_ico_phone_message_30_disabled.png
+SHA1-Digest: 0NB1a77iBjO4jVtkXc4VmDBTG4U=
+
+Name: res/drawable/tab_normal.9.png
+SHA1-Digest: mIBR6cLB1Rq5BHsH/JWnP4pq5Gg=
+
+Name: res/drawable-nodpi/settings_detail_checkbox.xml
+SHA1-Digest: XBlNJq8Y56XNa3M6YAWIo7bzjUw=
+
+Name: res/layout/wizard_device_admin_kts.xml
+SHA1-Digest: F9zAKFMTgWoXL1UZ2YwMfX0tYPE=
+
+Name: res/raw-es-US/kis_71605.html
+SHA1-Digest: 6idY4H3TjgsuZt7tW7RbohrpLSM=
+
+Name: assets/tagmanager/GTM-5TW933
+SHA1-Digest: txYTrbRvqDe0SZzh63VoLjgCDE0=
+
+Name: res/raw-ru/kis_71867.html
+SHA1-Digest: hQFgih3Cy5YjIgMDhfjZOF3efN8=
+
+Name: res/raw/kis_71853.html
+SHA1-Digest: iiJGwogtR4d8a5seXS9nOc8glr4=
+
+Name: res/drawable/ico_update_running_30.png
+SHA1-Digest: +0wPfaT5Ub6ZER0X5FO3sf+Mfa8=
+
+Name: res/layout/dialog_select_folder_item.xml
+SHA1-Digest: FfP/v2kwatCg88goFbEiLqGUU6M=
+
+Name: res/raw-it/kis_71927.html
+SHA1-Digest: nIppzMXodo5NzunvMGX8AT9d4Rs=
+
+Name: res/raw-pt/kis_71834.html
+SHA1-Digest: 6K7z53JAGd81AWfELabbf3T4U9o=
+
+Name: res/raw-es/kis_71833.html
+SHA1-Digest: v6h2G/rzM0ZM9vgiqug0/ndbofM=
+
+Name: res/raw/kis_71876.html
+SHA1-Digest: 2AKykqYn7a2yEgL6wozlZt3onZg=
+
+Name: ae/com/sun/xml/bind/v2/schemagen/Messages_es.properties
+SHA1-Digest: d+TOomsThMJX8VXiUR20S7Na+FU=
+
+Name: res/drawable/f_left_nofocus.9.png
+SHA1-Digest: P6kiYI/MrJBnRmiuKh+rWBELYe8=
+
+Name: res/raw-ru/kis_71842.html
+SHA1-Digest: 5PcrU74dx06TYuYbzsUSedQLYjs=
+
+Name: res/drawable/button_png_kts.9.png
+SHA1-Digest: UnSjIVq2zju/nuRuR+pVpjObJg0=
+
+Name: res/raw-fr/kis_71801.html
+SHA1-Digest: FnFNBmnggOtbEYXmqAJpT8E0X6g=
+
+Name: res/raw-ru/kis_71849.html
+SHA1-Digest: kZ953Z/Sq91XxjLAYAc6lldw8dg=
+
+Name: res/raw/kis_71850.html
+SHA1-Digest: mt6il41hKA+vyg7dU4dMuGdtN+U=
+
+Name: ae/com/sun/xml/bind/api/Messages_ko.properties
+SHA1-Digest: xyKMkbjajI0C++xlVmrlyUVP/W0=
+
+Name: res/raw-de/kis_71867.html
+SHA1-Digest: mo5lgSgyzGaqrw4iAbztUxpmMrM=
+
+Name: res/raw-fr/kis_71875.html
+SHA1-Digest: wiNKLk5qAYcQJCZFkxhedtLvVeg=
+
+Name: mimetypes.default
+SHA1-Digest: FcRpdgFC9EJbGKuBIYcH9szfAn0=
+
+Name: res/drawable-xhdpi/kis_checkbox_off_focused_holo_light.png
+SHA1-Digest: Q0RbwoPmNKydnIEWoDKiCXDqEKw=
+
+Name: res/raw-de/kis_71875.html
+SHA1-Digest: /XpEJe84kfN/3E/Ztv9aT0Cmw5U=
+
+Name: res/raw-it/kis_71784.html
+SHA1-Digest: KNb5uB2bGuGqWLvzJQxZDgrBX1w=
+
+Name: res/layout/info_activity.xml
+SHA1-Digest: LAeLOaJEe9KZbXihSNqARp9/nyU=
+
+Name: res/raw-es-US/kis_71878.html
+SHA1-Digest: 91X5CX96ASL8Dy7J6hqVSeH0Rec=
+
+Name: res/layout/kis_activity_separator.xml
+SHA1-Digest: 8QneMW1mo4020pVeOAuv1PBrprU=
+
+Name: lib/x86/libapp_services.so
+SHA1-Digest: 1U83wPpHeUD/gVgvqDf+ktkLJ6I=
+
+Name: res/raw/permission_denied.html
+SHA1-Digest: TXbmfE+XGPIddkZ4pPSdfEFaiU0=
+
+Name: res/drawable-nodpi/separator_footer_line1.xml
+SHA1-Digest: CA7jd2+2OtBxpm3bLDknAkJNLuA=
+
+Name: res/raw-ru/kis_71809.html
+SHA1-Digest: MWr38OV333+Mym3OOA2fGCXlwhQ=
+
+Name: res/raw/alarm_notification.wav
+SHA1-Digest: 9Ef4H8XVciBEUMF0roCyhuIEIBo=
+
+Name: res/layout/dlg_header_separator.xml
+SHA1-Digest: QSDkV9O2p85qX43H143RYhpl4gw=
+
+Name: res/raw-es-US/kis_71891.html
+SHA1-Digest: MxOgoT7gOSE6yNeArydNYb0R8Vs=
+
+Name: res/drawable/ico_arrow_go_20.png
+SHA1-Digest: UMIvHD5K6/zJrLfMn06Vusb34+0=
+
+Name: res/drawable-hdpi/kis_menu_button_scan_running.png
+SHA1-Digest: asWUN84PDOrZseH8FUp8vzDpknQ=
+
+Name: res/raw-it/kis_71869.html
+SHA1-Digest: gFuE/5Yb+7R/YEm+AgsC1VfuERI=
+
+Name: res/layout/kis_enter_code_l.xml
+SHA1-Digest: B9cZqmnB0MFKPcxJXaMmQGaOwRM=
+
+Name: res/raw-fr/kis_71775.html
+SHA1-Digest: NTUfRqaLDDRwWixEqtypMJZJyvM=
+
+Name: res/raw-pt/kis_71843.html
+SHA1-Digest: fWFLgzExWwR1iYnmyACrYQmRXDY=
+
+Name: res/raw/kis_71873.html
+SHA1-Digest: pL7dVR0/nPv1sNpT9wG6ysj5SN4=
+
+Name: res/drawable/kis_menu_buttons_background.xml
+SHA1-Digest: Kr+jqJbMv62sh2jvuhN1iJw5byc=
+
+Name: res/raw-ru/kis_71810.html
+SHA1-Digest: ir5K0cHiOc6iS3ug85ldkPXbpys=
+
+Name: res/drawable-mdpi/ico_info2_30.png
+SHA1-Digest: T0G+AZ+wZpff6K9L1NgkCkeYvSI=
+
+Name: res/raw/kis_61355.html
+SHA1-Digest: Tv8RqSSTP4NyrHZerooB2xooIek=
+
+Name: res/layout/kis_dialog_li_switch.xml
+SHA1-Digest: Q97VVCMZIOYseSOBwWuJe2KWNtw=
+
+Name: res/drawable-nodpi/main_view_header.xml
+SHA1-Digest: UKH5LTlW0kyuF0F/E8H8v8z3u2M=
+
+Name: ae/com/sun/xml/bind/marshaller/Messages_de.properties
+SHA1-Digest: X5YMlMTe+VdJLQ++NiRrkP0w6e0=
+
+Name: res/raw-es/kis_71877.html
+SHA1-Digest: SHSRFDrRzYpHyY4Qwu0W+Zh+sPk=
+
+Name: res/raw-pt/kis_71845.html
+SHA1-Digest: gnxryXsEU1wTQpTXbGyDpZdyzag=
+
+Name: res/raw-fr/kis_71816.html
+SHA1-Digest: 1W5slWqNVUWbsFqwQTjDvrdn6lg=
+
+Name: ae/com/sun/xml/bind/v2/schemagen/Messages_pt_BR.properties
+SHA1-Digest: Ia3PoD6hM7lamaNx1PfK5oFucU4=
+
+Name: res/drawable-hdpi/kis_li_issue_ignore.png
+SHA1-Digest: Xw/I2DLBveslMxWmgiH2DpR6oag=
+
+Name: res/drawable-nodpi/settings_detail_button50_pressed.9.png
+SHA1-Digest: fFwpPaqicm1pNds953gRb2s8CLo=
+
+Name: res/layout/kts_settings_detail_caption.xml
+SHA1-Digest: dtGohZRKCC2vHRVA1iQVPod8PYw=
+
+Name: res/raw-ru/kis_71848.html
+SHA1-Digest: k23abivui15U9+mozBmfY3GtmbI=
+
+Name: res/raw/kis_71830.html
+SHA1-Digest: 1WlyVohCB1zN+J0ALz1yA6L/T8g=
+
+Name: res/raw-ru/kis_71783.html
+SHA1-Digest: 8GlJWedjLleqthhZbRA13i9N1Xw=
+
+Name: res/drawable-mdpi/kis_checkbox_off_pressed_holo_light.png
+SHA1-Digest: e6GQaU9Nv0IKnImpquOMyy9yF/0=
+
+Name: res/raw-ru/privacy.html
+SHA1-Digest: zYl65eaD8Tqf1S32EoNUj8itazU=
+
+Name: res/raw-it/kis_71859.html
+SHA1-Digest: Pu1jpfWMqRQrHz8jMkVFfUCMeG4=
+
+Name: res/raw-fr/kis_71783.html
+SHA1-Digest: 3PeE8RLH9yv8j+c+fz+9SB8OTbY=
+
+Name: res/raw-it/kis_61355.html
+SHA1-Digest: zgh7gQyJFLJsY3RgpIXQ6ouYemc=
+
+Name: ae/com/sun/xml/bind/v2/model/annotation/Messages_es.properties
+SHA1-Digest: DWgv6Kd2nlZOLWtEQ54I74otzxo=
+
+Name: assets/status_window_ja.png
+SHA1-Digest: cI5zqLjTDAb2fHz6+kVl+KwN4xA=
+
+Name: res/raw/kis_71810.html
+SHA1-Digest: rXygySa0GevfY1D88ZakTp+bn2Y=
+
+Name: ae/com/sun/xml/bind/unmarshaller/Messages_it.properties
+SHA1-Digest: j4bVssCAYCPojBwqMkTv9M0IOwo=
+
+Name: res/raw-it/kis_71833.html
+SHA1-Digest: 8u1a65AhxtsoFSlrEL0Oo9DwWKk=
+
+Name: res/raw-de/kis_71782.html
+SHA1-Digest: vHTfwmpuxK9Q6Iqx5rc7zTnMCNQ=
+
+Name: res/raw-it/kis_71812.html
+SHA1-Digest: 0ltqIHfA7glfaBl9JXDKsHI6vvg=
+
+Name: res/raw-ru/kis_72505.html
+SHA1-Digest: OsETH6n7PQhQpJzNx9Jmd6fl5v0=
+
+Name: assets/style.css
+SHA1-Digest: YKS8oJjLoPJvUq2oEQ3jcYbvEaw=
+
+Name: res/drawable-nodpi/shield_wireframe.png
+SHA1-Digest: HMDD+Rwo6zpRsbXzXKO45qfuMng=
+
+Name: res/raw-es-US/kis_71846.html
+SHA1-Digest: CYsYbpTr2EIUD+EV1JrXMdjCmvk=
+
+Name: res/drawable-nodpi/settings_group_separator.9.png
+SHA1-Digest: RAL2TXT+/DizsNTvIehW1ALKFHk=
+
+Name: res/layout/kts_settings_detail_license.xml
+SHA1-Digest: NwAXUy7Q+maXeVGRxEYwV5Os17A=
+
+Name: res/drawable/kis_radiobutton_holo_light.xml
+SHA1-Digest: JCGdu+iVLv8NIE7fObI/qmnvy+4=
+
+Name: res/layout/alert_dialog_user_action_sms_phishing_info.xml
+SHA1-Digest: ChdYNrp8PGg0LhozwUxG7mwW8RQ=
+
+Name: res/drawable-nodpi/setting_detail_blue_alert_drawable.xml
+SHA1-Digest: MEW6j/DuJUloUktnXmM8lixoMmo=
+
+Name: res/raw-es-US/kis_72358.html
+SHA1-Digest: r8yOVMFDITZ+4XjmFtAFA7NaxI0=
+
+Name: ae/com/sun/xml/bind/v2/runtime/Messages_ja.properties
+SHA1-Digest: zLdvlQQaI0CmtUhP11dUXwjscvA=
+
+Name: res/raw/kis_71888.html
+SHA1-Digest: LGT8idHIOjEBVGwZc/IHUzyLzao=
+
+Name: res/drawable-mdpi/kis_menu_button_premium.png
+SHA1-Digest: ltUF1GbBN/nERoWCaMuzBvbh6Qk=
+
+Name: res/raw-fr/kis_71802.html
+SHA1-Digest: rMj4o7wKfRla5ZqxVjlXcEHDFag=
+
+Name: res/drawable-xhdpi/kis_checkbox_on_disabled_holo_light.png
+SHA1-Digest: vjDHtOD1ajs4aQ/Ru5DzD6SzRdM=
+
+Name: res/raw-pt/kis_71778.html
+SHA1-Digest: 2BJOQdj7MX0h8kV/o6US2RoGOCw=
+
+Name: res/raw-it/kis_58977.html
+SHA1-Digest: A+aOTtbSu8UaozwC862ISHcSmDQ=
+
+Name: res/layout/kis_activity_main_header.xml
+SHA1-Digest: tSujnkqEOkrQlnVbG34yERrEgHU=
+
+Name: res/drawable-nodpi/arrow_up.png
+SHA1-Digest: 7vPARgE8Ei/y21rI9icJ5akw9NM=
+
+Name: assets/ucp/service.esm
+SHA1-Digest: znHPJXwoXD1FUCVqbbXtxOna4QY=
+
+Name: res/raw-it/kis_71874.html
+SHA1-Digest: Zn6NGTP/G/q4d7sagv0SYEGubSc=
+
+Name: assets/status_window_da.png
+SHA1-Digest: snNMyzfUBr/TIkonflh+ysXrqeA=
+
+Name: res/raw-es-US/kis_71836.html
+SHA1-Digest: h0g5Tl1CG6cAJzRCX/tIFwQRZyY=
+
+Name: res/drawable/kts_progress_bar_inner_png.9.png
+SHA1-Digest: +CC1C7kAi3sgowLXXWCgR+y63m8=
+
+Name: res/raw-pt/kis_71827.html
+SHA1-Digest: FNo7KCySvJVO9zOTVuQVv0FraLA=
+
+Name: res/raw-it/kis_71887.html
+SHA1-Digest: W6S1hhExDx/PDDqN/ZX7HO/+ol8=
+
+Name: res/drawable-mdpi/key_yellow.png
+SHA1-Digest: heKIAfk6J0cUlQyUTtitrG6QUxg=
+
+Name: res/raw-fr/kis_72800.html
+SHA1-Digest: svtMKjsMl6O7v1ap8Q4TqmTYXEQ=
+
+Name: res/raw-fr/kis_71899.html
+SHA1-Digest: Es+pZ8qDNjxSivaFb9oCw5VShuw=
+
+Name: res/raw/kis_71925.html
+SHA1-Digest: UJCHABjAmf9Lrg/7aEwLlDHCMFs=
+
+Name: res/raw-fr/kis_71846.html
+SHA1-Digest: z9uA9j/RonkWiVDeZqMFchmmS9I=
+
+Name: res/drawable-hdpi/ico_wizard_create_secretcode.png
+SHA1-Digest: yRaqI4XTefF45CN+Eg8Wn67Wo1s=
+
+Name: res/raw-es-US/kis_71848.html
+SHA1-Digest: 2HwZ2fd+FMHSrrwSS+R/8S2tmEM=
+
+Name: ae/com/sun/xml/bind/api/Messages_de.properties
+SHA1-Digest: +NaO57eg5PHcEuy8Wy8bMYzIHD4=
+
+Name: res/drawable-xhdpi/kis_header_button_issues.png
+SHA1-Digest: q16SOjC+E0xlQFkULadFlFUZEio=
+
+Name: res/raw-fr/index.html
+SHA1-Digest: WhO0r1MtrIDCqG4wfCpx/A+/FTg=
+
+Name: res/raw-es/kis_71844.html
+SHA1-Digest: vyCsRtctI3XELYu3/cePubYoX0M=
+
+Name: res/drawable-nodpi/settings_group_additional_green.png
+SHA1-Digest: /YrQpIEW50h/B9ujjQRoPOcmbik=
+
+Name: res/drawable/gradient_bkg.xml
+SHA1-Digest: UaTqHiI+QbECP9/iwbGwP7BrGxU=
+
+Name: res/drawable-nodpi/shield_progress_delim.png
+SHA1-Digest: IR5DdEiKc28zMe8xSxzdPZHfiFQ=
+
+Name: res/raw-es-US/kis_71809.html
+SHA1-Digest: zyod00fDAObEBXxoJ/clBBcJPws=
+
+Name: res/raw-de/preblock.html
+SHA1-Digest: H7pyH3WMb4DwI+Lzc8sOt/p9NHU=
+
+Name: ae/com/sun/xml/bind/marshaller/Messages_it.properties
+SHA1-Digest: l4x8obasIdeE77EJk7uK91z1qaA=
+
+Name: res/raw-pt/kis_71849.html
+SHA1-Digest: JsoFX0j0h2SYbM24olYqLGRuY98=
+
+Name: res/raw-fr/kis_71794.html
+SHA1-Digest: ABx+Zt7TUBENBRLOEDbVJVQf/pc=
+
+Name: res/anim/slide_out_to_left.xml
+SHA1-Digest: j8mtxjU9Vqp2PXxzeTvOB4w7hNw=
+
+Name: res/drawable-hdpi/kis_radiobutton_on_disabled_holo_light.png
+SHA1-Digest: h3/ovXbtsn5xaqGYBWaFHdT46WI=
+
+Name: res/drawable/kms_progress_bar_png.9.png
+SHA1-Digest: rXgSc14ApmiVZJ2xkR43/rGZ3H8=
+
+Name: res/raw-fr/kis_71887.html
+SHA1-Digest: 5g7WtJqsgBzeooiUO1C7SvUyE7w=
+
+Name: res/raw-pt/kis_78739.html
+SHA1-Digest: uniMlF5ckKSOwiUKaK4fIyBouYk=
+
+Name: res/raw-it/kis_71790.html
+SHA1-Digest: XUSQPagnwS6uW6FJ5OOjQbw08I4=
+
+Name: res/raw/kis_72052.html
+SHA1-Digest: Veh65D6J82P6IkK8945BYIGJ6pU=
+
+Name: res/layout/kis_activity_issues.xml
+SHA1-Digest: azxeJDV6vJQbVtiwtIQVYyk2zUU=
+
+Name: res/raw-it/kis_71808.html
+SHA1-Digest: Kd4eE0yl9N5uoDJCv/UFst1yihA=
+
+Name: res/raw-ru/kis_71816.html
+SHA1-Digest: 9FUoS6qafQL+z31y12QU7OrpR0Q=
+
+Name: res/raw-it/kis_71829.html
+SHA1-Digest: yhS0LYOCS2OY3ay6l9HbKeGAFYk=
+
+Name: res/raw-es/kis_71883.html
+SHA1-Digest: jwHAqAoeSOMVJJk2kwOqmYacHYU=
+
+Name: ae/com/sun/xml/bind/v2/runtime/Messages_fr.properties
+SHA1-Digest: pygLXmg2HhwYGr5ezI44o3z5xfc=
+
+Name: res/raw-de/kis_71879.html
+SHA1-Digest: WVYU6lkTGtq3JwifUfGCH8AP/ak=
+
+Name: res/raw-ru/kis_71886.html
+SHA1-Digest: fN1YNcKqOCEKg1woAkOk6PVBd/s=
+
+Name: res/drawable-hdpi/kis_radiobutton_on_focused_holo_light.png
+SHA1-Digest: zF7cnikdwUIZtz6Q2hRFPL+Bfp8=
+
+Name: res/raw-fr/kis_71841.html
+SHA1-Digest: mV/deVnbLCKDqCPKWM2mBPO0Z1M=
+
+Name: assets/main_window_at_glance_en.png
+SHA1-Digest: wDoFSKO4Y5HwGT3Pr5ha8ZeZrJ8=
+
+Name: res/raw-it/preblock.html
+SHA1-Digest: bEv4XmtBj7rcGxFdku5VdrL44Ow=
+
+Name: res/raw-es-US/kis_71817.html
+SHA1-Digest: +l8Jig7fEaQAEhLkU0hjsSe6Trg=
+
+Name: res/raw-pt/kis_61355.html
+SHA1-Digest: 2kSkic7Zyi3jKLT2hF6r4ZoWDh8=
+
+Name: res/raw/kis_79898.html
+SHA1-Digest: WFNcEhSZ+RpTIlGVqqrwHyqD/tU=
+
+Name: res/raw-de/kis_71860.html
+SHA1-Digest: eH45nKeBiaSPfnBgN70SAzFkFWE=
+
+Name: res/raw-fr/kis_71792.html
+SHA1-Digest: jYzLsGPy3Dp2gK4WL9BAmofyDX0=
+
+Name: res/raw-pt/kis_71852.html
+SHA1-Digest: Lv/HekBcBUhQCR1rr8/3dITzFx8=
+
+Name: res/raw-pt/kis_71828.html
+SHA1-Digest: Gm+fhVPJb9B5Xr18dQZolJzjTJk=
+
+Name: res/raw-es/kis_71834.html
+SHA1-Digest: yF70+XAj1wz1Fl8l7k5KrrLjJH0=
+
+Name: res/layout/phone_item_with_button.xml
+SHA1-Digest: HXNL99ExipIbbm53w3b+h6A1mn8=
+
+Name: res/raw-ru/kis_74780.html
+SHA1-Digest: TN9+6X+UzBogo3t4HzHKpnLpECY=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: XTsU1do54L/X5K9CAcY0DT62zwI=
+
+Name: res/raw-es-US/kis_79898.html
+SHA1-Digest: 41+HQ2vyxwoSYs1VagrIm26cToA=
+
+Name: res/drawable/ico_scan_complete_30.png
+SHA1-Digest: WJlAbvIA+uWNF9UaophQv53GUh8=
+
+Name: res/layout/kms_settings_sync_info.xml
+SHA1-Digest: x4nUqu5IXcwO6kgteR9ojldODoI=
+
+Name: res/raw-es-US/kis_71926.html
+SHA1-Digest: akSSIFI0PxHJQIKKn38h5yURTfM=
+
+Name: res/raw-it/kis_71838.html
+SHA1-Digest: VreUobKrX3GUEqguGYTe2QJ3gto=
+
+Name: res/layout/kis_li_issue_antivirus_scanning_info.xml
+SHA1-Digest: FhcsVu3xrT8lgAvD5CbkZmfU6Io=
+
+Name: assets/swipe-panel_fr.png
+SHA1-Digest: T8v8i5rgZueH3cQ1lgq9lfe34xg=
+
+Name: res/raw-fr/kis_71878.html
+SHA1-Digest: wbJhiJ3IVKDk7wVFkbSWUqey7oE=
+
+Name: res/raw-pt/kis_71846.html
+SHA1-Digest: Nx6HA9HGbI8i/lwvypZfleIFiHA=
+
+Name: res/layout/kis_li_issue_antivirus_last_scan_info.xml
+SHA1-Digest: QyusX9HcYKHyFsIBrq0enNJFD2k=
+
+Name: res/raw-es/kis_71872.html
+SHA1-Digest: +uHn+5FZ+z97uUW13BZugsbZELs=
+
+Name: ae/com/sun/xml/bind/v2/model/annotation/Messages_it.properties
+SHA1-Digest: Ygua2UyxP4uhdNb4gsHH5EQcbuQ=
+
+Name: res/raw-ru/kis_71795.html
+SHA1-Digest: b63bb+xZ+wpvLtOPFx6ejvdJbIU=
+
+Name: assets/style_ja.css
+SHA1-Digest: Uajj/2yXwHATnKbI8wo7NeP/lFE=
+
+Name: res/raw-pt/kis_71925.html
+SHA1-Digest: Xo2L6myhjVII8BKero57AhFTzsw=
+
+Name: res/raw-it/kis_71848.html
+SHA1-Digest: bpU0FqpdIynlaAhxrnz30+akR5M=
+
+Name: res/raw-fr/kis_71812.html
+SHA1-Digest: phnywxZZGBYorHQNG/TqMVOpBWo=
+
+Name: res/raw-it/kis_71820.html
+SHA1-Digest: jYvfvUy0RflqMrfbAA2wDREcfxg=
+
+Name: ae/com/sun/xml/bind/v2/runtime/unmarshaller/Messages_fr.properti
+ es
+SHA1-Digest: iUX/wpKA7+oDYqp7fm900COQPYU=
+
+Name: res/layout/wizard_welcome_kts.xml
+SHA1-Digest: 01M/8M1OZFvwXHHm2e65+4upbCM=
+
+Name: res/raw-pt/kis_71795.html
+SHA1-Digest: tHfV9RE1OHOdDj17PM1yVT8B954=
+
+Name: res/raw-es-US/kis_71899.html
+SHA1-Digest: +6sRcf/DZTRA00NHGN8Z14/PwGs=
+
+Name: assets/status_window_fr.png
+SHA1-Digest: uGwlunvHccWJWQ7qZIK1H20yqso=
+
+Name: res/drawable-hdpi/kts_dialog_checkbox_enabled_off_press.png
+SHA1-Digest: uRqTYneoaMgR0/bfkLhsJ9Iguw8=
+
+Name: res/raw-es-US/kis_71781.html
+SHA1-Digest: 7UnkniIaB9vhByzLpKVIqphNAJ4=
+
+Name: res/raw-de/kis_71794.html
+SHA1-Digest: qCvtl42JAT1rR8t1tmTUfdi7hsY=
+
+Name: res/raw-it/kis_71814.html
+SHA1-Digest: ysQ/fbNuT5ux81vGejNCPIzligo=
+
+Name: res/raw-fr/kis_71862.html
+SHA1-Digest: 3DPbCOlqqp0zJEzUYNhJGODEifk=
+
+Name: res/drawable-mdpi/kis_header_button_issues.png
+SHA1-Digest: 9Uowb4aWVT6KA9ZIRnnvxvbGqNw=
+
+Name: res/layout/form_edit_control_kms.xml
+SHA1-Digest: AkDFytYpSPq32nGRhi2Qf08wzGQ=
+
+Name: res/raw-es/privacy.html
+SHA1-Digest: FqxsZw5M/iaN2DPIKxgarM9tWKU=
+
+Name: res/raw-fr/kis_71825.html
+SHA1-Digest: x7reOxTNQyW6xUhkvHqrBRLX/aQ=
+
+Name: ae/com/sun/xml/bind/v2/Messages_es.properties
+SHA1-Digest: dVHC6fTwWCqkNa+afSnpTCT9nCk=
+
+Name: res/layout/kts_free_info_item.xml
+SHA1-Digest: gFEE99JVIwq9MXTpHGzAvXpdGvg=
+
+Name: res/drawable/shadow_bottom.png
+SHA1-Digest: t8zpn9O95NeF2ucin4s31TQm/S8=
+
+Name: res/raw-pt/kis_71850.html
+SHA1-Digest: sQDxaWZDvxWXVw/WeJLzgVdmdkU=
+
+Name: res/raw/kis_71928.html
+SHA1-Digest: YRJxWBc8tkOJuWUhmmIoZR8v6T4=
+
+Name: res/raw-fr/kis_71868.html
+SHA1-Digest: y7LV9QiPoHafVwX0SV8Yv/I5Y7Y=
+
+Name: res/drawable-nodpi/settings_detail_button50.9.png
+SHA1-Digest: yfa3zChYnu18KGv0MrKOm4w1RPU=
+
+Name: res/raw-it/kis_71867.html
+SHA1-Digest: 3ZLtWuAtZMybd2xSho1ZaV7y9ds=
+
+Name: res/drawable/enter_code_button_selector_kts.xml
+SHA1-Digest: aY8z/S2ztySlbhPZsX14pKtWORM=
+
+Name: manifest
+SHA1-Digest: mMPMo8V6pVtuzWe7ZFR440kXloo=
+
+Name: res/raw-es-US/kis_71834.html
+SHA1-Digest: 1nRkP84jcMw/NGCRiCi/+rEJx3M=
+
+Name: ae/javax/xml/bind/util/Messages.properties
+SHA1-Digest: 2b3WgmMbcVL1YLOj/Jc4kP0Zk/8=
+
+Name: res/raw-es-US/kis_71873.html
+SHA1-Digest: 2Gt2XisHIMlqKi8rJDen2jkfMGc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: DhKOr7R6boUnph52RbzOPfHhCtI=
+
+Name: res/drawable-xhdpi/kis_menu_button_bg.9.png
+SHA1-Digest: Up7ig8VVXGIwkGXk9WxiTaBO4JI=
+
+Name: res/drawable-nodpi/tablet_premium_bg_pressed.png
+SHA1-Digest: mvnGJ0wCrLLNH8S0eUqUNj2gTXM=
+
+Name: res/layout/subscription_license_info_kts.xml
+SHA1-Digest: CHaP2sYPi9kxsPWv9YsowuGH6k4=
+
+Name: res/raw-ru/kis_72052.html
+SHA1-Digest: Aus0InQVz/Y6i4yJkaAcNTMqw/g=
+
+Name: res/drawable-xhdpi/button_grey_normal_png_kts.9.png
+SHA1-Digest: 5zShckVGVp3Gz+xLmGFWuWrt2LQ=
+
+Name: res/raw-ru/kis_72800.html
+SHA1-Digest: azxAskqnxCi4GBLUDX7g1NZybRQ=
+
+Name: res/raw-es-US/kis_71863.html
+SHA1-Digest: d5E6WjetVAjlwyF7G2lLCoiBuXU=
+
+Name: res/drawable-hdpi/kts_dialog_checkbox_disabled_on.png
+SHA1-Digest: SowwVfS1y7wyKMJokqp0WIUhjTA=
+
+Name: res/layout/kts_lock_screen_new_correct_code.xml
+SHA1-Digest: DUiMVsdaC2VmrVpGfR4JA7l3lRw=
+
+Name: res/raw-de/kis_71829.html
+SHA1-Digest: FJC31IsNrGVnCf8WUluFx3w/K+0=
+
+Name: res/layout/wizard_web_registration_kms.xml
+SHA1-Digest: UjrAUcCVgbaOnLLrr4v+K6iMWRI=
+
+Name: res/drawable-xhdpi/kis_header_logo_beta.png
+SHA1-Digest: MXW55Gkz7ZodpbFlep5yhMlBXBg=
+
+Name: res/drawable-hdpi/kis_switch_bg_focused_holo_light.9.png
+SHA1-Digest: F60+6DvSWPf4vxRW2CSuD3+e6Es=
+
+Name: res/raw-es-US/kis_71812.html
+SHA1-Digest: bhMwrLqnOxmeugCU4OPF3f9BGfY=
+
+Name: res/raw-de/kis_71854.html
+SHA1-Digest: wxCsUPWSdpLURfGpX+ItM4fPte4=
+
+Name: res/drawable/button_enter_pressed_kts.9.png
+SHA1-Digest: nzoP6Dbh7jBq62hHZpLcLsDIv/w=
+
+Name: res/raw-ru/kis_71790.html
+SHA1-Digest: T7vOJgXBWX23WOZfaJDxD1+JEZw=
+
+Name: assets/swipe-panel_button.png
+SHA1-Digest: lKno2GcyRQN8unZNYgCDDAVcmQI=
+
+Name: res/raw-es-US/kis_71850.html
+SHA1-Digest: BjnO6qA/DvIjtuEjAq9G/qhSQkk=
+
+Name: res/raw-fr/kis_71927.html
+SHA1-Digest: +JMvAlzQNEKejAxIdaWMOrCm100=
+
+Name: res/drawable-xhdpi/kis_dialog_user_action_kaspersky_icon.png
+SHA1-Digest: c5mU8DwaM9n/gHzcY1nf6A3vGC0=
+
+Name: res/layout/wizard.xml
+SHA1-Digest: +UwiktubyNoK4S6g7peeFvV9QGk=
+
+Name: res/drawable/drop_button_press_png.9.png
+SHA1-Digest: nyROlhDvs/NbRT/ed6200tEckmA=
+
+Name: res/raw-fr/kis_71793.html
+SHA1-Digest: 528aUdL2524J6pLWXVGoGx+x0W0=
+
+Name: res/raw/kis_71845.html
+SHA1-Digest: So9e/8AzNz2UWLHUd9pfMKv1K6Y=
+
+Name: res/raw-fr/kis_71791.html
+SHA1-Digest: 2erMQq3vFlgrPGm60Mb6CNJU698=
+
+Name: res/raw-de/index.html
+SHA1-Digest: sojm+Uh1FYOkr00VCgBPgwFTCJw=
+
+Name: res/raw-es-US/kis_71825.html
+SHA1-Digest: SpPadJtANf9xfDpcN8px1y2KMbU=
+
+Name: res/drawable-mdpi/kis_radiobutton_off_holo_light.png
+SHA1-Digest: 8D9ZIn83yCl0saRjqTLrktvUPBg=
+
+Name: res/raw-es-US/kis_71847.html
+SHA1-Digest: c5iflhoo9urm4TbjQV/Dl+lNs/k=
+
+Name: mime.types
+SHA1-Digest: Y1dvJKEgGz95J5mmBV4zbX20IZc=
+
+Name: res/drawable-nodpi/button_big_pressed.9.png
+SHA1-Digest: iBDjLDUySzoIUhrFURnGHEQ0QLE=
+
+Name: res/raw-ru/kis_71850.html
+SHA1-Digest: pJurdFZ4CQ2b9J0TMiFRxN3F2JM=
+
+Name: res/raw-it/kis_79376.html
+SHA1-Digest: HBsWW1vcGx26dfA6TufbBTQW3EU=
+
+Name: res/raw-pt/kis_71871.html
+SHA1-Digest: KKTbW1PYjFEyjBbXp/LsCMdsTS0=
+
+Name: res/raw-ru/kis_71822.html
+SHA1-Digest: 4IqFEvEqa/132ugkR17nkPTUg/A=
+
+Name: res/raw-pt/preblock.html
+SHA1-Digest: bEv4XmtBj7rcGxFdku5VdrL44Ow=
+
+Name: res/raw-it/kis_71836.html
+SHA1-Digest: djdJy7vXzkimf33ibLdchyfhOmQ=
+
+Name: res/raw-de/kis_71843.html
+SHA1-Digest: gSz3kXF2Xxlo7RL1Qo0cxFZ3G6M=
+
+Name: res/raw-it/kis_71873.html
+SHA1-Digest: XHRZACyNJavC5WsrO5S4Cp8zfTA=
+
+Name: res/drawable/ico_warning_30_white.png
+SHA1-Digest: Ehx04+FPnmME3bGzmTTVPix5Sus=
+
+Name: res/raw-es-US/kis_71840.html
+SHA1-Digest: Zfgnr0T1vadKZybAwPNKX0UoVR4=
+
+Name: res/drawable-mdpi/kis_menu_button_safe_browser_disabled.png
+SHA1-Digest: XUosZXZcHiyAh1Kx8VucmzBBbrQ=
+
+Name: res/drawable/kts_ico_message_30.png
+SHA1-Digest: MijjhWhMuO0fpvfGw5EXovvm4yk=
+
+Name: res/drawable/lock_png.9.png
+SHA1-Digest: 2Hh90XdFv+SNnOzFWR4x6XDEKyI=
+
+Name: res/raw-de/kis_71883.html
+SHA1-Digest: VYpYnxgFFk2J4whHfoFm2twOwm8=
+
+Name: res/drawable/white_separator.xml
+SHA1-Digest: Tu8biMu5SHOd62aJMkqihS8y8Oo=
+
+Name: res/layout/kms_settings_detail_header_caption.xml
+SHA1-Digest: HKvR4/NauJn2WZu/hUxP+F002uo=
+
+Name: res/raw-es/kis_71830.html
+SHA1-Digest: pnNK6lbrfZLzwulimPE4ycSlHgY=
+
+Name: assets/fonts/Roboto-Light.ttf
+SHA1-Digest: pjPMJmlNtysc9kyqUeZLQ8N3mzo=
+
+Name: res/raw-pt/kis_72426.html
+SHA1-Digest: uZUBTcRTysbHSutASxl0INp8Lc8=
+
+Name: res/raw-it/kis_71891.html
+SHA1-Digest: FZ9KIvyk4BiW54AXFUXfHmuhi7E=
+
+Name: res/drawable/ico_license_expired_25_disabled.png
+SHA1-Digest: ALPN3psJzhY71YM4MIQQqyViqJI=
+
+Name: res/drawable-xhdpi/icon_features_4_gray.png
+SHA1-Digest: kou26pLPN/4JULiucDNBGADaPY4=
+
+Name: res/drawable-hdpi/kts_dialog_checkbox_enabled_off.png
+SHA1-Digest: 9bw5n5P5ABQsFP4vQLdeJ2WpnhM=
+
+Name: ae/com/sun/xml/bind/v2/runtime/Messages_ko.properties
+SHA1-Digest: dZYq8ro8aDT5a9F/G2PNLrm8TbY=
+
+Name: assets/anti-theft_portal.png
+SHA1-Digest: 3/HPhtdm7BDmRewtbiZi4tMzIJs=
+
+Name: res/drawable-nodpi/settings_detail_bg.9.png
+SHA1-Digest: K+DHDd15s6tgw6QeDbMIFhXHDvE=
+
+Name: res/drawable-mdpi/kis_switch_bg_disabled_holo_light.9.png
+SHA1-Digest: H0J1yj+sihGHe6b3/zOr3SB18dg=
+
+Name: res/raw-ru/kis_71793.html
+SHA1-Digest: UEa0U1Lv4uG4sdilegPzFdm1MMg=
+
+Name: res/raw-de/kis_71886.html
+SHA1-Digest: f0T+Nxnxc/oJX8czuOKvODV/LMI=
+
+Name: res/raw-ru/kis_71865.html
+SHA1-Digest: tTkuejx5ukFY0C+b5CX+AciebX0=
+
+Name: res/drawable-mdpi/ico_k_25_disable.png
+SHA1-Digest: xGyK+JxSUbVveASKQlDqpzbEX7Q=
+
+Name: res/raw-it/kis_71882.html
+SHA1-Digest: pGLifcK0/MydSG/m3ePvBaCeuvI=
+
+Name: res/raw-it/kis_71854.html
+SHA1-Digest: TleZJ5HRGzdYfEP5CpXxwr2ZDck=
+
+Name: res/raw-fr/kis_71806.html
+SHA1-Digest: nzu6PMhPpg43JFO9BKM1nqLz8Tw=
+
+Name: res/layout-large/kis_activity_main_center.xml
+SHA1-Digest: 5I61Qk8myPGBx84eJUoQqwSjzIg=
+
+Name: res/drawable/kis_menu_button_warning_normal.xml
+SHA1-Digest: 0haP8MxNim4UJifvetAyHVp9OkA=
+
+Name: assets/blocks/b-common/elements.less
+SHA1-Digest: EdQ4rgosp3LhfycniGPVOZ+PI2Q=
+
+Name: res/raw-es-US/kis_71810.html
+SHA1-Digest: coy2kLMdNV9sFCpao9bm2Nd3UP0=
+
+Name: lib/armeabi-v7a/libscan_kavdlib.so
+SHA1-Digest: t2UjVI8udSaxHl45zhX2rO6Wc3w=
+
+Name: res/raw-es-US/kis_71778.html
+SHA1-Digest: kMCvaBjWCSzsbR48IXR6xSp2N8w=
+
+Name: ae/com/sun/xml/bind/v2/model/impl/Messages_fr.properties
+SHA1-Digest: IYC0gDhRiSxMhLuK3Ixz7qDtzng=
+
+Name: res/drawable/kis_menu_bubble_background_opened.xml
+SHA1-Digest: 5YpNyBkqSFdS8vF4aziI7Uoxlvs=
+
+Name: res/raw-ru/kis_71838.html
+SHA1-Digest: Rgr1hXlfRD65ICFn00zGL1Yd488=
+
+Name: res/raw-es/kis_71891.html
+SHA1-Digest: hoyhCQDe7ylDYH6FlXrUfvFBqjQ=
+
+Name: res/layout/kis_activity_button.xml
+SHA1-Digest: 2SS7hH9JTD9tiQ/Hicv8Om+TG5c=
+
+Name: res/raw-es-US/kis_71838.html
+SHA1-Digest: mSB9FZ/XBVdZV+sr4ITxIPV9ghM=
+
+Name: res/drawable/kis_setting_tab_empty.xml
+SHA1-Digest: DBcXc89bVG6A0dCVlvnXqnMsU7c=
+
+Name: res/drawable-hdpi/kis_header_icon_back.png
+SHA1-Digest: oJNdHEWSHLqYt9PizQp4JzT4qtM=
+
+Name: res/raw-es-US/kis_59757.html
+SHA1-Digest: tuG7IxB/t/JmhjGFN4J7OtQ0gzs=
+
+Name: res/raw/kis_61347.html
+SHA1-Digest: sfy6LHjSnYfLu37fa57Yj921gMQ=
+
+Name: res/raw-es-US/kis_61355.html
+SHA1-Digest: i9twfRi2jOgVNIBmT4Sj1Seu1G8=
+
+Name: res/raw-de/kis_71810.html
+SHA1-Digest: O44mOue7WFRTLuFoFoKn1sN1Mf0=
+
+Name: ae/com/sun/xml/bind/v2/doc-files/packages.png
+SHA1-Digest: Y9w4GYfEh9JDvlyqrJItBVhBmtI=
+
+Name: assets/script_KL.js
+SHA1-Digest: xgjEkbdvdotfxMsXqapy9y20I9c=
+
+Name: res/drawable-nodpi/kts_ico_search_20.png
+SHA1-Digest: 1s+4dRySjCCqLP2z68zQT8W70og=
+
+Name: res/raw-fr/kis_71879.html
+SHA1-Digest: YzAnNc3AtHBp1aqsqP6UozEyqp8=
+
+Name: res/raw-fr/kis_71924.html
+SHA1-Digest: StVAIpMUu7V2ED8+XeqqzxGxUIA=
+
+Name: ae/com/sun/xml/bind/v2/model/annotation/Messages_zh_CN.propertie
+ s
+SHA1-Digest: VtkdXjuxQDjHxtYOj7K7lsCjiGY=
+
+Name: ae/com/sun/xml/bind/v2/runtime/Messages_es.properties
+SHA1-Digest: gI6rIkVDADUh3CTROY5U0/qaDDY=
+
+Name: res/xml/kmswidget_info.xml
+SHA1-Digest: BycADnOOB6Iwlg/iUTXM4ICnEWk=
+
+Name: lib/armeabi-v7a/libapp_services.so
+SHA1-Digest: scuSicxUmz84qambG5NfM+QtjBc=
+
+Name: res/drawable-nodpi/settings_group_lock_white.png
+SHA1-Digest: N6QgkToD6aF2aIyim7QbG48udsM=
+
+Name: res/raw-pt/kis_71784.html
+SHA1-Digest: GpZR1TESHZds6cGX7sPpDaSDDR8=
+
+Name: res/raw-ru/kis_71864.html
+SHA1-Digest: hZWvUeHIUrkeZJzvnLrN4Fcg0R8=
+
+Name: res/raw-de/kis_74780.html
+SHA1-Digest: soLlP8zwmQHlklRDoA4wmziTxeo=
+
+Name: assets/blocks/b-nav/nav.css
+SHA1-Digest: 9/+tIr2xgojkFvIjI7WnKCEzkS8=
+
+Name: res/drawable-hdpi/ico_wizard_device_admin.png
+SHA1-Digest: 1Bjg3ySSFcg5w2SOBlH1RyqvFm0=
+
+Name: assets/blocks/b-common/style.less
+SHA1-Digest: EolLRURNOcDGY5MHso+qohupjVQ=
+
+Name: res/raw-fr/kis_71784.html
+SHA1-Digest: p2PVRRXEBJ2Y0x4j8GZsZ3TA/X0=
+
+Name: ae/com/sun/xml/bind/v2/runtime/reflect/Messages_zh_TW.properties
+SHA1-Digest: EoT346VEj4L1Lb0zXZ6F5BGsmbQ=
+
+Name: ae/com/sun/xml/bind/v2/runtime/reflect/Messages_es.properties
+SHA1-Digest: ocJxzt7/gbYSQKhbpazuE05Zsm0=
+
+Name: res/drawable-hdpi/ico_wizard_final.png
+SHA1-Digest: EPKBrmUaW7w18Zu8G+/yxPHpgKY=
+
+Name: res/raw/ipm_kl.key
+SHA1-Digest: 5UqEgkMQeVUl7Q+aUdLanoqroAc=
+
+Name: res/drawable-nodpi/setting_caption_drawable.xml
+SHA1-Digest: HOIR/HSQQpsXhw4m9VnaZBDI3ug=
+
+Name: res/drawable/main_scr_separator.xml
+SHA1-Digest: 7p2mrfpZ68N+WPQO6+xcq1nmZF8=
+
+Name: res/raw-es/kis_71793.html
+SHA1-Digest: WXH1dPIJac39jmFTAeWJqy0cmEI=
+
+Name: assets/swipe-panel_pt.png
+SHA1-Digest: HQ5joaBr6ZyYRt5RsOROphteRdo=
+
+Name: res/raw-es/kis_71777.html
+SHA1-Digest: xQpT9NU59QfsSOE4NTw+8Hwyd2o=
+
+Name: res/raw-fr/kis_71877.html
+SHA1-Digest: EQ5h1CJWthwPL7XzrWr1Uh8UKPE=
+
+Name: res/layout/kis_activity_main_center.xml
+SHA1-Digest: EYq+q+QQT73vebATFp3iHQ2kEFg=
+
+Name: res/raw-it/kis_71831.html
+SHA1-Digest: GWhZp71CaKYu4HxA0An34OvVL1w=
+
+Name: res/drawable-mdpi/kis_checkbox_on_disabled_focused_holo_light.pn
+ g
+SHA1-Digest: jAd1ZBV91aJULUuI1nBuiZItEjI=
+
+Name: res/raw-es/kis_71873.html
+SHA1-Digest: Nh0ZcWzn4WPnDXMbP0hWbpmjHK8=
+
+Name: res/raw-ru/index.html
+SHA1-Digest: 8sHPaGHzRhIomz/9M7vtH8XGvbo=
+
+Name: res/raw/kis_71776.html
+SHA1-Digest: At4IiXAi6Me5TRyzajtx64tWQnw=
+
+Name: res/raw-fr/kis_71889.html
+SHA1-Digest: 4DuASw3fAIpXLdJEIRsbHbbb2U8=
+
+Name: res/drawable-nodpi/tablet_premium_bg_selector.xml
+SHA1-Digest: tseAQdtAedJhDfGb5Nkv6SGwhHw=
+
+Name: res/raw-ru/kis_71801.html
+SHA1-Digest: 8qUp1slc4y8LKT+9B7RBZPrr/l4=
+
+Name: res/raw-ru/kis_71782.html
+SHA1-Digest: TxpaJL7I1J3BkRMrc9twczZMw1I=
+
+Name: assets/blocks/b-btns/btns__loading.gif
+SHA1-Digest: EBzpHauOCiQtKzYzwQv4o30UN0Q=
+
+Name: res/raw-es-US/kis_71862.html
+SHA1-Digest: HDNGIKrHZ5r0wTBqRColUKeVYGg=
+
+Name: res/raw-es/kis_71881.html
+SHA1-Digest: QYCkj7cZ0mdsqYs2J7nhdbdSqow=
+
+Name: assets/main_window_at_glance_tr.png
+SHA1-Digest: vdEruXzcapoUy1sxxURUmdjCZ1I=
+
+Name: res/raw-de/kis_71838.html
+SHA1-Digest: p2pcheAmLjsoWGXEHOo1TGyP6Bg=
+
+Name: res/raw/kis_71833.html
+SHA1-Digest: k75mOcQmqcZKX54nw951DoFbu3o=
+
+Name: res/drawable/ico_ok_30_white.png
+SHA1-Digest: PONy8fdVv7Ny5pjv8KL52wUt8Qw=
+
+Name: res/drawable-xhdpi/kis_header_button_settings.png
+SHA1-Digest: GmMThdVxVjEhWHenHyWgL/cqAwo=
+
+Name: res/raw-fr/kis_71845.html
+SHA1-Digest: 8oj+9t2ueJWqp9eahXC2DiWUsDo=
+
+Name: res/raw-it/privacy.html
+SHA1-Digest: owVp36mUM/lMajE2LpOOFg20XbE=
+
+Name: res/drawable-mdpi/key_green.png
+SHA1-Digest: Bf2sJZOlSt/tY9ILR2rkSzI2XdQ=
+
+Name: ae/com/sun/xml/bind/v2/model/impl/Messages.properties
+SHA1-Digest: C8auOqyfRztgy9HRY7xvCH1gxQ4=
+
+Name: res/raw-de/kis_71841.html
+SHA1-Digest: JcyR07eE4MF7ZaTQ/DpbyIuuyIk=
+
+Name: res/drawable-mdpi/ico_license_expired_25_disabled.png
+SHA1-Digest: 5tPqfUzqYKn6f/QXWqu168uK4yw=
+
+Name: res/raw-it/kis_71926.html
+SHA1-Digest: kKv9Y74nLkbOd5H4nfJB3+g6Ask=
+
+Name: res/raw/kis_61373.html
+SHA1-Digest: +o7fsJs7i3Tv+IhsdXFSBP1ZAgY=
+
+Name: res/raw-pt/kis_71874.html
+SHA1-Digest: 1wW2Oz/WpR1aN6JDoRLv9YTY8/k=
+
+Name: res/drawable-hdpi/ico_license_expired_25_disabled.png
+SHA1-Digest: 5tPqfUzqYKn6f/QXWqu168uK4yw=
+
+Name: res/raw-pt/kis_71867.html
+SHA1-Digest: 8pnvaV1wLrEp99OgG0KM/o6ssOU=
+
+Name: res/raw-pt/kis_71892.html
+SHA1-Digest: zzw5Mk8NCugb/ugRjRGWGIq2IQo=
+
+Name: res/raw-ru/license.html
+SHA1-Digest: /bczB9nBEOari9wb0TCWdgQmrc4=
+
+Name: res/layout/license_blocked.xml
+SHA1-Digest: ybTJfr5VC0psUcXnh0kWviwDde4=
+
+Name: ae/com/sun/xml/bind/api/Messages_es.properties
+SHA1-Digest: S1PXwXau3d+l/db6SkzqfNOjafE=
+
+Name: res/raw-ru/kis_71928.html
+SHA1-Digest: gLHGDHLkUVZ17bKvgOUi9ckscfo=
+
+Name: res/drawable-hdpi/kis_switch_bg_disabled_holo_light.9.png
+SHA1-Digest: O8hjhz2Vvj5MT4w2lkDZLSkgWkE=
+
+Name: res/drawable-xhdpi/workaround.png
+SHA1-Digest: IDxDkKrHgFtLPMbeElkNWyRDLLM=
+
+Name: res/raw-de/kis_71850.html
+SHA1-Digest: WCGkfWSXw4qc7t59J3ytnKXbiEs=
+
+Name: ae/com/sun/xml/bind/v2/runtime/unmarshaller/Messages.properties
+SHA1-Digest: OvshS1Gr6Qw/7I5VHfAyy9YpHlc=
+
+Name: res/raw-es/kis_71846.html
+SHA1-Digest: Rn0MJHnL8GSsfdsOGpiIBfRwAos=
+
+Name: res/drawable-hdpi/kis_li_issue_last_scan.png
+SHA1-Digest: AJmbYTUu4uz9CXnAreMBAMlfGQw=
+
+Name: res/raw-es-US/kis_71892.html
+SHA1-Digest: DYcCCRvnS+5tGiUZKvVR40rYn8s=
+
+Name: res/raw-it/kis_71862.html
+SHA1-Digest: Eho9tlHY1kaEvw7glvpOZJCepD8=
+
+Name: res/raw-fr/kis_72358.html
+SHA1-Digest: aN7KCGgdAGxFVCECGzrB2zaIcoI=
+
+Name: res/drawable/ico_reports_av.png
+SHA1-Digest: WJlAbvIA+uWNF9UaophQv53GUh8=
+
+Name: res/layout/kms_lock_screen_new_correct_code.xml
+SHA1-Digest: caSxDV7ipCwAYwDTdJr7ANwuraU=
+
+Name: res/raw/kis_71840.html
+SHA1-Digest: KEAhu5bPNA5tdHYM86hozRrG2hQ=
+
+Name: res/raw/kis_71782.html
+SHA1-Digest: ggIWzHCorxzfraXYY8ACR7Q7M94=
+
+Name: res/anim/rotate_progress_anim.xml
+SHA1-Digest: xqhgunRgBt87HaV8XR/qtZMTIEE=
+
+Name: res/drawable/ico_wizard_antitheft_web.png
+SHA1-Digest: 7nDY144QuqDmwQJIQdBUN2ZW6oU=
+
+Name: assets/status_window_cs.png
+SHA1-Digest: G/j28VPzfY/RXTWQiGZg2Sh1sW0=
+
+Name: res/raw-de/kis_71781.html
+SHA1-Digest: BD9kYSsLb3DZ9nGgXfPg4pS9GPs=
+
+Name: res/raw/privacy.html
+SHA1-Digest: 9TtKAhh+uTOrhhRMDtpOTCJWJaI=
+
+Name: res/drawable/f_right_focus.png
+SHA1-Digest: xqu+BrjrMIgazPDEqM608y05++8=
+
+Name: ae/com/sun/xml/bind/v2/model/annotation/Messages_ja.properties
+SHA1-Digest: 1wT9X38lGnQnXD9nErb/80tjO5k=
+
+Name: res/drawable-hdpi/kis_li_issue_license.png
+SHA1-Digest: 6sYQ8YA/WyzHJYkSOdM0IhuW324=
+
+Name: res/layout/notification_layout.xml
+SHA1-Digest: sia0y7/Q1ggdKeHRcaEYnEenfj4=
+
+Name: res/raw-ru/kis_58977.html
+SHA1-Digest: 0EIA2DiOhA5DbdAKvC+143qYW0M=
+
+Name: res/drawable-hdpi/icon_features_2.png
+SHA1-Digest: bsp+r2uLL3fAQb+Qka0tcQhM6ew=
+
+Name: res/raw-de/kis_71872.html
+SHA1-Digest: +ft3DhHm590vVkSVfa3bfAi7DUQ=
+
+Name: res/raw-es-US/kis_71793.html
+SHA1-Digest: 2Qa2FxPmyk6FS1hAscfFlCLVr5Q=
+
+Name: res/raw-es-US/kis_72505.html
+SHA1-Digest: pdVt6rQ0OhIvFTsqY2kS9htkH58=
+
+Name: res/layout/kts_settings_detail_antiphishinginfo.xml
+SHA1-Digest: E7SH8CjhLLeIIEuFL/wESrWIy3E=
+
+Name: res/drawable/kis_switch_track_holo_light.xml
+SHA1-Digest: UqvEKHl3BAItg1bG3SSKdmC84gM=
+
+Name: res/raw-fr/kis_71822.html
+SHA1-Digest: N3yTw8CxGMusHDUrEEyjwS/59Cs=
+
+Name: res/raw-es-US/kis_71859.html
+SHA1-Digest: yFspJrsY901PdLxWAqaXmi//YzQ=
+
+Name: assets/blocks/b-content/content.less
+SHA1-Digest: XSo3/8g51ViGW7xQWgeYsBThMoY=
+
+Name: res/raw-pt/kis_71823.html
+SHA1-Digest: 78+aF0nKwmVCHaP4YUNXVN943/k=
+
+Name: assets/blocks/b-forms/forms.less
+SHA1-Digest: KCLY5G+N8R4p9icNUwLFtPrWQVo=
+
+Name: res/drawable-xhdpi/license_expired.png
+SHA1-Digest: 11h5B0su7bl4VQ4pBKQHM62bOSM=
+
+Name: res/raw-es/kis_71831.html
+SHA1-Digest: Gvsj1BIfV6V1ze13KRiMSFUEoHY=
+
+Name: res/raw-fr/kis_72712.html
+SHA1-Digest: ncK87CwUgHUSLxIZ8PhU091WcJ8=
+
+Name: res/raw-ru/kis_72358.html
+SHA1-Digest: iS5oIAgAGL9pxctgQHA/EMUG9K8=
+
+Name: res/raw-es/kis_71876.html
+SHA1-Digest: sLKUcKxbf5jEsqcJ7i5cYBdOysk=
+
+Name: res/drawable-nodpi/settings_detail_button.9.png
+SHA1-Digest: KnVBrGhJvOOMtd1Abbc6Ryaue/Q=
+
+Name: res/raw-ru/kis_78739.html
+SHA1-Digest: u8DQnqh/oOG3b72v7wAOUvPa8Cc=
+
+Name: res/drawable/kis_dialog_li_pressed.xml
+SHA1-Digest: UCNJy9db/xUmUJY1XiyZ6ydoLF8=
+
+Name: res/raw/kis_71881.html
+SHA1-Digest: wWQFkmUXNTfPvvvy7UlGlMBu4PU=
+
+Name: ae/com/sun/xml/bind/v2/runtime/unmarshaller/Messages_zh_TW.prope
+ rties
+SHA1-Digest: sSHWXGHO2V0xGzuDyzFXKAwAFhw=
+
+Name: res/raw/kis_72800.html
+SHA1-Digest: fD14lxqIaJQ/jfpGSDVumbX5DJg=
+
+Name: assets/blocks/b-main/main.css
+SHA1-Digest: isCqL/OEErWZNX+S8j/n0a6ZLa4=
+
+Name: res/raw-it/kis_71813.html
+SHA1-Digest: khNoVeFpHnL2t6xNxdiCzu8sDQo=
+
+Name: res/drawable-hdpi/kis_checkbox_off_disabled_focused_holo_light.p
+ ng
+SHA1-Digest: L0Ueg5qdBy7yeYOAMcufWK0uorE=
+
+Name: res/raw-pt/kis_71808.html
+SHA1-Digest: HU7WtDCJhQqOYM/5sHZU/LnJzgk=
+
+Name: res/layout/counter_control.xml
+SHA1-Digest: u8q3kABsK+HBzbIboCgIlcn8dRI=
+
+Name: res/raw-it/kis_74780.html
+SHA1-Digest: a5phjKtl11RDFua4Xbu/HuA/Aj0=
+
+Name: res/drawable/kis_li_states_bg.xml
+SHA1-Digest: 3rdTcbpyJVNi6oDjFdIPQssXrC4=
+
+Name: assets/blocks/b-footer/footer.less
+SHA1-Digest: znqDCYIbJdZ6vazvFISOmzYlIwg=
+
+Name: res/raw-pt/kis_71812.html
+SHA1-Digest: 3UXZeD7nkJXH5I/i7jn0PWby0qs=
+
+Name: assets/swipe-panel_nb.png
+SHA1-Digest: HmQeTdn0I0S7OMtfXpvlDGOfTXY=
+
+Name: res/raw-es-US/kis_71868.html
+SHA1-Digest: sOZ9jywtfaY8WMX8tTFwXee6Te0=
+
+Name: res/drawable-hdpi/kis_menu_fold_button.png
+SHA1-Digest: N7iF6MeZztPObVKYErdEvSVVvJM=
+
+Name: res/raw-es-US/kis_71928.html
+SHA1-Digest: W9BKedIBGWK9falEcX1q2pWclhs=
+
+Name: res/drawable-hdpi/kis_menu_button_safe_browser.png
+SHA1-Digest: sYp3t/vq1hGEpL9UaGFTXRwO5GM=
+
+Name: res/menu/kms_menu_enter_code.xml
+SHA1-Digest: H9/qztZmveKFvta2/0yjEuWVVFw=
+
+Name: assets/main_window_at_glance_es-rUS.png
+SHA1-Digest: EAbYjvcspHqXbWFsFlMc7yOu5Fk=
+
+Name: res/raw-ru/kis_71836.html
+SHA1-Digest: CMKHje4vBc6F6qDjlE148wv5760=
+
+Name: res/layout/kts_settings_detail_info.xml
+SHA1-Digest: U/+EfRC0QxkcYbZlpLneBaDcAi4=
+
+Name: res/layout/kis_no_data_info_layout.xml
+SHA1-Digest: ZTIprRu+d4K9HGuQ+9CMEQLsJhI=
+
+Name: res/drawable-hdpi/license_ok.png
+SHA1-Digest: MiepiykA7pMIs68vce+oZ/Vicro=
+
+Name: res/raw-es/kis_71841.html
+SHA1-Digest: EsmWDqWa0mMaujPhYbg0W4AyG4g=
+
+Name: res/raw-pt/kis_71860.html
+SHA1-Digest: iTPB8YrOVsmivgu7N+NJyxOBF/0=
+
+Name: lib/armeabi/libpacked_io.so
+SHA1-Digest: gTxFgb7uraHo6jw5yuIqKs8m+rE=
+
+Name: assets/blocks/b-forms/forms.css
+SHA1-Digest: OZFXi0LbHDu/ENiD+8Z8y4SlOO0=
+
+Name: res/drawable-nodpi/bg.xml
+SHA1-Digest: zs6t6JZQPY6Twhu1UmqKZzNXPjw=
+
+Name: res/raw/preblock.html
+SHA1-Digest: H7pyH3WMb4DwI+Lzc8sOt/p9NHU=
+
+Name: res/raw/kis_72505.html
+SHA1-Digest: T9zHIC+OpDynL6B+vms9AQZuLJk=
+
+Name: assets/ucp/ucp.esm
+SHA1-Digest: FqhX4xdoWqRior+kaBL9gTeFEEQ=
+
+Name: res/drawable/ico_phone_30.png
+SHA1-Digest: bT0WIO6kqxieknUoCcL5aqQMh4c=
+
+Name: res/drawable-nodpi/ico_contact_70.png
+SHA1-Digest: SGEWndxRWklKD4YPs1LkaZBtoug=
+
+Name: res/raw-de/kis_71840.html
+SHA1-Digest: s46Uepy2GDj4p2gnMj9WkPLTSY0=
+
+Name: res/raw/kis_71802.html
+SHA1-Digest: Lt+t4H3l15vtQLpQZ9AZlgHUsOY=
+
+Name: ae/com/sun/xml/bind/v2/model/annotation/Messages_pt_BR.propertie
+ s
+SHA1-Digest: K3CkOQ0nwTv3cvXhAwsn+hqQvGg=
+
+Name: res/raw-de/kis_71817.html
+SHA1-Digest: iEquIMYk434qbKZkkPSaZlVRrLs=
+
+Name: res/raw-pt/kis_71838.html
+SHA1-Digest: T1OvEQ9HoBG+sC6a3P/yxysj+EQ=
+
+Name: res/layout/wizard_incompatible_apps_kts.xml
+SHA1-Digest: pli8hkUCXVMHp2ug+pmVj7OcHI4=
+
+Name: res/raw-es-US/kis_71877.html
+SHA1-Digest: joPXc/9Q6Qg/u5L+jxtETYZeXhs=
+
+Name: res/drawable-xhdpi/kis_dialog_user_action_no_icon.9.png
+SHA1-Digest: XUiEZpn6oeUkzGHLiAvcnz5LZr0=
+
+Name: res/drawable-nodpi/settings_group_lock_green.png
+SHA1-Digest: JMQNvpeYN/H9o9WiAaBbsnLBJPc=
+
+Name: res/raw-es-US/kis_71832.html
+SHA1-Digest: Wyz69Y4O3KiU6dTTFbMS/Bjrj5s=
+
+Name: res/raw-it/kis_71802.html
+SHA1-Digest: zak0nZpPwPEKU/wSYHfYmJDj0yc=
+
+Name: ae/com/sun/xml/bind/v2/runtime/Messages_it.properties
+SHA1-Digest: AIe3avRAW95/7G38m3n+1WVpTgU=
+
+Name: res/drawable-nodpi/license_settings_background.9.png
+SHA1-Digest: XLaD6Q481omTW3kxJ0WopaTDsGg=
+
+Name: res/raw-de/kis_71791.html
+SHA1-Digest: YgcRKNrsKSoHxyGiQwB2HnYFVGQ=
+
+Name: res/raw-it/kis_71834.html
+SHA1-Digest: iHcX8OiUhk7LG9sQhgS9eQKwF4E=
+
+Name: res/drawable-nodpi/help_normal.png
+SHA1-Digest: d1s8RVvkHB8zmBnU5mgR/VZw3PQ=
+
+Name: res/raw-es-US/kis_71792.html
+SHA1-Digest: o1z3TkdpVahvvvTIk2+vB2S21R4=
+
+Name: res/raw/kis_72358.html
+SHA1-Digest: OP/t0mQmUeTdB+FWgIF0jE0coj0=
+
+Name: res/raw/kis_71808.html
+SHA1-Digest: TK2NZaY292n72MCRtKQ8xLjVapI=
+
+Name: res/layout/internet_connection_required.xml
+SHA1-Digest: Ags57G7co1qQauaCX56RpENyAQo=
+
+Name: ae/com/sun/xml/bind/v2/runtime/unmarshaller/Messages_de.properti
+ es
+SHA1-Digest: QaryjcVGEHqeZLHLQTjNh0OTjHg=
+
+Name: res/layout/kms_scan_result.xml
+SHA1-Digest: EvVuVhGyvjknyJ3EGaEIktt6aY4=
+
+Name: res/layout/kis_activity_settings.xml
+SHA1-Digest: ffbMhUL66apXM2oTt6Q3oHzCHfg=
+
+Name: res/raw-ru/kis_71830.html
+SHA1-Digest: IaEnkMt5BMbxCOEyjc6QWGTMp1o=
+
+Name: res/drawable/kms_progress_bar.xml
+SHA1-Digest: kjr0q/KbKyKiu4gvxLbvBEjrSew=
+
+Name: res/raw-it/kis_71783.html
+SHA1-Digest: x3evb5OUkyfEODXpbzPypBbmAgw=
+
+Name: res/drawable-xhdpi/kis_checkbox_on_disabled_focused_holo_light.p
+ ng
+SHA1-Digest: WkiNRS7sggs3FMrv7AFLqpNiBls=
+
+Name: res/raw-es-US/index.html
+SHA1-Digest: R4Y3oF7IvZlr+3W+VzqvZVVR0Og=
+
+Name: res/raw/kis_71844.html
+SHA1-Digest: y3UVACF0jn9q19J454ugG+Lrqiw=
+
+Name: res/layout/wizard_web_sign_or_create_kts.xml
+SHA1-Digest: ocje06ygMGKhiT+5bb80f9+J8Rc=
+
+Name: res/raw-es/kis_71838.html
+SHA1-Digest: FZe2DzYe2xDYmsLuDP4LVQsCcrA=
+
+Name: ae/com/sun/xml/bind/v2/Messages_fr.properties
+SHA1-Digest: 2Z2o4WYjaG/UQJv+Ts7xL0k5sYg=
+
+Name: assets/blocks/b-common/script.js
+SHA1-Digest: uwEVeUaV4eKdlTvZWYre67IEH80=
+
+Name: res/drawable/btn_backspace_focus_kts.png
+SHA1-Digest: Hk4dm/PCVUehSF1l/sbUWb+qhmE=
+
+Name: assets/help.png
+SHA1-Digest: LNaVUUpibdmst23M/i8U8wkaxiw=
+
+Name: ae/com/sun/xml/bind/unmarshaller/Messages_ja.properties
+SHA1-Digest: fUi84Sa921YB6/3CGCn/Z6uAZJ8=
+
+Name: assets/blocks/b-btns/tutorial-btn-prev.png
+SHA1-Digest: jY87+jdBNB7IvblADRar/hGFnlQ=
+
+Name: res/raw-de/kis_71825.html
+SHA1-Digest: 0JrQa1FHG+c9oUxyNbn9vcmIxYI=
+
+Name: res/raw-pt/kis_61347.html
+SHA1-Digest: ZlrgYkeZSknC/zA23QUouk+IZ6Q=
+
+Name: res/layout/alert_dialog_select.xml
+SHA1-Digest: e3W4fXv+ZQscfPdgH2SFMgGYcFE=
+
+Name: res/drawable/kis_li_issue_hide_states.xml
+SHA1-Digest: Qq0vL8oDX+LY9c8kgZZ8b+n04sM=
+
+Name: res/drawable-nodpi/settings_detail_separator.png
+SHA1-Digest: uNkXbjxvcd/r7FVLNARq4UDl3JQ=
+
+Name: res/raw-ru/kis_71877.html
+SHA1-Digest: anIJihDAHxlxMvywyoVTsCNrSF0=
+
+Name: res/drawable-hdpi/kis_checkbox_off_focused_holo_light.png
+SHA1-Digest: f5Lq/HvXgOiPXWBCbNbF28Q2tH0=
+
+Name: res/raw-es/kis_71878.html
+SHA1-Digest: wtgzTFNbDnhpkjBIAtZ8bUL64m4=
+
+Name: ae/javax/xml/bind/helpers/Messages.properties
+SHA1-Digest: OOowHXPrLnIM/F+korwZy+JEj9o=
+
+Name: res/raw-es-US/kis_71861.html
+SHA1-Digest: kx5fSJd/DFPeFVavcbiV0iznFW8=
+
+Name: ae/com/sun/xml/bind/v2/runtime/reflect/Messages_ko.properties
+SHA1-Digest: UejbC8zEn/+NzdkipFbxQQlf1Jc=
+
+Name: res/raw-es/kis_71809.html
+SHA1-Digest: GD752y8nNFdI0Qmq2ynoBoVzWik=
+
+Name: res/raw-fr/kis_71881.html
+SHA1-Digest: JjjIu4OMJChumkyy2lprwihqiD8=
+
+Name: res/raw-es/kis_71802.html
+SHA1-Digest: YZcEBW9+8lxFM0qJXt22xa1s+jw=
+
+Name: res/raw/avbases.avc
+SHA1-Digest: TyiOytf6wJT/7fTVeDiORG8yLIQ=
+
+Name: res/raw-de/license.html
+SHA1-Digest: vzXMikm+FOUU8xzMrmVdPwicJOs=
+
+Name: res/raw-pt/kis_71883.html
+SHA1-Digest: b51oeAHFFWAiUxf72klxLV+8cVw=
+
+Name: com/amazonaws/services/s3/request.handlers
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: res/raw-fr/kis_71778.html
+SHA1-Digest: xzET4b8DJ/8meuotiSyVq3TuXyc=
+
+Name: res/layout/kms_select_folder_item.xml
+SHA1-Digest: 2niuspTdIc7nj7y5DG6dBOO8kuo=
+
+Name: res/drawable/kis_menu_button_warning_pressed.xml
+SHA1-Digest: SFGiUaWSd4qwmphva0qJ5uglYLk=
+
+Name: res/raw-ru/kis_61347.html
+SHA1-Digest: Nw2pgm4Aj8OoVqorMKpHv0lAWX4=
+
+Name: res/anim/slide_up.xml
+SHA1-Digest: E/Ls/IE5SlUgc1Swi7JAgRicGF4=
+
+Name: res/drawable-nodpi/bg_top.png
+SHA1-Digest: a6J2E8jv3r5r3swXiR8HUsGX6fo=
+
+Name: assets/blocks/b-link/menu.png
+SHA1-Digest: LlqEtsBGk9c7Pusu0LYi5Q1xg7E=
+
+Name: res/raw-es/kis_71813.html
+SHA1-Digest: GKpM6213EozJm7ECf1WeugDbAiM=
+
+Name: res/layout/contacts.xml
+SHA1-Digest: OdtbaKOp8UEBbR0TcQ3i6Sqlfvs=
+
+Name: res/raw-ru/kis_71784.html
+SHA1-Digest: mrNzm9/+LD+ncXONykzkFLVa1Ec=
+
+Name: res/raw-es-US/kis_71855.html
+SHA1-Digest: ilvXCrOjfYlqOErQUu1iUFGDu+w=
+
+Name: res/layout/settings_selector.xml
+SHA1-Digest: 2VKAonq5aGV9kuNqwBHQlflVGnc=
+
+Name: res/drawable/shadow_up_alert.png
+SHA1-Digest: mvS/q2ceYJ0+BC2Udfvci28expo=
+
+Name: res/raw/kis_71842.html
+SHA1-Digest: Mg3Yn4tG8fuAfXbU+EvPmpBdbcs=
+
+Name: res/drawable-hdpi/kis_li_issue_last_update.png
+SHA1-Digest: x9lchQMxGXyN4AxmKvnhxP4IHzY=
+
+Name: res/drawable-hdpi/icon_features_3.png
+SHA1-Digest: QnkbjZy8o5bSZDj1k+R7YYVNMyg=
+
+Name: res/drawable-mdpi/license_expired.png
+SHA1-Digest: BfypCAGYVFzfbrVploKJ7aHv8Ig=
+
+Name: ae/com/sun/xml/bind/v2/schemagen/Messages_de.properties
+SHA1-Digest: hmappkgxdpOkEPM+0jiVs0LsgcQ=
+
+Name: res/raw-it/kis_71885.html
+SHA1-Digest: OdgbcThbkYnajAhaBpRjt2SGvEw=
+
+Name: res/raw-es/kis_71776.html
+SHA1-Digest: gQXlH9H9T2JO+cN2UeDQVhNuiXs=
+
+Name: res/raw-fr/kis_71874.html
+SHA1-Digest: EZIr6McuMcJz6Estw2PgC+9CF4A=
+
+Name: ae/com/sun/xml/bind/v2/Messages_it.properties
+SHA1-Digest: Ez/8X4Kv0uxWaNa1c3+cdEsEukw=
+
+Name: res/raw-es/kis_71821.html
+SHA1-Digest: SQO6iXUvUZGYbk3w/3fMPbvPI40=
+
+Name: res/raw-de/kis_71790.html
+SHA1-Digest: IJBGMl9Vt9MGgH0/km1O70upoCk=
+
+Name: res/raw-de/kis_71892.html
+SHA1-Digest: g6gPQx5dootuZLRStwo3F1TcjQc=
+
+Name: res/drawable-mdpi/kis_header_logo_beta.png
+SHA1-Digest: Hi8mQd9FWZBs0COhJZpzvtolyUE=
+
+Name: res/raw-es/kis_71882.html
+SHA1-Digest: fGQaUxp5lGew/eyW9gquZEvFM0Q=
+
+Name: res/raw-pt/kis_71792.html
+SHA1-Digest: qLj4JmKML1zUlHE6bF7dfv8U6CE=
+
+Name: res/drawable/call_log_missed.png
+SHA1-Digest: gPa3INq9Qwveu3ZN8a5qdoZf5d8=
+
+Name: res/raw-de/kis_58977.html
+SHA1-Digest: BO4sUtucDeCyC2UEec+OmqycqFI=
+
+Name: res/raw-ru/kis_71806.html
+SHA1-Digest: BbrfcsCGOD5URENNmRR/KKj2qvA=
+
+Name: ae/com/sun/xml/bind/v2/runtime/property/Messages_es.properties
+SHA1-Digest: UOmZNoLIgBkYgY81YsFnsk30iK8=
+
+Name: res/raw-ru/kis_71853.html
+SHA1-Digest: jnPt2i2miNAF8sJY9hko9qGznVM=
+
+Name: assets/ico_license_expired_25.png
+SHA1-Digest: IbYqcI3wX6tNfkvcUBohG9umuk8=
+
+Name: res/raw-es-US/kis_71876.html
+SHA1-Digest: j8qiUOpqwkNhj+dQYnFOq/ySIX0=
+
+Name: res/drawable-hdpi/kis_issues_header_hide.png
+SHA1-Digest: rXEw9t8pZ3hH4Kw2brtcj51SIkQ=
+
+Name: res/drawable/ico_update_complete_30.png
+SHA1-Digest: Oqx0/ihCu9qSULQJoNmgWeVrQ1Y=
+
+Name: res/raw-es-US/kis_71893.html
+SHA1-Digest: 6vvmwbx4tx0IdUFR/lNeJKAlY8U=
+
+Name: ae/com/sun/xml/bind/v2/runtime/unmarshaller/Messages_es.properti
+ es
+SHA1-Digest: 7DC3mfr+maqPtE19kowfGxL2ePc=
+
+Name: res/drawable/ico_wizard_no_connection.png
+SHA1-Digest: 7nDY144QuqDmwQJIQdBUN2ZW6oU=
+
+Name: res/menu/kms_menu.xml
+SHA1-Digest: ffWw1nBm70cAbE9HZfWMxym7MbE=
+
+Name: res/raw-es/kis_71842.html
+SHA1-Digest: aL7Kh5gcpHXT4TJGKGXUHMvxYHA=
+
+Name: res/raw-pt/kis_71791.html
+SHA1-Digest: HPW3QSITNk/T1RY74pdAf9/UwoE=
+
+Name: assets/swipe-panel_ja.png
+SHA1-Digest: TreeP24JJoZcdr8GONJVETSBm/c=
+
+Name: res/raw-pt/kis_71803.html
+SHA1-Digest: ljbtpCRSbU4XPDBJBDsmTgqYrN4=
+
+Name: res/layout/kis_li_issue_description.xml
+SHA1-Digest: 7OBmbXEBsurHPXAu4yVk5S2tPtI=
+
+Name: com/amazonaws/javax/xml/stream/xerces/impl/msg/XMLSerializerMess
+ ages.properties
+SHA1-Digest: TOXDBAl879fyMR82czfMw4/5ZQ4=
+
+Name: res/raw-pt/kis_71841.html
+SHA1-Digest: OvKKULBYILMKWhl3Xgek73K4WTU=
+
+Name: res/raw-fr/kis_71876.html
+SHA1-Digest: ISi+gedApmRUYCyCP/We01pGeCA=
+
+Name: res/raw-ru/kis_71833.html
+SHA1-Digest: 8SEDcaA8q5K+0ydLfhJtCzcP9uM=
+
+Name: assets/css_mobile.css
+SHA1-Digest: q8wLCx/rVaER5NwRjT7aDoB4F3E=
+
+Name: res/raw-fr/kis_71891.html
+SHA1-Digest: V5y9x64hTm/f8UL2QksCyrRBEQU=
+
+Name: res/drawable/kis_dialog_button_states.xml
+SHA1-Digest: +GG1/j9LVJQIFegyEcvXrOEaX9A=
+
+Name: res/drawable-xhdpi/kis_checkbox_off_holo_light.png
+SHA1-Digest: puiHVTxGKOokFKOaR6NdQaXt8oo=
+
+Name: res/raw-es-US/kis_71879.html
+SHA1-Digest: RPn130wgPZLGXab8wgVww9W8ghI=
+
+Name: res/raw-ru/kis_59757.html
+SHA1-Digest: QG8ZtvAPOKvo7Vot408OYuQ+I04=
+
+Name: res/drawable-xhdpi/kis_radiobutton_on_holo_light.png
+SHA1-Digest: KpFystwOHZuVYKHnsQy7dLLRyPw=
+
+Name: res/layout/alert_dialog_select_li_multichoice.xml
+SHA1-Digest: Em8u84N7fId/q0OA4MPCVUJhSak=
+
+Name: lib/x86/libkl_uuid.so
+SHA1-Digest: UgwSQUyrhqCpM7MbU1mpHpklwc0=
+
+Name: res/drawable-mdpi/kis_header_logo.png
+SHA1-Digest: y8chEEB3IGzhIujj8f56is2cYwU=
+
+Name: res/raw-de/kis_71795.html
+SHA1-Digest: dkYN/hAQTVXXQ29zgZLzwqDEoVY=
+
+Name: res/raw-it/kis_71890.html
+SHA1-Digest: SAmYLNj9CV/23+bMnTuAbXmFvG0=
+
+Name: res/raw-es-US/kis_71803.html
+SHA1-Digest: fOcYsNP5PKgXP4Cv5lxaX/O8B0g=
+
+Name: res/raw-it/kis_71843.html
+SHA1-Digest: 1Be4X7s00FJIxI3g1KBehvYZIGU=
+
+Name: res/xml/device_admin.xml
+SHA1-Digest: lGA75OsAGtrMUw8NBGqA59Sxm0U=
+
+Name: res/drawable-mdpi/kis_switch_thumb_holo_light.9.png
+SHA1-Digest: 8C6SsQdmcmN2RetAGhBF1EGJTIE=
+
+Name: assets/status_window_pt.png
+SHA1-Digest: AJ4TgGT++45bLReyacydLStGG1I=
+
+Name: res/drawable-nodpi/settings_detail_caption_drawable.xml
+SHA1-Digest: +KWwcdT2oIA4eysu0bxZkQaWjRE=
+
+Name: res/drawable-mdpi/ico_wizard_welcome.png
+SHA1-Digest: VxHjtxw8rmbx9xga8n8FOPYO4Zw=
+
+Name: res/raw/kis_71809.html
+SHA1-Digest: KkSWQkJSy8cQzN71xExpJ7e6Oqs=
+
+Name: res/raw-es-US/kis_71887.html
+SHA1-Digest: UkgYV00CEj3pE/IHIU+O/+NC5gk=
+
+Name: ae/com/sun/xml/bind/v2/doc-files/j2s_architecture.gif
+SHA1-Digest: PI33teTmFjSJwxhX4cNGNsgO4eE=
+
+Name: res/layout/kts_show_ipm_content.xml
+SHA1-Digest: J6mgBI2gcY47htpuRjEWJ0srbXE=
+
+Name: res/raw-de/kis_71849.html
+SHA1-Digest: QhebBSFe5PKHSpUbcD3Keg/QmBs=
+
+Name: res/raw-es-US/kis_71802.html
+SHA1-Digest: 7tjizl6MNV3TxpTWh4YF8E/nAOk=
+
+Name: res/raw-es/kis_72358.html
+SHA1-Digest: ouD4jVb492SJ9S05SbI30lcGlq4=
+
+Name: assets/swipe-panel_fi.png
+SHA1-Digest: edxaq6+G8JlSyoHcgTPesTyk5cw=
+
+Name: lib/x86/libgnustl_shared.so
+SHA1-Digest: vODQgRwHzlFccK5fXaOd4/yPDoU=
+
+Name: res/drawable-mdpi/ico_wizard_activate.png
+SHA1-Digest: R1RFkClToiHD0Um8COpNtUhmqqE=
+
+Name: assets/blocks/b-content/menu_white.png
+SHA1-Digest: nB1aAz+thoMA/w7vybIFlkoTGto=
+
+Name: res/raw-pt/kis_71880.html
+SHA1-Digest: ht/aKQY7ILQ7PrBs+2cTeQe2zDo=
+
+Name: res/layout/progress_button.xml
+SHA1-Digest: AKeWR2oLKw9bQcQVLXUZjND/TME=
+
+Name: res/drawable/call_log_in.png
+SHA1-Digest: 2PwvVMyhbBqUfAMNufMEMz1ewa0=
+
+Name: assets/fonts/Roboto-Medium.ttf
+SHA1-Digest: YcPCTDCV4GQbijvQY66l+h/irfU=
+
+Name: res/layout/wizard_activation_codes_list_footer.xml
+SHA1-Digest: 5NYxoB7ZE2taSrtZKu1qDo68mjg=
+
+Name: res/layout/activation_result.xml
+SHA1-Digest: yFiu1FBxgWqZfuq18n7h3j6Z0D8=
+
+Name: res/layout/kts_info_activity.xml
+SHA1-Digest: dSBwaiKuU1nhTCJFlh0AoggXESo=
+
+Name: res/drawable-nodpi/w9.png
+SHA1-Digest: +8PvzEVC0LTF+yxuNIOLrmKvIsk=
+
+Name: res/drawable-nodpi/bg_repeat.png
+SHA1-Digest: r/66ECFxEyVYqOJ35/MzH7frCjA=
+
+Name: ae/com/sun/xml/bind/marshaller/Messages_ja.properties
+SHA1-Digest: nkSBAPbs/CdyRhp+9wU6DnEdTJM=
+
+Name: res/raw-ru/kis_71872.html
+SHA1-Digest: YY3e6ZfW9agstoLxTyxavj8fJiM=
+
+Name: res/drawable/ico_reports_as.png
+SHA1-Digest: b1ZfahmoRNEA9RXAINmWsugig2U=
+
+Name: res/drawable-hdpi/kis_checkbox_on_focused_holo_light.png
+SHA1-Digest: J0OhUZh3XP0BT3avUFoVhlTjdDY=
+
+Name: res/raw-pt/kis_71830.html
+SHA1-Digest: Lj6LQQtgDje1UCJNt6t4abSrqw4=
+
+Name: res/raw-de/permission_denied.html
+SHA1-Digest: TXbmfE+XGPIddkZ4pPSdfEFaiU0=
+
+Name: res/raw-es/kis_71807.html
+SHA1-Digest: eNUu/xvYSXCJTZHEVLUqV03Ffl0=
+
+Name: res/raw-pt/kis_71853.html
+SHA1-Digest: j1axTj5Q7lf06sMAc4R0v8d4o70=
+
+Name: res/raw-it/kis_72358.html
+SHA1-Digest: MDfLE2FTyJWgmaWaeLwDPEFZhhA=
+
+Name: res/raw-it/kis_71864.html
+SHA1-Digest: CPTThWxReEe6pM7AQ4EO5dUSGJA=
+
+Name: res/drawable-nodpi/hdr_bitmap.9.png
+SHA1-Digest: z1fyKGBASodIhJs1vKooVmhFifw=
+
+Name: res/raw-it/kis_71852.html
+SHA1-Digest: 019uKhQnyrMUpRs+3ETVfjjXIWs=
+
+Name: res/layout/kts_free_info_layout.xml
+SHA1-Digest: gs6HSUWM8QPScfzjGa6/eQdn9rY=
+
+Name: res/raw-pt/kis_71872.html
+SHA1-Digest: xxd5eBJfSIPFAqmv6Vs4lNBqp94=
+
+Name: assets/permission_denied.png
+SHA1-Digest: BRSxZSb/J6WArQIPSfLR23tgrUs=
+
+Name: res/drawable-xhdpi/kis_menu_button_bg_pressed.9.png
+SHA1-Digest: VnL3gXpdtEk+sDp/qOvK0vjXJk4=
+
+Name: res/drawable-hdpi/ico_wizard_incompatible_apps.png
+SHA1-Digest: huQHdfykFP1e7qpAWGE1Zs0STPM=
+
+Name: res/raw-es-US/kis_71830.html
+SHA1-Digest: 38ti80sgHrtQhMS+NYV1dEktEVI=
+
+Name: res/drawable/logo_kts.png
+SHA1-Digest: wwUkYE8D1DZGLO/P4cw2ihIA2sk=
+
+Name: res/raw-it/kis_71781.html
+SHA1-Digest: 8vIApAguFUeTqujwWZrQ99IhMQg=
+
+Name: res/drawable-nodpi/settings_detail_round_disabled.png
+SHA1-Digest: 5sKzropprehEIyjq6OD4rV0oDbw=
+
+Name: res/raw-fr/kis_71854.html
+SHA1-Digest: tChp2YVVOgGCNQd40r0GJkhs6CU=
+
+Name: res/raw-it/kis_71828.html
+SHA1-Digest: NRLoT/YBQlMrQXh561eUwlTMahY=
+
+Name: res/layout/kis_activity_main.xml
+SHA1-Digest: gy6Wm+3XDyAP3JzTGP+X5ONdDfA=
+
+Name: res/raw/kis_71820.html
+SHA1-Digest: MlSK4+cM1KkEUk3IHaBWtYqeWuA=
+
+Name: res/raw-ru/kis_71885.html
+SHA1-Digest: MUK3xbt/h5KaM8loqxRZgDDY+rc=
+
+Name: ae/com/sun/xml/bind/v2/model/annotation/Messages_fr.properties
+SHA1-Digest: lX1SzsNqVUfaFlCLBCb0yE48qao=
+
+Name: res/raw-fr/kis_71782.html
+SHA1-Digest: c83tlM3qE8JNrGhReI6uzfRmaSY=
+
+Name: res/raw-fr/kis_71863.html
+SHA1-Digest: dIP09n2Zs18NB0Vxy//qdOdIWPU=
+
+Name: res/drawable-hdpi/kis_menu_button_update.png
+SHA1-Digest: EczkcqoKrUaGgWqn8t2ZhvS/tNM=
+
+Name: res/raw-pt/kis_71809.html
+SHA1-Digest: c4Y7odsN9s2lUO2u+AocEeagyno=
+
+Name: res/layout/enter_code_kts.xml
+SHA1-Digest: 0bqaveT50GwHwSpTiEBfAE9CLp8=
+
+Name: ae/com/sun/xml/bind/marshaller/Messages_es.properties
+SHA1-Digest: sD0GQkz1kJOPMUQUn2EI2lO13J0=
+
+Name: res/raw-ru/kis_71844.html
+SHA1-Digest: hbOUqKGvlj8wVRBfec0etOQL0ek=
+
+Name: res/layout/kis_fragment_settings_tabs.xml
+SHA1-Digest: QeCLIlIwH7glcO6ZDKxX611fXUE=
+
+Name: res/raw-es-US/kis_61373.html
+SHA1-Digest: +b5UnbcSkGMksS04QeddPNgYq74=
+
+Name: res/layout/kis_enter_code.xml
+SHA1-Digest: BmT3a6bm9bbb/WUFBlBy6Fqcj7U=
+
+Name: res/raw-it/kis_71861.html
+SHA1-Digest: iIe3it0P8VA8tWMqsJwzvf37lX0=
+
+Name: res/drawable-hdpi/kis_checkbox_on_disabled_focused_holo_light.pn
+ g
+SHA1-Digest: omA82U3lL8zm7O8XufZgVeMWpfk=
+
+Name: lib/x86/libscan_kavd_pie.so
+SHA1-Digest: tLiyVQfN59kCXktJ3lejgqymMAE=
+
+Name: ae/com/sun/xml/bind/v2/schemagen/Messages_fr.properties
+SHA1-Digest: cNp5TD+YMoPH4NEGXUh50CMMuSY=
+
+Name: res/drawable/dotted_line.xml
+SHA1-Digest: V1gRa1lFxbt/zPAZxLanXHjiiOk=
+
+Name: res/raw-de/kis_71868.html
+SHA1-Digest: WLI0SqDOMmap9Mh2f71Q3ACYK+4=
+
+Name: res/raw-es/kis_59757.html
+SHA1-Digest: gd1zzgktZouOTMEX2gIgwhm62hA=
+
+Name: assets/blocks/b-common/inner.js
+SHA1-Digest: 3M4/HoY0qcYjYF5i77cSAWXQYZk=
+
+Name: res/drawable-xhdpi/button_blue_hover_png_kts.9.png
+SHA1-Digest: IVSz0k6VB/y1RxuKeOVxJXwZZ78=
+
+Name: res/raw/kis_71790.html
+SHA1-Digest: MC60JhCNQIbUIntOKybEk1pO6z8=
+
+Name: res/layout/kms_settings_detail_info.xml
+SHA1-Digest: SUTIUAZWjd/cpozCGLHBuYfnYZc=
+
+Name: res/raw-de/kis_71851.html
+SHA1-Digest: 5Lv+pufJ49cLlT5jhPjYYsoepsI=
+
+Name: res/raw/kis_71861.html
+SHA1-Digest: KilUEtJ/ZcFUiXaeT62qFM+R6uE=
+
+Name: res/layout/manage_space_kms.xml
+SHA1-Digest: f4z7ZOEfSHHmSBsEK7277EWfb2Q=
+
+Name: ae/com/sun/xml/bind/marshaller/Messages_zh_TW.properties
+SHA1-Digest: 5y13gNzkvVw2v2mzVPEJMysT7EM=
+
+Name: res/drawable/btn_backspace_b_kts.png
+SHA1-Digest: FZ0gzPh9ciH6JkbTm2kMJjAN3TM=
+
+Name: res/drawable/w8.png
+SHA1-Digest: HuKDyVTxz3qOUArX2AO5GAKCmUI=
+
+Name: res/drawable-ldpi/kts_icon.png
+SHA1-Digest: AFBUH+6GH6Pl0W0ZPZg0n+GsQ9M=
+
+Name: res/layout/rate_us.xml
+SHA1-Digest: 06mH9gfuW+TNwrw9bUMPg2Mh0Tg=
+
+Name: res/raw-es/license.html
+SHA1-Digest: nScdv3MqRi5M7mAAxP3nn3+vcTI=
+
+Name: res/drawable-nodpi/settings_blue_btn_selector.xml
+SHA1-Digest: f0ORoyP61KfS7TCt4FxjX2e/EMo=
+
+Name: res/drawable/kis_li_issue_show_states.xml
+SHA1-Digest: XyL/egJ3W9FLpcu6XExI1g800ao=
+
+Name: assets/swipe-panel_tr.png
+SHA1-Digest: Y880UXM48bcoOOIrCtFo3HQbjls=
+
+Name: assets/status_window_nl.png
+SHA1-Digest: +qFO/DETl3ryj8YpN/4z4bIpRwo=
+
+Name: res/drawable-nodpi/kts_ksn_disconnect.png
+SHA1-Digest: AGQVCeonoxtp0OTvCnoqQ4/gbcw=
+
+Name: lib/armeabi/libscan_kavd.so
+SHA1-Digest: gYulynuIN8g5Rsgy2Bnx2U8xEt8=
+
+Name: com/amazonaws/javax/xml/stream/xerces/impl/msg/XMLMessages.prope
+ rties
+SHA1-Digest: X3i3nihNptfOf2DA5B72uIev3h0=
+
+Name: res/drawable-xhdpi/kis_menu_button_premium.png
+SHA1-Digest: uhW9zf9xBlTW8xFi0XxBlBr1JJU=
+
+Name: res/raw-es/kis_71879.html
+SHA1-Digest: b5bqLVKdZQqsE01Q6F26pfAI/84=
+
+Name: assets/stylesheet.css
+SHA1-Digest: 572vZKgHpAfEos6xL1nx7eWESD8=
+
+Name: lib/armeabi-v7a/libkl_uuid.so
+SHA1-Digest: wB9MVFIcREQhCDceVH1oqj7IuW0=
+
+Name: res/raw-pt/kis_71781.html
+SHA1-Digest: z3EmYwu1bnMoremjNhT0Y1KxKeA=
+
+Name: res/layout/alert_dialog_user_action_antispam_voice_info.xml
+SHA1-Digest: ShRKdrs8db7L6zINykTWBjnWHI4=
+
+Name: res/raw-es/kis_71794.html
+SHA1-Digest: 0mzFo60Tsb32cNgReYe9sV6PnVU=
+
+Name: res/raw-it/kis_71842.html
+SHA1-Digest: UzTxI4yZtubWqfzHQLX4PAihd70=
+
+Name: res/raw/kis_71886.html
+SHA1-Digest: qPs1NIbiiZdr6NUj0Bt7hNJh5zs=
+
+Name: ae/com/sun/xml/bind/v2/runtime/unmarshaller/Messages_ko.properti
+ es
+SHA1-Digest: CjhpSnXYRoi391Pc/ev8KkYJImc=
+
+Name: res/raw/kis_71849.html
+SHA1-Digest: 50eNEVGHS0axNYpAj/J6DotkMl4=
+
+Name: res/raw-pt/kis_71855.html
+SHA1-Digest: MPW+whCKYlmSmduMI8ktCM/fykM=
+
+Name: res/drawable-hdpi/free3.png
+SHA1-Digest: px9TWlpLjha2X7LNN1YA4rnkwlw=
+
+Name: ae/com/sun/xml/bind/v2/runtime/unmarshaller/Messages_pt_BR.prope
+ rties
+SHA1-Digest: 9l20o1m7Aw3HYBm7lAiUeCg1HGs=
+
+Name: res/raw-de/kis_72505.html
+SHA1-Digest: 4Eni0MddIlo+J2PIaGu+/5zX430=
+
+Name: res/raw-de/kis_78739.html
+SHA1-Digest: aZWc7Djv93Z7OkWQSV14Qk51U5Q=
+
+Name: assets/blocks/b-btns/btns.less
+SHA1-Digest: PftJCOlK2+C2jAyLKAeEfOAjPZo=
+
+Name: ae/com/sun/xml/bind/api/Messages_ja.properties
+SHA1-Digest: 4hN7pFZ4z0S/yeRm8JPjpvPv9yg=
+
+Name: res/raw-es-US/kis_71808.html
+SHA1-Digest: 530kF9e9zu0J485vPMA5sdc2YrU=
+
+Name: assets/KasperskyLabPublicServicesRootCertificationAuthority.crt
+SHA1-Digest: C1cxGZAKoQjsfOkTcLfwcdpDZKE=
+
+Name: res/raw-ru/kis_72712.html
+SHA1-Digest: 9VFnhnSYjd7himJrfmx2XNd/4LU=
+
+Name: res/raw-es-US/kis_71844.html
+SHA1-Digest: +PKZQDRjMJx3TwYDQBsgn24OMBo=
+
+Name: res/raw-ru/kis_71791.html
+SHA1-Digest: abL5QJJS5cfJzY+fIjgkZjPP8Hc=
+
+Name: assets/separator.jpg
+SHA1-Digest: hjAYMKwMJl++wG9yjIFC53cRu9k=
+
+Name: res/drawable/ico_k_36.png
+SHA1-Digest: QIXGzB0QxReAQb33BpPbFNSJqeQ=
+
+Name: assets/status_window_it.png
+SHA1-Digest: evgskflB/stRrJ9cPvVIfCEYmtY=
+
+Name: res/raw/kis_71812.html
+SHA1-Digest: mowoADph0PQs67ehdD3dRLGvn20=
+
+Name: res/raw-ru/kis_71840.html
+SHA1-Digest: Vkz1mnzRSoKBMONpbB42U4Pj6cc=
+
+Name: res/drawable-nodpi/dot_grey_tr_small.png
+SHA1-Digest: 2rok0CZZuNUEA3bQLVSxeqPmMlM=
+
+Name: res/raw-de/kis_61355.html
+SHA1-Digest: 3oVoyIWrCteXeP3NZM0ClWuajDA=
+
+Name: res/layout/kts_activation_confirm.xml
+SHA1-Digest: Z3kA/OMzC/sw5KfnFRRSEM67Q0w=
+
+Name: res/layout/kis_fragment_settings_setting_tmp.xml
+SHA1-Digest: X4nG0oRrQw1ZHvvJKuu5nttLafc=
+
+Name: res/layout/kts_settings_group_item.xml
+SHA1-Digest: 2UoVUrdCTFYOfHRNDRcgYHhCK48=
+
+Name: res/raw-es/kis_71816.html
+SHA1-Digest: nlGeArbm4sh7MLZzc7SQy8yB0N4=
+
+Name: res/raw-es-US/kis_71822.html
+SHA1-Digest: d//4TnS5Xs6lywTP1/5I4hS41M8=
+
+Name: assets/kms_eula.index
+SHA1-Digest: rDR41po8gfpi5g9cNpYWWk5easQ=
+
+Name: res/layout/kis_fragment_settings_setting_scan.xml
+SHA1-Digest: uLXWgu7InjANscpSEFeNOFl6TvM=
+
+Name: res/raw-ru/kis_71924.html
+SHA1-Digest: Ho+MPRVVI2SZQdUTKb/s9R1nUoA=
+
+Name: res/raw-es-US/kis_71821.html
+SHA1-Digest: Fi+551vkvgf17fr+IVYQPfc98jY=
+
+Name: res/drawable-nodpi/settings_group_webportal_white.png
+SHA1-Digest: Zkoz2RZbrozqQeMi04q0/g+rW+Q=
+
+Name: res/raw-es/kis_72505.html
+SHA1-Digest: fTd8415alEtpISjA4vx2Kaopm70=
+
+Name: res/raw/kis_71797.html
+SHA1-Digest: xWT7QAE3KDxrgRe3ZKgXoO+ge5c=
+
+Name: res/raw/kis_71859.html
+SHA1-Digest: HIlI326TmOPAn1SQYfyT6pEFSt4=
+
+Name: res/raw-es-US/kis_71883.html
+SHA1-Digest: uYeoYXGEWkZcH2ssm7k8g40NUBU=
+
+Name: res/drawable-nodpi/settings_group_list_view_selected.png
+SHA1-Digest: /QAOf2xJHjWf9FZEqFsNRCDrVUQ=
+
+Name: res/drawable-nodpi/ico_activate_key_70.png
+SHA1-Digest: I25KOgMdWsscQfUGbJguyxhxb7A=
+
+Name: res/raw-es-US/kis_71924.html
+SHA1-Digest: egK1gxZdMFst5YO2P7bqjK2Uaww=
+
+Name: res/layout/kis_activity_listview.xml
+SHA1-Digest: hjsqW9K8RcEyAnbCbEhNTZyrgVE=
+
+Name: res/drawable-xhdpi/kis_checkbox_off_pressed_holo_light.png
+SHA1-Digest: sQxmRQ4Quthg7bKLXGv96UG1DEk=
+
+Name: res/raw/kis_71893.html
+SHA1-Digest: 6HKPMq5PcvCYnp6NSTDjcJZQePs=
+
+Name: res/drawable/w4.png
+SHA1-Digest: lmLMEtGhjJgXejOitz0tgXEVE0M=
+
+Name: res/raw/kis_71869.html
+SHA1-Digest: W+mFY8kTlThFWgJuNp1vvhtni6s=
+
+Name: res/raw-de/kis_71847.html
+SHA1-Digest: ykVmrekfS+q8uY098g7/4lukQxE=
+
+Name: res/drawable-hdpi/kis_menu_button_pp.png
+SHA1-Digest: gqsK2bGYFPRM4qpDd9EIXVgHMAA=
+
+Name: res/layout/kts_settings_detail_clickitem_with_text.xml
+SHA1-Digest: 6B9SfhOZ9gaf81408tOTL93WbY4=
+
+Name: res/raw-es/kis_71890.html
+SHA1-Digest: WOLfHvhXorusTfCYXDE4AZsyrv8=
+
+Name: res/layout/help_layout.xml
+SHA1-Digest: plWZrW8Ud0mIZVac0TMmdnVPDxU=
+
+Name: res/drawable-xhdpi/counter.png
+SHA1-Digest: HEtnStzKLwm7ntDh7jYhVyv7vOQ=
+
+Name: res/raw-fr/kis_71605.html
+SHA1-Digest: 6B5mfGq1Zuuduo5IdBr3ufqZBX0=
+
+Name: res/raw-es/kis_72712.html
+SHA1-Digest: 4Nw4NFD5hd1s3PyXLrwhYavcmVc=
+
+Name: res/raw-it/kis_71889.html
+SHA1-Digest: pT4DoL+E/h408rq7ID3vvzzgd8g=
+
+Name: res/raw/kis_71863.html
+SHA1-Digest: X18zX1mNjCd25GFofJO1XnP61OA=
+
+Name: ae/javax/xml/bind/Messages.properties
+SHA1-Digest: 1cZhFFKNloOJAgjZfNk7ho7BUQc=
+
+Name: res/raw/kis_71865.html
+SHA1-Digest: OnSDpXWVCWRMOvVnyOFpstfZIfI=
+
+Name: ae/com/sun/xml/bind/v2/Messages.properties
+SHA1-Digest: JgaDqxq42zF+bPmFyxf8cQkrHy0=
+
+Name: res/raw-de/kis_71888.html
+SHA1-Digest: bIbMKvQkitp8kgIejDzKmyvz2/0=
+
+Name: res/layout/alert_dialog_user_action_footer.xml
+SHA1-Digest: m1TpqlZtEsihSdvosACRd460ObI=
+
+Name: res/drawable/dialog_footer.xml
+SHA1-Digest: kBxBdbg8gFK5cOaQy94Bsq7D/1g=
+
+Name: res/drawable/kis_setting_tab_webprotection_states.xml
+SHA1-Digest: 3/lO2qc2/rIQ0hu8iQXiEmBeLpw=
+
+Name: res/drawable-nodpi/update_icon.png
+SHA1-Digest: IYTM6Uqqglp1VN88g0wxxTfzD5I=
+
+Name: res/raw/kis_71826.html
+SHA1-Digest: 9Tuh8JYxj2nVxej4F5CEzZ24uWo=
+
+Name: res/drawable/button_enter_kts.xml
+SHA1-Digest: htnXU1gwM/MXF/yyt4J54EyqCHw=
+
+Name: res/layout/activation_confirm.xml
+SHA1-Digest: CjAruRkYiDxYtuO9sOF+gUgRyQw=
+
+Name: res/raw-it/kis_61347.html
+SHA1-Digest: rMc1WbIiJbSEwsAdvs/NOaV4o2Y=
+
+Name: res/raw-fr/kis_71888.html
+SHA1-Digest: 5ewOp3mDgtkyvqc9khaPqlIXHKY=
+
+Name: res/raw-ru/kis_71821.html
+SHA1-Digest: GqQ3Y0nAufrfexSk+THrI0KYwrc=
+
+Name: res/raw-it/kis_71872.html
+SHA1-Digest: IYAWU+nJxKJmPHsCtS9YgAijKk0=
+
+Name: res/layout/kis_li_setting_checkbox.xml
+SHA1-Digest: dY3zzprHxa+i7ee5kfx2psDVNH4=
+
+Name: res/raw/kis_71899.html
+SHA1-Digest: DQF9zq26pjUKkPzzUn5vyul9ch0=
+
+Name: res/drawable/ico_password_recovery_39_light.png
+SHA1-Digest: D4MbZa4KGl3RnAH9sv2kTqVQW8k=
+
+Name: res/drawable/ico_missed_call_25.png
+SHA1-Digest: Rtokuslr23VjEvGb1U0B5oVk4vI=
+
+Name: res/raw-fr/kis_71836.html
+SHA1-Digest: sxxQ/r6UkKVDO6qQN29feXJJ9PU=
+
+Name: res/drawable/btn_backspace_a_kts.png
+SHA1-Digest: ke420RJFrWS8LzDIeagXZtgCwUs=
+
+Name: res/raw/kis_71852.html
+SHA1-Digest: CNsUc4FojvrjvEvB0sN2/WEQmHw=
+
+Name: assets/scan.png
+SHA1-Digest: 6nsWT+4i71MzQHIg0uvszzqHgAs=
+
+Name: res/raw-de/kis_71859.html
+SHA1-Digest: 7uip2vrngO2OTHz0Snr1gvFr5BE=
+
+Name: res/raw-es-US/kis_71885.html
+SHA1-Digest: RPHX97gz/tWjLpsO+dOel/1K3jw=
+
+Name: ae/com/sun/xml/bind/v2/runtime/reflect/Messages_ja.properties
+SHA1-Digest: tNbCpLdqI2aAs2LbpAWEPgtQDRA=
+
+Name: assets/default_settings
+SHA1-Digest: JkdNQlnSLqiS03lfkwhOIGzlrqk=
+
+Name: res/raw-es/kis_71822.html
+SHA1-Digest: 5EkwDdNktDRboJuwkiHq2xQVkLQ=
+
+Name: res/raw-fr/kis_71871.html
+SHA1-Digest: mNFuacuf5OtRC6lSRCm+TkNxLMc=
+
+Name: res/layout/kts_settings_detail_reports_header.xml
+SHA1-Digest: Sjc/UD1sNcfa81MHH9a6aHNANhA=
+
+Name: res/drawable/agreement_button_pressed.xml
+SHA1-Digest: E7R82MafEOM38EfaCIQk/VbmmdA=
+
+Name: res/raw/kis_71890.html
+SHA1-Digest: 22ygvjiVfRjDMTG60h6J4gYe6YU=
+
+Name: res/drawable-hdpi/kis_switch_thumb_holo_light.9.png
+SHA1-Digest: NeNTJS4hZYOXRtftuzIcFeZiSxg=
+
+Name: res/drawable-xhdpi/button_blue_normal_png_kts.9.png
+SHA1-Digest: 1G7ChNoe/dgxcJFygxOyIZNTBLI=
+
+Name: res/layout/alert_dialog_user_action_title.xml
+SHA1-Digest: IoFPromggX8HTB7H7qTa2sr+DtE=
+
+Name: res/drawable-xhdpi/button_green_disable_png_kts.9.png
+SHA1-Digest: 8ade9U7Mm9npPA4QqXzDJbhP4nI=
+
+Name: assets/main_window_at_glance_es.png
+SHA1-Digest: oeMfQos2vtfawi+n9f6GFD1iG+0=
+
+Name: assets/status_window_fi.png
+SHA1-Digest: jvJBSpNa6Cv1jkpW0C3A7paUyFE=
+
+Name: assets/main_window_at_glance_nb.png
+SHA1-Digest: TPgPqwb42Jo0wbGVUPPSaSIhgkU=
+
+Name: res/raw-fr/kis_71826.html
+SHA1-Digest: lGUbKQgArZGn3D+gYgcMM3PyZTs=
+
+Name: res/raw/kis_71882.html
+SHA1-Digest: 6j11FF6r7P7uSj689+dKL5ZgaZk=
+
+Name: res/drawable-hdpi/kis_radiobutton_off_disabled_holo_light.png
+SHA1-Digest: rMbr0WH7cKblej7PirjOMDaM8Wc=
+
+Name: res/raw-pt/kis_71833.html
+SHA1-Digest: WRbWbeKfCCLcla7CqojHB1CSimQ=
+
+Name: res/raw-pt/kis_71822.html
+SHA1-Digest: 7i/cMAjc2d4RctIcWo/actdjhTU=
+
+Name: res/layout/report_item.xml
+SHA1-Digest: gi+LVieToNEKkQVRZgFTVakpUkg=
+
+Name: res/raw-fr/kis_71864.html
+SHA1-Digest: MtkomNV4JfPMd66+UOU4M+JBABo=
+
+Name: res/raw-it/index.html
+SHA1-Digest: gSjDnU9JyY1TasNh9R0sZVHGvA4=
+
+Name: res/raw-es-US/permission_denied_counterfeit.html
+SHA1-Digest: 3NtTDq2zsm/a0uCQDyIBC3phaKw=
+
+Name: assets/hyperlink.css
+SHA1-Digest: UsYrDNvooNUQQNx2Ccuzx0wzn/c=
+
+Name: res/raw-ru/kis_72426.html
+SHA1-Digest: 3qOsXQpS+YfU05lyKOz6MgcOWNM=
+
+Name: res/raw/ico_warning_big.png
+SHA1-Digest: hFScJmIHBR2tJPwgqE6OBQ21tl8=
+
+Name: res/layout/dialog_select_folder.xml
+SHA1-Digest: 3AkAGoZJcwU8OT+5RSyy81HjVIg=
+
+Name: res/drawable/round_enabled_press.png
+SHA1-Digest: hCwROzw5XjCj7HzH/cHNt9fi8/E=
+
+Name: res/raw-it/kis_71892.html
+SHA1-Digest: 5aTUhQdc4eUcXkF62K5xHVYbWM4=
+
+Name: res/drawable-hdpi/free4.png
+SHA1-Digest: i8RWFf8spimESLw5uoquWAF5VQk=
+
+Name: res/raw-es-US/kis_71864.html
+SHA1-Digest: oR7YFpyT6JsxhYD72RFxm3YvIjM=
+
+Name: ae/com/sun/xml/bind/v2/model/annotation/Messages_ko.properties
+SHA1-Digest: DlEMkWDn6fINv8zjW7cTbVXhZGY=
+
+Name: res/raw/kis_71807.html
+SHA1-Digest: jDlHX3SZj3b6Pylcu7POWwxIlp8=
+
+Name: res/raw-ru/kis_71802.html
+SHA1-Digest: s/TM9r8Ge324jES14MF9ZjSpZq0=
+
+Name: lib/armeabi/libscan_kavdlib.so
+SHA1-Digest: kQjDrFh1Q7qNAUsd8jkMkqtrILc=
+
+Name: res/raw-it/kis_71844.html
+SHA1-Digest: jqnCtuMU+b6LQEbMhXs1ulMcwV4=
+
+Name: ae/com/sun/xml/bind/v2/model/impl/Messages_ko.properties
+SHA1-Digest: p3+x8gBkIdHP7am6gnwpEfX0gKc=
+
+Name: res/raw-es/kis_71927.html
+SHA1-Digest: lrwelBPem/01Mi1V5sBTziWPwMo=
+
+Name: res/raw-ru/kis_71813.html
+SHA1-Digest: aiL1siGJbtdAZfrGJlPHy7sEv08=
+
+Name: res/raw/kis_71848.html
+SHA1-Digest: b+D430BumH/zHhH+JNP+XlhR+gM=
+
+Name: lib/x86/libscan_kavdlib.so
+SHA1-Digest: rebPjQnPF/c6GtvwxLIcfsxjDX4=
+
+Name: assets/blocks/b-common/reset.css
+SHA1-Digest: duETazuQU0tUz9kP4IC/Q7QqYn4=
+
+Name: res/layout/stealth_sms_params.xml
+SHA1-Digest: Xl9CJ/DB1zgGYtkf0SUYiCNLmrc=
+
+Name: res/layout/request.xml
+SHA1-Digest: QyZCN+D+hfjNRddnR/XE8kqSo8o=
+
+Name: ae/com/sun/xml/bind/v2/schemagen/xmlschema/xmlschema-for-jaxb.rn
+ g
+SHA1-Digest: /ky+CWzk8R+1mAyoDd+ezftKCRo=
+
+Name: res/raw-ru/kis_71882.html
+SHA1-Digest: v1KV6g/ZdGrbVYhhsgRV80hXLqc=
+
+Name: ae/com/sun/xml/bind/v2/runtime/reflect/Messages.properties
+SHA1-Digest: wcX8vJNWTkeZ7u3+WnIoOyWUqeg=
+
+Name: res/drawable/drop_button_png.9.png
+SHA1-Digest: /p8fCp+UBJKgRXrto+95lRX73ug=
+
+Name: res/raw-es-US/kis_71882.html
+SHA1-Digest: rx7xHReTWEsaK1/Ipba0nFIG4EM=
+
+Name: res/layout/alert_dialog_select_li.xml
+SHA1-Digest: IzxgKU0K1LcBT5hYzW1S+tqodAE=
+
+Name: res/drawable/kis_menu_bubble_background_closed.xml
+SHA1-Digest: XuO2SC/Br2nbkxgJyVDRvQeRv/U=
+
+Name: res/raw-de/kis_71853.html
+SHA1-Digest: 605KciDrHreCETSe52uzKqyYtrM=
+
+Name: res/drawable/kis_issue_background_info.xml
+SHA1-Digest: asBNEFkpU1RsT0i5Tw4zrmxB3w4=
+
+Name: res/raw-de/kis_71807.html
+SHA1-Digest: QFZnt9VUeHCjU/59rvhurQBnWj0=
+
+Name: assets/bottom.jpg
+SHA1-Digest: KrWfj3d3JwFBC/kO08BTqAyvwXE=
+
+Name: assets/blocks/b-common/common.css
+SHA1-Digest: HHdGBAKyJLWfffHVuXXAXULarC0=
+
+Name: res/raw/kis_71806.html
+SHA1-Digest: PXiCzO4D9KSkgzbF5sH37uEoct4=
+
+Name: res/raw-pt/kis_71865.html
+SHA1-Digest: w96JC5n8wKMDhdTurikDRFo/B34=
+
+Name: assets/stylesheet_ja.css
+SHA1-Digest: YaLkeaEOKnLcV3E/5Br+FYpXlYc=
+
+Name: res/raw-es-US/kis_71777.html
+SHA1-Digest: OGcFa8pl6ZZOMmVhnDDHd65bMgw=
+
+Name: res/drawable-hdpi/kis_checkbox_on_holo_light.png
+SHA1-Digest: C60PgjijCqAFh2/9d6SlTGs14G8=
+
+Name: res/drawable-hdpi/kis_menu_button_safe_browser_disabled.png
+SHA1-Digest: w+GJxOXG2EA16zdF9iA5NAjqJHw=
+
+Name: res/raw-es/kis_71781.html
+SHA1-Digest: kQOO19Gbzh3tL4Iy+iq2OP6gL4w=
+
+Name: lib/x86/libdns_client.so
+SHA1-Digest: MlRUvfC9VVfQjH/aXYW8iYEIHDY=
+
+Name: res/raw-pt/kis_71825.html
+SHA1-Digest: GRv3bmAYjylVLRFKe8DUBjhImqw=
+
+Name: res/drawable-mdpi/kts_icon.png
+SHA1-Digest: 0D0VSWdfYyERHgyMgMSxMmMM7zg=
+
+Name: res/raw-pt/kis_71870.html
+SHA1-Digest: U7cKZDfSndPKY5gMeeyDxFbX4wg=
+
+Name: res/layout/kts_settings_detail_panel.xml
+SHA1-Digest: k4LbBPmMLRTCnpmRAAhZmZGCefI=
+
+Name: res/layout/kts_settings_detail_header_caption.xml
+SHA1-Digest: n1R3v8ynRW/DxtRue2ylnMo0U98=
+
+Name: res/raw-fr/kis_58977.html
+SHA1-Digest: jZ/OgO8MSXOpxGkoLLcSeMyToFE=
+
+Name: res/raw/kis_59757.html
+SHA1-Digest: o/pi49l4Usgrg2KBB95AN/bY5EM=
+
+Name: res/raw-pt/kis_71793.html
+SHA1-Digest: cXJyQXb4tZ6wbceh2SFMd5fJ3Xk=
+
+Name: res/raw-es/kis_71795.html
+SHA1-Digest: mbKHl4m8BlngYP720NBUFR2pIOU=
+
+Name: res/layout/kts_settings_account_info.xml
+SHA1-Digest: d1g/ZUfUdOdaYG1s1F4zIkTVlzc=
+
+Name: res/raw/kis_71874.html
+SHA1-Digest: HJGtg/y6KAEb7kUXWhrptBHC41o=
+
+Name: res/drawable/wizard_grey_btn_selector.xml
+SHA1-Digest: 3cICgrrx2/5IU9uQhIu+iO1iLJA=
+
+Name: res/raw-es-US/kis_72052.html
+SHA1-Digest: gYu/1ZDMFD61lkDuVZwp0Jp9IYc=
+
+Name: lib/armeabi-v7a/libpacked_io.so
+SHA1-Digest: gPootz656IpJCDUSxPDXjGvEBd0=
+
+Name: res/raw-es-US/kis_71796.html
+SHA1-Digest: HCsbnrtw5q12Ik5I/mukpVsh1H8=
+
+Name: res/drawable-nodpi/shield_green.png
+SHA1-Digest: idjVauyv/DmxSegPjo7fVkaOWdM=
+
+Name: res/raw-ru/kis_71820.html
+SHA1-Digest: XUs0jAA78ywktYd76STCu0FD9uQ=
+
+Name: res/raw-es/kis_71817.html
+SHA1-Digest: 3gVT+n6BYCEFo3gxMQClz5VcEUc=
+
+Name: res/raw-de/kis_71832.html
+SHA1-Digest: /3VtQ+AzErNw+ldtjXVBLf8ZozM=
+
+Name: res/raw/kis_71821.html
+SHA1-Digest: GVxiWd0PV6Nuqui0GtJ/kSDGf3k=
+
+Name: res/drawable/ico_lock_70.png
+SHA1-Digest: n7/6f1CEllvzORIBu3DfHAEI6cc=
+
+Name: ae/com/sun/xml/bind/v2/runtime/Messages_pt_BR.properties
+SHA1-Digest: Rz7dEJN1CumDlpIRWJi5HjaG5AM=
+
+Name: ae/com/sun/xml/bind/marshaller/Messages.properties
+SHA1-Digest: LJ4YqYUKMKz2uu0raKZTfQVnP9Q=
+
+Name: res/raw-it/kis_71809.html
+SHA1-Digest: ioRVPHTxf1mnBtYD3r3PEpr5x5k=
+
+Name: ae/com/sun/xml/bind/v2/runtime/property/Messages_fr.properties
+SHA1-Digest: 41B+P9NtGHamspUFmbiNgHG3r84=
+
+Name: res/raw-fr/kis_71790.html
+SHA1-Digest: u39OVqzAZ0u3hOAQJyIbrxqFqX0=
+
+Name: res/drawable-hdpi/icon_features_4_gray.png
+SHA1-Digest: Xo5YwOA1fsMmirmbCc5QYgA96p0=
+
+Name: res/raw-de/kis_71899.html
+SHA1-Digest: tMc4khK8ryZZmCcuOKpMyODDPsg=
+
+Name: res/raw-de/kis_71775.html
+SHA1-Digest: dWd+RPfZzLmS1DwdfbNNXFAUlnU=
+
+Name: res/drawable-hdpi/kis_menu_button_premium.png
+SHA1-Digest: t6bFLQ2ECQo4Njq7YnqxfGKdEdY=
+
+Name: res/drawable/hdr.9.png
+SHA1-Digest: jBK+KC6kex3FXojC26yKO0YlBaQ=
+
+Name: res/drawable-nodpi/attention_icon.png
+SHA1-Digest: YAVlVRCq40SDvYgS3ohGWSKqTFo=
+
+Name: res/raw/kis_71827.html
+SHA1-Digest: Mz8iIgD3zxtUMFjdgb8/VXBGJv4=
+
+Name: res/raw-ru/kis_71870.html
+SHA1-Digest: OOzkxRTR85jcHVqpaBFOvj96OTc=
+
+Name: res/raw-es/permission_denied.html
+SHA1-Digest: 1JC8ntX3gJu2nZWWqA1Rm3zdClc=
+
+Name: res/raw/kis_71887.html
+SHA1-Digest: SK7nIxHkrvTloBAa1BFei6Pewk8=
+
+Name: res/layout/kis_li_setting_switch.xml
+SHA1-Digest: tfMqhtMBpo17RWWUb4Jv1zBkI8E=
+
+Name: res/drawable/f_left_focus.9.png
+SHA1-Digest: 715ikL/o8MKngKB4u3MaaMGnP1k=
+
+Name: assets/blocks/b-btns/btns.css
+SHA1-Digest: Kvn4ASEMAgNhBNpaSybOOsItY/E=
+
+Name: assets/swipe-panel_en.png
+SHA1-Digest: TreeP24JJoZcdr8GONJVETSBm/c=
+
+Name: res/raw-es/kis_71889.html
+SHA1-Digest: 5zSzEvYIJu/8tN2N5AY0Z9k2l8c=
+
+Name: res/raw-es-US/kis_61347.html
+SHA1-Digest: Hh9l0r2WoFGQkjkKsk97h2Pxo4A=
+
+Name: res/layout/kms_widget.xml
+SHA1-Digest: 0HXBBvpULEgbxN5puAeFwq8Q+Aw=
+
+Name: res/raw-ru/kis_71776.html
+SHA1-Digest: 0xNKVN7lk/e56nuImhXSG54WTp8=
+
+Name: res/raw/kis_71860.html
+SHA1-Digest: y+CUtm2lu5T5bf8BvUhHqJm+nBU=
+
+Name: res/layout/manage_space_kts.xml
+SHA1-Digest: dOtpOJQ1C0++B0bRGO3PZq1LqdA=
+
+Name: res/raw-ru/kis_71847.html
+SHA1-Digest: X+4Wh34iBE324bSsBvaDo4ceeHg=
+
+Name: res/raw-pt/kis_71807.html
+SHA1-Digest: 6fX1keqFwogDK7iHh/MY8GpzqLU=
+
+Name: res/raw-fr/kis_71886.html
+SHA1-Digest: ArkQNQwZrSc+9XCbzh1ouFkWkt8=
+
+Name: res/drawable-nodpi/dot_grey_big.png
+SHA1-Digest: /RByMIQR+7y60kuXAvsUtCZLh2s=
+
+Name: res/raw/kis_71855.html
+SHA1-Digest: W6dbbSnwUBjuNxDD/oXei4fLMqo=
+
+Name: assets/config.properties_beta_kpc
+SHA1-Digest: ceO8pc1akEVEiONYFJfoIsWk44g=
+
+Name: res/drawable-nodpi/kis_menu_bubble_shadow.png
+SHA1-Digest: LeIuzT/xBe7+HKAGPKij5tJG7I8=
+
+Name: assets/blocks/b-link/search.png
+SHA1-Digest: vlzVHFl+V2SF5pVmvcIXGsaTuHA=
+
+Name: res/raw/kis_71822.html
+SHA1-Digest: nHZ3C2Io0wXmeuq7jcV1RUSqJUg=
+
+Name: res/raw-de/kis_71784.html
+SHA1-Digest: htQc+RR4BuRmz+6z6075OCbmk8c=
+
+Name: res/raw-it/kis_71863.html
+SHA1-Digest: HUXyKGOdDU9beMgrO4XM/FVZz8E=
+
+Name: res/raw/kis_71794.html
+SHA1-Digest: JpxpaiJYir/TvPzWVlmPAkbYMmQ=
+
+Name: res/raw-es/index.html
+SHA1-Digest: VULCr/mExkhfbzwWgWexlHxRDeQ=
+
+Name: res/raw/kis_61603.html
+SHA1-Digest: 9ix4K2Nxr4jz9y96RCMBHh03/og=
+
+Name: res/raw/kis_72712.html
+SHA1-Digest: V8B/XqhqVAkeq7PTZQpErfxxr68=
+
+Name: res/color/kis_dialog_text_states.xml
+SHA1-Digest: /6ul/Whvk7pB6QdHm1o5vBNP6cM=
+
+Name: res/drawable-nodpi/settings_detail_btn_selector50.xml
+SHA1-Digest: KbgDuHWMNRoP7PWab86sqVhkNqE=
+
+Name: res/raw-es/kis_71828.html
+SHA1-Digest: 4EccdppFJZC0JP/umBeqJEoe9VI=
+
+Name: res/raw-pt/kis_71832.html
+SHA1-Digest: Hg8tY5t/0GqzM9qUXayn2n1VovI=
+
+Name: res/raw-de/kis_71793.html
+SHA1-Digest: mkrp2jtKhBIP2epCNxE2aV7tzMg=
+
+Name: res/drawable-hdpi/kis_menu_button_scan.png
+SHA1-Digest: eokEK9Z6IPxLqQp4P9VFy025b0k=
+
+Name: res/raw/kis_71801.html
+SHA1-Digest: Xs/N/7GCgETC6r2EUKv5NT/br3Q=
+
+Name: res/layout/kis_li_issue_antivirus_databases_info.xml
+SHA1-Digest: mKRpPCoqL6pkQtKy8HRcaqLEQUM=
+
+Name: res/raw-it/kis_71803.html
+SHA1-Digest: 0L9CAg34viISxqMjAh7sh0oEWXM=
+
+Name: res/raw/kis_71781.html
+SHA1-Digest: QD8K6wM35OEZzNrdGVBUjo/l/pg=
+
+Name: assets/swipe-panel_pt-rBR.png
+SHA1-Digest: 3HOsfgAoIhsf5FgN3j3tPHxi1fI=
+
+Name: res/drawable/ppdialog.xml
+SHA1-Digest: CNikx8SG/kCAGT+cyQCtaIqKUj0=
+
+Name: mailcap.default
+SHA1-Digest: v12EA8RRccouDsMocE4Gzg0x6tE=
+
+Name: res/raw-es-US/permission_denied.html
+SHA1-Digest: 1JC8ntX3gJu2nZWWqA1Rm3zdClc=
+
+Name: assets/swipe-panel_ru.png
+SHA1-Digest: 6CBi0ivQXOfFakJ7Rm6qqdtl2k0=
+
+Name: res/raw-it/kis_71776.html
+SHA1-Digest: zqMzoLvOISQvSY6R6DIgNwgQ78I=
+
+Name: res/raw-ru/kis_71807.html
+SHA1-Digest: CkcWZc1eY4AST/qWPOjv2I2WKhI=
+
+Name: res/drawable-mdpi/key_red.png
+SHA1-Digest: QCljSDgO7ri+fC03uo44D6QoDT8=
+
+Name: res/drawable/drop_button_hover_png.9.png
+SHA1-Digest: U89l0lRfahfsa/mWd6BZzb/AJoo=
+
+Name: res/raw-pt/permission_denied.html
+SHA1-Digest: l9AJasdUTpFg7EAuAdAYx98wkhk=
+
+Name: res/raw/kis_71880.html
+SHA1-Digest: XFR7aztcVWsgS3+SAMzUeaZoMEM=
+
+Name: res/raw-es/kis_71887.html
+SHA1-Digest: EEw7OJ4nbsDqZGtsSB3SS0Q0jHo=
+
+Name: res/raw-ru/kis_71862.html
+SHA1-Digest: UMw4383+a0f8/BxDNxG+FjHPPkI=
+
+Name: res/raw-fr/kis_71865.html
+SHA1-Digest: AQJDdSLevVzsJoKnkqtzh5iTn1I=
+
+Name: res/raw/kis_72426.html
+SHA1-Digest: MhXE70cdAMNTl3hfMhmF35VYS2c=
+
+Name: res/drawable-nodpi/separator_hrd_line2.xml
+SHA1-Digest: O96D8wXr6T97hdbXSnURYFMUpnA=
+
+Name: ae/com/sun/xml/bind/v2/runtime/property/Messages_de.properties
+SHA1-Digest: ikebi3G1bDxBak2u2jmYcHggPwE=
+
+Name: res/raw-pt/kis_71881.html
+SHA1-Digest: aB2mrQ1JsBKuOtePas8XVaUXD48=
+
+Name: res/raw-de/kis_71816.html
+SHA1-Digest: piWGKKxt+6LY31dkh0qxWBGX3kM=
+
+Name: res/raw-pt/kis_71835.html
+SHA1-Digest: 71il/s5aP5p5RT0j+kQViylRJNg=
+
+Name: res/raw-de/kis_71926.html
+SHA1-Digest: hZnotJYep9KgMBpwlQpqj0SZQ7o=
+
+Name: lib/armeabi-v7a/libscan_kavd_pie.so
+SHA1-Digest: HF03ORkuzOf1RLIee5wbFmBPkAE=
+
+Name: res/raw-es-US/kis_71795.html
+SHA1-Digest: 68cZDJ58sFu/wlawf6lXXOWqUaM=
+
+Name: res/drawable-nodpi/dialog_header_common.xml
+SHA1-Digest: SNauCMAFu+qHXqxwvqaQlC0Vq5M=
+
+Name: res/raw-it/kis_71817.html
+SHA1-Digest: hGEVlPdl/z259ETFG6T6HUgt5Ss=
+
+Name: res/raw-es/kis_71803.html
+SHA1-Digest: 4CBD7DzpMoe9GPQtDhY0OtWQvb0=
+
+Name: res/layout/update_kts.xml
+SHA1-Digest: cgin0fvNlvVnF0zXhHsmsEfcZWM=
+
+Name: res/menu/kms_menu_recover.xml
+SHA1-Digest: 5zjX/0yJaIWDJDA5tny0ETOd/Fw=
+
+Name: res/drawable-nodpi/update_icon_dark.png
+SHA1-Digest: bzJCv3rlmPIP5KWXA1wIopwoIms=
+
+Name: res/layout/reports.xml
+SHA1-Digest: s2EcIn6/b8YZXG15gdGG30NkCZQ=
+
+Name: res/raw-it/kis_71881.html
+SHA1-Digest: JBSw4LewDyVwsoK2JEfSgyfy8AA=
+
+Name: res/raw-fr/kis_71872.html
+SHA1-Digest: hP2oszKS+6OC0iNEkiyi4YZL77g=
+
+Name: res/drawable-hdpi/license_update.png
+SHA1-Digest: afJVVUlC1tdTBvGAMDa3DeWmQFY=
+
+Name: res/raw-pt/kis_72712.html
+SHA1-Digest: XdBe8E2k4y6GxMe0KFMzlt83HBE=
+
+Name: res/raw-es/kis_71823.html
+SHA1-Digest: BeTjYzCW8ZgiMRodhOSHHWomjqM=
+
+Name: res/drawable-hdpi/icon_features_4.png
+SHA1-Digest: 88GmhFC6xevAHd8NDISKoI2mSro=
+
+Name: assets/settings.png
+SHA1-Digest: 4FEmth9ODTwJM6baTy/EeKW8ZZQ=
+
+Name: res/raw-pt/kis_71842.html
+SHA1-Digest: XADULRYL5jNR/Eb9vD0/bkW2EqA=
+
+Name: assets/blocks/b-btns/play.png
+SHA1-Digest: 6AwpqcUEQuil36yD3R3UrzVEzTg=
+
+Name: res/drawable-hdpi/ico_license_expired_25.png
+SHA1-Digest: aSVgy2MF86aSKHozzQIkWJYFX7c=
+
+Name: res/layout/wizard_web_registration_kts.xml
+SHA1-Digest: Cw/GYxyhB03iTxlkAuBCvC48nAM=
+
+Name: res/raw/kis_58977.html
+SHA1-Digest: uxLxL8dsCaWgRP9qJemifwALVxk=
+
+Name: res/raw/kis_71803.html
+SHA1-Digest: LUUkorb00dwhFV4DGg56hjRJ6JY=
+
+Name: assets/swipe-panel_nl.png
+SHA1-Digest: mV7ITUxN6rHMlCdNgzbRLllSvL4=
+
+Name: assets/main_window_at_glance_sv.png
+SHA1-Digest: XxldMJEAkBfWPr8YuXdWIBBVMtw=
+
+Name: res/raw-es/kis_71814.html
+SHA1-Digest: Ot1F3UEb9qvYP5aDVGmLVDtr8ds=
+
+Name: res/raw-es/kis_71855.html
+SHA1-Digest: 7y268NPS2h2ge9D2UCqvYJHFFmw=
+
+Name: assets/stylesheet_mobile_ja.css
+SHA1-Digest: XswOgXAMbmS7blf4sDV6mveAF5I=
+
+Name: ae/com/sun/xml/bind/v2/runtime/Messages_zh_TW.properties
+SHA1-Digest: Ebn+X9xiFNEPsF4iDPG+rV8NV00=
+
+Name: res/raw-ru/kis_71814.html
+SHA1-Digest: aoq1DzrH/21EhkaUy4H7je2UV18=
+
+Name: lib/x86/libkisa_native.so
+SHA1-Digest: p1jcDIKSBpQzcUvRRqkkZKBBDYM=
+
+Name: res/drawable-mdpi/kis_checkbox_on_disabled_holo_light.png
+SHA1-Digest: dWDyayrF7GdP9nMwI5OUFE35AmE=
+
+Name: res/raw-es-US/kis_71880.html
+SHA1-Digest: DPDpRqFSucxTQHuesjvStA0V/gY=
+
+Name: res/drawable/kis_menu_button_warning.xml
+SHA1-Digest: cI8fQ+GOX+WjlY6+eBJCUh6AY0Y=
+
+Name: res/raw-ru/kis_71841.html
+SHA1-Digest: SL9VvbjPTVpnBJAlLk9gCDBtXig=
+
+Name: res/raw-ru/kis_71825.html
+SHA1-Digest: dvtCVI5bcHN2rrAmzZFri/SvCVs=
+
+Name: res/drawable/tab_press.9.png
+SHA1-Digest: 6iXRQ+giCkOvwmmLuHNBnwvtIpk=
+
+Name: res/drawable-nodpi/settings_group_user_green.png
+SHA1-Digest: 96n6nn7K9OkJZTj5uEV4GOjI74Q=
+
+Name: res/raw-es/kis_71792.html
+SHA1-Digest: qLMeNdhRppKXpSlFkSEbbS7R0sc=
+
+Name: res/menu/kms_menu_block.xml
+SHA1-Digest: wDBAhwIRwvMxboBQD7iuXh3ZgDI=
+
+Name: res/drawable/import_sms_icon.png
+SHA1-Digest: 7Uhx4zRmOzIr6fQrk+imbTna/RQ=
+
+Name: res/drawable-nodpi/kts_ico_card_30.png
+SHA1-Digest: oGGaBl82Ve/04juRo8n2wa3wvhM=
+
+Name: res/raw-fr/kis_71844.html
+SHA1-Digest: qKEIIugWcMfA8QRCLxhTQ0BbmqQ=
+
+Name: res/raw-fr/kis_71882.html
+SHA1-Digest: kS2PfOf9SgtIgDeeBEzzQ+AuES0=
+
+Name: res/raw-ru/kis_71893.html
+SHA1-Digest: kloUc5XR9APHs3CJKNaGvI2Zhik=
+
+Name: res/raw/kis_71792.html
+SHA1-Digest: i8DUMKHgUMTcLA5Us91RCl0mB8Y=
+
+Name: res/raw-fr/kis_71859.html
+SHA1-Digest: JmPBxmuU+ovV0vlVCdyp3g4hOXY=
+
+Name: ae/com/sun/xml/bind/unmarshaller/Messages_fr.properties
+SHA1-Digest: GcpGGHtwTCf3rxGgFk4sSE/FTdE=
+
+Name: assets/blocks/b-common/jquery-2.0.min.js
+SHA1-Digest: 6DVoKHp6L26a7cB0NQpRmCUkwlc=
+
+Name: res/drawable/kis_dialog_li.xml
+SHA1-Digest: 9skZq+6XEyQETDYde3UNaAexr4g=
+
+Name: assets/blocks/b-common/jquery-1.10.1.min.js
+SHA1-Digest: KaD4fGhuMo8rc5133U1kHijiaCU=
+
+Name: res/raw/kis_71831.html
+SHA1-Digest: t2PfUo3t/JriZ5tikoLUvm5vWwM=
+
+Name: ae/com/sun/xml/bind/v2/runtime/property/Messages_zh_TW.propertie
+ s
+SHA1-Digest: Z1OWU3yrfivLTZXbviqPCbMNtq4=
+
+Name: res/raw-es/kis_71928.html
+SHA1-Digest: HgJnNk5YXup1s7Gcok6HS/d0L08=
+
+Name: res/raw-de/kis_71812.html
+SHA1-Digest: MKiV4oSWBuEUU4wLo4fLX8bD7sw=
+
+Name: assets/ico_k_25_disabled.png
+SHA1-Digest: jaT9UN1Ctxj5UpeE6cvk7Otz2uI=
+
+Name: res/raw-it/kis_71846.html
+SHA1-Digest: EFOjKLzHrEjwvQ5mQsSwUAb0pNA=
+
+Name: res/drawable-xhdpi/kis_switch_bg_holo_light.9.png
+SHA1-Digest: x0kI1hiV+hJWyWF056Mb7VrbvCo=
+
+Name: res/drawable/ico_license_expired_25.png
+SHA1-Digest: SW+srRXi08a6QP/gLgKhrQ7/3/8=
+
+Name: assets/blocks/b-btns/close.png
+SHA1-Digest: RGb2wBi840Jf02Dod3FuQqVpyWw=
+
+Name: res/drawable-mdpi/kis_switch_thumb_activated_holo_light.9.png
+SHA1-Digest: vjTsZ7TEBauH/YTyvjaNN+QbGdY=
+
+Name: res/drawable-xhdpi/kis_switch_bg_focused_holo_light.9.png
+SHA1-Digest: cbnowRo62vrN93MJkUpwgrQ0urM=
+
+Name: res/raw-ru/kis_71846.html
+SHA1-Digest: PPaUfAn2lhgGQioxBEbqeKRS7+E=
+
+Name: res/drawable-nodpi/settings_detail_list_element_press.png
+SHA1-Digest: OHLpZ8eoVcIy0C46BUB5utPZUa4=
+
+Name: res/drawable-nodpi/settings_detail_alert_bg.9.png
+SHA1-Digest: yU6V0QW0rsOtNNJu9RO0zgNTuhc=
+
+Name: res/raw-it/kis_71878.html
+SHA1-Digest: KIHkUJdh5HRqWGvMpg58451XBBI=
+
+Name: res/raw-fr/kis_71803.html
+SHA1-Digest: 7925C1GWx015r3YmPFtdnzzLoSM=
+
+Name: assets/status_window_de.png
+SHA1-Digest: 311yazFeBADuIwA/AVqf5oqsczk=
+
+Name: assets/update.png
+SHA1-Digest: c96qnOAhjuNLSBKMDIv7bmsRRyk=
+
+Name: ae/com/sun/xml/bind/v2/Messages_ja.properties
+SHA1-Digest: 6WmO1RVaSkmkJ7SydauYLl1S23c=
+
+Name: ae/com/sun/xml/bind/v2/runtime/property/Messages_it.properties
+SHA1-Digest: eEglYsc6uz4OVql9JHq0u4DY6EQ=
+
+Name: ae/com/sun/xml/bind/marshaller/Messages_pt_BR.properties
+SHA1-Digest: IoX91KSJGwGUSetEm2vsQASjw0c=
+
+Name: assets/dhtml_popup.js
+SHA1-Digest: iFh3DFR9ceWRbPbqLslLQPGYN0E=
+
+Name: res/drawable-nodpi/settings_detail_checkbox_enabled_off_press.pn
+ g
+SHA1-Digest: uRqTYneoaMgR0/bfkLhsJ9Iguw8=
+
+Name: res/drawable-nodpi/settings_group_additional_white.png
+SHA1-Digest: MzFEuT5+EjXt40I1BoxaQKnRUTw=
+
+Name: res/raw-it/kis_71877.html
+SHA1-Digest: zBKJCKfHB9lFuy6ChtFBJY3xwbc=
+
+Name: res/drawable-hdpi/free1.png
+SHA1-Digest: 8h7bofpATQZ74+9D4/1OUq7vHus=
+
+Name: res/drawable-mdpi/kis_radiobutton_off_disabled_focused_holo_ligh
+ t.png
+SHA1-Digest: 9QN40RrI3hIFN1VVeriRofSKB5I=
+
+Name: res/layout/renewal_form_activity.xml
+SHA1-Digest: ZQa42zT20a7WgWELZojt9BVEc3c=
+
+Name: res/layout/alert_dialog_user_action_ussd_treat_info.xml
+SHA1-Digest: Tqg5iF82i/wxbAaVMAzZBnHGW/g=
+
+Name: res/raw-es/kis_71836.html
+SHA1-Digest: 9alfrlTNPNsM9dkcx1EsX9KPEEU=
+
+Name: ae/com/sun/xml/bind/api/Messages_fr.properties
+SHA1-Digest: V2DMRkL87FGZQn57daVbmpdz2vA=
+
+Name: res/drawable/w9.png
+SHA1-Digest: +8PvzEVC0LTF+yxuNIOLrmKvIsk=
+
+Name: res/raw-es/kis_71868.html
+SHA1-Digest: 6WrDBEiHgShqjj1HyLvd/VXGVks=
+
+Name: res/raw-fr/kis_79898.html
+SHA1-Digest: dp8xXvK/zpKEBLofdAWTSB7Ydqw=
+
+Name: res/layout/dialog_activation_code_info.xml
+SHA1-Digest: 1H2uGtdjoazOCrnqQIJ4f/hNUwo=
+
+Name: res/raw-de/kis_71842.html
+SHA1-Digest: i9jbReS7z61mrGziZ7DEjiEEs6g=
+
+Name: res/raw-de/kis_71890.html
+SHA1-Digest: ZM1H+0kjsAn6O1E8mZhBtHl/b7w=
+
+Name: res/drawable-hdpi/kis_switch_bg_holo_light.9.png
+SHA1-Digest: h3rORb8jNKm5bPDQayXPTmm7z/g=
+
+Name: res/drawable/kis_header_background.xml
+SHA1-Digest: rD6JMev/YWkkWAgtqCZXvmQgOpo=
+
+Name: res/raw-fr/kis_71869.html
+SHA1-Digest: KrHqMn1iup37ATyQLHxufJTEIAE=
+
+Name: res/raw-de/kis_71861.html
+SHA1-Digest: aShe/gUM9WSIe+CqkKY3c3nu5cg=
+
+Name: res/raw-es/kis_71820.html
+SHA1-Digest: bqAKgBNf/UU3Mzf5s15gkpSCp8Y=
+
+Name: res/drawable-hdpi/kis_menu_button_share.png
+SHA1-Digest: 6tkt0rGa3Hyfi1Pjgyfz6hF48ew=
+
+Name: res/drawable/kts_dialog.xml
+SHA1-Digest: VTWk8dxfu85Lno5p5x74SirIWfM=
+
+Name: res/drawable-hdpi/ico_k_25.png
+SHA1-Digest: QIXGzB0QxReAQb33BpPbFNSJqeQ=
+
+Name: res/raw-de/kis_61603.html
+SHA1-Digest: L4U4WSmZjsLTY4mRZ6uxQ+08mK0=
+
+Name: res/raw-it/kis_71888.html
+SHA1-Digest: CBAnynN2jwTx6147N1y9GKdbrj0=
+
+Name: res/raw-fr/kis_71831.html
+SHA1-Digest: jROiqyFq7Gq3COVSi2WynM4zfwQ=
+
+Name: res/drawable-xhdpi/kis_issues_premium_button.9.png
+SHA1-Digest: Qos2XsW2nabqIjhl9IzEQmgzSJA=
+
+Name: res/raw-ru/kis_61355.html
+SHA1-Digest: 7XX1K8oqCHrhWMVDQybeuL/JwXI=
+
+Name: ae/com/sun/xml/bind/v2/runtime/Messages.properties
+SHA1-Digest: 4+QHRXqdIhMMCNq652X4163JIeo=
+
+Name: res/raw-es-US/license.html
+SHA1-Digest: SzMa/C9vsVHXUcSGg11sa6n4+wQ=
+
+Name: res/raw-fr/kis_71853.html
+SHA1-Digest: VQc/JtJzMnDiEbX+Ox3FAyvOiy0=
+
+Name: res/layout/email.xml
+SHA1-Digest: 4fKn227sY8wmeqKBVxRZcLuVkU4=
+
+Name: res/drawable-xhdpi/kis_switch_bg_disabled_holo_light.9.png
+SHA1-Digest: 3jQfv69685qCphvNGOzUajrgtHU=
+
+Name: res/raw-it/kis_72426.html
+SHA1-Digest: tCgikovCCW4qOxgl8sdq4Ni43Uo=
+
+Name: res/color/kis_li_states_text.xml
+SHA1-Digest: r/byicE/s7+USM4sIWYDUZGVOuc=
+
+Name: res/raw-es/preblock.html
+SHA1-Digest: O2pw6ZORBMRQIPY6I+RQEX+HWLs=
+
+Name: res/drawable-hdpi/license_expired.png
+SHA1-Digest: GaH91mo8ezRfi18dOSACyCMJZjU=
+
+Name: res/raw-de/kis_71822.html
+SHA1-Digest: 7OBYznodjEy25laVDF5qpdpLnLs=
+
+Name: res/raw-es-US/kis_72426.html
+SHA1-Digest: UB6IYiyoSl++LpbLNmYrjlEPKGw=
+
+Name: res/drawable-hdpi/kis_header_logo.png
+SHA1-Digest: 3bBNstf+E/VX4KAX25OUe6lnSbY=
+
+Name: res/raw-de/kis_71778.html
+SHA1-Digest: q50c153lC7wptW2JZ7fUq/R5ViI=
+
+Name: res/drawable-hdpi/kis_header_logo_beta.png
+SHA1-Digest: PcQAa1n4NVfx3VX+d4GFCHbd2Dw=
+
+Name: res/drawable/w5.png
+SHA1-Digest: azB5gO1HAUWjkC2RQ1FF86p4roQ=
+
+Name: ae/com/sun/xml/bind/v2/model/annotation/Messages.properties
+SHA1-Digest: HtZBMUMqJjGTcCExakU8pcq2eE8=
+
+Name: res/raw-fr/kis_71885.html
+SHA1-Digest: NPiUoSbzlE9OzonVJCvJQ6MeC0s=
+
+Name: res/raw-it/kis_61373.html
+SHA1-Digest: H9hnwBjFuAURyg7c0O/12ugC2NQ=
+
+Name: res/drawable-hdpi/kts_icon.png
+SHA1-Digest: QlXyy6SfNN4O0XjPSrGawn8xdYA=
+
+Name: ae/com/sun/xml/bind/unmarshaller/Messages_ko.properties
+SHA1-Digest: 1i58PweNBC1uV3ksTUmNb9jMnnM=
+
+Name: res/raw-ru/kis_71796.html
+SHA1-Digest: lW+drdzHgsGs0A4c4yyu6EAIOjo=
+
+Name: res/raw-pt/kis_71806.html
+SHA1-Digest: 9pkloey17Iiy6W9gky6fxEPBKC0=
+
+Name: ae/com/sun/xml/bind/v2/runtime/Messages_de.properties
+SHA1-Digest: hWTIyuTcAr35a0yzX5xYl3R5Knw=
+
+Name: res/drawable-xhdpi/icon_features_2.png
+SHA1-Digest: qXd9hs6SbDo5n7Ef+WzL/HHPAfA=
+
+Name: res/drawable/kis_lock_background_enabled.xml
+SHA1-Digest: zXrDhAkj9e5ZTjwEYjpRHYFW930=
+
+Name: res/drawable-mdpi/kis_radiobutton_on_focused_holo_light.png
+SHA1-Digest: FBo/KBLcpj2AqFIJyd5OkD5tmHM=
+
+Name: ae/com/sun/xml/bind/v2/schemagen/Messages_ja.properties
+SHA1-Digest: kdXxszFRtINlmHoL8LqGAp5j1qU=
+
+Name: assets/arr-link.gif
+SHA1-Digest: RM7+uRHepBJ1uBVCxZdxvFbULuc=
+
+Name: assets/swipe-panel_es.png
+SHA1-Digest: 1Cgmus+gEy3OTtuEEGoFmF/hjIs=
+
+Name: res/drawable-nodpi/settings_group_user_white.png
+SHA1-Digest: +w6FWv+h0Ot1t+mQjpItWQ0NNG4=
+
+Name: res/drawable-hdpi/star.png
+SHA1-Digest: xm5HulXu9CvwQnO8BKhcl1AU7tE=
+
+Name: res/raw-fr/kis_79376.html
+SHA1-Digest: 2W1fH82oz8Ns9zfwmkHW5ICf3p4=
+
+Name: res/raw-de/kis_72426.html
+SHA1-Digest: xguXvnDAbJDymAjHS30Ha2zQCKE=
+
+Name: res/drawable/component_control_selector.xml
+SHA1-Digest: H7rw6l+HoLtqvVus9ZyFIQQCLcs=
+
+Name: res/raw-fr/kis_71795.html
+SHA1-Digest: wIKEohhXNu7UGeIUtxnQCkm0LFg=
+
+Name: res/raw-fr/kis_71928.html
+SHA1-Digest: rAN0qzwlMGhukou/DS1TGz3DQEk=
+
+Name: res/raw-fr/kis_71832.html
+SHA1-Digest: EVt4cr1MQHTctjPh0Hmi/riVTrc=
+
+Name: res/drawable/kis_setting_tab_scanner_states.xml
+SHA1-Digest: vhspQxhGSuUH17/gTfop5+PQoGk=
+
+Name: res/raw-es-US/kis_71827.html
+SHA1-Digest: ZoepzNbDc8MQ8/CLbo2L7zSdbts=
+
+Name: res/raw-fr/kis_71830.html
+SHA1-Digest: C/Oz0q76m/Tm1Dv1n70Q7aiaxac=
+
+Name: res/drawable/kms_ico_hard_back_30.png
+SHA1-Digest: +7idlVLcwAzJAwQtJL4WsHfQyuw=
+
+Name: res/raw-fr/kis_71852.html
+SHA1-Digest: 0Z09i7GByDLV7/Zk4JZdV+lvZ1s=
+
+Name: res/raw-it/kis_71928.html
+SHA1-Digest: Iz74HGfZ9pDcuuPZ2JjB63X7pjM=
+
+Name: assets/swipe-panel_sv.png
+SHA1-Digest: i+2dHYybAOPAvELIlQbJ0tzZoCM=
+
+Name: assets/kts_eula.index
+SHA1-Digest: NWoZK3kTsExUV00Ywo1G5jlUKKs=
+
+Name: res/drawable/button_enter.xml
+SHA1-Digest: oN9uUSoU+BVztW10KCcT4HCjt3o=
+
+Name: res/layout/call_log_item.xml
+SHA1-Digest: gv/KL5bgtuVNozJ6aX0M6dB6q4w=
+
+Name: res/drawable-nodpi/transparent_selector.png
+SHA1-Digest: BLfixpdlXhg7c93spq1PGUM+F+4=
+
+Name: res/raw-es-US/kis_71776.html
+SHA1-Digest: Bs0P5JNrsxCGErNUN5f1ZSRa6GU=
+
+Name: res/drawable-nodpi/settings_detail_round_enabled.png
+SHA1-Digest: hGPdKS9jVKR5acNe9VvtQnAogsg=
+
+Name: res/raw-ru/kis_71859.html
+SHA1-Digest: EG9LEt6FayrwTao2lIWp29ykTco=
+
+Name: res/raw/kis_71854.html
+SHA1-Digest: qBWDOx1dcB8kG0lmrKoEEJx4Rzs=
+
+Name: res/drawable-hdpi/kis_checkbox_off_holo_light.png
+SHA1-Digest: Yi5GvxtQUdjAn0euKs0SL2/Oew0=
+
+Name: ae/com/sun/xml/bind/api/Messages_pt_BR.properties
+SHA1-Digest: g/f6LKmCjdFqd+3DGHuKoy/3Ods=
+
+Name: res/drawable-nodpi/settings_detail_button_pressed.9.png
+SHA1-Digest: xutFG8v+yAU0uYiscrQiMMLmcEY=
+
+Name: res/drawable-hdpi/kis_radiobutton_on_holo_light.png
+SHA1-Digest: JuWQ872q/uRSYfbMwiMFmky+EAQ=
+
+Name: res/raw/kis_71924.html
+SHA1-Digest: C9MmoRpdPHdEcL2juOeFinraiRE=
+
+Name: assets/blocks/b-header/header.less
+SHA1-Digest: CRv7KEHqRhn5hNzzVwwWCJZvhas=
+
+Name: res/drawable-xhdpi/kis_radiobutton_on_disabled_focused_holo_ligh
+ t.png
+SHA1-Digest: P07ViJDXdN6smbtD1/tAuTxvUUM=
+
+Name: res/raw-fr/kis_74780.html
+SHA1-Digest: 2dL8Znx//2I0O9hWHMSAtCrNYZQ=
+
+Name: res/raw-pt/kis_71899.html
+SHA1-Digest: rZEiEK/BD1o0HELN4g5EGIAd/EM=
+
+Name: assets/safe_browser.png
+SHA1-Digest: gHj9h3IhzfjGQy9WJZvr7xeixos=
+
+Name: res/raw-it/kis_72800.html
+SHA1-Digest: oZ3AdK1ynbSrH/8hTfVthAsQl4M=
+
+Name: ae/com/sun/xml/bind/v2/schemagen/Messages_zh_TW.properties
+SHA1-Digest: L43Fb2tSadrUQY2vzwMsuph3z7g=
+
+Name: res/raw-fr/kis_71867.html
+SHA1-Digest: xHksP089c6IZpO3cwId9oCSFNqc=
+
+Name: res/raw-ru/kis_71888.html
+SHA1-Digest: WJpx7ePtaIchnoEgVX0TUjcOyYw=
+
+Name: res/layout/agreement_button.xml
+SHA1-Digest: bAirYy5Lsz8O20rBgZWSmX1UE6Y=
+
+Name: res/raw-es-US/kis_71845.html
+SHA1-Digest: Iv4BaI1e1XXQl/dphLmIkmowG5s=
+
+Name: res/raw-es/kis_71884.html
+SHA1-Digest: Q3q8IEX5XTVVFm+dc6br43ydrGc=
+
+Name: res/drawable-hdpi/counter.png
+SHA1-Digest: fd213mM3PH0AjprNWvBlWjcnuyI=
+
+Name: res/raw-es/kis_71870.html
+SHA1-Digest: gsrBlRMlI9stwHZ3zHcfuDmJLZs=
+
+Name: org/apache/harmony/awt/internal/nls/messages.properties
+SHA1-Digest: vwXzKrF6LyKySPbiJ1D1h9MUd4U=
+
+Name: res/drawable-mdpi/counter.png
+SHA1-Digest: hXGQ/1nmSiZBFrJgXRSbrT0/D7M=
+
+Name: res/raw-es-US/kis_71872.html
+SHA1-Digest: 0rDvkSzPDUYWaU8t5PAFYTXJhU0=
+
+Name: lib/armeabi-v7a/libgnustl_shared.so
+SHA1-Digest: VH0BMk6kvuNYLjA0od8h3swblcQ=
+
+Name: res/raw/kis_71793.html
+SHA1-Digest: 39HZnhy2M7skyKqkZK9nSGckZf0=
+
+Name: assets/swipe-panel_da.png
+SHA1-Digest: zg7RzZ836uFnrOLj1zoKLEHvddA=
+
+Name: res/raw/kis_71877.html
+SHA1-Digest: e/tm5OjDIIriQxnN+D9/0maE9ig=
+
+Name: res/raw-ru/kis_71863.html
+SHA1-Digest: qK5ajcL43GExKCUBn+A5Wv2WAaI=
+
+Name: res/raw-de/kis_71777.html
+SHA1-Digest: 4+4zHSY903I8lpCJbNGA3kpEZXc=
+
+Name: res/raw-de/kis_71814.html
+SHA1-Digest: DPhMIu7Ue8jWjZfbfftO83EakAA=
+
+Name: ae/com/sun/xml/bind/api/Messages.properties
+SHA1-Digest: CFRLqh9Zo2Gw5vI+EBMchDyaWcc=
+
+Name: res/drawable-nodpi/arrow_down.png
+SHA1-Digest: tp6zfLBgXJ8iUvsgx2FS0faApio=
+
+Name: res/raw-de/kis_71809.html
+SHA1-Digest: +Z+dB/4f6Ml4pnstlO4bad+k7yc=
+
+Name: res/raw-it/kis_71796.html
+SHA1-Digest: CXI2cmzcakZc+TUUKUuBRzstH5U=
+
+Name: res/layout/kms_settings_detail_description.xml
+SHA1-Digest: cdA2tOTf9Kwo3xL57TKBlSFHTDA=
+
+Name: res/raw-pt/kis_71884.html
+SHA1-Digest: PR/SPYOpOC/GcmN59thdeBpWu6E=
+
+Name: ae/com/sun/xml/bind/api/Messages_zh_TW.properties
+SHA1-Digest: qVxyhr1TdYKqYfCc9sx1X53mvh0=
+
+Name: res/raw/client_public.jks
+SHA1-Digest: CcpIj4nsnetADUaqkLrF0n5edE0=
+
+Name: res/drawable/w7.png
+SHA1-Digest: j7HqikuFytQwqyx1xRTOhyqiP/E=
+
+Name: res/raw-pt/kis_71848.html
+SHA1-Digest: UWnmayRXkIYYAvBcbhxO2fOHrdo=
+
+Name: res/drawable/kis_menu_button_warning_focused.xml
+SHA1-Digest: YTNR7WxJqN8U79ZdE0hhLlul9ss=
+
+Name: res/raw-it/kis_71801.html
+SHA1-Digest: r/5KZTBBKRelqTlKSFyJ2gs34Pc=
+
+Name: ae/com/sun/xml/bind/unmarshaller/Messages.properties
+SHA1-Digest: +hqF7sMcpX275d6i2GRocl3CJbY=
+
+Name: res/drawable/kis_lock_background_disabled.xml
+SHA1-Digest: igFy+XNYOrCLMILjvkVEa1GFIkI=
+
+Name: res/drawable/kms_progress_bar_inner_png.9.png
+SHA1-Digest: ilKC5miw8YTA9p4gzMJGh+1lHFk=
+
+Name: res/drawable-xhdpi/kis_checkbox_on_pressed_holo_light.png
+SHA1-Digest: T4MCAiTaWkLnbZOogN/AbpkCD8U=
+
+Name: res/layout/kis_dialog_li_contacts.xml
+SHA1-Digest: Wt1unyfBY9XukB8+886r0QJP590=
+
+Name: res/layout/kms_select_folder_backitem.xml
+SHA1-Digest: 2Nhf5l1UPHmmZo0oR1rdC7h1ryQ=
+
+Name: res/raw-ru/kis_71875.html
+SHA1-Digest: XnteQIkdUtdD5nFvGW985kWEq6o=
+
+Name: res/layout/kis_fragment_menu_button.xml
+SHA1-Digest: e0DbofOBtjTTZq7NG4/uNNOKqdE=
+
+Name: assets/external_code.html
+SHA1-Digest: E3wd4uQoX32Kp6JMkPVeq8tYtiA=
+
+Name: res/drawable-xhdpi/button_green_normal_png_kts.9.png
+SHA1-Digest: 9Is9cu0Xrz13ta8PnTYAOch/SIc=
+
+Name: res/drawable-xhdpi/license_update.png
+SHA1-Digest: PNBMFlQRevSlIcUy6SqriN0PgBY=
+
+Name: res/raw-fr/kis_72426.html
+SHA1-Digest: qMo/2yFsVxTNBKSrQRgRlg0zZew=
+
+Name: res/drawable/button_disable_png_kts.9.png
+SHA1-Digest: myjuaUn4ep3/n+1IbhwxUk8sbjA=
+
+Name: res/raw-it/kis_71841.html
+SHA1-Digest: phcQK2/KelGummMX+jWM+7REAng=
+
+Name: res/raw-fr/kis_71849.html
+SHA1-Digest: 3lCiIMoHsp+HXmKwAnV/SJru0mg=
+
+Name: res/anim/slide_in_from_right.xml
+SHA1-Digest: wxJoigbbNzs6lMehDOtGj746VCM=
+
+Name: res/raw/kis_71834.html
+SHA1-Digest: p7Owy3dYjpAjJnVWiSc7lK/zfIQ=
+
+Name: res/raw-pt/kis_58977.html
+SHA1-Digest: v0pgXMU4uO6aFciMHxmIsHK9MYs=
+
+Name: res/drawable-xhdpi/kis_dialog_user_action_yes_icon.9.png
+SHA1-Digest: dsqze4YkYPTVyidJ9XdskbsJak8=
+
+Name: res/raw-de/kis_71876.html
+SHA1-Digest: qFtpG4xR4mFYEbeOXgrzaph5lIM=
+
+Name: res/raw/kis_74780.html
+SHA1-Digest: bJkZuXLsO1NOtvaB1+ZIKJWW2EU=
+
+Name: res/raw-es/kis_71845.html
+SHA1-Digest: BQQILW4TwtHqcS1kfHo7GYaVTCs=
+
+Name: res/drawable-nodpi/kts_ico_phone_30.png
+SHA1-Digest: wT/fTmNQKxjO1sPRDNMXc6qMmmk=
+
+Name: assets/privacy_protection.png
+SHA1-Digest: j1OVO4eNRdnzgWkZR49HHpvxZ6Q=
+
+Name: res/drawable/kis_menu_button_normal.xml
+SHA1-Digest: Ej6bG8bzgfaFT81QU6T+RFI5tok=
+
+Name: res/raw-de/kis_71878.html
+SHA1-Digest: /ovtgfyYRJaxwoRVHlreM4AT8qg=
+
+Name: ae/com/sun/xml/bind/v2/Messages_ko.properties
+SHA1-Digest: WIjWU+Ggg3Y3j3wQuVzcKYXbfxo=
+
+Name: res/drawable-nodpi/ico_lock_screen_lock.png
+SHA1-Digest: NGh0bwtXaYTMfT5SYKhU3Ys9E0c=
+
+Name: ae/com/sun/xml/bind/v2/doc-files/j2s_architecture.sxd
+SHA1-Digest: z7/xOx36Q+kVuOYByJxiENfDj5E=
+
+Name: res/raw/kis_71870.html
+SHA1-Digest: HFb1hso52d8FKD9thYm1q4XfjnI=
+
+Name: res/raw-de/kis_71863.html
+SHA1-Digest: ExA8/XGRkEbKHU6y+NT6f4FUklc=
+
+Name: res/drawable-nodpi/settings_main_arrow_ico.PNG
+SHA1-Digest: Vv8y0MVAEoh6zK8xQ5R2s5L2N88=
+
+Name: res/drawable/kis_setting_tab_antitheft_states.xml
+SHA1-Digest: kAh+6bFIAHBMtLTO3Rd+VPj9pcU=
+
+Name: res/layout/kis_fragment_settings_tab.xml
+SHA1-Digest: BuaVMik5uNEiCU60+Egz9P988BU=
+
+Name: res/raw-pt/kis_71891.html
+SHA1-Digest: jmUOv7dj5cdRwKVuLVNwTo+uPT8=
+
+Name: res/raw-ru/kis_71812.html
+SHA1-Digest: qm9jBDPXhKWQ4zcJjX3t8dqVYBc=
+
+Name: res/layout/dlg_footer_separator.xml
+SHA1-Digest: uqWVHy30JJZ6oYSM2lRcSgUltFs=
+
+Name: res/layout/kis_fragment_issues.xml
+SHA1-Digest: 3UVLEChVq5j7E1ELgVB9OEy/S+8=
+
+Name: res/drawable-hdpi/kts_dialog_checkbox_enabled_on.png
+SHA1-Digest: PUlUfvMQAzxXnIDa/1K0PaWgZmU=
+
+Name: ae/com/sun/xml/bind/v2/runtime/reflect/Messages_it.properties
+SHA1-Digest: XUeeLCUptdU/s9+NG1WSnQspDRg=
+
+Name: assets/default_settings_beta
+SHA1-Digest: Ey8w/aqmS7yWSA31xDwQOm1GWXU=
+
+Name: res/raw-es-US/kis_72712.html
+SHA1-Digest: e3hJDxMfUM16iE9i4DNcHnJBOSY=
+
+Name: res/raw-de/kis_71924.html
+SHA1-Digest: by1P98QVbQES+VjpnlNgtE1WPn0=
+
+Name: res/drawable-nodpi/main_scr_shadow_up.png
+SHA1-Digest: gXXs+Qj52sSvxPakRCM4evgQDtw=
+
+Name: res/drawable-xhdpi/kis_checkbox_on_holo_light.png
+SHA1-Digest: ZeGs5r6IH6LC79hR+UVJnv/7MeI=
+
+Name: res/raw/kis_71823.html
+SHA1-Digest: ZmL5WVWvtFk0mjII95fchLWfeMo=
+
+Name: res/raw-it/license.html
+SHA1-Digest: tpCpM0S8PbGaijJGxE79irXClkE=
+
+Name: res/raw-de/privacy.html
+SHA1-Digest: duU2R+i6nwIfCfT2qENzQdSNqW0=
+
+Name: ae/com/sun/xml/bind/v2/runtime/property/Messages_pt_BR.propertie
+ s
+SHA1-Digest: HhVKjA+FMsduUXKmyalogFbDqM8=
+
+Name: res/drawable-xhdpi/kis_radiobutton_on_disabled_holo_light.png
+SHA1-Digest: x4cA9Qn8hoJwH2/M2mxC2Hsa9Yk=
+
+Name: res/drawable-hdpi/kis_li_issue_hide.png
+SHA1-Digest: lq2LNc3U7A5OSa6Tjre81lM4o1Y=
+
+Name: res/raw-de/kis_71813.html
+SHA1-Digest: ZNrT1UZW4aNGEivcta4yrU6Zm0s=
+
+Name: res/layout/uninstall_kts.xml
+SHA1-Digest: xAFNzdDbBh8+iIctQg8AIS+1vEg=
+
+Name: res/raw-de/kis_71821.html
+SHA1-Digest: mM8LdYvjZ8elwHC3yPjOL75yLGE=
+
+Name: res/raw-es/kis_71797.html
+SHA1-Digest: v67FN7VuvGuVyZ6lP1/SgfiwI1c=
+
+Name: res/raw-es/kis_71875.html
+SHA1-Digest: K2jDu8Tqi+qXrJHSPV4UxPn6r30=
+
+Name: res/raw-es-US/kis_71782.html
+SHA1-Digest: 1lFbR+qEVpEzzker/1XBJwbE/aY=
+
+Name: lib/armeabi/libkisa_native.so
+SHA1-Digest: UHMY7kfgbf5YdSKSThAm9DAEloo=
+
+Name: res/raw-it/kis_72712.html
+SHA1-Digest: ArxkFbz4lOh8qMIkDqR5IcgMKPo=
+
+Name: res/drawable-nodpi/settings_group_web_white.png
+SHA1-Digest: Shk3Kyfk4EBHd/bcobpJ5UqaLyk=
+
+Name: res/raw-es-US/privacy.html
+SHA1-Digest: /tETFwziofG2JrsKuwLndiKSu/k=
+
+Name: res/raw-es-US/kis_71841.html
+SHA1-Digest: EtZdEQYWSpeSShLO6ZGrcTBOAdw=
+
+Name: ae/com/sun/xml/bind/v2/runtime/unmarshaller/Messages_ja.properti
+ es
+SHA1-Digest: KQrj/mfwnjwestqRCw1GFr+kGh0=
+
+Name: res/drawable-mdpi/kis_radiobutton_on_holo_light.png
+SHA1-Digest: vLM5bbK+Ohkcm6BzLGYMg7eoycM=
+
+Name: res/raw-de/kis_71827.html
+SHA1-Digest: YP+v3M7IcP+5NfSD29ESPRin1sc=
+
+Name: res/raw-es/kis_71778.html
+SHA1-Digest: m52v5YqEV1f9yyENqg/5BKw/V1g=
+
+Name: res/raw-pt/kis_71928.html
+SHA1-Digest: kUHQrkrSZBC5es8RJPUqV/XqUkY=
+
+Name: res/raw/kis_71847.html
+SHA1-Digest: ZJfmUWPI6pDWKykprOwb21DdPfQ=
+
+Name: res/drawable-xhdpi/icon_features_1_gray.png
+SHA1-Digest: SE1WOfMZJiwTasL/vaK6PL4AXUY=
+
+Name: res/raw-pt/kis_71790.html
+SHA1-Digest: 4EMmgOLSgOG6hDUNIQMDa/eHzYA=
+
+Name: res/drawable-xhdpi/kts_icon.png
+SHA1-Digest: mfuXlihzzdZyfXgbEw2bM8UlLgk=
+
+Name: ae/com/sun/xml/bind/api/Messages_zh_CN.properties
+SHA1-Digest: HbVDW/vFJOzlyMKUqrbAVQ0U+z0=
+
+Name: res/raw-ru/kis_71808.html
+SHA1-Digest: f7uzkFlxsJswzPOBEO14PY8U6uo=
+
+Name: res/raw-de/kis_71862.html
+SHA1-Digest: vFTS6Zazw9OfesVVCvvsj2kymiw=
+
+Name: res/layout/kms_settings_detail_clickitem_with_hint.xml
+SHA1-Digest: v6O+SPfR+EYAbZgFTLYEjQ6iT4M=
+
+Name: res/drawable-mdpi/kis_radiobutton_off_pressed_holo_light.png
+SHA1-Digest: fCte6NyKj7S1yi1p7S8FYI1vmO4=
+
+Name: res/raw/kis_71795.html
+SHA1-Digest: fT/Y6E/TreEZRVhb5XlAS5vOXNE=
+
+Name: res/raw-ru/kis_71855.html
+SHA1-Digest: ctraoxOKG5S2FPI06LVMJTFE+RI=
+
+Name: ae/com/sun/xml/bind/v2/schemagen/Messages.properties
+SHA1-Digest: Ux9+7PUOQOHgxAfm3/aoxrzfW8c=
+
+Name: res/raw-es/kis_61603.html
+SHA1-Digest: tSyurn+MPy1Ym43ERb13Xa8V0Ls=
+
+Name: res/raw-ru/kis_71887.html
+SHA1-Digest: 3pN1xVNyF4ROj56EGWzU+d14F5s=
+
+Name: res/layout/kis_fragment_menu.xml
+SHA1-Digest: dF0n7g/yekxJec7uaZGS3tD45gU=
+
+Name: res/raw-fr/kis_71776.html
+SHA1-Digest: ttsPL2sYNv2keSeqHvV6U6hJOQY=
+
+Name: res/raw-ru/kis_71926.html
+SHA1-Digest: qgTejxhTMPh0b4K239z+uIsmgxM=
+
+Name: res/raw-pt/kis_71864.html
+SHA1-Digest: fTPC6C76jrY7zMWycXvn5gOTjeI=
+
+Name: res/layout/wizard_device_admin_workaround_kts.xml
+SHA1-Digest: uF2hn5heHuWss2VbPDLwrmhsRkA=
+
+Name: res/raw-ru/kis_71797.html
+SHA1-Digest: vBq1I+p/59LU83peBKJX0H74AHU=
+
+Name: assets/status_window_es.png
+SHA1-Digest: cYV1Ao0obAx/BYSkPlALV+lgq4w=
+
+Name: res/drawable-xhdpi/kis_radiobutton_off_focused_holo_light.png
+SHA1-Digest: mt/aIrZF8VGf/de4tzSnkkPiCMc=
+
+Name: res/raw-pt/kis_71869.html
+SHA1-Digest: macQONaZhyQi/Wb7iZK1nicbwNE=
+
+Name: res/raw-it/kis_71830.html
+SHA1-Digest: GihnbmMhUyCllpOhAvt9DrXpBdo=
+
+Name: res/raw-pt/kis_71776.html
+SHA1-Digest: BVeaE0KyPnedgLpA5pZ6Fd6D6Zk=
+
+Name: assets/swipe-panel_cs.png
+SHA1-Digest: rkCccHLz6BiZ50ZkMAuqzH/Lckc=
+
+Name: res/layout/confirm_update_kts.xml
+SHA1-Digest: GElMY+BXT6/UIROkGpBlz5ezPfA=
+
+Name: res/raw/kis_71864.html
+SHA1-Digest: B/t1+X6YS6JIl5vgT3hVn0ZXm5A=
+
+Name: res/layout/import_sms.xml
+SHA1-Digest: joS9Av0eJsFOV5ZJM0Y+zfJqe8Q=
+
+Name: res/raw-de/kis_71855.html
+SHA1-Digest: e1g1U3TYT7iLYn90ab3E7HiqKQg=
+
+Name: res/raw-es/kis_71886.html
+SHA1-Digest: lqZ5gWnImo6Mc5dwBbvD2DqOqUo=
+
+Name: res/raw/kis_71605.html
+SHA1-Digest: Rv5wyFjcA6IlBJuwQGwIh85nl+o=
+
+Name: res/drawable-xhdpi/kis_switch_thumb_pressed_holo_light.9.png
+SHA1-Digest: FhEjaTD+xM8i7x7i+L5vquRMpMA=
+
+Name: res/drawable-xhdpi/icon_features_3_gray.png
+SHA1-Digest: uvknyhpMR3uWmb0U8IFa98KFJLs=
+
+Name: res/raw-de/kis_71870.html
+SHA1-Digest: VJvj9tJq/vCnWzqfW0Zd4KUNAKg=
+
+Name: res/layout/wizard_activate_with_code_kts.xml
+SHA1-Digest: fzbqmfo5eoetU4dMp4aNdQhnBE0=
+
+Name: res/raw-pt/kis_79376.html
+SHA1-Digest: vFNT/+VkHZSTZ75wAF3jTVTcxXo=
+
+Name: res/raw-it/kis_71883.html
+SHA1-Digest: 1D92Ouk/5gECGN+GrdO4Sj1m9E8=
+
+Name: res/raw-es/kis_72052.html
+SHA1-Digest: MctRzMaBqPjM6wyYMs2UNm4XV7Y=
+
+Name: res/raw-pt/kis_71861.html
+SHA1-Digest: jppssSnfWl18NnhE1codELEeLOs=
+
+Name: res/drawable-xhdpi/kis_menu_button_bg_focused.9.png
+SHA1-Digest: bm4mfiLM6nQaLa07Kgj2/GJg5bM=
+
+Name: res/drawable/ico_ipm_alarm.png
+SHA1-Digest: Wi1vRuvArrD9GpeN4cTwn6Dthxc=
+
+Name: res/drawable/setting_caption_drawable.xml
+SHA1-Digest: HOIR/HSQQpsXhw4m9VnaZBDI3ug=
+
+Name: res/raw-it/kis_71865.html
+SHA1-Digest: YwDVkS66tyiWnEyvMOXccHKf27Q=
+
+Name: res/drawable-mdpi/license_update.png
+SHA1-Digest: Yvro6lZffiGKpBTo3IIOyt8HTqs=
+
+Name: ae/com/sun/xml/bind/v2/runtime/reflect/Messages_fr.properties
+SHA1-Digest: vyewNScK5ZELxzaL8IZsFVS73bQ=
+
+Name: res/layout/kis_issues_premium_button.xml
+SHA1-Digest: xdAm6NAsShxij0daplV6furyJe8=
+
+Name: assets/blocks/b-common/common.less
+SHA1-Digest: g7V+rwU9s40+rapndNioX3eAOd8=
+
+Name: res/raw-pt/kis_71817.html
+SHA1-Digest: giopDgDoDkuYfZBc1uyMEPEY40M=
+
+Name: res/raw/app_update_code.dat
+SHA1-Digest: +OUIOzTNlKL5eRsW6NC54viOx44=
+
+Name: res/raw-es-US/kis_71889.html
+SHA1-Digest: m0vJR+cmPt7Aebz2pQlY2uSLt6c=
+
+Name: res/drawable/kis_dialog_li_states.xml
+SHA1-Digest: q2ZVYSozkRZtao+s0JQa0P57Jnk=
+
+Name: res/drawable/ico_contact_30_disabled.png
+SHA1-Digest: C35zdHMLYJxquSNJqYQdBFAM2S8=
+
+Name: res/drawable/ico_reports_ap.png
+SHA1-Digest: Hb2r4BOGTP7r0cmReTunqL1/+hw=
+
+Name: res/drawable-xhdpi/button_grey_press_png_kts.9.png
+SHA1-Digest: eYTxhYZk3khUhujxx4ss8whOlPI=
+
+Name: assets/status_window_nb.png
+SHA1-Digest: V9a4m9aEwNJnKjv9Zpzaxg070rI=
+
+Name: res/raw-it/kis_71875.html
+SHA1-Digest: bWvOxTo9aG56xnlYXngDwwfCtNg=
+
+Name: res/raw/kis_71829.html
+SHA1-Digest: m6sLUlZvbmz/6D4DU72ydjfbNtY=
+
+Name: res/raw-es/kis_71925.html
+SHA1-Digest: mM9/eHfAuuBeu7q67v56GvR2g5s=
+
+Name: res/raw/kis_71867.html
+SHA1-Digest: e9ySS5SgZCAb8nkcTEgA2PyNtDE=
+
+Name: res/raw-ru/kis_71823.html
+SHA1-Digest: OHKKm8q2b1Snr7ARqh01XZYAzmU=
+
+Name: res/raw-it/kis_71879.html
+SHA1-Digest: BpWJi7/09yoMcC3q9lSzwH6Oeas=
+
+Name: res/raw-ru/kis_71891.html
+SHA1-Digest: bUphrbwrRhapjyS29P+M2WZJROs=
+
+Name: res/drawable/kis_menu_button.xml
+SHA1-Digest: YFUP1dY/DLHQuRmW4MbF6G3aqF0=
+
+Name: res/drawable-mdpi/kis_checkbox_on_holo_light.png
+SHA1-Digest: GUsqMopUMtklfXBfEygfRwYeCvQ=
+
+Name: res/raw-es-US/kis_71814.html
+SHA1-Digest: guqcK9L74j4yKw1AUVzCwd5cxTQ=
+
+Name: res/drawable/kmsdialog.xml
+SHA1-Digest: cVS7pq3101ym4DbFe7iRx4pt3e0=
+
+Name: lib/armeabi-v7a/libkisa_native.so
+SHA1-Digest: yltRd1RvOr+rDo+XhVPnfx9uJLs=
+
+Name: res/raw-ru/kis_71792.html
+SHA1-Digest: dLMRkXeuy3AdCZCYHz6ukenHhUE=
+
+Name: res/raw-es-US/kis_71871.html
+SHA1-Digest: E65P0/1zxttSoFrGuFaurHchhIk=
+
+Name: res/anim/main_subdetail_anim_hide.xml
+SHA1-Digest: 6H4WiNDcat2k3UdlBt+58nsZEOI=
+
+Name: res/raw/kis_71838.html
+SHA1-Digest: 6SF8j0wQKNvVHzojvfayu0dZA0g=
+
+Name: assets/main_window_at_glance_fi.png
+SHA1-Digest: 1fIPqW62sV+RpXWJPA5DztbvGoE=
+
+Name: classes.dex
+SHA1-Digest: x3E7+bPlUm4fq1D9bKJnx0Lx4Fg=
+
+Name: res/raw-es/kis_71829.html
+SHA1-Digest: jSznIBlexw64Vc3+8V6pyPbLLZY=
+
+Name: res/raw-ru/kis_71925.html
+SHA1-Digest: gxlQZUK1ikW1t2NdrlSf8GjjqJI=
+
+Name: res/raw-fr/kis_61603.html
+SHA1-Digest: t/1RtgdcPzrfXhp2YqJGYNJbxQU=
+
+Name: res/raw-ru/kis_71861.html
+SHA1-Digest: nrQCWpmLbnqGyGc2tmB4n8MSv0g=
+
+Name: res/layout/alert_dialog_footer.xml
+SHA1-Digest: IiuX/GJsCC2WpuTNMVUfISIrNKo=
+
+Name: res/drawable-hdpi/license_arrow_down.png
+SHA1-Digest: UA/IW4Pcfv1w4u0GL+1TsQxVBi8=
+
+Name: res/raw/kis_71783.html
+SHA1-Digest: N5Y+41/sumzr++coTse+NZgawtQ=
+
+Name: res/raw/kis_71813.html
+SHA1-Digest: RU2lnBK3ymL94IicdA7sNc8nP70=
+
+Name: res/raw-fr/kis_71821.html
+SHA1-Digest: uKP57udGA4zeN2I5KRXm1Ja/Pos=
+
+Name: res/raw-es/kis_74780.html
+SHA1-Digest: I7uUgzPe5g+u3zbN2E/6Rnn9WMY=
+
+Name: res/drawable-nodpi/dot_grey_small.png
+SHA1-Digest: jesAB1wZxEtsB1UpbIZJse78KcE=
+
+Name: res/raw-fr/kis_71840.html
+SHA1-Digest: ENQj7BWEP44eIW+qLfrpk/J7lFE=
+
+Name: res/raw-ru/kis_71927.html
+SHA1-Digest: jXwImoVCgzoEpf1urFGyQNcmOU0=
+
+Name: res/drawable/dot_green_tr.png
+SHA1-Digest: MZKtNa1CWD7iJWrNuh+axqYlDik=
+
+Name: res/drawable-hdpi/license_arrow_up.png
+SHA1-Digest: 8vRtzmDa1E0FgWfazp/1Ve+84yg=
+
+Name: res/raw-es-US/kis_71820.html
+SHA1-Digest: uDlJ5Vuj3b8Ca9QAdrmTYxSh6wc=
+
+Name: res/drawable/settings_header.9.png
+SHA1-Digest: p9frmZkAlnHiKOF1kvnEqwVj0/A=
+
+Name: res/raw-it/kis_71886.html
+SHA1-Digest: DZQwTNDKjFm4njHtGh1TH4n3LKk=
+
+Name: res/drawable-hdpi/kis_header_button_issues.png
+SHA1-Digest: ObDuXC5rk4+LiI96BFSwapwCHzo=
+
+Name: res/layout/kms_select_folder.xml
+SHA1-Digest: FwbNg2jP9595cBWlHqFcT2SDx6M=
+
+Name: res/raw-it/kis_59757.html
+SHA1-Digest: SHmdeRJfxEMMtLnhntE3o7a10QE=
+
+Name: assets/top.jpg
+SHA1-Digest: OH3zI54rY3insbQT4Gm0uc4euvY=
+
+Name: res/raw-pt/kis_71873.html
+SHA1-Digest: dMkPLcKa4LGtLDJ7/TM2rTJTcR4=
+
+Name: assets/blocks/b-nav/nav.less
+SHA1-Digest: azVa9C8PdcSCHZ5WWMEJdRgrnUU=
+
+Name: assets/blocks/b-footer/footer.css
+SHA1-Digest: CMgOx2j+SeGXwZvYamBsmljxWKg=
+
+Name: res/raw-es-US/kis_71849.html
+SHA1-Digest: rSfQR9/7wiyD1wMMKbRCS9xAkrM=
+
+Name: res/raw-pt/kis_71889.html
+SHA1-Digest: ESW0QM/brd73HX68LBaBha/qqA8=
+
+Name: res/raw-es-US/kis_71886.html
+SHA1-Digest: WOjQ29w53QTvB5uu3pc5pvuxA9I=
+
+Name: res/drawable-nodpi/settings_detail_checkbox_enabled_on.png
+SHA1-Digest: PUlUfvMQAzxXnIDa/1K0PaWgZmU=
+
+Name: res/raw-it/kis_71807.html
+SHA1-Digest: VWPIcWZNOZk8n4J31AB+RJFwofo=
+
+Name: res/drawable-nodpi/popup_dialog_rotated_background.9.png
+SHA1-Digest: tPYslXsoB4L0mYjdfWxdVF+CpNQ=
+
+Name: res/raw-es/kis_71874.html
+SHA1-Digest: L51qvXvEaZXBQwFsiThCAV+UQto=
+
+Name: res/drawable-hdpi/kis_menu_button_call_sms.png
+SHA1-Digest: 2NqReEhsYfjhFcQoP3nB+QohcxM=
+
+Name: res/raw-pt/kis_71797.html
+SHA1-Digest: l7uetDXIdJKz69iRQQkRZZbKARk=
+
+Name: res/drawable-mdpi/progress_bar_white.png
+SHA1-Digest: AVGc4Aao9QbAjhtYibHr+MVzd8g=
+
+Name: ae/com/sun/xml/bind/marshaller/Messages_zh_CN.properties
+SHA1-Digest: w5LNdqpz3jh1X4FmpD/MqFyT6tE=
+
+Name: res/drawable-mdpi/kis_switch_bg_holo_light.9.png
+SHA1-Digest: noc2gR+a9+/gJmL9wLyIQxnKNmM=
+
+Name: res/raw-pt/kis_72052.html
+SHA1-Digest: WdZxEWpRqAq/V5yukX7W/81iFzA=
+
+Name: res/raw/kis_71884.html
+SHA1-Digest: s/1Loc1k0Yovkh839XhrqzJlK3E=
+
+Name: res/layout/settings_license_enter_activation_code_or_buy.xml
+SHA1-Digest: 2sQ2I5DQQ0miyjpDIqGtobQPvjw=
+
+Name: assets/blocks/b-btns/btns__type_close.png
+SHA1-Digest: owCB/cbC+vib/HoRaoCRqwduixQ=
+
+Name: res/raw-es/kis_71850.html
+SHA1-Digest: /34YfpXNYs9Ypogh7hQw1k1jWv8=
+
+Name: ae/com/sun/xml/bind/v2/runtime/reflect/Messages_zh_CN.properties
+SHA1-Digest: G34y3Wv8oWuVDsl9snitT0FyKIA=
+
+Name: res/raw-pt/kis_71847.html
+SHA1-Digest: HSR317Cc7o+VwUqSP7XapgNSVGE=
+
+Name: res/raw-ru/kis_71892.html
+SHA1-Digest: PKEF5AOx+AsfeLofsrVSa+0/icU=
+
+Name: assets/blocks/b-main/main.less
+SHA1-Digest: z9dLW1WDqfrBHCMi2l2vEIfq6Tw=
+
+Name: res/raw-fr/kis_71847.html
+SHA1-Digest: Df1SklopQra3MyV5+EsIUod91Yk=
+
+Name: res/raw-es-US/kis_71807.html
+SHA1-Digest: cVVr5TKdeDtnXORjA6s2U57ncoM=
+
+Name: res/drawable/kms_ico_search_20.png
+SHA1-Digest: 7Za6sEdk4PpbwD+rfZIDV1yOPBg=
+
+Name: res/raw-es/kis_71888.html
+SHA1-Digest: O7sjrLl5wgdZWgmVJKwmyxRDmns=
+
+Name: lib/armeabi/libgnustl_shared.so
+SHA1-Digest: Zv/NoSTkjDd6EXYyUyXxzijHlSM=
+
+Name: ae/com/sun/xml/bind/v2/runtime/property/Messages_ja.properties
+SHA1-Digest: 0Nn4fFyz/gPx2Gco70wswnLZ3jI=
+
+Name: res/raw-pt/kis_71877.html
+SHA1-Digest: ERQ0Kz0iFsXxIxOql79zl81Po8Q=
+
+Name: ae/com/sun/xml/bind/marshaller/Messages_ko.properties
+SHA1-Digest: qiRLnSIxbwvbfyT7iWId0dVpdN4=
+
+Name: res/layout/kts_settings_detail_quarantine_item.xml
+SHA1-Digest: LVMqa5b/TlO9bZ1Wc3iA7XEwtiI=
+
+Name: res/raw-de/kis_71889.html
+SHA1-Digest: npwG9RAF8WSmqceqfm+FlBfnkkc=
+
+Name: res/raw-fr/kis_71842.html
+SHA1-Digest: 6ZDJsP2Itp01WXlGfNVrJ2WqyF8=
+
+Name: res/drawable-mdpi/kis_switch_bg_focused_holo_light.9.png
+SHA1-Digest: guK5+CfF29Z6zBSx7vf8aZTS/mQ=
+
+Name: res/raw-de/kis_79376.html
+SHA1-Digest: lBAEDR5HNJf76F63CsM5GCwLPXY=
+
+Name: assets/main_window_at_glance_fr.png
+SHA1-Digest: AGQMqhofdVV3kpYm9yNEEFcmlVk=
+
+Name: res/raw-es/kis_71806.html
+SHA1-Digest: JSu3H23/MQzSnzgnTHEy3cshfHg=
+
+Name: res/raw-es-US/kis_71884.html
+SHA1-Digest: PThVH5YR6kCJoiDMaF99IP6n8E8=
+
+Name: res/drawable-ldpi/star.png
+SHA1-Digest: hEvGXzWjpc7sXzY70cYg2di5tzA=
+
+Name: res/drawable-nodpi/settings_group_empty.png
+SHA1-Digest: CbCRLF7KZLU5d7ylmb4Dg3F9Ib0=
+
+Name: lib/armeabi-v7a/libscan_kavd.so
+SHA1-Digest: uLjiyj1PhqqNsFtIZ5r0DqaS5UA=
+
+Name: ae/com/sun/xml/bind/v2/model/impl/Messages_de.properties
+SHA1-Digest: bs81zer2zmsJspwx6SFiMIqvI58=
+
+Name: res/raw-ru/kis_61373.html
+SHA1-Digest: /pcHCH303znqBnvDcfvjt6uOrso=
+
+Name: res/raw-ru/kis_71876.html
+SHA1-Digest: bbfQCVkQlbpca1VoDaFMXdkOOSQ=
+
+Name: res/raw-fr/kis_71797.html
+SHA1-Digest: mwhkSEI37GaTdLcOcV1gOseQP/c=
+
+Name: res/layout/wizard_device_admin_kms.xml
+SHA1-Digest: TBpOfTAYwmkxsiFAs7YdvDmPqs4=
+
+Name: res/drawable-hdpi/kis_menu_button_help.png
+SHA1-Digest: y/U6gx0JdTxBqG/OGqDXWbLZHR4=
+
+Name: res/raw-pt/kis_71878.html
+SHA1-Digest: iNboGhYiNsJrGTkGghlZ6+Zz9MA=
+
+Name: res/raw/kis_71784.html
+SHA1-Digest: chICOBEez0Hrw/yvxytYvHxrKec=
+
+Name: res/drawable-xhdpi/button_green_press_png_kts.9.png
+SHA1-Digest: OsaW2iBKEbWCn/ZDgBsJJy+28TQ=
+
+Name: res/layout/phone_edit_view.xml
+SHA1-Digest: ERNQwEe+uow6C7TgP725H7fc2zk=
+
+Name: ae/com/sun/xml/bind/unmarshaller/Messages_de.properties
+SHA1-Digest: a9oBRvYQabhpwNEv5/c3PSOyW2A=
+
+Name: res/drawable-nodpi/shield_info.png
+SHA1-Digest: XKrEBYvWkCCdToN9vwVBjjigyEY=
+
+Name: res/drawable-xhdpi/kis_switch_thumb_disabled_holo_light.9.png
+SHA1-Digest: 8/WqWm+xjkQEcbCZtloSWPJa9JE=
+
+Name: res/raw-fr/license.html
+SHA1-Digest: HhvXGONqpVJ2L5SfT9mSWAf4qck=
+
+Name: ae/com/sun/xml/bind/v2/Messages_de.properties
+SHA1-Digest: rXIlF/BPwywz1gAbX3XIqXksw2w=
+
+Name: ae/com/sun/xml/bind/unmarshaller/Messages_zh_TW.properties
+SHA1-Digest: tlFIV6aSWelLlPsKG4T23vJAlDs=
+
+Name: res/raw-it/kis_71880.html
+SHA1-Digest: /VuNq3StBb4JrLudybAG2J4RuhM=
+
+Name: res/raw-es/kis_71810.html
+SHA1-Digest: 85h3CMZQomgi0EVu7OEEUwXoUQM=
+
+Name: res/raw-es-US/kis_78739.html
+SHA1-Digest: YJaiZpZr+Nj2Cp8SifW/oMv+L3g=
+
+Name: lib/armeabi/libkl_uuid.so
+SHA1-Digest: wB9MVFIcREQhCDceVH1oqj7IuW0=
+
+Name: res/raw-es/kis_71861.html
+SHA1-Digest: 70S28lmBH2yM7v5U6n2W1wnQAmM=
+
+Name: res/drawable-nodpi/button_webportal_icon_dark.png
+SHA1-Digest: Z7jz39EP2tmwA7bWeT0r3uDnlxI=
+
+Name: res/layout/license_info_control.xml
+SHA1-Digest: 9YDrrZ0gSR6egAtXsmwpT/mPOWU=
+
+Name: res/raw-pt/kis_71816.html
+SHA1-Digest: cPTzgW6H6wuoyqQkhOzrB9c77+Q=
+
+Name: res/layout/antispam_item_exists.xml
+SHA1-Digest: QW+z5/f2ZRCOVD6KeVCsTphyymo=
+
+Name: res/raw-ru/kis_71860.html
+SHA1-Digest: XY3p2f/8bxTC8aLI7Ti7eNqYHI4=
+
+Name: res/drawable-hdpi/kis_switch_thumb_disabled_holo_light.9.png
+SHA1-Digest: kBqhjSjNcc2sYZqftc6A26vs5YQ=
+
+Name: res/drawable-mdpi/kis_checkbox_off_holo_light.png
+SHA1-Digest: aFIeCajHdvmRYhcMzgIO2ef3lA8=
+
+Name: res/raw-de/kis_71873.html
+SHA1-Digest: /iDFsZqTW885lJMwBxFeKb5Xt+o=
+
+Name: res/raw-es-US/kis_61603.html
+SHA1-Digest: JqFzsJHD99iHSSVpNVw9busUlvE=
+
+Name: ae/com/sun/xml/bind/marshaller/Messages_fr.properties
+SHA1-Digest: DdXMTnfYzfUFXFFf0qhKPtPm5T4=
+
+Name: res/drawable-mdpi/ico_k_25.png
+SHA1-Digest: QIXGzB0QxReAQb33BpPbFNSJqeQ=
+
+Name: res/layout/kts_settings_quarantine.xml
+SHA1-Digest: HOnZupX/c9PSA+vQQbD5moSyC+w=
+
+Name: res/raw-es-US/kis_71843.html
+SHA1-Digest: U4PSlo0BBHG0tnhICb63VwY+lKc=
+
+Name: res/layout/kis_fragment_settings_setting_antivirus.xml
+SHA1-Digest: 1coUOpB75v6ZkrDtLjsRnPa4tU4=
+
+Name: assets/blocks/b-btns/btns__type_collapse.png
+SHA1-Digest: BRAmncY7gQ7x9+Rqw5V9KipenEs=
+
+Name: res/drawable-nodpi/lock_product_title.png
+SHA1-Digest: 4Zu1rXgu6OCLd3I7KEboCj7ArM4=
+
+Name: res/drawable-hdpi/ico_wizard_activate.png
+SHA1-Digest: TmafBVJ9PLBgnrKLZY6TW40Eajs=
+
+Name: res/raw-fr/kis_71848.html
+SHA1-Digest: eTOZuRKfQY+YVxpJhi/ekeQkRBY=
+
+Name: res/raw-de/kis_71928.html
+SHA1-Digest: FgkaojR3pEPgITD3uats2np1A7c=
+
+Name: res/drawable-nodpi/big_button.xml
+SHA1-Digest: 2+Q1LlewPBZYgJUpr4372bq0D5Q=
+
+Name: org/codehaus/jackson/impl/VERSION.txt
+SHA1-Digest: BsOo8+D0LAkLCFJH0BVt3tXSzts=
+
+Name: res/raw-es-US/kis_71783.html
+SHA1-Digest: sAQ1XeyNDx2Uv8ZUVBbf19fcRl8=
+
+Name: res/raw-de/kis_59757.html
+SHA1-Digest: vAEVcmkQUifIgaLOmVWtJROptgg=
+
+Name: res/drawable/ico_ipm_info.png
+SHA1-Digest: Wi1vRuvArrD9GpeN4cTwn6Dthxc=
+
+Name: res/raw/kis_71841.html
+SHA1-Digest: 63i7u4jyrH7wOLKcHXqOWJc3jdU=
+
+Name: res/raw-de/kis_71845.html
+SHA1-Digest: W2HfkUFUS1hq34zmH7Rm1pTDbjk=
+
+Name: res/drawable/ico_info_30.png
+SHA1-Digest: mQOkgu8+f6SdVNKUM5ZlHcxh0UU=
+
+Name: res/raw-es-US/kis_71829.html
+SHA1-Digest: v+BuquIHMvnSM2XfuRiGRq5pax4=
+
+Name: res/drawable-xhdpi/license_ok.png
+SHA1-Digest: nTyzHQYc8lQUwlW7rlG+Vyd7vjM=
+
+Name: res/raw/kis_71791.html
+SHA1-Digest: 9AsdX+sz/cIey7RveONBSC5h1pY=
+
+Name: res/drawable/ico_plus_20.png
+SHA1-Digest: +/tT3SMOY/hq89R5g2kDiuOXoJM=
+
+Name: res/layout/kts_settings_detail_report_item.xml
+SHA1-Digest: majddBanqcbMM8gJ3FeNv65qRE4=
+
+Name: res/raw-es/kis_71775.html
+SHA1-Digest: pUooSkTIQ24CXNrbLIsLjy8AAXo=
+
+Name: res/raw-it/kis_71821.html
+SHA1-Digest: pCemMG2TA0sK4zDwDXWRZX0/ppE=
+
+Name: res/raw-de/kis_71835.html
+SHA1-Digest: uK/TCpzPXOEBqOOz+sIWDy/6PZc=
+
+Name: res/layout/kts_settings_detail_description.xml
+SHA1-Digest: 1kb3WYJ1Z1RrLlDTf1YA70RiQe0=
+
+Name: res/menu/reports_menu.xml
+SHA1-Digest: 7v+BNAL4yoTmT5IOA0looPSVT7I=
+
+Name: res/drawable-nodpi/tablet_premium_shield.png
+SHA1-Digest: LD3zuR2Ji9OPa0QBbpHyRVopQwM=
+
+Name: res/raw-es/kis_78739.html
+SHA1-Digest: 7a5A1KeZTi4VzthWacaXvSligRM=
+
+Name: res/layout/kms_lock_screen_new.xml
+SHA1-Digest: TJdRjZnvcoq0a0i24DDIY9pSk6U=
+
+Name: res/raw-es/kis_71860.html
+SHA1-Digest: 3ogjp4bj+6no7S09Q061gCT135o=
+
+Name: res/raw-ru/kis_71831.html
+SHA1-Digest: DWiOD+1WCFxfQYkmsUttbvY88sw=
+
+Name: res/raw-ru/kis_71884.html
+SHA1-Digest: +rBG5RLuDCO8JZxM2Lw5Pmn3otU=
+
+Name: res/raw-de/kis_71605.html
+SHA1-Digest: 3VT1C/sHWLoYlAeY+s8iLr8Apt4=
+
+Name: res/raw-fr/kis_71880.html
+SHA1-Digest: dIF0F5vBq1mLtPcTEznDm6AJOfg=
+
+Name: res/raw-es-US/preblock.html
+SHA1-Digest: O2pw6ZORBMRQIPY6I+RQEX+HWLs=
+
+Name: res/drawable/enter_code_selector.xml
+SHA1-Digest: zZ+/RAh1b04sOV5CTlGLcllANFQ=
+
+Name: res/raw-it/kis_72052.html
+SHA1-Digest: tuEzrXG7KfF1/wywSXNsb/Xx4fk=
+
+Name: ae/com/sun/xml/bind/v2/model/impl/Messages_it.properties
+SHA1-Digest: 8tdHSLNAHyQThK5yeAiU4gJbkXM=
+
+Name: res/raw-fr/kis_71855.html
+SHA1-Digest: NGIlt+vgD5Q6AM1V2XiBQvMomxw=
+
+Name: res/raw-it/kis_71792.html
+SHA1-Digest: vRMrcCmZVqisw7o2RJGWbluVWWg=
+
+Name: res/drawable-nodpi/shield_greenfill.png
+SHA1-Digest: brbJkD4TkDeHcenHnGUIycTuCk8=
+
+Name: res/raw-es/kis_71843.html
+SHA1-Digest: 3cSbG9uxzlbXhQM2MYUZisyNeMc=
+
+Name: res/layout/kitkat_warning_checkbox.xml
+SHA1-Digest: TvuOdTfX21NL+gIl8T/QLmNR294=
+
+Name: ae/com/sun/xml/bind/v2/doc-files/packages.vsd
+SHA1-Digest: ZubGR1IOliKtwu+KiigjlUMHKpM=
+
+Name: assets/blocks/b-btns/tutorial-btn-next.png
+SHA1-Digest: iE5GK10c8rR1F6Mk9P+OPmwQ2VI=
+
+Name: res/raw-es/kis_71791.html
+SHA1-Digest: xpzSsLX7SdRUPGaIS8XmaApbdDw=
+
+Name: res/drawable-xhdpi/kis_header_logo.png
+SHA1-Digest: baa/2yQbnqyfAmfAD2/GsNPlsW4=
+
+Name: res/raw-es-US/kis_71927.html
+SHA1-Digest: g8iHiFSvayMOOqANKB0eEFraSB4=
+
+Name: res/raw-de/kis_71881.html
+SHA1-Digest: FVu84wJGozPNln+cvo2WjYPlSYA=
+
+Name: res/raw-pt/kis_71775.html
+SHA1-Digest: x7CwgOQnCWH8hWpP7Q6PZEuUiAw=
+
+Name: ae/com/sun/xml/bind/v2/schemagen/Messages_it.properties
+SHA1-Digest: tKxMudw5+c5yYHjmH6Gnb+mn22o=
+
+Name: res/raw/kis_71891.html
+SHA1-Digest: BmFTdi9Ipg90hR+Dmu5sVbrQj58=
+
+Name: res/raw-fr/privacy.html
+SHA1-Digest: IbQ33EWWRdEg+U2grsQge06DIWE=
+
+Name: res/raw-pt/kis_71927.html
+SHA1-Digest: h4yCx+ITF0sRXcp9GUoan31kCpo=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: ikdmIjUufAp4oPeTJrWoISIh/DA=
+
+Name: res/raw-ru/kis_71889.html
+SHA1-Digest: HPmt9pdrYgk1jQA4EmoAHU9ybTE=
+
+Name: res/drawable/button_press_png_kts.9.png
+SHA1-Digest: O8QE20iDNs0kg/DMh38EGGytQTo=
+
+Name: res/raw-es/kis_71892.html
+SHA1-Digest: c2ElXZQozEw55OV82KE7DyrOWnc=
+
+Name: res/drawable/ico_plus_20_disabled.png
+SHA1-Digest: lPyO0EBrcRKXCzFV85omfCmHV8Q=
+
+Name: res/drawable-nodpi/button_big_selected.9.png
+SHA1-Digest: 7YSzDc77doZvYXTPNRo6VcDzvmw=
+
+Name: res/raw-de/kis_71893.html
+SHA1-Digest: 7Al/H7JneFzWIgdcmEpIkwRzkuA=
+
+Name: res/drawable-nodpi/kts_ico_hard_back_disabled_30.png
+SHA1-Digest: iHB6tVzPnrN1wT+D4MVqm3nzIQ8=
+
+Name: res/raw-de/kis_71887.html
+SHA1-Digest: KoiKRWbSJghvoMK9lQZrN0sFvl8=
+
+Name: res/raw-it/kis_71827.html
+SHA1-Digest: EoHmfK3uHoRhFgMl6DVTZjDb9+Y=
+
+Name: res/raw-es/kis_71835.html
+SHA1-Digest: PsS2mkXSHOl9HOv66/ARBCtvwGI=
+
+Name: ae/com/sun/xml/bind/v2/runtime/property/Messages.properties
+SHA1-Digest: PrO4Av3z3w8ms386kCw8VE2spT0=
+
+Name: res/raw-es-US/kis_71831.html
+SHA1-Digest: 08et7hv565IQ8OTQU6vvC3r/VkE=
+
+Name: res/raw/kis_71796.html
+SHA1-Digest: 1ueCmv0rQET8RrDzcEt/1nxOP2U=
+
+Name: res/layout/alert_dialog_user_action_antispam_sms_info.xml
+SHA1-Digest: 3DcqLk1E91Rq8xMAVJBfWLtEFnM=
+
+Name: res/raw-pt/index.html
+SHA1-Digest: 7TVszju/4NPE88V3EKy3ZNMyHnc=
+
+Name: res/raw-es/kis_71854.html
+SHA1-Digest: UIdEYdzbnwEPN3Px67nJrPQM0R8=
+
+Name: res/raw-pt/kis_71862.html
+SHA1-Digest: Mos4mTA8jg7nOS4hggeAeu5BGFM=
+
+Name: res/raw-ru/kis_71871.html
+SHA1-Digest: YLD5Zf0nhBIeZUpBy2kGbUAQgPE=
+
+Name: res/raw-pt/kis_71840.html
+SHA1-Digest: qwTO5clYzC5DT4z/7kIBr0T48UY=
+
+Name: res/drawable-mdpi/kis_checkbox_on_pressed_holo_light.png
+SHA1-Digest: DDJ/8gfDdyReM+bnd6beShHGEjw=
+
+Name: res/drawable-hdpi/ico_k_25_disable.png
+SHA1-Digest: xGyK+JxSUbVveASKQlDqpzbEX7Q=
+
+Name: res/layout/kis_li_setting_group_title.xml
+SHA1-Digest: z8ChMNFqHFTSTUgxDZ6OtTYR+PA=
+
+Name: res/raw-ru/kis_71775.html
+SHA1-Digest: R3JurqXaXFJYvJBQ/Z0lqDI6/3k=
+
+Name: res/raw-de/kis_71865.html
+SHA1-Digest: sj+NkufKhQx7H7w1oyWB7lldG74=
+
+Name: res/raw-pt/kis_72358.html
+SHA1-Digest: n/+fbQ5ukyJ35uF0I/Nd1aR9RMY=
+
+Name: res/drawable/kis_switch_inner_holo_light.xml
+SHA1-Digest: voeQjxq/e1w+gzzdXZdx3YI3ufs=
+
+Name: res/raw/kis_71846.html
+SHA1-Digest: I0cyxOnMIRkAt+ym+YdqJWoVKPU=
+
+Name: assets/blocks/b-btns/goto.png
+SHA1-Digest: zCQkslUDbI/+GAANPPfpmQdMcmw=
+
+Name: res/layout/alert_dialog.xml
+SHA1-Digest: RVCYBy6p9NoBh0sVdaknesqWkD0=
+
+Name: res/drawable-nodpi/kts_ksn_connect.png
+SHA1-Digest: uropysEf/OKamJD4/RGMf7TCxis=
+
+Name: res/raw-pt/kis_71782.html
+SHA1-Digest: 2dDoMHsnNfiKf5GIUQUbCuvrlDg=
+
+Name: lib/x86/libscan_kavd.so
+SHA1-Digest: ZG4eBUCcKg83EGTk+4LMsNqDWPI=
+
+Name: assets/as_add_button.jpg
+SHA1-Digest: ffKKyRALlpOcKe0ny66Vqk/6jrc=
+
+Name: res/drawable-hdpi/kis_radiobutton_on_disabled_focused_holo_light
+ .png
+SHA1-Digest: dnYEOwDEFKW+bi53q2ckzhgR+W4=
+
+Name: res/drawable-hdpi/icon_features_2_gray.png
+SHA1-Digest: fV1PYMf0JhjwvqEd/7vUTJbKk/U=
+
+Name: res/raw-fr/kis_71813.html
+SHA1-Digest: r7Rrxu7HyaGk50Pj+G67nLaejeA=
+
+Name: res/drawable-nodpi/kts_ico_hard_back_30.png
+SHA1-Digest: ++PHRkTo7xKCHhHRb5b0aoZo5Uo=
+
+Name: res/raw-it/kis_71849.html
+SHA1-Digest: 0nOGrTLDAa/jX2e0KGqfMvJlG4U=
+
+Name: ae/com/sun/xml/bind/api/Messages_it.properties
+SHA1-Digest: hs8h2nA4D7jyw14s9R2rOM3zXfc=
+
+Name: res/raw-ru/kis_71832.html
+SHA1-Digest: ZVjBxWDxs9WjLuyTvquNbKTlWjg=
+
+Name: res/raw-ru/kis_71845.html
+SHA1-Digest: 28DjMQuhuSruT/F1myDEa6xTzuQ=
+
+Name: assets/main_window_at_glance_pt-rBR.png
+SHA1-Digest: q0VeXut116z+DK0brfuw6TCFyD4=
+
+Name: ae/com/sun/xml/bind/v2/model/annotation/Messages_de.properties
+SHA1-Digest: sl+qho7TYTZhKYu5TjgXQbPbkuw=
+
+Name: res/drawable-xhdpi/button_blue_press_png_kts.9.png
+SHA1-Digest: nXPCKRNDlM1oQxvBGOV2Xt5tVlw=
+
+Name: res/drawable-hdpi/kis_checkbox_off_pressed_holo_light.png
+SHA1-Digest: rUBb3j6cqR6sjgigisVuVZtDIqk=
+
+Name: res/raw-fr/kis_71820.html
+SHA1-Digest: gaOaznS0LaQKxkzgQtweFTRQv2g=
+
+Name: res/raw-es-US/kis_71874.html
+SHA1-Digest: zrhPdrVFF/fg1ysItg5VrNep6Bc=
+
+Name: res/raw-ru/kis_71827.html
+SHA1-Digest: G/iFK8GO8mYU9kZH6zTOXgCvoEQ=
+
+Name: res/raw-de/kis_72052.html
+SHA1-Digest: qcEYPDHm73Z5tt3BCuBQLYaWn1g=
+
+Name: res/drawable/smile.png
+SHA1-Digest: HmHazoNmblejldI1mBPhzWIKnIo=
+
+Name: res/raw-es-US/kis_71823.html
+SHA1-Digest: mFLzYP7YE71COeNLgsC5ACwg7ls=
+
+Name: res/raw/kis_78739.html
+SHA1-Digest: 0ByhvD3wxIH8a2TBolQWfUxS6ls=
+
+Name: res/raw-de/permission_denied_counterfeit.html
+SHA1-Digest: 6SsZbjIAd+2rc0HwmXzThONorp0=
+
+Name: res/raw-de/kis_71885.html
+SHA1-Digest: HNLfygNLg2NpHwC8w4T4ssbMZks=
+
+Name: res/raw-es/kis_79898.html
+SHA1-Digest: YsB+P2BYnvrrrcE2mOKuWjwJ+rE=
+
+Name: res/raw/kis_71862.html
+SHA1-Digest: c5Ff3vmoZoHrS433A+mK2PhcE1Q=
+
+Name: res/raw-ru/kis_79376.html
+SHA1-Digest: xhyg/vAzUFAtx86RDn8BLqNbjWg=
+
+Name: res/raw-it/kis_71777.html
+SHA1-Digest: i0QkMpsgzBzIsAuyZvrZz27lZMA=
+
+Name: res/raw-de/kis_71848.html
+SHA1-Digest: qZX5I0kjR8Uf8YEZk61I4703wUo=
+
+Name: res/raw-es/kis_71783.html
+SHA1-Digest: z2cYUxe//Udo6exdLOhApbXkeO0=
+
+Name: res/drawable/kis_lock_background.xml
+SHA1-Digest: QGKmHnv5iVJF57lnhQss6GDj4v8=
+
+Name: res/raw-it/kis_71605.html
+SHA1-Digest: iogo0Q4Fkv0QGKUxS9/UgYh4zjA=
+
+Name: res/drawable/kts_ico_message_30_disabled.png
+SHA1-Digest: vfi1kZEOTtKNwihjE+Zh49+5HhE=
+
+Name: res/raw/permission_denied_counterfeit.html
+SHA1-Digest: 6SsZbjIAd+2rc0HwmXzThONorp0=
+
+Name: res/drawable-xhdpi/kis_radiobutton_on_focused_holo_light.png
+SHA1-Digest: a11h2AOd8KcCFvXArIfspjerFHM=
+
+Name: res/drawable/ico_dialog_arrow_30.png
+SHA1-Digest: Rb2A5gqVMQMWGPIGFTZJJWJd0ZI=
+
+Name: res/raw-es/kis_71848.html
+SHA1-Digest: 4EVxH06Q6xTbMpf82IoIDklFFJc=
+
+Name: ae/com/sun/xml/bind/v2/Messages_zh_CN.properties
+SHA1-Digest: vJsZ9xQ0WpqWbVlJvTwuFEwYCZ4=
+
+Name: res/drawable/kis_dialog_user_action_button_no_icon.xml
+SHA1-Digest: B0BgazFhvwMhfdZ0f9/piMew0HU=
+
+Name: res/raw-it/kis_71853.html
+SHA1-Digest: mjk7ZCatc8pMf0I1RkWNhzBAv1A=
+
+Name: res/raw-pt/kis_71814.html
+SHA1-Digest: ACF8Af2bJjUDObkgNXzG8/F9SVE=
+
+Name: res/raw-es-US/kis_71794.html
+SHA1-Digest: AnDOwx3jp0zNxlW1nQ3TwMf8/4A=
+
+Name: ae/com/sun/xml/bind/v2/runtime/reflect/Messages_de.properties
+SHA1-Digest: LtvCfLNstnzTuFcTRJtuwUCKImw=
+
+Name: res/drawable-nodpi/settings_detail_round_enabled_press.png
+SHA1-Digest: PZd7uHEEU2b69okgz5W3snrDGOA=
+
+Name: res/drawable-nodpi/settings_group_web_green.png
+SHA1-Digest: 4KECTSbHdxKv98AS9DU8jYL/VYI=
+
+Name: res/raw-de/kis_71927.html
+SHA1-Digest: CCV54SgZYq+6kIqQ/3Sic2kWTqg=
+
+Name: res/raw-fr/kis_71873.html
+SHA1-Digest: srVTVt+e9H5ST+Mr5At3KefjEso=
+
+Name: res/raw-de/kis_61373.html
+SHA1-Digest: d9Va3M07B03N7VrEHq2LGgLxId4=
+
+Name: res/drawable/no_contant_hint.9.png
+SHA1-Digest: XgwXGekRGu4Vi0AMiMA0iYwrpfw=
+
+Name: res/drawable-nodpi/bg_wizard.xml
+SHA1-Digest: jU201czmIG7a9oZO0CIach7prt8=
+
+Name: res/raw-fr/kis_71827.html
+SHA1-Digest: ZlIT/ZumVk6Lnuu2utMgBjMfQ0E=
+
+Name: res/raw-ru/kis_71828.html
+SHA1-Digest: 4XN9g1tU50BRLkE2Q6RP1sRCF2g=
+
+Name: res/drawable-mdpi/ico_warning_25.png
+SHA1-Digest: 29MUZUaifKW//2jyfOCo7aR/x9M=
+
+Name: res/drawable/w2.PNG
+SHA1-Digest: 8EhFNIv+oWrMKDBYvQu2uyXrBgI=
+
+Name: res/layout/wizard_activation_kts_land.xml
+SHA1-Digest: qreArdM0xPwWRvGr9Ggp4Vh6H3g=
+
+Name: res/drawable-nodpi/settings_group_shield_white.png
+SHA1-Digest: zxpcNrIOiStNJSrzCeadi0/9CYU=
+
+Name: res/drawable/button_hover_png.9.png
+SHA1-Digest: +3rlVkX8o+NzqLugomzgyBulFQc=
+
+Name: res/raw-de/kis_71797.html
+SHA1-Digest: r9inHtzQG2kzRWzkvv+jJpMk1rI=
+
+Name: res/raw-es-US/kis_71852.html
+SHA1-Digest: nxertUt1zqrz7hbu2ZkTSCxlqwk=
+
+Name: ae/com/sun/xml/bind/v2/model/impl/Messages_pt_BR.properties
+SHA1-Digest: SJ7p1lJ+n/yVIlFrYS6N+dbhBxU=
+
+Name: res/raw/kis_71871.html
+SHA1-Digest: zog6e8pvOFMEyTEFuSXa9ryGb2Q=
+
+Name: res/drawable-nodpi/help_pressed.png
+SHA1-Digest: W5uE0MuALeO+JVWgUmzmehna7X8=
+
+Name: assets/blocks/b-content/menu_black.png
+SHA1-Digest: vs8mxJqJJb8urH5NirkNI//QmX0=
+
+Name: assets/config.properties
+SHA1-Digest: PLHMQsJ5+zNnqPJrtVPle4NoMw0=
+
+Name: res/drawable-hdpi/kis_radiobutton_off_focused_holo_light.png
+SHA1-Digest: jtrqNQT1JD4yVp4sHLiJ4FDxIDc=
+
+Name: res/drawable/call_log_out.png
+SHA1-Digest: d2SfOhRJnlgMP/oVi9lliHBfoUM=
+
+Name: res/raw-de/kis_71834.html
+SHA1-Digest: ef5/YVOOew//j10tYOhbWR6+p+c=
+
+Name: res/raw-de/kis_71925.html
+SHA1-Digest: 1mrOYD+tLcp3wSE1Doc3Ma1i5lE=
+
+Name: res/raw-de/kis_71844.html
+SHA1-Digest: PsfGWgdESfaXGcf7TQCqDKABcUg=
+
+Name: res/raw-es-US/kis_71801.html
+SHA1-Digest: ovOnVrVyUFPZ5nl5VY3G4JnAxc0=
+
+Name: res/raw-pt/kis_71926.html
+SHA1-Digest: oAI4KMF8OaoTwdeIAvv9gnbYQYg=
+
+Name: res/drawable-hdpi/kts_dialog_checkbox_enabled_on_press.png
+SHA1-Digest: G6BIvxCJFKg2a/K10H4MushHR6c=
+
+Name: res/drawable-hdpi/kis_switch_thumb_activated_holo_light.9.png
+SHA1-Digest: /OJ+9wuqgkkHz4JKuBaNI6iDd6g=
+
+Name: resources.arsc
+SHA1-Digest: Bp8AFmevrDJhnkF2ZdiXUhZD/vk=
+
+Name: res/layout/kts_settings_sync_info.xml
+SHA1-Digest: lIIIvsrj0hGjPh/3fLn/BggbG8A=
+
+Name: com/amazonaws/javax/xml/stream/xerces/impl/msg/DOMMessages.prope
+ rties
+SHA1-Digest: IaR9zs4u6guAUl6ViAuB6cKw2ZM=
+
+Name: res/raw-de/kis_71830.html
+SHA1-Digest: X9uOkEOB9WbhwqKXhRXhFnuA1eY=
+
+Name: res/raw/kis_71892.html
+SHA1-Digest: nDwetb3dWQJjrXeyMW+Ct4ZktMg=
+
+Name: res/drawable-nodpi/settings_group_webportal_grey.png
+SHA1-Digest: 7RyMAcpDTthjbo6KfnrE2kzwVAs=
+
+Name: res/raw-fr/kis_72052.html
+SHA1-Digest: dXF6SRp2ImjwP3TcuJGlTWCTdyo=
+
+Name: res/layout/wizard_secret_code_kts.xml
+SHA1-Digest: tVTBRJ6vzgNxoVjlpFacNulzVG0=
+
+Name: res/raw-fr/kis_71834.html
+SHA1-Digest: PTr1ZoFalzfdfw50I28zxU8xGGo=
+
+Name: res/raw-de/kis_71871.html
+SHA1-Digest: ovK0snaqov72wJwcwomRpongNqI=
+
+Name: res/drawable-nodpi/settings_detail_btn_selector.xml
+SHA1-Digest: cf4HExnBf0tKxgsy100mWTccDEE=
+
+Name: res/raw-fr/kis_71781.html
+SHA1-Digest: PkpYre20EHXFB0IfhJDp8GTglss=
+
+Name: res/raw-it/kis_71794.html
+SHA1-Digest: j3sdI8kyKWU/7EFSCVoEGFotnlM=
+
+Name: res/drawable-hdpi/kis_checkbox_on_pressed_holo_light.png
+SHA1-Digest: bHR+A+dKN1BXR/etAI2Flf+7kOs=
+
+Name: res/raw-pt/kis_61603.html
+SHA1-Digest: GRKrH8hivZiyuNS3rLdmm8AlLaQ=
+
+Name: res/drawable-hdpi/kis_menu_expand_button.png
+SHA1-Digest: CZJtJt+w3X2LQ4fdqr7QUfzHR3M=
+
+Name: res/raw-pt/kis_71829.html
+SHA1-Digest: il9Mi5tV9fN2YwCyDqap6+66ebY=
+
+Name: res/drawable/icon.png
+SHA1-Digest: CgvxLXLfSlERcao6k15hMyVCbOE=
+
+Name: res/drawable-nodpi/separator_footer_line2.xml
+SHA1-Digest: Tu8biMu5SHOd62aJMkqihS8y8Oo=
+
+Name: res/raw-de/kis_71776.html
+SHA1-Digest: CyzFfOoqHVQPR8UC6uMZHJAhj7s=
+
+Name: res/raw-it/kis_71795.html
+SHA1-Digest: lzG1s4YY3HQTK1Kpg3g0n5evRko=
+
+Name: res/layout-large-port/kis_activity_main_center.xml
+SHA1-Digest: EYq+q+QQT73vebATFp3iHQ2kEFg=
+
+Name: res/raw-it/kis_71850.html
+SHA1-Digest: 1im6UNHmuH0jOCMNzrzyYDB8SwQ=
+
+Name: res/raw/kis_71835.html
+SHA1-Digest: pW3zfhvpA3ogYTPeWryDapyXLks=
+
+Name: res/raw-es/kis_71827.html
+SHA1-Digest: LEhjsXt+tCb5w+uq43RLKFgq2ik=
+
+Name: res/layout/kis_li_setting_title.xml
+SHA1-Digest: 5/ZzzjouWyHKlWppSG4mVVRyTp8=
+
+Name: res/raw/kis_71872.html
+SHA1-Digest: qIl8OR1KSNtOX6WA88MoGLECxs8=
+
+Name: res/layout/license_activated_info.xml
+SHA1-Digest: OGPvktHgfdWD544FTy+dYACJBq0=
+
+Name: res/drawable/button_enter_normal_kts.9.png
+SHA1-Digest: AMf1gOcr4kx6lbiGpY38n0I6Ke8=
+
+Name: res/drawable/button.xml
+SHA1-Digest: jftrA+kOH1yekSyZ/wStgYg857A=
+
+Name: res/drawable-mdpi/kis_radiobutton_off_disabled_holo_light.png
+SHA1-Digest: /Z5e4RzEQPhaVAaeJlwxmx3c7IU=
+
+Name: res/raw/kis_71885.html
+SHA1-Digest: IALxGflwtsxCtaNnzaPw6WWQKfU=
+
+Name: res/raw-it/kis_71826.html
+SHA1-Digest: aQ0w5HOuQKCB6Wyzvv2kxBFaZlM=
+
+Name: res/raw-pt/kis_71893.html
+SHA1-Digest: MgsBXWRcURL8eqVapegt9lp+t3w=
+
+Name: assets/blocks/b-btns/btns__type_moveto.png
+SHA1-Digest: 8lhd6FwpZcsC6V9egffdR4mvnZM=
+
+Name: res/drawable/kis_issue_background.xml
+SHA1-Digest: vnY9iPwQwSFrRfcZUk+qTM15+jA=
+
+Name: res/drawable/logo_kms.png
+SHA1-Digest: xUZrZtw6xF5OO34ZFIaWKxgA6oM=
+
+Name: res/raw/kis_71832.html
+SHA1-Digest: icp0kYXP4HwvWqRZ1WslPfBpzdE=
+
+Name: res/raw-fr/kis_71850.html
+SHA1-Digest: 5RGgd1Der0YOYnVjNvlYg2s/Wo0=
+
+Name: assets/blocks/b-btns/replay.png
+SHA1-Digest: K7efd1fRJlITPH6BnlNbx4EJ7uk=
+
+Name: res/drawable-hdpi/pin2.png
+SHA1-Digest: /chSCFvf+h7gHqjVG/r0zf56w4c=
+
+Name: res/raw-es/kis_72800.html
+SHA1-Digest: k8u7Haabz/+S0EhbbG/NMyBljm8=
+
+Name: res/raw-it/kis_71810.html
+SHA1-Digest: XaTeyBNUQqZLuSdMQmNQMsWao0A=
+
+Name: res/raw-fr/kis_71817.html
+SHA1-Digest: TE/E5yO4GFkL2T+2qmqiqR0/pc4=
+
+Name: assets/main_window_at_glance_nl.png
+SHA1-Digest: P0BTTFqVVsfN42uJEcijL+Zu0H8=
+
+Name: res/layout/pp_switchmode.xml
+SHA1-Digest: fGUqGlGm0SpaEENsehtqvFc8KFw=
+
+Name: res/raw-pt/kis_71796.html
+SHA1-Digest: tcgXb9cb9+jtfb2sQWNfoVBsf6E=
+
+Name: assets/blocks/b-header/header.css
+SHA1-Digest: 3lCiU64moIdHzDcIQJzxtUKhksg=
+
+Name: res/drawable-xhdpi/icon_features_4.png
+SHA1-Digest: R57nyLTA57zVP3iFowoNYMIhYEQ=
+
+Name: res/raw-it/kis_71884.html
+SHA1-Digest: rJMInt7X2lDLz83QsgGY2LetI5I=
+
+Name: res/drawable/ico_info_39_light.png
+SHA1-Digest: qYnOWpyy6aV5lXIv+YS/7XbV6xE=
+
+Name: res/raw-es/kis_71784.html
+SHA1-Digest: egLVcB4mTMscxuQBuiljviWvw/w=
+
+Name: res/drawable-xhdpi/icon_features_1.png
+SHA1-Digest: bY1fjq1p3s6cgM17wuZA+LP9HSg=
+
+Name: res/raw-es/kis_71808.html
+SHA1-Digest: zN7LSNVB1waPAqOUdRkBzXxCrUA=
+
+Name: res/raw-ru/kis_71878.html
+SHA1-Digest: AQPnduTZr19Z6k68NDNlgKVTIks=
+
+Name: ae/com/sun/xml/bind/v2/schemagen/Messages_zh_CN.properties
+SHA1-Digest: mi7Bj+pp+Ok+lP/SjME9flDDUpY=
+
+Name: res/raw/kis_71878.html
+SHA1-Digest: BWLXId3Rra/ZZtPqmjVscrqrjCE=
+
+Name: res/raw-pt/kis_71887.html
+SHA1-Digest: rbx2cwHtosYKeQ3wI4AoUlbvR2o=
+
+Name: res/drawable-hdpi/icon_features_1.png
+SHA1-Digest: tJ6oV4aB5m7jfS16xtItpU+zKhw=
+
+Name: assets/call_program.jpg
+SHA1-Digest: /pd+mMuJgTAsVQC9gyOasnStsX8=
+
+Name: res/drawable-nodpi/av_ilustrashka.png
+SHA1-Digest: fWcOQNXe7SKixp3lvJttms3lej0=
+
+Name: res/raw-ru/kis_71852.html
+SHA1-Digest: 0niDZlqjg4TBGMow1Nxa6InkkWw=
+
+Name: res/drawable-hdpi/kis_radiobutton_off_pressed_holo_light.png
+SHA1-Digest: AwLK+CpR98Xd59Jx6D4uIza+/nY=
+
+Name: res/drawable/w3.PNG
+SHA1-Digest: dEev+1jhvzfRajilQE2V9zY5CO8=
+
+Name: res/layout/dialog_select_folder_backitem.xml
+SHA1-Digest: LHd3E+hkIcu644JfzOC1a2Yl530=
+
+Name: res/layout/kis_li_issue.xml
+SHA1-Digest: l3QFJ+OX/ustkJgfIhRUSEdOJeQ=
+
+Name: res/drawable/kis_issue_background_error.xml
+SHA1-Digest: zaTj1A8dZ1yd8KZF3yr3huVN/lE=
+
+Name: res/raw-es/kis_71893.html
+SHA1-Digest: lemMbfLCaQBQhcG6jCFk756IfNo=
+
+Name: res/drawable/kis_setting_tab_additional_states.xml
+SHA1-Digest: a4usmlgTw6HqOXeRN+wSm8kLdH8=
+
+Name: res/raw-it/kis_71806.html
+SHA1-Digest: nYdZC4TUYQfEdlo75P0sT9bWRRE=
+
+Name: res/drawable-xhdpi/button_grey_hover_png_kts.9.png
+SHA1-Digest: C/9dzyYQlHc+9534jgmC1wBljGI=
+
+Name: res/drawable-nodpi/settings_detail_round_button_kts.xml
+SHA1-Digest: GlnYMgKgne9ivIzyJPl9Co2kB6A=
+
+Name: assets/blocks/b-link/link.less
+SHA1-Digest: agvdh7vuzwZ1GqfuW/r0LOVeST4=
+
+Name: res/drawable/kis_issue_background_warning.xml
+SHA1-Digest: bRWWXd30D/hm8uDKu03T3Jygja4=
+
+Name: res/raw-es-US/kis_71853.html
+SHA1-Digest: BWL+arpi0CCLT21fux9ZximK10w=
+
+Name: assets/blocks/b-link/link.css
+SHA1-Digest: B3DEydw3kXqj8vQE28b1UDedDjQ=
+
+Name: res/raw/kis_71926.html
+SHA1-Digest: eR8Yj1Bgkq1GCzaeswUaD8cj8CU=
+
+Name: res/drawable-nodpi/kts_ico_file_30.png
+SHA1-Digest: GejwjtfN9Ec/etrDVZApQoWhjDc=
+
+Name: res/raw-it/kis_71775.html
+SHA1-Digest: nj1joIb7/1GIe8L4OHAbT8ZL66o=
+
+Name: ae/com/sun/xml/bind/unmarshaller/Messages_pt_BR.properties
+SHA1-Digest: 5C+PkEkLDL4EvR2HkKjwgSYGQtE=
+
+Name: res/raw-fr/kis_71926.html
+SHA1-Digest: geBJwD1suuLEpAjRIxuCQVXqJC4=
+
+Name: res/raw-es/kis_71859.html
+SHA1-Digest: tVafyoOXFRPuT0bmzPEHTlzUK/s=
+
+Name: res/raw-pt/kis_71777.html
+SHA1-Digest: iJonJFUEV6NPYaWFVX1ArXDKqwc=
+
+Name: res/layout/warning.xml
+SHA1-Digest: 9qq0QTD8iVRfLYq/aZgl7w5OW2A=
+
+Name: res/raw-fr/kis_71893.html
+SHA1-Digest: wp6zGl6PeDSDuxhvYrKRUrEv/YM=
+
+Name: res/raw-es-US/kis_72800.html
+SHA1-Digest: 9Kp7vO5ON0wIH/kcT4vMU3f17fE=
+
+Name: res/raw-it/kis_71868.html
+SHA1-Digest: fhkhQ2SUnJ4X04yXaqdQ3RJxEKo=
+
+Name: res/raw-de/kis_72712.html
+SHA1-Digest: MUveQTo7yoqSJwbNOguk1Ax8NEc=
+
+Name: res/raw/kis_71836.html
+SHA1-Digest: jrRNko3gOJDrjRMVh1cSYj/UEqM=
+
+Name: res/drawable/ico_phone_30_disabled.png
+SHA1-Digest: TEqlAgvNQviaeS8mwAFNgJF58I8=
+
+Name: res/raw-it/kis_71816.html
+SHA1-Digest: uYihmvyaf6JALHAAxxP6IDSbtYo=
+
+Name: ae/com/sun/xml/bind/v2/runtime/Messages_zh_CN.properties
+SHA1-Digest: qeHvPPchd7oJTkoQj8uOrSDyd0I=
+
+Name: res/drawable/kis_list_bg_selector.xml
+SHA1-Digest: cLb3YaiJr2rlFbcI/JKYIHy4LW4=
+
+Name: res/raw-es-US/kis_58977.html
+SHA1-Digest: sBfvze9r/NyDdxOglsVgoQyNEks=
+
+Name: res/layout/dialog_gplay_activation.xml
+SHA1-Digest: XMcT0iDGn1PGjye+8DVx9TACyN0=
+
+Name: res/raw-es/kis_71801.html
+SHA1-Digest: b+qnqQNmCXe8TPpNgZYpRzkmvvA=
+
+Name: assets/swipe-panel_it.png
+SHA1-Digest: hplsP3T4UrbSAaQuSlLpTm7jh3w=
+
+Name: res/raw-de/kis_71820.html
+SHA1-Digest: Y29sSTJFVB6tDnxEHIUtIc/Isb0=
+
+Name: res/layout/import_sms_item.xml
+SHA1-Digest: fRKqRAwcmPOZpF0bytaYhKf1O7Q=
+
+Name: res/raw-pt/kis_72800.html
+SHA1-Digest: 1X5XLdCiB2oB3ZP9OQumNdij9GE=
+
+Name: res/raw-it/kis_71924.html
+SHA1-Digest: C8rywFRe9Jp/nRwggyOar98OtRU=
+
+Name: res/raw-es/kis_71924.html
+SHA1-Digest: BgPGR0JfDO7/HGNtpb+jD8H/1Is=
+
+Name: res/drawable-hdpi/pin1.png
+SHA1-Digest: UOWqPaosH4wQRv2KzbfoAJQZn30=
+

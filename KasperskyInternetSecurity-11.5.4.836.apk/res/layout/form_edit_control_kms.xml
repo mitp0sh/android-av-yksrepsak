@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="10.0dip" android:paddingTop="5.0dip" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/commonText" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/FormEditCaptionKms" />
+        <com.kaspersky.kts.gui.controls.AutoScrollEditText android:id="@id/commonEdit" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/FormEditKms" />
+        <TextView android:id="@id/indicatorText" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/FormEditErrorKms" />
+        <TextView android:id="@id/errorText" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/FormEditErrorKms" />
+    </LinearLayout>
+</merge>

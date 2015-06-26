@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:baselineAligned="false" style="?kis_dialog"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/alert_dialog_title" />
+    <LinearLayout a:orientation="vertical" a:id="@id/dialog_content_linearlayout" a:layout_width="fill_parent" a:layout_height="0.0dip" a:layout_weight="1.0">
+        <LinearLayout a:gravity="center" a:orientation="vertical" a:id="@id/progressLayout" a:padding="10.0dip" a:visibility="visible" a:layout_width="fill_parent" a:layout_height="wrap_content">
+            <ProgressBar a:id="@id/progressBar1" a:layout_width="wrap_content" a:layout_height="wrap_content" style="@android:style/Widget.ProgressBar.Inverse" />
+            <TextView a:gravity="center_horizontal" a:id="@id/progressText" a:layout_width="fill_parent" a:layout_height="wrap_content" a:text="@string/Loading" style="?kis_dialog_message" />
+        </LinearLayout>
+        <ScrollView a:id="@id/ScrollView01" a:layout_width="fill_parent" a:layout_height="wrap_content">
+            <WebView a:id="@id/ipmContentWebView" a:layout_width="fill_parent" a:layout_height="wrap_content" />
+        </ScrollView>
+    </LinearLayout>
+    <include layout="@layout/alert_dialog_footer" />
+</LinearLayout>

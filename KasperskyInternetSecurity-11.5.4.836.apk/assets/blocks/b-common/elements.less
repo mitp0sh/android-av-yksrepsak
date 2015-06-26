@@ -1,0 +1,342 @@
+// Useful LESS CSS mixins
+
+//Index
+
+//1.  Gradients
+//2.  Box & Text Shadows
+//3.  Rounded Borders Table
+//4.  Columns
+//5.  Placeholder
+//6.  Opacity
+//7.  Replace Image
+//8.  Transforms, Transitions & Animations
+//9.  Zebra Stripe
+//10. Wrap
+//11. Box-sizing
+//12. Flexbox
+//****************************************/
+
+
+// 1.Gradients
+//****************************************/
+.linear-gradient(@direction,@start,@stop,@url: none){
+    background: @url, -webkit-linear-gradient(@direction,@start,@stop);
+    background: @url, -moz-linear-gradient(@direction,@start,@stop);
+    background: @url, -ms-linear-gradient(@direction,@start,@stop);
+    background: @url, linear-gradient(@direction,@start,@stop);
+}
+.radial-gradient(@posX:center, @posY:center, @shape:ellipse, @size:cover, @start:rgba(127,127,127,0), @stop:rgba(127,127,127,0.9)){
+    background-image: -webkit-radial-gradient(@posX @posY, @shape @size, @start, @stop);
+	background-image: -moz-radial-gradient(@posX @posY, @shape @size, @start, @stop);
+    background-image: -ms-radial-gradient(@posX @posY, @shape @size, @start, @stop);
+    background-image: radial-gradient(@posX @posY, @shape @size, @start, @stop);
+}
+.three-colors-gradient(@start, @mid, @stop, @direction: top) {
+  background-repeat: no-repeat;
+  background-image: -webkit-linear-gradient(@direction, @start, @mid, @stop);
+  background-image: -ms-linear-gradient(@direction, @start, @mid, @stop);
+  background-image: -moz-linear-gradient(@direction, @start, @mid, @stop);
+  background-image: linear-gradient(@direction, @start, @mid, @stop);
+}
+.four-colors-gradient (@start, @mid1, @mid2, @stop, @direction: top) {
+  background-repeat: no-repeat;
+  background-image: -webkit-linear-gradient(@direction, @start, @mid1, @mid2, @stop);
+  background-image: -ms-linear-gradient(@direction, @start, @mid1, @mid2, @stop);
+  background-image: -moz-linear-gradient(@direction, @start, @mid1, @mid2, @stop);
+  background-image: linear-gradient(@direction, @start, @mid1, @mid2, @stop);
+}
+
+// 2. Box & Text Shadows
+//****************************************/
+.box-shadow (@arguments: 0 0 3px rgba(0,0,0,.4) ) {
+    -moz-box-shadow: @arguments;
+    -webkit-box-shadow: @arguments;
+	box-shadow: @arguments;
+}
+.text-shadow(@shadow: 0 1px 1px rgba(0,0,0,.25) ) {
+    -moz-text-shadow: @shadow;
+    -webkit-text-shadow: @shadow;
+	text-shadow: @shadow;
+}
+
+// 3. Rounded Borders Table
+//****************************************/
+.rounded-table(@table_radius: 3px) {
+  th {
+    &:first-child{ border-radius: @table_radius, 0, 0, 0; }
+    &:last-child { border-radius: 0, @table_radius, 0, 0; }
+    &:only-child { border-radius: @table_radius, @table_radius, 0, 0;}
+  }
+  tr:last-child {
+    td:first-child { border-radius: 0, 0, 0, @table_radius; }
+    td:last-child { border-radius: 0, 0, @table_radius, 0; }
+    td:only-child { border-radius: 0, 0, @table_radius, @table_radius; }
+  }
+}
+
+// 4. Columns
+//****************************************/
+.columns(@colwidth: 250px, @colcount: 0, @colgap: 50px, @columnRuleColor: #EEE, @columnRuleStyle: solid, @columnRuleWidth: 1px) {
+  -moz-column-width: @colwidth;
+  -moz-column-count: @colcount;
+  -moz-column-gap: @colgap;
+  -moz-column-rule-color: @columnRuleColor;
+  -moz-column-rule-style: @columnRuleStyle;
+  -moz-column-rule-width: @columnRuleWidth;
+  -webkit-column-width: @colwidth;
+  -webkit-column-count: @colcount;
+  -webkit-column-gap: @colgap;
+  -webkit-column-rule-color: @columnRuleColor;
+  -webkit-column-rule-style: @columnRuleStyle;
+  -webkit-column-rule-width: @columnRuleWidth;
+  column-width: @colwidth;
+  column-count: @colcount;
+  column-gap: @colgap;
+  column-rule-color: @columnRuleColor;
+  column-rule-style: @columnRuleStyle;
+  column-rule-width: @columnRuleWidth;
+}
+
+// 5. Placeholder
+//****************************************/
+
+.placeholder(@color){
+    .placeholder-const(){
+        .text-shadow(1px 1px 0 #fff);
+        color:@color;
+    }
+    &::-webkit-input-placeholder{.placeholder-const}
+              &:-moz-placeholder{.placeholder-const}
+             &::-moz-placeholder{.placeholder-const}
+         &:-ms-input-placeholder{.placeholder-const}
+}
+
+// 6. Opacity
+//****************************************/
+.opacity(@opacity: 100) {
+  opacity: @opacity / 100;
+  .no-opacity & {
+	 filter: e(%("alpha(opacity=%d)", @opacity));
+  }
+}
+
+// 7. Replace image
+//****************************************/
+.replace-image(@image) {
+  background: @image no-repeat;
+  text-indent:-9999px;
+}
+
+// 8. Transforms, Transitions & Animations
+//****************************************/
+.transform(@function){
+  -webkit-transform: @function;
+  //-ms-transform: @function;
+  transform: @function;
+}
+.backface(@b: hidden){
+  -webkit-backface-visibility:@b;
+  backface-visibility:@b;
+}
+.rotation(@deg:5deg){
+  -webkit-transform: rotate(@deg);
+  //-ms-transform: rotate(@deg);
+  transform: rotate(@deg);
+}
+.scale(@ratio:1.5){
+  -webkit-transform:scale(@ratio);
+  transform:scale(@ratio);
+}
+.scale3d(@x, @y, @z){
+  -webkit-transform:scale3d(@x, @y, @z);
+  transform:scale3d(@x, @y, @z);
+}
+.skew(@deg){
+  -webkit-transform:skew(@deg);
+  transform:skew(@deg);
+}
+.translate(@x:0, @y:0) {
+  -webkit-transform: translate(@x, @y);
+  transform: translate(@x, @y);
+}
+.transition(@property:all,@duration:0.2s,@function:ease){
+  -webkit-transition: @property @duration @function;
+  transition: @property @duration @function;
+}
+.transition-property(@property:all){
+  -webkit-transition-property: @property;
+  transition-property: @property;
+}
+.transition-duration(@duration: 0.2s) {
+  -webkit-transition-duration: @duration;
+  transition-duration: @duration;
+}
+.animation (@name, @duration, @function) {
+  -webkit-animation: @name @duration @function;
+  animation: @name @duration @function;
+}
+.transition-delay (@delay: 0.5s) {
+  -webkit-transition-delay: @delay;
+  transition-delay: @delay;
+}
+// 9. Zebra Stripe
+//****************************************/
+.zebra-stripe(@stripe_color: #F0F0F0) {
+  tbody tr:nth-child(2n+1) { background: @stripe_color; }
+}
+
+// 10. Wrap
+//****************************************/
+.wrap () {
+  text-wrap: wrap;
+  white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+// 11. Box-sizing
+//****************************************/
+.box-sizing (@model:border-box) {
+  -webkit-box-sizing: @model;
+  box-sizing: @model;
+}
+
+// 12. Flex-box
+//****************************************/
+
+// Flexbox display
+// - applies to: flex containers
+.flex-grid () {
+	display: -webkit-box;      // OLD - iOS 6-, Safari 3.1-6
+	display: -moz-box;         // OLD - Firefox 19- (buggy but mostly works)
+	display: -ms-flexbox;      // TWEENER - IE 10
+	display: -webkit-flex;     // NEW - Chrome
+	display: flex;             // NEW, Spec - Opera 12.1, Firefox 20+
+}
+
+// The 'flex' shorthand
+// - applies to: flex items
+// <positive-number>, initial, auto, or none
+.flex-child (@part: 1) {
+  -webkit-box-flex: @part;      // OLD - iOS 6-, Safari 3.1-6
+  -moz-box-flex: @part;         // OLD - Firefox 19-
+  //width: 20%;                   // For old syntax, otherwise collapses
+  -webkit-flex: @part;          // Chrome
+  -ms-flex: @part;              // IE 10
+  flex: @part;                  // NEW, Spec - Opera 12.1, Firefox 20+
+}
+
+
+// Flex Flow Direction
+// - applies to: flex containers
+// row | row-reverse | column | column-reverse
+.flex-direction (@direction: row, @oldDirection: horizontal) {
+	-webkit-box-orient: @oldDirection;
+	-moz-box-orient: @oldDirection;
+	box-orient: @oldDirection;
+	-webkit-flex-direction: @direction;
+	-moz-flex-direction: @direction;
+	-ms-flex-direction: @direction;
+	flex-direction: @direction;
+}
+
+// Display Order
+// - applies to: flex items
+// <integer>
+.flex-part-order (@order: 0) {
+  -webkit-box-ordinal-group: @order;   // OLD - iOS 6-, Safari 3.1-6
+  -moz-box-ordinal-group: @order;      // OLD - Firefox 19-
+  -ms-flex-order: @order;              // TWEENER - IE 10
+  -webkit-order: @order;               // NEW - Chrome
+  order: @order;                       // NEW, Spec - Opera 12.1, Firefox 20+
+}
+
+// Flex grow factor
+// - applies to: flex items
+// <number>
+.flex-grow(@grow: 0) {
+  -webkit-flex-grow: @grow;
+     -moz-flex-grow: @grow;
+      -ms-flex-grow: @grow;
+          flex-grow: @grow;
+}
+ 
+// Flex shr
+// - applies to: flex itemsink factor
+// <number> 
+.flex-shrink(@shrink: 1) {
+  -webkit-flex-shrink: @shrink;
+     -moz-flex-shrink: @shrink;
+      -ms-flex-shrink: @shrink;
+          flex-shrink: @shrink;
+}
+ 
+// Flex basis
+// - the initial main size of the flex item
+// - applies to: flex itemsnitial main size of the flex item
+// <width> 
+.flex-basis(@width: auto) {
+  -webkit-flex-basis: @width;
+     -moz-flex-basis: @width;
+      -ms-flex-basis: @width;
+          flex-basis: @width;
+}
+ 
+// Axis Alignment
+// - applies to: flex containers
+// flex-start | flex-end | center | space-between | space-around 
+.justify-content(@justify: flex-start) {
+  -webkit-justify-content: @justify;
+     -moz-justify-content: @justify;
+      -ms-justify-content: @justify;
+          justify-content: @justify;
+}
+
+// Packing Flex Lines
+// - applies to: multi-line flex containers
+// flex-start | flex-end | center | space-between | space-around | stretch 
+.align-content(@align: stretch) {
+  -webkit-align-content: @align;
+     -moz-align-content: @align;
+      -ms-align-content: @align;
+          align-content: @align;
+}
+
+// Cross-axis Alignment
+// - applies to: flex containers
+// flex-start | flex-end | center | baseline | stretch 
+.align-items(@align: stretch) {
+	-moz-box-align: @align;
+
+	-webkit-align-items: @align;
+    -moz-align-items: @align;
+    -ms-align-items: @align;
+    align-items: @align;
+}
+
+// Axis Alignment
+// - applies to: flex containers
+// flex-start | flex-end | center | space-between | space-around 
+.flex-justify-content (@justify: flex-start, @oldJustify: center) {
+	-moz-box-pack: @oldJustify;
+	-webkit-box-pack: @oldJustify;
+	-ms-box-pack: @oldJustify;
+	box-pack: @oldJustify;
+
+	-webkit-justify-content: @justify;
+	-moz-justify-content: @justify;
+	-ms-justify-content: @justify;
+	justify-content: @justify;
+}
+
+// Cross-axis Alignment
+// - applies to: flex items
+// auto | flex-start | flex-end | center | baseline | stretch 
+.align-self(@align: auto) {
+  -webkit-align-self: @align;
+     -moz-align-self: @align;
+      -ms-align-self: @align;
+          align-self: @align;
+}

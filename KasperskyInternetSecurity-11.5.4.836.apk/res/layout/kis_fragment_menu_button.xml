@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/kis_fragment_menu_button"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <ImageView a:id="@id/menu_button_icon_imageview" style="@style/kis_fragment_menu_button_icon" />
+    <TextView a:id="@id/menu_button_text_textview" style="@style/kis_fragment_menu_button_text" />
+</LinearLayout>

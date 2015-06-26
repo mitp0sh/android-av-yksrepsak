@@ -1,0 +1,112 @@
+.b-header {
+  position: fixed;
+  z-index: 5;
+}
+@media (max-width: 720px) {
+  .b-header {
+    position: absolute;
+  }
+}
+.b-header {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4.6875rem;
+  color: #ffffff;
+  font-size: 2.333125rem;
+  line-height: 4.6875rem;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -moz-box-shadow: 0 -4px 0 0 #000000, inset 0 2px 0 -1px #27897a, inset 0 -2px 0 -1px #27897a;
+  -webkit-box-shadow: 0 -4px 0 0 #000000, inset 0 2px 0 -1px #27897a, inset 0 -2px 0 -1px #27897a;
+  box-shadow: 0 -4px 0 0 #000000, inset 0 2px 0 -1px #27897a, inset 0 -2px 0 -1px #27897a;
+  border-style: solid;
+  border-width: 1px 0;
+  border-color: #000000;
+  border-radius: 0.5rem 0.5rem 0 0;
+  background: #217568;
+}
+.b-header_side-left {
+  display: inline-block;
+  width: 35%;
+  height: 100%;
+  -moz-box-shadow: inset -2px 0 0 -1px #000000;
+  -webkit-box-shadow: inset -2px 0 0 -1px #000000;
+  box-shadow: inset -2px 0 0 -1px #000000;
+}
+@media (max-width: 720px) {
+  .b-header_side-left {
+    width: 100%;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+}
+.b-header_side-right {
+  display: inline-block;
+  width: 65%;
+  height: 100%;
+  -moz-box-shadow: inset 2px 0 0 -1px #27897a;
+  -webkit-box-shadow: inset 2px 0 0 -1px #27897a;
+  box-shadow: inset 2px 0 0 -1px #27897a;
+}
+.b-header_side-right h2 {
+  display: inline-block;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  padding-right: 20rem;
+  padding-left: 0.75rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+@media (max-width: 720px) {
+  .b-header_side-right {
+    width: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+  .b-header_side-right h2 {
+    display: none;
+  }
+}
+.b-header_search {
+  position: absolute;
+  top: 0;
+  right: 0.75rem;
+  height: 100%;
+  vertical-align: middle;
+  padding: 0 0.625rem;
+}
+.b-header_search input {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  margin-top: -1.59375rem;
+}
+@media (max-width: 720px) {
+  .b-header_search {
+    right: 0.63125rem;
+  }
+  .b-header_search input {
+    display: none;
+  }
+  .b-header_search input.mobile {
+    display: block;
+  }
+  .b-header_search .b-link.search {
+    display: block;
+  }
+  .b-header_search .b-link.search.hide {
+    display: none;
+  }
+}
+.b-header .b-link {
+  display: none;
+}

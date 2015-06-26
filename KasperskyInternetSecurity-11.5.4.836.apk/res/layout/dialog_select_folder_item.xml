@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="?kis_dialog_li"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <ImageView a:id="@id/ImageView01" a:layout_width="wrap_content" a:layout_height="fill_parent" a:layout_marginLeft="0.0dip" a:layout_marginRight="10.0dip" a:src="@drawable/ico_phone_30" />
+    <LinearLayout a:orientation="vertical" a:id="@id/LinearLayout01" a:layout_width="0.0dip" a:layout_height="wrap_content" a:layout_marginTop="5.0dip" a:layout_weight="50.0">
+        <com.kaspersky.kts.gui.mainwindow.ScrollingText a:textSize="20.0sp" a:textColor="#ff2a2a2a" a:ellipsize="marquee" a:layout_gravity="center_vertical" a:id="@id/TextView01" a:paddingTop="10.0dip" a:paddingBottom="10.0dip" a:focusable="true" a:layout_width="fill_parent" a:layout_height="fill_parent" a:layout_marginBottom="3.0dip" a:maxLines="1" a:lines="1" a:minLines="1" a:scrollHorizontally="true" a:marqueeRepeatLimit="marquee_forever" />
+    </LinearLayout>
+    <LinearLayout a:id="@id/ScanBtnLayout" a:layout_width="wrap_content" a:layout_height="60.0dip">
+        <Button a:id="@id/ScanBtn" a:paddingLeft="17.0dip" a:paddingTop="10.0dip" a:paddingRight="17.0dip" a:paddingBottom="10.0dip" a:layout_width="wrap_content" a:layout_height="50.0dip" a:layout_marginLeft="10.0dip" a:layout_marginTop="5.0dip" a:layout_marginRight="0.0dip" a:layout_marginBottom="5.0dip" a:drawableLeft="@drawable/kts_ico_search_20" a:drawablePadding="0.0dip" style="@style/KTSButton" />
+    </LinearLayout>
+</LinearLayout>

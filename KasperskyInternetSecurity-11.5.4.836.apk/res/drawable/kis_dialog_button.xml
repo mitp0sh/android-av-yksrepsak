@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape a:shape="rectangle">
+            <solid a:color="@android:color/transparent" />
+        </shape>
+    </item>
+    <item a:left="@dimen/kis_alert_dialog_button_margin" a:top="@dimen/kis_alert_dialog_button_divider" a:right="@dimen/kis_alert_dialog_button_margin">
+        <shape a:shape="rectangle">
+            <solid a:color="@color/kis_dialog_button" />
+        </shape>
+    </item>
+</layer-list>

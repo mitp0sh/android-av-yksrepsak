@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/kis_fragment_shield"
+  xmlns:a="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.kms.free">
+    <RelativeLayout a:id="@id/shield_header" style="@style/kis_fragment_shield_header">
+        <ImageView a:id="@id/shield_header_logo_imageview" style="@style/kis_fragment_shield_header_logo" />
+        <ImageView a:id="@id/shield_header_issues_imageview" style="@style/kis_fragment_shield_header_issues" />
+    </RelativeLayout>
+    <LinearLayout a:gravity="center|top" a:orientation="vertical" a:id="@id/shield_center" a:layout_width="fill_parent" a:layout_height="@dimen/kis_shield_content_height" a:layout_marginTop="@dimen/kis_shield_content_top_margin">
+        <com.kms.KisShieldView a:id="@id/shield_view" custom:wireframeDrawableId="@drawable/shield_wireframe" custom:infoDrawableId="@drawable/shield_info" custom:warningDrawableId="@drawable/shield_warning" custom:errorDrawableId="@drawable/shield_error" custom:progressDelimDrawableId="@drawable/shield_progress_delim" custom:progressHiDrawableId="@drawable/shield_orangefill" custom:progressLowDrawableId="@drawable/shield_greenfill" custom:progressPaddingTopPercent="9.5" custom:progressPaddingBottomPercent="12.2" style="@style/kis_fragment_shield_shield" />
+    </LinearLayout>
+</LinearLayout>

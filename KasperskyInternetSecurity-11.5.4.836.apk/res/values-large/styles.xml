@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="kis_fragment_settings_tab" parent="@style/kis_base_fragment_settings_tab">
+        <item name="android:gravity">center|left</item>
+    </style>
+</resources>

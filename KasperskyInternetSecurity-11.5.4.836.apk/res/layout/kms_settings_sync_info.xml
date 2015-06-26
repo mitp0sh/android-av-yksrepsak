@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/settingsInfoView" android:focusable="false" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="left" android:id="@id/synchTitle" android:paddingLeft="2.0px" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="20.0px" android:text="@string/settings_detail_web_portal_synchronization_time_title" style="@style/KMSPanelTextNormal" />
+    <TextView android:gravity="center" android:layout_gravity="center" android:id="@id/syncTimeWithImage" android:paddingLeft="2.0px" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="20.0px" android:text="20min" android:drawableLeft="@drawable/update_icon" android:drawablePadding="10.0px" style="@style/KMSPanelTextNormal" />
+    <TextView android:id="@id/lastSyncTime" android:paddingLeft="2.0px" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0px" android:layout_marginTop="20.0px" android:layout_marginRight="20.0px" android:layout_marginBottom="10.0px" android:text="some text" />
+    <LinearLayout android:id="@id/alertView" android:background="@drawable/settings_detail_alert_bg" android:paddingBottom="2.0px" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0px">
+        <ImageView android:id="@id/imageView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0px" android:layout_marginTop="5.0px" android:layout_marginBottom="10.0px" android:src="@drawable/attention_icon" />
+        <TextView android:id="@id/alertText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0px" android:layout_marginTop="4.0px" android:text="some text" style="@style/KMSPanelTextNormal" />
+    </LinearLayout>
+    <TextView android:id="@id/trialVersionWarning" android:paddingLeft="2.0px" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0px" android:layout_marginTop="10.0px" android:layout_marginRight="20.0px" android:layout_marginBottom="20.0px" android:text="some text" style="@style/KMSPanelTextNormal" />
+</LinearLayout>

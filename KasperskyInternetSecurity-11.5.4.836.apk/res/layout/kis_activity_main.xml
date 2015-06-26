@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout a:id="@id/main" style="@style/kis_activity"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <include a:id="@id/main_header" a:layout_width="fill_parent" a:layout_height="wrap_content" a:layout_alignParentTop="true" layout="@layout/kis_activity_main_header" />
+    <include a:id="@id/main_footer" a:layout_width="fill_parent" a:layout_height="wrap_content" a:layout_alignParentBottom="true" layout="@layout/kis_activity_main_footer" />
+    <include a:layout_width="fill_parent" a:layout_height="fill_parent" a:layout_above="@id/main_footer" a:layout_below="@id/main_header" layout="@layout/kis_activity_main_center" />
+</RelativeLayout>

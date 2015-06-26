@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:id="@id/totalLayout" android:background="@drawable/bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/lockLayout" android:background="@drawable/settings_detail_bg" android:paddingLeft="25.0dip" android:paddingTop="25.0dip" android:paddingRight="25.0dip" android:paddingBottom="15.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:baselineAligned="false">
+        <LinearLayout android:orientation="horizontal" android:id="@id/lockIconsLayout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/imageViewProduct" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/lock_product_title" android:scaleType="fitCenter" />
+            <ImageView android:id="@id/imageViewLogo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:src="@drawable/lock_screen_logo" android:scaleType="fitEnd" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/lockContentLayout" android:paddingLeft="30.0dip" android:paddingTop="10.0dip" android:paddingRight="30.0dip" android:paddingBottom="10.0dip" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <TextView android:textSize="16.0dip" android:textColor="#ff000000" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/titleText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="350.0dip" android:minWidth="350.0dip" android:text="@string/str_kts_enter_recovery_code_title" />
+            <TextView android:textSize="11.0dip" android:textColor="#ff000000" android:gravity="center" android:layout_gravity="center" android:id="@id/infoText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:maxWidth="350.0dip" android:minWidth="350.0dip" android:text="@string/str_enter_recovery_code_subtitle" android:maxLines="10" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/buttonsLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip">
+            <EditText android:id="@id/editRecoveryCode" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:digits="0123456789" android:inputType="phone" />
+            <TextView android:textSize="11.0dip" android:textColor="#ffca1414" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/checkResponse" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:text="TextView" android:layout_weight="1.0" />
+            <LinearLayout android:gravity="center_horizontal" android:id="@id/linearLayout1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <Button android:textSize="12.0dip" android:gravity="center" android:id="@id/btnCheckRecoveryCode" android:background="@drawable/settings_detail_btn_selector50" android:paddingLeft="15.0dip" android:paddingTop="5.0dip" android:paddingRight="15.0dip" android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="5.0dip" android:text="@string/str_recovery_code_check_btn" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

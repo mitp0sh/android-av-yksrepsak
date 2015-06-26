@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="scan_types">
+        <item>@string/str_array_scan_types_applications</item>
+        <item>@string/str_array_scan_types_full</item>
+        <item>@string/str_array_scan_types_folder</item>
+    </string-array>
+    <string-array name="auto_hide_times">
+        <item>@string/str_array_auto_hide_times_disabled</item>
+        <item>@string/str_array_auto_hide_times_no_delay</item>
+        <item>@string/str_array_auto_hide_times_item1</item>
+        <item>@string/str_array_auto_hide_times_item2</item>
+        <item>@string/str_array_auto_hide_times_item3</item>
+        <item>@string/str_array_auto_hide_times_item4</item>
+    </string-array>
+    <string-array name="item_types">
+        <item>@string/str_array_item_types_contact</item>
+        <item>@string/str_array_item_types_phone</item>
+    </string-array>
+    <string-array name="monitor_checked_object_types">
+        <item>@string/str_array_monitor_checked_object_types_all</item>
+        <item>@string/str_array_monitor_checked_object_types_executable</item>
+    </string-array>
+    <string-array name="scan_checked_object_types">
+        <item>@string/str_array_scan_checked_object_types_all</item>
+        <item>@string/str_array_scan_checked_object_types_executable</item>
+    </string-array>
+    <string-array name="monitor_action_types">
+        <item>@string/str_array_monitor_action_types_quarantine</item>
+        <item>@string/str_array_monitor_action_types_delete</item>
+        <item>@string/str_array_monitor_action_types_skip</item>
+    </string-array>
+    <string-array name="virus_action_types">
+        <item>@string/str_array_virus_action_types_quarantine</item>
+        <item>@string/str_array_virus_action_types_ask_user</item>
+        <item>@string/str_array_virus_action_types_delete</item>
+        <item>@string/str_array_virus_action_types_skip</item>
+    </string-array>
+    <string-array name="auto_scan_modes">
+        <item>@string/str_array_auto_scan_modes_weekly</item>
+        <item>@string/str_array_auto_scan_modes_daily</item>
+        <item>@string/str_array_auto_scan_modes_disabled</item>
+    </string-array>
+    <string-array name="auto_update_modes">
+        <item>@string/str_array_auto_update_modes_weekly</item>
+        <item>@string/str_array_auto_update_modes_daily</item>
+        <item>@string/str_array_auto_update_modes_disabled</item>
+    </string-array>
+    <string-array name="week_days">
+        <item>@string/str_array_week_days_1</item>
+        <item>@string/str_array_week_days_2</item>
+        <item>@string/str_array_week_days_3</item>
+        <item>@string/str_array_week_days_4</item>
+        <item>@string/str_array_week_days_5</item>
+        <item>@string/str_array_week_days_6</item>
+        <item>@string/str_array_week_days_7</item>
+    </string-array>
+    <string-array name="what_hide">
+        <item>@string/str_array_what_hide_contacts</item>
+        <item>@string/str_array_what_hide_sms</item>
+        <item>@string/str_array_what_hide_incomming_sms</item>
+        <item>@string/str_array_what_hide_calls</item>
+        <item>@string/str_array_what_hide_incomming_calls</item>
+    </string-array>
+    <string-array name="virus_detected_actions">
+        <item>@string/str_array_virus_detected_actions_delete</item>
+        <item>@string/str_array_virus_detected_actions_quarantine</item>
+        <item>@string/str_array_virus_detected_actions_skip</item>
+    </string-array>
+    <string-array name="virus_in_application_detected_actions">
+        <item>@string/str_array_virus_in_application_detected_actions_delete</item>
+        <item>@string/str_array_virus_in_application_detected_actions_skip</item>
+        <item>@string/str_array_virus_in_application_detected_actions_help</item>
+    </string-array>
+    <string-array name="pp_contact_popup">
+        <item>@string/str_array_pp_contact_popup_delete</item>
+        <item>@string/str_array_pp_contact_popup_delete_all</item>
+    </string-array>
+    <string-array name="pp_phone_popup">
+        <item>@string/str_array_pp_phone_popup_change</item>
+        <item>@string/str_array_pp_phone_popup_delete</item>
+        <item>@string/str_array_pp_phone_popup_delete_all</item>
+    </string-array>
+    <string-array name="antispam_modes">
+        <item>@string/str_array_antispam_modes_disabled</item>
+        <item>@string/str_array_antispam_modes_blocked_contacts</item>
+        <item>@string/str_array_antispam_modes_allowed_contacts</item>
+        <item>@string/str_array_antispam_modes_standard</item>
+    </string-array>
+    <string-array name="antispam_actions">
+        <item>@string/str_array_antispam_actions_always_allow</item>
+        <item>@string/str_array_antispam_actions_always_block</item>
+        <item>@string/str_array_antispam_actions_skip</item>
+    </string-array>
+    <string-array name="antispam_item_types">
+        <item>@string/str_array_antispam_item_types_sms</item>
+        <item>@string/str_array_antispam_item_types_calls</item>
+        <item>@string/str_array_antispam_item_types_both</item>
+    </string-array>
+    <string-array name="antispam_popup">
+        <item>@string/str_array_antispam_popup_change</item>
+        <item>@string/str_array_antispam_popup_delete</item>
+        <item>@string/str_array_antispam_popup_delete_all</item>
+    </string-array>
+    <string-array name="antispam_popup_no_edit">
+        <item>@string/str_array_antispam_popup_no_edit_delete</item>
+        <item>@string/str_array_antispam_popup_no_edit_delete_all</item>
+    </string-array>
+    <string-array name="stealth_commands">
+        <item>@string/str_array_stealth_commands_find</item>
+        <item>@string/str_array_stealth_commands_mugshot</item>
+        <item>@string/str_array_stealth_commands_wipe</item>
+        <item>@string/str_array_stealth_commands_alarm</item>
+    </string-array>
+    <string-array name="send_stealth_commands">
+        <item>@string/str_array_stealth_commands_find</item>
+        <item>@string/str_array_stealth_commands_fullreset</item>
+        <item>@string/str_array_stealth_commands_wipe</item>
+        <item>@string/str_array_stealth_commands_alarm</item>
+        <item>@string/str_array_stealth_commands_hide</item>
+    </string-array>
+    <string-array name="select_protection_mode_dialog_titles">
+        <item>@string/str_array_select_protection_mode_dialog_titles_extended</item>
+        <item>@string/str_array_select_protection_mode_dialog_titles_recommended</item>
+        <item>@string/str_array_select_protection_mode_dialog_titles_disabled</item>
+    </string-array>
+    <string-array name="select_protection_mode_dialog_subtitles">
+        <item>@string/str_array_select_protection_mode_dialog_subtitles_extended</item>
+        <item>@string/str_array_select_protection_mode_dialog_subtitles_recommended</item>
+        <item>@string/str_array_select_protection_mode_dialog_subtitles_disabled</item>
+    </string-array>
+    <string-array name="antispam_import_number_sources">
+        <item>@string/str_array_antispam_import_number_sources_calls</item>
+        <item>@string/str_array_antispam_import_number_sources_sms</item>
+    </string-array>
+    <string-array name="select_reports_dialog_titles">
+        <item>@string/str_array_select_reports_dialog_titles_all</item>
+        <item>@string/str_array_select_reports_dialog_titles_av</item>
+        <item>@string/str_array_select_reports_dialog_titles_as</item>
+        <item>@string/str_array_select_reports_dialog_titles_web</item>
+    </string-array>
+    <string-array name="select_reports_dialog_subtitles">
+        <item>@string/str_array_select_reports_dialog_subtitles_all</item>
+        <item>@string/str_array_select_reports_dialog_subtitles_av</item>
+        <item>@string/str_array_select_reports_dialog_subtitles_as</item>
+        <item>@string/str_array_select_reports_dialog_subtitles_web</item>
+    </string-array>
+    <string-array name="reports_days_titles">
+        <item>@string/str_array_reports_days_titles_1</item>
+        <item>@string/str_array_reports_days_titles_2</item>
+        <item>@string/str_array_reports_days_titles_3</item>
+        <item>@string/str_array_reports_days_titles_4</item>
+    </string-array>
+    <string-array name="settings_groups">
+        <item>@string/str_array_settings_groups_1</item>
+        <item>@string/str_array_settings_groups_2</item>
+        <item>@string/str_array_settings_groups_3</item>
+        <item>@string/str_array_settings_groups_4</item>
+        <item>@string/str_array_settings_groups_5</item>
+        <item>@string/str_array_settings_groups_6</item>
+    </string-array>
+    <string-array name="settings_groups_no_radio">
+        <item>@string/str_array_settings_groups_1</item>
+        <item>@string/str_array_settings_groups_3</item>
+        <item>@string/str_array_settings_groups_5</item>
+        <item>@string/str_array_settings_groups_6</item>
+    </string-array>
+    <string-array name="free_settings_groups">
+        <item>@string/str_array_free_settings_groups_short_captions_scanner</item>
+        <item>@string/str_array_settings_groups_3</item>
+        <item>@string/str_array_settings_groups_4</item>
+        <item>@string/str_array_settings_groups_6</item>
+    </string-array>
+    <string-array name="free_settings_groups_no_radio">
+        <item>@string/str_array_free_settings_groups_short_captions_scanner</item>
+        <item>@string/str_array_settings_groups_3</item>
+        <item>@string/str_array_settings_groups_6</item>
+    </string-array>
+    <string-array name="settings_groups_short_captions">
+        <item>@string/str_array_settings_groups_short_captions_antivirus</item>
+        <item>@string/str_array_settings_groups_short_captions_privacy_protection</item>
+        <item>@string/str_array_settings_groups_short_captions_antitheft</item>
+        <item>@string/str_array_settings_groups_short_captions_antispam</item>
+        <item>@string/str_array_settings_groups_short_captions_web_protection</item>
+        <item>@string/str_array_settings_groups_short_captions_additional</item>
+        <item>@string/str_array_settings_groups_short_captions_protection</item>
+        <item>@string/str_array_settings_groups_short_captions_scan</item>
+        <item>@string/str_array_settings_groups_short_captions_update</item>
+        <item>@string/str_array_settings_groups_short_captions_quarantine</item>
+        <item>@string/str_array_settings_groups_short_captions_pp_settings</item>
+        <item>@string/str_array_settings_groups_short_captions_web_portal</item>
+        <item>@string/str_array_settings_groups_short_captions_sim_watch</item>
+        <item>@string/str_array_settings_groups_short_captions_sms_send</item>
+        <item>@string/str_array_settings_groups_short_captions_reports</item>
+        <item>@string/str_array_settings_groups_short_captions_license</item>
+        <item>@string/str_array_settings_groups_short_captions_license_activation</item>
+        <item>@string/str_array_settings_groups_short_captions_about</item>
+    </string-array>
+    <string-array name="settings_groups_short_captions_no_radio">
+        <item>@string/str_array_settings_groups_short_captions_antivirus</item>
+        <item>@string/str_array_settings_groups_short_captions_antitheft</item>
+        <item>@string/str_array_settings_groups_short_captions_web_protection</item>
+        <item>@string/str_array_settings_groups_short_captions_additional</item>
+        <item>@string/str_array_settings_groups_short_captions_protection</item>
+        <item>@string/str_array_settings_groups_short_captions_scan</item>
+        <item>@string/str_array_settings_groups_short_captions_update</item>
+        <item>@string/str_array_settings_groups_short_captions_quarantine</item>
+        <item>@string/str_array_settings_groups_short_captions_web_portal</item>
+        <item>@string/str_array_settings_groups_short_captions_sim_watch</item>
+        <item>@string/str_array_settings_groups_short_captions_sms_send</item>
+        <item>@string/str_array_settings_groups_short_captions_reports</item>
+        <item>@string/str_array_settings_groups_short_captions_license</item>
+        <item>@string/str_array_settings_groups_short_captions_license_activation</item>
+        <item>@string/str_array_settings_groups_short_captions_about</item>
+    </string-array>
+    <string-array name="free_settings_groups_short_captions">
+        <item>@string/str_array_free_settings_groups_short_captions_scanner</item>
+        <item>@string/str_array_settings_groups_short_captions_antitheft</item>
+        <item>@string/str_array_settings_groups_short_captions_antispam</item>
+        <item>@string/str_array_settings_groups_short_captions_additional</item>
+        <item>@string/str_array_settings_groups_short_captions_scan</item>
+        <item>@string/str_array_settings_groups_short_captions_quarantine</item>
+        <item>@string/str_array_settings_groups_short_captions_web_portal</item>
+        <item>@string/str_array_settings_groups_short_captions_sim_watch</item>
+        <item>@string/str_array_settings_groups_short_captions_sms_send</item>
+        <item>@string/str_array_settings_groups_short_captions_reports</item>
+        <item>@string/str_array_settings_groups_short_captions_license</item>
+        <item>@string/str_array_settings_groups_short_captions_license_activation</item>
+        <item>@string/str_array_settings_groups_short_captions_about</item>
+    </string-array>
+    <string-array name="free_settings_groups_short_captions_no_radio">
+        <item>@string/str_array_free_settings_groups_short_captions_scanner</item>
+        <item>@string/str_array_settings_groups_short_captions_antitheft</item>
+        <item>@string/str_array_settings_groups_short_captions_additional</item>
+        <item>@string/str_array_settings_groups_short_captions_scan</item>
+        <item>@string/str_array_settings_groups_short_captions_quarantine</item>
+        <item>@string/str_array_settings_groups_short_captions_web_portal</item>
+        <item>@string/str_array_settings_groups_short_captions_sim_watch</item>
+        <item>@string/str_array_settings_groups_short_captions_sms_send</item>
+        <item>@string/str_array_settings_groups_short_captions_reports</item>
+        <item>@string/str_array_settings_groups_short_captions_license</item>
+        <item>@string/str_array_settings_groups_short_captions_license_activation</item>
+        <item>@string/str_array_settings_groups_short_captions_about</item>
+    </string-array>
+    <string-array name="free_info_phone_titles">
+        <item>@string/str_array_free_info_title_1</item>
+        <item>@string/str_array_free_info_title_2</item>
+        <item>@string/str_array_free_info_title_3</item>
+        <item>@string/str_array_free_info_title_4</item>
+    </string-array>
+    <string-array name="free_info_phone_subtitles">
+        <item>@string/str_array_free_info_subtitle_1</item>
+        <item>@string/str_array_free_info_subtitle_2</item>
+        <item>@string/str_array_free_info_subtitle_3</item>
+        <item>@string/str_array_free_info_subtitle_4</item>
+    </string-array>
+    <string-array name="free_info_tablet_titles">
+        <item>@string/str_array_free_info_title_1</item>
+        <item>@string/str_array_free_info_title_2</item>
+    </string-array>
+    <string-array name="free_info_tablet_subtitles">
+        <item>@string/str_array_free_info_subtitle_1</item>
+        <item>@string/str_array_free_info_subtitle_2</item>
+    </string-array>
+    <string-array name="sms_antiphishing_user_actions">
+        <item>@string/str_sms_antiphishing_user_action_remove</item>
+        <item>@string/str_sms_antiphishing_user_action_skip</item>
+    </string-array>
+    <string-array name="scan_types_subtitles">
+        <item>@string/str_array_scan_types_subtitles_applications</item>
+        <item>@string/str_array_scan_types_subtitles_full</item>
+        <item>@string/str_array_scan_types_subtitles_folder</item>
+    </string-array>
+    <string-array name="secret_code_menu_items">
+        <item>@string/str_enter_secret_code_menu</item>
+    </string-array>
+    <string-array name="secret_code_recovery_menu_items">
+        <item>@string/str_passw_recovery_enter_menu</item>
+    </string-array>
+    <string-array name="web_filter_categories">
+        <item>@string/str_web_filter_categories_porn</item>
+        <item>@string/str_web_filter_categories_illegal_soft</item>
+        <item>@string/str_web_filter_categories_drugs</item>
+        <item>@string/str_web_filter_categories_violence</item>
+        <item>@string/str_web_filter_categories_swearing</item>
+        <item>@string/str_web_filter_categories_weapons</item>
+        <item>@string/str_web_filter_categories_gambling</item>
+        <item>@string/str_web_filter_categories_chat</item>
+        <item>@string/str_web_filter_categories_web_mail</item>
+        <item>@string/str_web_filter_categories_shops</item>
+        <item>@string/str_web_filter_categories_social_net</item>
+        <item>@string/str_web_filter_categories_job_site</item>
+        <item>@string/str_web_filter_categories_anon_proxy</item>
+        <item>@string/str_web_filter_categories_cc_payments</item>
+        <item>@string/str_web_filter_categories_casual_games</item>
+        <item>@string/str_web_filter_categories_counterfeit</item>
+        <item>@string/str_web_filter_categories_phishing</item>
+        <item>@string/str_web_filter_categories_malware</item>
+    </string-array>
+    <string-array name="web_filter_mode_subtitles">
+        <item>@string/str_array_web_filter_mode_subtitle_off</item>
+        <item>@string/str_array_web_filter_mode_subtitle_standard</item>
+        <item>@string/str_array_web_filter_mode_subtitle_extended</item>
+    </string-array>
+    <string-array name="web_filter_mode_dialog_titles">
+        <item>@string/str_array_web_filter_mode_dialog_title_off</item>
+        <item>@string/str_array_web_filter_mode_dialog_title_standard</item>
+        <item>@string/str_array_web_filter_mode_dialog_title_extended</item>
+    </string-array>
+    <string-array name="web_filter_mode_dialog_subtitles">
+        <item>@string/str_array_web_filter_mode_dialog_subtitle_off</item>
+        <item>@string/str_array_web_filter_mode_dialog_subtitle_standard</item>
+        <item>@string/str_array_web_filter_mode_dialog_subtitle_extended</item>
+    </string-array>
+    <string-array name="kts_select_reports_dialog_titles">
+        <item>@string/str_kts_array_select_reports_dialog_titles_all</item>
+        <item>@string/str_kts_array_select_reports_dialog_titles_av</item>
+        <item>@string/str_kts_array_select_reports_dialog_titles_web</item>
+    </string-array>
+    <string-array name="kts_select_reports_dialog_subtitles">
+        <item>@string/str_kts_array_select_reports_dialog_subtitles_all</item>
+        <item>@string/str_kts_array_select_reports_dialog_subtitles_av</item>
+        <item>@string/str_kts_array_select_reports_dialog_subtitles_web</item>
+    </string-array>
+</resources>

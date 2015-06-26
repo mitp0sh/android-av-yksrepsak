@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <item a:state_pressed="true" a:drawable="@drawable/kis_menu_button_warning_pressed" />
+    <item a:state_focused="true" a:drawable="@drawable/kis_menu_button_warning_focused" />
+    <item a:drawable="@drawable/kis_menu_button_warning_normal" />
+</selector>

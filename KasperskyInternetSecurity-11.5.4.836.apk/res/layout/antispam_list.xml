@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/linearLayoutBkg" style="@style/kis_activity"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/kis_activity_header" />
+    <include layout="@layout/kis_activity_button" />
+    <include layout="@layout/kis_activity_separator" />
+    <include layout="@layout/kis_no_data_info_layout" />
+    <include layout="@layout/kis_activity_listview" />
+</LinearLayout>

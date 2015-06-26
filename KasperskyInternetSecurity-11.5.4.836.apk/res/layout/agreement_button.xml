@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:orientation="vertical" a:id="@id/wizard_agreement_button" a:layout_width="fill_parent" a:layout_height="wrap_content"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <TextView a:gravity="center|left" a:id="@id/wizard_agreement_button_text" a:background="@drawable/agreement_button" a:paddingLeft="10.0dip" a:paddingTop="10.0dip" a:paddingRight="20.0dip" a:paddingBottom="10.0dip" a:layout_width="fill_parent" a:drawableRight="@drawable/license_arrow_up" a:drawablePadding="10.0dip" style="@style/WizardSubtitleText" />
+</LinearLayout>

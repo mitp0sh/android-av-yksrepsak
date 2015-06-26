@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.kaspersky.kts.gui.controls.BoundedLinearLayout android:orientation="vertical" android:id="@id/topLayout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/com.kms.free">
+    <com.kaspersky.kts.gui.wizard.WizardScrollView android:id="@id/scrollView1" style="@style/WizardScrollView">
+        <LinearLayout android:orientation="vertical" android:id="@id/BkgLayout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.kaspersky.kts.gui.controls.Space android:id="@id/contentView" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <TextView android:id="@id/TextTitle" android:text="@string/str_wizard_anti_theft_main_title_sign" style="@style/KTSWizardHeader" />
+            <com.kaspersky.kts.gui.controls.FormEditControl android:gravity="bottom|center|left" android:id="@id/textWebPortalEmail" android:layout_width="fill_parent" android:layout_height="wrap_content" app:editHint="@string/str_wizard_anti_theft_check_email_title" app:inputType="textNoSuggestions|textEmailAddress" />
+            <com.kaspersky.kts.gui.controls.FormEditControl android:gravity="bottom|center|left" android:id="@id/textWebPassword" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" app:editHint="@string/str_wizard_anti_theft_password_title" app:emptyPasswordHint="@string/str_wizard_anti_theft_password_empty" app:shortPasswordHint="@string/str_wizard_anti_theft_password_short" app:weakPasswordHint="@string/str_wizard_anti_theft_password_weak" app:inputType="textNoSuggestions|textPassword" />
+            <TextView android:id="@id/wizardForgotPassword" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_wizard_anti_theft_device_name_info" style="@style/KTSWizardHeader2" />
+            <com.kaspersky.kts.gui.controls.FormEditControl android:gravity="bottom|center|left" android:id="@id/textWebPasswordRepeat" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" app:editHint="@string/str_wizard_anti_theft_password_repeat_title" app:inputType="textNoSuggestions|textPassword" />
+            <com.kaspersky.kts.gui.controls.FormEditControl android:gravity="bottom|center|left" android:id="@id/textDeviceName" android:layout_width="fill_parent" android:layout_height="wrap_content" app:titleText="@string/str_wizard_anti_theft_device_name_info" app:inputType="textNoSuggestions" />
+            <CheckBox android:textColor="#ff2a2a2a" android:gravity="center_vertical" android:id="@id/subscribeForNews" android:checked="true" android:button="@drawable/kts_dialog_checkbox" android:text="@string/str_wizard_ucp_new_account_subscribe_news" style="@style/KTSWizardHeader2" />
+            <com.kaspersky.kts.gui.controls.Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <Button android:id="@id/btnNext" android:text="@string/str_wizard_anti_theft_new_user" style="@style/KTSWizardButton" />
+            <Button android:id="@id/btnBack" android:text="@string/str_wizard_anti_theft_back" style="@style/KTSWizardButton" />
+            <com.kaspersky.kts.gui.controls.Space android:id="@id/progressView" android:tag="view" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <ProgressBar android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="20.0dip" android:indeterminateDrawable="@anim/rotate_progress_anim" android:minWidth="100.0dip" android:minHeight="100.0dip" style="@android:style/Widget.ProgressBar.Inverse" />
+            <TextView android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_wizard_anti_theft_register_progress" style="@style/KTSWizardHeader2" />
+            <com.kaspersky.kts.gui.controls.Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <com.kaspersky.kts.gui.controls.Space android:id="@id/captchaView" android:tag="view" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/LinearLayoutCaptchaControl" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:id="@id/wizardCaptcha" android:paddingBottom="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitXY" />
+                <com.kaspersky.kts.gui.controls.FormEditControl android:gravity="bottom|center|left" android:id="@id/wizardCaptchaText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" app:titleText="@string/str_wizard_anti_theft_captcha_title" app:inputType="textNoSuggestions" />
+            </LinearLayout>
+            <com.kaspersky.kts.gui.controls.Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <Button android:id="@id/btnEnterCaptcha" android:text="@string/str_wizard_anti_theft_check_email" style="@style/KTSWizardButton" />
+            <com.kaspersky.kts.gui.controls.Space android:id="@id/nonetworkView" android:tag="view" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <TextView android:text="@string/str_wizard_anti_theft_no_internet_title" style="@style/KTSWizardHeader" />
+            <TextView android:gravity="center_horizontal" android:layout_marginBottom="20.0dip" android:text="@string/str_wizard_anti_theft_no_internet_subtitle" android:drawablePadding="10.0dip" style="@style/KTSWizardHeader2" />
+            <com.kaspersky.kts.gui.controls.Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <Button android:id="@id/btnTryAgain" android:text="@string/str_wizard_anti_theft_no_internet_tryagain_btn" style="@style/KTSWizardButton" />
+            <Button android:id="@id/btnSetup" android:text="@string/str_wizard_anti_theft_no_internet_setup_btn" style="@style/KTSWizardButton" />
+        </LinearLayout>
+    </com.kaspersky.kts.gui.wizard.WizardScrollView>
+</com.kaspersky.kts.gui.controls.BoundedLinearLayout>

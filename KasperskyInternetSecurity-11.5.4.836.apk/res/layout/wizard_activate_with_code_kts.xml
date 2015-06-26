@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.kaspersky.kts.gui.controls.BoundedLinearLayout android:orientation="vertical" android:id="@id/topLayout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/com.kms.free">
+    <com.kaspersky.kts.gui.wizard.WizardScrollView android:id="@id/scrollView1" style="@style/WizardScrollView">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/linearLayoutBkg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.kaspersky.kts.gui.controls.Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <TextView android:id="@id/subtitle" style="@style/KTSWizardHeader2" />
+            <com.kms.gui.controls.licensing.EnterActivationCodeControl android:id="@id/enter_code_control" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <com.kaspersky.kts.gui.controls.Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <Button android:id="@id/useFreeBtn" android:text="@string/str_wizard_activate_with_code_free_btn" style="@style/KTSWizardButton" />
+        </LinearLayout>
+    </com.kaspersky.kts.gui.wizard.WizardScrollView>
+</com.kaspersky.kts.gui.controls.BoundedLinearLayout>

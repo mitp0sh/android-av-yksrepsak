@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:id="@id/settingsCheckboxView" a:background="@drawable/settings_detail_list_selector" a:paddingLeft="@dimen/kis_settings_item_horizontal_border" a:paddingTop="@dimen/kis_settings_item_vertical_border" a:paddingRight="@dimen/kis_settings_item_horizontal_border" a:paddingBottom="@dimen/kis_settings_item_vertical_border" a:focusable="false" a:clickable="true" a:layout_width="fill_parent" a:layout_height="wrap_content" a:minHeight="@dimen/kis_settings_item_min_height"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <LinearLayout a:layout_gravity="center" a:orientation="vertical" a:id="@id/LinearLayout01" a:layout_width="fill_parent" a:layout_height="wrap_content" a:layout_marginRight="5.0dip" a:layout_weight="100.0">
+        <TextView a:textSize="@dimen/kis_settings_item_title_text_size" a:ellipsize="marquee" a:id="@id/mainText" a:focusable="false" a:layout_width="fill_parent" a:layout_height="wrap_content" a:layout_marginBottom="@dimen/kis_settings_item_title_bottom_margin" a:maxLines="1" a:lines="1" a:minLines="1" a:scrollHorizontally="true" a:marqueeRepeatLimit="marquee_forever" />
+        <TextView a:textSize="@dimen/kis_settings_item_subtitle_text_size" a:id="@id/subText" a:layout_width="fill_parent" a:layout_height="wrap_content" />
+    </LinearLayout>
+    <include a:id="@id/lock_layout" layout="@layout/lock" />
+    <CheckBox a:layout_gravity="center_vertical" a:id="@id/CheckBox01" style="@style/kis_checkbox" />
+</LinearLayout>

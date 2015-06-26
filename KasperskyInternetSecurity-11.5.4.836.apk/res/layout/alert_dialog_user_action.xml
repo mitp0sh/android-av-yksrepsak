@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="?kis_dialog"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/alert_dialog_user_action_title" />
+    <LinearLayout a:orientation="vertical" a:id="@id/dialog_content_linearlayout" a:layout_width="fill_parent" a:layout_height="0.0dip" a:layout_weight="1.0">
+        <ScrollView a:id="@id/dialog_content_scrollview" a:clipToPadding="false" a:layout_width="fill_parent" a:layout_height="wrap_content" a:minHeight="200.0dip" />
+    </LinearLayout>
+    <FrameLayout a:id="@id/dialog_custom_content" a:layout_width="fill_parent" a:layout_height="0.0dip" a:layout_weight="1.0">
+        <FrameLayout a:id="@id/dialog_custom" a:layout_width="fill_parent" a:layout_height="wrap_content" />
+    </FrameLayout>
+    <include layout="@layout/alert_dialog_user_action_footer" />
+</LinearLayout>

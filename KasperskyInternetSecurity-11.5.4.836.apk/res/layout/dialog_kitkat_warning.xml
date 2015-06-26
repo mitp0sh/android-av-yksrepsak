@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:layout_width="wrap_content" a:layout_height="wrap_content" style="?kis_dialog"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/alert_dialog_title" />
+    <LinearLayout a:orientation="vertical" a:id="@id/dialog_content_linearlayout" a:layout_width="fill_parent" a:layout_height="0.0dip" a:layout_weight="1.0">
+        <ScrollView a:id="@id/dialog_content_scrollview" a:clipToPadding="false" a:layout_width="fill_parent" a:layout_height="wrap_content">
+            <LinearLayout a:gravity="left" a:orientation="vertical" a:layout_width="fill_parent" a:layout_height="wrap_content">
+                <LinearLayout a:layout_width="fill_parent" a:layout_height="wrap_content">
+                    <TextView a:id="@id/TextScanTime" a:text="@string/str_kitkat_warning_message_as" style="?kis_dialog_textview_left" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <include layout="@layout/alert_dialog_footer" />
+</LinearLayout>

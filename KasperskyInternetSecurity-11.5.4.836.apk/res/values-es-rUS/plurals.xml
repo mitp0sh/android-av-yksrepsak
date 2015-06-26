@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="str_license_activation_done">
+        <item quantity="other">&amp;lt;b>¡Gracias por activar!&amp;lt;/b>&amp;lt;br>Ahora tiene una licencia por %d días.</item>
+        <item quantity="zero">&amp;lt;b>¡Gracias por activar!&amp;lt;/b>&amp;lt;br>Ahora tiene una licencia por %d días.</item>
+        <item quantity="one">&amp;lt;b>¡Gracias por activar!&amp;lt;/b>&amp;lt;br>Ahora tiene una licencia por %d día.</item>
+        <item quantity="two">&amp;lt;b>¡Gracias por activar!&amp;lt;/b>&amp;lt;br>Ahora tiene una licencia por %d días.</item>
+        <item quantity="few">&amp;lt;b>¡Gracias por activar!&amp;lt;/b>&amp;lt;br>Ahora tiene una licencia por %d días.</item>
+        <item quantity="many">&amp;lt;b>¡Gracias por activar!&amp;lt;/b>&amp;lt;br>Ahora tiene una licencia por %d días.</item>
+    </plurals>
+    <plurals name="str_activation_code_info_details_code">
+        <item quantity="other">Puede aplicar este código en otro dispositivo por %s días.</item>
+        <item quantity="zero">Puede aplicar este código en otro dispositivo por %s días.</item>
+        <item quantity="one">Puede aplicar este código en otro dispositivo por %s día.</item>
+        <item quantity="two">Puede aplicar este código en otro dispositivo por %s días.</item>
+        <item quantity="few">Puede aplicar este código en otro dispositivo por %s días.</item>
+        <item quantity="many">Puede aplicar este código en otro dispositivo por %s días.</item>
+    </plurals>
+</resources>

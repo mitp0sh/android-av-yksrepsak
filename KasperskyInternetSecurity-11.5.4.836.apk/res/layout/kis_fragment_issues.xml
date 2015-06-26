@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/kis_fragment"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <LinearLayout a:orientation="horizontal" a:id="@id/fragment_issues_header" style="@style/kis_fragment_issues_header">
+        <ImageView a:id="@id/fragment_issues_header_hide_imagebutton" style="@style/kis_fragment_issues_header_icon" />
+        <com.kaspersky.kts.gui.controls.AutoResizeTextView a:id="@id/fragment_issues_header_title_textview" style="@style/kis_fragment_issues_header_title" />
+    </LinearLayout>
+    <ListView a:id="@android:id/list" a:layout_height="0.0dip" a:layout_weight="1.0" style="@style/kis_fragment_issues_list" />
+</LinearLayout>

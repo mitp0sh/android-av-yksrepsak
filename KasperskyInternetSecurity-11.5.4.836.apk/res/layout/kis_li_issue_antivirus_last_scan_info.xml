@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/kis_li_issue_aux_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/li_issue_last_scan_info_files_count_textview" style="@style/kis_li_issue_aux_text" />
+    <TextView android:id="@id/li_issue_last_scan_info_threats_count_textview" style="@style/kis_li_issue_aux_text" />
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:baselineAligned="false" style="?kis_dialog"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/alert_dialog_title" />
+    <LinearLayout a:orientation="vertical" a:id="@id/LinearLayout04" a:layout_width="fill_parent" a:layout_height="0.0dip" a:layout_marginTop="10.0dip" a:layout_marginBottom="20.0dip" a:layout_weight="1.0">
+        <TextView a:textColor="#ffff8080" a:id="@id/invalid_email" a:visibility="gone" a:text="@string/str_invalid_email" style="?kis_dialog_message" />
+        <EditText a:id="@id/email" a:inputType="textEmailAddress|textNoSuggestions" style="?kis_dialog_edittext" />
+    </LinearLayout>
+    <include layout="@layout/alert_dialog_footer" />
+</LinearLayout>

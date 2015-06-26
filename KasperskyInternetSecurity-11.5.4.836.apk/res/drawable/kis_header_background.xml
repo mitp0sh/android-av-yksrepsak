@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape a:shape="rectangle">
+            <solid a:color="@color/kis_menu_bubble_border" />
+        </shape>
+    </item>
+    <item a:bottom="@dimen/kis_fragment_header_border">
+        <shape a:shape="rectangle">
+            <solid a:color="@color/kis_setting_header_bg" />
+        </shape>
+    </item>
+</layer-list>

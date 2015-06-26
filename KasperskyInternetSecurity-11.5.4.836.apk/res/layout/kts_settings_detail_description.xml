@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:id="@id/settingsDetailListView" android:paddingLeft="@dimen/kis_settings_details_side_padding" android:paddingTop="@dimen/kis_settings_details_top_padding" android:paddingRight="@dimen/kis_settings_details_side_padding" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:drawSelectorOnTop="false" android:cacheColorHint="#00000000" android:divider="@drawable/settings_detail_separator" android:dividerHeight="3.0dip" />
+    <include layout="@layout/kts_settings_detail_panel" />
+</AbsoluteLayout>

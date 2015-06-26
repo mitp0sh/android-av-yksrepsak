@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <item a:top="@dimen/kis_issue_top_margin" a:bottom="@dimen/kis_issue_bottom_margin">
+        <shape a:shape="rectangle">
+            <solid a:color="@color/kis_li_issue_warning_indicator" />
+        </shape>
+    </item>
+    <item a:left="@dimen/kis_issue_type_indicator">
+        <shape a:shape="rectangle">
+            <solid a:color="@color/kis_li_issue_bg" />
+        </shape>
+    </item>
+</layer-list>

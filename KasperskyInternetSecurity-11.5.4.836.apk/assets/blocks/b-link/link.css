@@ -1,0 +1,41 @@
+/* CSS crunched with Crunch - http://crunchapp.net/ */
+.b-link {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  margin-top: -1.7125rem;
+  background: red;
+  width: 5.625rem;
+  height: 3.425rem;
+  text-indent: 9999px;
+  white-space: nowrap;
+  overflow: hidden;
+  border: 1px solid #000000;
+  border-radius: 0.5rem;
+  background-color: #217568;
+  background-size: auto 60%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  -moz-box-shadow: inset 0 0 0 1px #27897a;
+  -webkit-box-shadow: inset 0 0 0 1px #27897a;
+  box-shadow: inset 0 0 0 1px #27897a;
+}
+.b-link.menu {
+  left: 0.6312500000000001rem;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAgBAMAAACSgyczAAAAKlBMVEUAAAD///////////////////////////////////////////////////+Gu8ovAAAADXRSTlMAi3SRhIMOcBQSfH+Gv3ioqAAAAE5JREFUeF7FkjERACAMA2MBC/hAAjsOcIADTIACJCCCCVa8ICDduF5/zJJ+L6iOSFiXOAgc7t8wSkXZEwUadEdMRFP35ogBBcQn27qLU3w8Bztlv+4YUgAAAABJRU5ErkJggg==);
+}
+@media (max-width: 720px) {
+  .b-link.menu.mobile {
+    display: block;
+  }
+}
+.b-link.search {
+  right: 0;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA0lBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+Gi8hrAAAARXRSTlMA+UvwrQ6omX9f9d4eH7/DpAIcHeKul+blj4DZJtzYh2ya9CpNqU6hrKKv4Popiiy+nZtti2/jEFxuTF1ep4m9y8i7wMHBMdgJAAABIklEQVR4XpWS53LCMAyARXAGgTCbQAKUWUYLBbr39vu/UqXWFzs5N75+vyTdZ1uWDSlBsmRs6QWgp1Lv8h+69UeNsH31ecr0Y5sXrGOeoT/PCg9HVB2yyWg0YVWKbxaqMKD1Zee6Q0nn8qRMewxA8oWFM9cGwW1EG+6V/n1c77ZkoRXhHtO7NG+g/2yDgu1gqQGCWo/z6hgyjLHTXk0kHtphOyu0T7HoiaSJ8QXkOKDQFPEK4/O8cIXCSsTsL4GZjzA3Ka95r7+mHJSjGVTBqF0a9ZMsfNJjRXa63qXHejM8N99YIFmIDxO94IcZ8l9KqjHvcwWdMdv7UvDfN9LQffsKWCWNAUGyDsN1ElAsDR3/M2YmIwaDEUOhQUcUsIvjHXwDN0NLURQq+jgAAAAASUVORK5CYII=);
+}
+.b-link:hover {
+  background-color: #27897a;
+}
+.b-link:active {
+  background-color: #1b6156;
+}

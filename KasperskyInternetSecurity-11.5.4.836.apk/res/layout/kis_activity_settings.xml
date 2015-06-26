@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:orientation="vertical" style="@style/kis_activity"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <LinearLayout a:id="@id/fragment_setting_header" style="@style/kis_fragment_settings_header">
+        <TextView a:id="@id/fragment_setting_header_title_textview" style="@style/kis_fragment_settings_header_title" />
+    </LinearLayout>
+    <LinearLayout a:orientation="horizontal" a:layout_width="fill_parent" a:layout_height="fill_parent">
+        <LinearLayout a:id="@id/fragment_setting_items" a:layout_width="@dimen/kis_setting_width" a:layout_height="fill_parent" />
+        <LinearLayout a:id="@id/fragment_setting_item" a:layout_width="fill_parent" a:layout_height="fill_parent" />
+    </LinearLayout>
+</LinearLayout>

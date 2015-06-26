@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/activation_code_item" android:background="@layout/settings_selector" android:padding="7.0dip" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="7.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textSize="18.0sp" android:textColor="#ff666666" android:layout_gravity="center|left" android:id="@id/activation_code_title" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:text="Kaspersky Internet Security for Android" />
+        <TextView android:textSize="14.0sp" android:textColor="#ff999999" android:layout_gravity="center|left" android:id="@id/activation_code_subtitle_left" android:paddingBottom="3.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="Expires: 10.10.2011" />
+        <TextView android:textSize="14.0sp" android:textColor="#ff999999" android:layout_gravity="center|left" android:id="@id/activation_code_subtitle_right" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="7 days left" />
+    </LinearLayout>
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:src="@drawable/wizard_activation_codes_arrow" />
+</LinearLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/settingsHeaderView" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/LinearLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="15.0px" android:layout_marginTop="5.0px" android:layout_marginRight="10.0px" android:layout_marginBottom="10.0px" android:layout_weight="50.0">
+        <com.kaspersky.kts.gui.mainwindow.ScrollingText android:textSize="25.0px" android:textColor="#ffffffff" android:ellipsize="marquee" android:id="@id/mainText" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="20.0px" android:layout_marginBottom="3.0px" android:maxLines="1" android:lines="1" android:minLines="1" android:scrollHorizontally="true" android:marqueeRepeatLimit="marquee_forever" />
+        <TextView android:textSize="16.0px" android:textColor="#ffffffff" android:id="@id/subText" android:paddingLeft="2.0px" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="20.0px" />
+        <LinearLayout android:id="@id/alertView" android:background="@drawable/settings_detail_alert_bg" android:paddingBottom="2.0px" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0px">
+            <ImageView android:id="@id/imageView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0px" android:layout_marginTop="5.0px" android:layout_marginBottom="10.0px" android:src="@drawable/attention_icon" />
+            <TextView android:textSize="17.0px" android:textColor="#ffffffff" android:id="@id/alertText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0px" android:layout_marginTop="4.0px" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/updateLayout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="18.0px" android:textColor="#ffffffff" android:id="@id/lastUpdateText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0px" android:text="TextView" />
+            <TextView android:textSize="18.0px" android:textColor="#ffffffff" android:id="@id/recordsText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0px" android:text="TextView" />
+            <Button android:textSize="17.0px" android:textColor="#ffffffff" android:layout_gravity="center_horizontal" android:id="@id/button1" android:background="@drawable/settings_detail_btn_selector" android:paddingLeft="20.0px" android:paddingRight="25.0px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0px" android:layout_marginBottom="10.0px" android:text="Button" android:drawableLeft="@drawable/update_icon_dark" android:drawablePadding="10.0px" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

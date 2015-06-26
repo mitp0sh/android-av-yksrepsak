@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="str_license_activation_done">
+        <item quantity="other">&amp;lt;b>Vielen Dank, dass Sie das Programm aktiviert haben&amp;lt;/b>&amp;lt;br>Ihre Lizenz ist für %d Tage gültig.</item>
+        <item quantity="zero">&amp;lt;b>Vielen Dank, dass Sie das Programm aktiviert haben&amp;lt;/b>&amp;lt;br>Ihre Lizenz ist für %d Tage gültig.</item>
+        <item quantity="one">&amp;lt;b>Vielen Dank, dass Sie das Programm aktiviert haben&amp;lt;/b>&amp;lt;br>Ihre Lizenz ist für %d Tag gültig.</item>
+        <item quantity="two">&amp;lt;b>Vielen Dank, dass Sie das Programm aktiviert haben&amp;lt;/b>&amp;lt;br>Ihre Lizenz ist für %d Tage gültig.</item>
+        <item quantity="few">&amp;lt;b>Vielen Dank, dass Sie das Programm aktiviert haben&amp;lt;/b>&amp;lt;br>Ihre Lizenz ist für %d Tage gültig.</item>
+        <item quantity="many">&amp;lt;b>Vielen Dank, dass Sie das Programm aktiviert haben&amp;lt;/b>&amp;lt;br>Ihre Lizenz ist für %d Tage gültig.</item>
+    </plurals>
+    <plurals name="str_activation_code_info_details_code">
+        <item quantity="other">Mit diesem Code können Sie das Programm auf einem anderen Gerät aktivieren. Dafür verbleiben %s Tage.</item>
+        <item quantity="zero">Mit diesem Code können Sie das Programm auf einem anderen Gerät aktivieren. Dafür verbleiben %s Tage.</item>
+        <item quantity="one">Mit diesem Code können Sie das Programm auf einem anderen Gerät aktivieren. Dafür verbleibt %s Tag.</item>
+        <item quantity="two">Mit diesem Code können Sie das Programm auf einem anderen Gerät aktivieren. Dafür verbleiben %s Tage.</item>
+        <item quantity="few">Mit diesem Code können Sie das Programm auf einem anderen Gerät aktivieren. Dafür verbleiben %s Tage.</item>
+        <item quantity="many">Mit diesem Code können Sie das Programm auf einem anderen Gerät aktivieren. Dafür verbleiben %s Tage.</item>
+    </plurals>
+</resources>

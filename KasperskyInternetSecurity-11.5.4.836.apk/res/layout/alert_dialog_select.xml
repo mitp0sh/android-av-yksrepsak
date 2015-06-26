@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view a:id="@id/dialog_content_listview" class="com.kms.gui.dialog.AlertController$RecycleListView" style="?kis_dialog_listview"
+  xmlns:a="http://schemas.android.com/apk/res/android" />

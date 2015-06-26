@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/topLayout" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:src="@drawable/license_ok" />
+    <TextView android:textSize="18.0sp" android:textColor="#ff202020" android:gravity="center" android:id="@id/daysLeft" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginBottom="15.0dip" />
+    <include layout="@layout/dlg_footer_separator" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textColor="@color/kis_text_title" android:id="@id/Button01" android:layout_width="fill_parent" android:text="@string/str_license_activation_done_close" style="@style/kis_dialog_button" />
+    </LinearLayout>
+</LinearLayout>

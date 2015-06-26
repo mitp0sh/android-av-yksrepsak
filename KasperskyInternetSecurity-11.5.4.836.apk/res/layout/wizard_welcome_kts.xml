@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.kaspersky.kts.gui.controls.BoundedLinearLayout a:orientation="vertical" a:id="@id/topLayout" a:layout_width="fill_parent" a:layout_height="fill_parent"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <com.kaspersky.kts.gui.wizard.WizardScrollView a:id="@id/scrollView1" style="@style/WizardScrollView">
+        <LinearLayout a:orientation="vertical" a:id="@id/linearLayoutBkg" a:layout_width="fill_parent" a:layout_height="wrap_content">
+            <com.kaspersky.kts.gui.controls.Space a:layout_width="fill_parent" a:layout_height="0.0dip" a:layout_weight="1.0" />
+            <TextView a:id="@id/textView1" a:text="@string/str_big_res_wizard_welcome_title" a:drawableTop="@drawable/ico_wizard_welcome" style="@style/KTSWizardHeader" />
+            <LinearLayout a:gravity="center" a:orientation="vertical" a:layout_width="fill_parent" a:layout_height="wrap_content" a:layout_marginTop="10.0dip">
+                <TextView a:id="@id/textView2" a:layout_width="fill_parent" a:layout_height="wrap_content" a:text="@string/str_intro_screen_select_country_caption" style="@style/KTSWizardHeader2" />
+                <TextView a:gravity="left" a:id="@id/countryInfo" a:background="#ffe5e5e5" a:padding="10.0dip" a:layout_marginTop="0.0dip" a:drawableRight="@drawable/wizard_triangle" style="@style/KTSWizardHeader2" />
+            </LinearLayout>
+            <com.kaspersky.kts.gui.controls.Space a:layout_width="fill_parent" a:layout_height="0.0dip" a:layout_weight="1.0" />
+            <Button a:id="@id/btnNext" a:layout_marginLeft="40.0dip" a:layout_marginRight="40.0dip" a:maxWidth="200.0dip" a:text="@string/str_intro_screen_continue_btn" a:contentDescription="WELCOME_NEXT_STEP" style="@style/KTSWizardButton" />
+        </LinearLayout>
+    </com.kaspersky.kts.gui.wizard.WizardScrollView>
+</com.kaspersky.kts.gui.controls.BoundedLinearLayout>

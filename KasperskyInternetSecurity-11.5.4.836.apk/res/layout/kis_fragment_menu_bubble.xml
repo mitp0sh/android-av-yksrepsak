@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:orientation="vertical" a:layout_width="fill_parent" a:layout_height="@dimen/kis_sidebar_bubble_height"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <FrameLayout a:id="@id/menu_bubble_shadow" a:background="@drawable/kis_menu_bubble_shadow" a:layout_width="fill_parent" a:layout_height="14.0px" />
+    <LinearLayout a:id="@id/menu_bubble_content" style="@style/kis_fragment_menu_bubble">
+        <TextView a:id="@id/shield_label_textview" a:text="@string/kis_shield_label_smartphone_protected" style="@style/kis_fragment_menu_bubble_title" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:orientation="vertical" a:id="@id/linearLayoutBkg" a:scrollbars="vertical" a:layout_width="wrap_content" a:layout_height="wrap_content"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <LinearLayout a:id="@id/LinearLayout02" a:background="@drawable/hdr" a:layout_width="fill_parent" a:layout_height="wrap_content">
+        <ImageView a:layout_gravity="center" a:id="@id/ImageView01" a:layout_width="wrap_content" a:layout_height="wrap_content" a:layout_marginLeft="10.0dip" a:src="@drawable/ico_k_36" />
+        <TextView a:textSize="20.0sp" a:textColor="#ffffffff" a:gravity="center_vertical" a:id="@id/ViewCaption" a:padding="10.0dip" a:layout_width="fill_parent" a:layout_height="fill_parent" />
+    </LinearLayout>
+    <LinearLayout a:id="@id/LinearLayout01" a:background="@drawable/shadow_up_alert" a:layout_width="fill_parent" a:layout_height="5.0px" />
+    <ListView a:entries="@array/virus_detected_actions" a:id="@android:id/list" a:layout_width="fill_parent" a:layout_height="fill_parent" a:drawSelectorOnTop="false" a:cacheColorHint="#00000000" a:headerDividersEnabled="true" a:footerDividersEnabled="false" />
+    <LinearLayout a:orientation="vertical" a:id="@id/LinearLayout03" a:layout_width="fill_parent" a:layout_height="fill_parent">
+        <LinearLayout a:id="@id/InfoView" a:layout_width="fill_parent" a:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

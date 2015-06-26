@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout style="@style/kis_li_setting"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <include a:layout_width="wrap_content" a:layout_height="wrap_content" a:layout_alignParentLeft="true" layout="@layout/kis_li_setting_title" />
+    <com.kaspersky.components.views.Switch a:id="@id/li_setting_switch" a:layout_alignParentRight="true" style="@style/kis_switch" />
+</RelativeLayout>

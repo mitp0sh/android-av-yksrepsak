@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/kis_dialog" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/LinearLayout04" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="50.0">
+        <include layout="@layout/alert_dialog_title" />
+        <include layout="@layout/dlg_header_separator" />
+        <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip">
+            <LinearLayout android:orientation="vertical" android:paddingTop="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="16.0sp" android:textColor="@color/kis_text" android:id="@id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_name" />
+                <TextView android:textSize="16.0sp" android:textColor="@color/kis_text" android:id="@id/version" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_app_version" />
+                <TextView android:textSize="16.0sp" android:textColor="@color/kis_text" android:id="@id/TextView04" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" android:text="@string/kts_str_app_description" />
+                <TextView android:textSize="16.0sp" android:textColor="@color/kis_text" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/kts_str_about_trademark_notification_title" />
+                <TextView android:textSize="16.0sp" android:textColor="@color/kis_text" android:id="@id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" android:text="@string/kts_str_about_trademark_notification_body" />
+                <TextView android:textSize="12.0sp" android:textColor="@color/kis_text" android:id="@id/TextView05" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_app_copyright" android:lines="2" />
+                <TextView android:textSize="16.0sp" android:id="@id/linkEULA" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_eula_title" android:onClick="true" style="@style/kis_dialog_textview_left" />
+                <TextView android:textSize="16.0sp" android:id="@id/linkPartyCode" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_about_show_3rd_code_button" android:onClick="true" style="@style/kis_dialog_textview_left" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <include layout="@layout/alert_dialog_footer" />
+</LinearLayout>

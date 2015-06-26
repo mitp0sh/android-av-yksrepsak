@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <item a:drawable="@drawable/kis_menu_button_normal" a:minLevel="0" a:maxLevel="0" />
+    <item a:drawable="@drawable/kis_menu_button_warning" a:minLevel="1" a:maxLevel="1" />
+</level-list>

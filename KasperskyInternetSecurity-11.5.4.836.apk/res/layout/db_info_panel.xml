@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.kms.gui.TwoColumnInfoPanel android:orientation="vertical" android:paddingLeft="25.0dip" android:paddingTop="10.0dip" android:paddingRight="25.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:id="@id/AVTextBasesName" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_main_menu_update_status" />
+    <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="left" android:id="@id/AVTextDatabasesInfo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_main_menu_update_status_good" />
+    <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:id="@id/AVTextLastUpdateName" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_av_info1" />
+    <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:gravity="left" android:id="@id/AVTextLastUpdateInfo" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:id="@id/AVTextTotalThreatsName" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_av_info2" />
+    <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:gravity="left" android:id="@id/AVTextTotalThreatsInfo" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</com.kms.gui.TwoColumnInfoPanel>

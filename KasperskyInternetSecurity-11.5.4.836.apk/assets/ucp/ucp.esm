@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root>
+
+  <component clsid="0xEF4FB6E5" name="REST-client" module="rest_client">
+    <interface iid="0x2272E208" name="IRestClient"/>
+	<depends service_key="0x5284bbc5" name="network_services.AdvancedHttpClientFactory"/>
+  </component>
+
+  <component clsid="0xAFEDAA5F" name="UCP-agent" module="ucp_agent"  construct_iface_id="0x6D3B9A69" settings_type_id="0xBC1AB8BF">
+    <interface iid="0x6A96C307" name="IUcpClient"/>
+    <interface iid="0x49A72BB1" name="IKavLicenseInfoPublisher"/>
+    <interface iid="0x9934FD13" name="IKpmLicense"/>
+    <interface iid="0xD4C428DE" name="IKpmStorageClient"/>
+	<interface iid="0x92638950" name="ICommandClient"/>
+	<interface iid="0xD739E26E" name="ICommandEventSubscription"/>
+	<interface iid="0x1BD38796" name="IMobileClient"/>
+	<interface iid="0x78BDF791" name="IMobileEventSubscription"/>
+	<interface iid="0x1A4C7454" name="IUcpCredentialsChecker"/>
+  </component>
+
+  <component clsid="0x5227B85A" name="UCP-probe" module="ucp_agent"  construct_iface_id="0x60F2ACB9" settings_type_id="0xBA11DE57">
+    <interface iid="0x3230C842" name="IUcpProbe"/>
+  </component>
+
+  <component clsid="0x93A55899" name="UcpMetaInfoDescriptors" module="ucp_meta">
+    <interface iid="0xa53230cb" name="IStructMetaInfoRegistry"/>
+  </component>
+
+  <component clsid="0xD062F0D5" name="UcpProxyStubFactories" module="ucp_meta">
+    <interface iid="0xa96f285b" name="IPSFactoryRegistry2"/>
+  </component>
+
+  <component clsid="0xB3C58898" name="KpmLicenseEventDispactcher" module="ucp_meta">
+    <interface iid="0x2AC27A94" name="IKpmLicenseEvent"/>
+    <interface iid="0xA336DA9E" name="IKpmLicenseEventSubscription"/>
+  </component>
+
+  <component clsid="0xCF975376" name="KpmStorageEventDispactcher" module="ucp_meta">
+    <interface iid="0x40077BC1" name="IKpmStorageEvent"/>
+    <interface iid="0xDB03B957" name="IKpmStorageEventSubscription"/>
+  </component>
+
+  <component clsid="0x2D051E00" name="UcpAccountStatusEventDispactcher" module="ucp_meta">
+    <interface iid="0x90DDB288" name="IUcpAccountStatusEvent"/>
+    <interface iid="0xBAA127B0" name="IUcpAccountStatusEventSubscription"/>
+  </component>
+
+  <component clsid="0xEFC6DDFA" name="UcpConnectionStatusEventDispactcher" module="ucp_meta">
+    <interface iid="0x069C379E" name="IUcpConnectionStatusEvent"/>
+    <interface iid="0x97C5A15B" name="IUcpConnectionStatusEventSubscription"/>
+  </component>
+
+  <component clsid="0xF182D424" name="UcpPstorageConvertor" module="ucp_agent">
+    <interface iid="0x2d08d87c" name="app_core::facade::upgrade::IPersistentDataUpgrader"/>
+  </component>
+
+</root>

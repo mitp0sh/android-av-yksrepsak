@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:baselineAligned="false" style="?kis_dialog"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/alert_dialog_title" />
+    <LinearLayout a:orientation="vertical" a:id="@id/LinearLayout04" a:layout_width="fill_parent" a:layout_height="0.0dip" a:layout_marginTop="10.0dip" a:layout_marginBottom="10.0dip" a:layout_weight="1.0">
+        <EditText a:id="@id/block_text" a:lines="3" a:inputType="textImeMultiLine|textMultiLine" style="?kis_dialog_edittext" />
+    </LinearLayout>
+    <include layout="@layout/alert_dialog_footer" />
+</LinearLayout>

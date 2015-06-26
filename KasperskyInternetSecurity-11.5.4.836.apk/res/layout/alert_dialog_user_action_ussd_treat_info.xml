@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:orientation="horizontal" a:layout_width="fill_parent" a:layout_height="fill_parent"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <TextView a:paddingRight="5.0dip" a:layout_width="wrap_content" a:text="@string/str_av_virus_detected_info1" style="?kis_dialog_message" />
+    <TextView a:id="@id/phone_number" a:padding="0.0dip" a:layout_width="wrap_content" a:text="*100#" style="?kis_dialog_message" />
+</LinearLayout>

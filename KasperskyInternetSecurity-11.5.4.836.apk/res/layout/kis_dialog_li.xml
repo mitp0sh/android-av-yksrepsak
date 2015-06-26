@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:orientation="vertical" style="?kis_dialog_li"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/kis_dialog_title" />
+</LinearLayout>

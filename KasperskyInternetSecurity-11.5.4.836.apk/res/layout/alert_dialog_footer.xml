@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:orientation="vertical" a:id="@id/dialog_footer_linearlayout" a:layout_width="fill_parent" a:layout_height="wrap_content" a:minHeight="@dimen/kis_alert_dialog_button_bar_min_height"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <View a:id="@id/dialog_footer_divider" a:visibility="gone" a:layout_width="fill_parent" a:layout_height="1.0dip" />
+    <LinearLayout style="?kis_dialog_buttonbar">
+        <LinearLayout a:orientation="horizontal" a:layout_width="fill_parent" a:layout_height="wrap_content">
+            <Button a:id="@id/dialog_positive_button" a:visibility="gone" style="?kis_dialog_button" />
+            <Button a:id="@id/dialog_negative_button" a:visibility="gone" style="?kis_dialog_button" />
+        </LinearLayout>
+        <Button a:id="@id/dialog_neutral_button" a:visibility="gone" a:layout_width="fill_parent" style="?kis_dialog_button" />
+    </LinearLayout>
+</LinearLayout>

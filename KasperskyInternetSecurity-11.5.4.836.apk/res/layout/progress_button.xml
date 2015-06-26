@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/settings_top_btn_selector" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/progress" android:visibility="gone" android:layout_width="22.0dip" android:layout_height="22.0dip" android:src="@drawable/progress_bar_white" android:layout_toLeftOf="@id/caption" />
+        <TextView android:textSize="@dimen/green_button_text_size" android:textColor="@color/green_button_text" android:id="@id/caption" android:paddingLeft="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="text" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</LinearLayout>

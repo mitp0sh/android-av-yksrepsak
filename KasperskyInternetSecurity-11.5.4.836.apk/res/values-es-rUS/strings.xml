@@ -1,0 +1,1759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kis_menu_scan">Analizar</string>
+    <string name="kis_menu_scan_cancel">Cancelar análisis</string>
+    <string name="kis_menu_update_cancel">Cancelar actualización</string>
+    <string name="kis_menu_update">Actualizar</string>
+    <string name="kis_menu_safe_browser">Navegador</string>
+    <string name="kis_menu_show_info">Protección de privacidad</string>
+    <string name="kis_menu_call_sms_status">Filtro de llamadas y SMS</string>
+    <string name="kis_menu_anti_theft_portal">Antirrobo</string>
+    <string name="kis_menu_settings">Configuración</string>
+    <string name="kis_menu_help">Ayuda</string>
+    <string name="kis_menu_share">Compartir</string>
+    <string name="kis_menu_premium">Características premium</string>
+    <string name="kis_shield_label_smartphone_protected">Dispositivo está protegido ></string>
+    <string name="kis_shield_label_1_problem_found">%1$d problema ></string>
+    <string name="kis_shield_label_few_problems_found">%1$d problemas ></string>
+    <string name="kis_shield_label_many_problems_found">%1$d problemas ></string>
+    <string name="kis_shield_label_scan_running">Analizando... ></string>
+    <string name="kis_issues_free_license">Versión gratuita</string>
+    <string name="kis_issues_trial_license_one">Versión de prueba, %1$d día restante</string>
+    <string name="kis_issues_trial_license_few">Versión de prueba, %1$d días restantes</string>
+    <string name="kis_issues_trial_license_many">Versión de prueba, %1$d días restantes</string>
+    <string name="kis_issues_premium_license_one">Versión premium, %1$d día restante</string>
+    <string name="kis_issues_premium_license_few">Versión premium, %1$d días restantes</string>
+    <string name="kis_issues_premium_license_many">Versión premium, %1$d días restantes</string>
+    <string name="kis_issues_premium_license_subscription">Versión premium, suscripción</string>
+    <string name="kis_issues_license_info_expired">La información de la licencia está desactualizada. Compruebe la conexión a Internet.</string>
+    <string name="kis_issues_license_not_active">Suscripción suspendida. Comuníquese con su proveedor.</string>
+    <string name="kis_issues_license_info_expiring_1_day">La licencia vencerá en %1$d día.</string>
+    <string name="kis_issues_license_info_expiring_few_days">La licencia vencerá en %1$d días.</string>
+    <string name="kis_issues_license_info_expiring_many_days">La licencia vencerá en %1$d días.</string>
+    <string name="kis_issues_license_description_free">Está utilizando la versión gratuita.</string>
+    <string name="kis_issues_license_description_trial">Está usando la versión de prueba</string>
+    <string name="kis_issues_license_description_premium">Está utilizando la versión premium.</string>
+    <string name="kis_issues_license_expiration_date">Fecha de vencimiento: %s</string>
+    <string name="kis_issues_license_days_remaining">Días restantes: %s</string>
+    <string name="kis_issues_license_key">Clave: %s</string>
+    <string name="kis_issues_license_device_id">ID del dispositivo: %s</string>
+    <string name="kis_issues_overview">Descripción general</string>
+    <string name="kis_issues_show_ignored_issues_one">Mostrar %1$d problema ignorado</string>
+    <string name="kis_issues_show_ignored_issues_few">Mostrar %1$d problemas ignorados</string>
+    <string name="kis_issues_show_ignored_issues_many">Mostrar %1$d problemas ignorados</string>
+    <string name="kis_issues_problems_count_one">%1$d problema</string>
+    <string name="kis_issues_problems_count_few">%1$d problemas</string>
+    <string name="kis_issues_problems_count_many">%1$d problemas</string>
+    <string name="kis_issues_no_problems">Dispositivo protegido</string>
+    <string name="kis_issues_antivirus_databases_up_to_date">Las bases de datos antivirus están actualizadas.</string>
+    <string name="kis_issues_antivirus_databases_obsolete_shortinfo">Actualizar bases de datos ></string>
+    <string name="kis_issues_antivirus_databases_obsolete_title">Ejecutar la actualización</string>
+    <string name="kis_issues_antivirus_new_objects_to_scan_info_one">%1$d nueva aplicación para analizar</string>
+    <string name="kis_issues_antivirus_new_objects_to_scan_info_few">%1$d nuevas aplicaciones para analizar</string>
+    <string name="kis_issues_antivirus_new_objects_to_scan_info_many">%1$d nuevas aplicaciones para analizar</string>
+    <string name="kis_issues_antivirus_new_objects_to_scan_info_too_many">Hay muchas nuevas aplicaciones para analizar</string>
+    <string name="kis_issues_antivirus_scanning">Análisis en curso… %1$d%%</string>
+    <string name="kis_issues_antivirus_scanning_time_spent">Tiempo de análisis: %1$s</string>
+    <string name="kis_issues_antivirus_scanning_scanned_items">Objetos analizados: %1$d</string>
+    <string name="kis_issues_antivirus_scanning_virus_found">Amenazas detectadas: %1$d</string>
+    <string name="kis_issues_antivirus_scanning_path">Analizando ahora: %1$s</string>
+    <string name="kis_issues_antivirus_last_scan_date_one">Último análisis realizado ayer</string>
+    <string name="kis_issues_antivirus_last_scan_date_few">El último análisis se realizó hace %1$d días</string>
+    <string name="kis_issues_antivirus_last_scan_date_many">El último análisis se realizó hace %1$d días</string>
+    <string name="kis_issues_antivirus_last_scan_date_too_many">El último análisis se realizó hace mucho tiempo</string>
+    <string name="kis_issues_antivirus_last_scan_files_count">Objetos analizados: %1$d</string>
+    <string name="kis_issues_antivirus_last_scan_threats_count">Amenazas detectadas: %1$d</string>
+    <string name="kis_issues_antivirus_no_last_scan_date">El análisis todavía no se ha ejecutado.</string>
+    <string name="kis_issues_antivirus_no_last_scan_date_short_info">Analizar su dispositivo ></string>
+    <string name="kis_issues_antivirus_new_objects_to_scan">Ejecutar el análisis de las nuevas aplicaciones</string>
+    <string name="kis_issues_appupdater_update_required_short_info">Actualizar la aplicación ></string>
+    <string name="kis_issues_appupdater_update_required_title">Existe una nueva versión de la aplicación. Actualizar ahora</string>
+    <string name="kis_issues_gps_inactive_short_info">Habilitar GPS ></string>
+    <string name="kis_issues_gps_inactive_title">Habilitar GPS en la configuración el dispositivo</string>
+    <string name="kis_issues_ataccount_notvalidated_short_info">Activar su cuenta ></string>
+    <string name="kis_issues_ataccount_notvalidated_title">Comprobar su correo electrónico y activar la Cuenta de Kaspersky</string>
+    <string name="kis_issues_ataccount_expired_short_info">Crear la Cuenta de Kaspersky ></string>
+    <string name="kis_issues_ataccount_expired_title">Su cuenta no se ha activado en los últimos 15 días y se eliminará ahora. Cree una nueva Cuenta de Kaspersky.</string>
+    <string name="kis_issues_at_invalid_registration_data_short_info">Conectar a Web Management ></string>
+    <string name="kis_issues_at_invalid_registration_data_title">Vuelva a conectarse con Web Management para lanzar las funciones de Antirrobo de manera remota y para recuperar el código secreto.</string>
+    <string name="kis_issues_deviceadmin_inactive_short_info">Activar las características de Antirrobo y Autodefensa ></string>
+    <string name="kis_issues_deviceadmin_inactive_title">Para poder iniciar el componente Antirrobo en el dispositivo de manera remota, establézcala como administrador de dispositivos</string>
+    <string name="kis_issues_webfilter_inactive_short_info">Habilitar Protección web ></string>
+    <string name="kis_issues_webfilter_inactive_title">Para protegerse de las amenazas en línea, habilite Protección web</string>
+    <string name="kis_issues_ucp_disconnected_short_info">El dispositivo está desconectado de Web Management ></string>
+    <string name="kis_issues_ucp_disconnected_title">Las funciones de Antirrobo están deshabilitadas, el código secreto no puede recuperarse: el dispositivo está desconectado de My Kaspersky</string>
+    <string name="kis_issues_ucp_disconnected_description">Para iniciar las funciones de Antirrobo en forma remota y recuperar el código secreto, conéctese a My Kaspersky.</string>
+    <string name="kis_issues_antivirus_disabled_title">Habilite la protección para analizar su dispositivo en tiempo real</string>
+    <string name="kis_issues_premium_features_adv">En la versión premium las nuevas aplicaciones se analizan automáticamente.</string>
+    <string name="kis_enter_code_erase_button">Borrar</string>
+    <string name="kis_share_app_text">Estoy usando Kaspersky Internet Security para Android. Me gusta.</string>
+    <string name="kis_share_app_title">Kaspersky Internet Security para Android realmente funciona</string>
+    <string name="kis_share_app_chooser_title" />
+    <string name="kis_antispam_call_and_text_filter">Filtro de llamadas y SMS</string>
+    <string name="kis_privacyprotection">Protección de privacidad</string>
+    <string name="kis_privacyprotection_hidden_contacts">Contactos ocultos</string>
+    <string name="kis_close">Cerrar</string>
+    <string name="kis_premium_button_title">&lt;b>Cambie a Premium&lt;/b>&lt;br/>&lt;font color=\"#ade7de\">Analice nuevas aplicaciones automáticamente, proteja su navegador y más&lt;/font></string>
+    <string name="kis_settings_setup_privacy_protection_description">Protección de privacidad le permite ocultar temporalmente sus contactos confidenciales, el historial de llamadas y los mensajes SMS utilizando la configuración de la aplicación o enviando un comando SMS especial desde cualquier dispositivo.</string>
+    <string name="kis_settings_setup_privacy_protection_title">Protección de privacidad</string>
+    <string name="kis_settings_setup_at_description">Antirrobo puede activar la alarma del dispositivo, bloquearlo y localizarlo, eliminar la información que contiene o tomar una foto de la persona que lo está usando de forma remota mediante Web Management o comandos SMS.</string>
+    <string name="kis_settings_setup_at_title">Antirrobo</string>
+    <string name="kis_settings_panel_launch_button_text">Continuar con la configuración</string>
+    <string name="kis_dialogs_account_not_validated_title">Activar su Cuenta de Kaspersky</string>
+    <string name="kis_dialogs_account_not_validated_body">Su Cuenta de Kaspersky no está activada. Para finalizar la configuración inicial de Antirrobo, compruebe su buzón y actívela.</string>
+    <string name="kis_dialogs_account_not_validated_ok_button">Cerrar</string>
+    <string name="kis_dialogs_safe_browser_not_available_title">Navegador seguro no está disponible</string>
+    <string name="kis_dialogs_safe_browser_not_available_body">No hay un navegador compatible instalado en el dispositivo. Protección web está deshabilitada.</string>
+    <string name="kis_dialogs_safe_browser_not_available_ok_button">Cerrar</string>
+    <string name="kis_wizard_final_step_with_activation_codes">Elija el código de activación para utilizar la versión premium</string>
+    <string name="kis_wizard_final_step_with_activation_codes_use_limited_version">Utilice la versión gratuita</string>
+    <string name="str_trial_activation_notification_title">Versión de prueba activada</string>
+    <string name="str_license_blocked_notification_title">Código de activación bloqueado</string>
+    <string name="progress_trial_activation_title">Activación de una versión de prueba</string>
+    <string name="progress_trial_activation_text">Espere. Activando una versión de prueba...</string>
+    <string name="str_main_menu_av_scan_dial_title">Analizar área</string>
+    <string name="str_main_menu_av_scan_dial_cancel">Cancelar</string>
+    <string name="str_main_menu_pp_title">Protección de privacidad</string>
+    <string name="str_main_menu_pp_data_shown">Se muestran los datos para contactos</string>
+    <string name="str_main_menu_pp_data_hidden">Se ocultan los datos de ciertos contactos</string>
+    <string name="str_main_menu_pp_data_nothing_to_hide">No hay datos para ocultar. Agregue contactos sobre los que desee ocultar información.</string>
+    <string name="str_main_menu_pp_contacts_list">Contactos para ocultar</string>
+    <string name="str_main_menu_pp_options">Configuración</string>
+    <string name="antispam_updating_contacts">Espere mientras se actualizan los contactos...</string>
+    <string name="antispam_kms_group_name">Grupo de contactos bloqueados por Filtro de llamadas y SMS</string>
+    <string name="str_main_menu_mode">Modo de filtro</string>
+    <string name="str_main_menu_as_black_list">Contactos bloqueados</string>
+    <string name="str_main_menu_as_black_list_description">Los contactos de esta lista siempre están bloqueados.</string>
+    <string name="str_main_menu_as_white_list">Contactos permitidos</string>
+    <string name="str_main_menu_as_white_list_description">Los contactos de esta lista siempre están permitidos.</string>
+    <string name="str_webfilter_blockpage_header">Este sitio web ha sido bloqueado</string>
+    <string name="str_webfilter_counterfeit_blockpage_header">Este sitio web ha sido bloqueado</string>
+    <string name="str_webfilter_counterfeit_blockpage_text" />
+    <string name="str_main_menu_ap_sms_switching">Antiphishing de texto</string>
+    <string name="str_scan_results_title_folder">Análisis de carpeta:</string>
+    <string name="str_scan_results_title_full">Análisis completo:</string>
+    <string name="str_scan_results_sub_title">completado</string>
+    <string name="str_scan_results_sub_title_cancelled">detenido</string>
+    <string name="str_scan_results_scanned_obj">Objetos analizados:</string>
+    <string name="str_scan_results_viruses_found">Amenazas detectadas:</string>
+    <string name="str_scan_results_viruses_deleted">Neutralizadas:</string>
+    <string name="str_scan_results_viruses_cured">Desinfectadas:</string>
+    <string name="str_scan_results_viruses_quarantined">Cuarentena:</string>
+    <string name="str_scan_results_scan_time">Tiempo de análisis:</string>
+    <string name="str_scan_results_close">Aceptar</string>
+    <string name="str_av_select_folder_title">Selección de carpeta</string>
+    <string name="str_av_select_folder_internal_memory">Memoria interna</string>
+    <string name="str_av_select_folder_internal_extended_memory">Tarjeta de memoria interna</string>
+    <string name="str_av_select_folder_external_memory">Tarjeta externa</string>
+    <string name="str_av_additional_permanent_protection_title">Modo de Protección</string>
+    <string name="str_av_additional_permanent_protection_subtitle">Protección en tiempo real contra virus y otros programas maliciosos habilitada</string>
+    <string name="str_av_permanent_protection_setting_header">La opción de cambiar configuraciones está deshabilitada</string>
+    <string name="str_av_permanent_protection_setting_subheader">En el modo recomendado, la configuración de Protección se establece de forma automática y no puede cambiarse. Para modificarla, seleccione el modo de protección extendido.</string>
+    <string name="str_av_permanent_protection_pobjects_title">Tipo de archivos para analizar</string>
+    <string name="str_av_permanent_protection_pobjects_subtitle">%s</string>
+    <string name="str_av_permanent_protection_virus_title">Acción al detectar una amenaza</string>
+    <string name="str_av_permanent_protection_virus_subtitle">%s</string>
+    <string name="str_av_monitor_checked_object_type_title">Tipo de archivos para analizar</string>
+    <string name="str_av_monitor_checked_object_type_cancel">Cancelar</string>
+    <string name="str_av_monitor_action_type_title">Acción al detectar una amenaza</string>
+    <string name="str_av_monitor_action_type_cancel">Cancelar</string>
+    <string name="str_av_monitor_notif_bar_msg">Detectada %1$s en el archivo %2$s</string>
+    <string name="str_av_monitor_loading">Espere mientras se habilita la protección...</string>
+    <string name="str_av_monitor_unloading">Espere mientras se deshabilita la protección...</string>
+    <string name="str_av_scan_params_autoscan_title">Análisis programado</string>
+    <string name="str_av_scan_params_scantime_title">Programación</string>
+    <string name="str_av_scan_params_scantime_subtitle">%s</string>
+    <string name="str_av_scan_params_scantime_day_title">Día de inicio</string>
+    <string name="str_av_scan_params_scantime_day_subtitle">%s</string>
+    <string name="str_av_scan_params_scantime_time_title">Hora de inicio</string>
+    <string name="str_av_scan_params_scantime_time_subtitle">%s</string>
+    <string name="str_av_scan_mode_dialog_title">Programación</string>
+    <string name="str_av_scan_mode_dialog_cancel">Cancelar</string>
+    <string name="str_av_scan_day_dialog_title">Día de inicio</string>
+    <string name="str_av_scan_day_dialog_cancel">Cancelar</string>
+    <string name="str_av_scan_object_types_objects_title">Tipo de archivos para analizar</string>
+    <string name="str_av_scan_object_types_objects_subtitle">%s</string>
+    <string name="str_av_scan_cure_params_cure_title">Desinfectar</string>
+    <string name="str_av_scan_cure_params_cure_subtitle">Intentar desinfectar los archivos infectados</string>
+    <string name="str_av_scan_cure_params_cure_notpossible_title">Si falla la desinfección</string>
+    <string name="str_av_scan_cure_params_cure_notpossible_subtitle">Acción si falla la desinfección: %s</string>
+    <string name="str_av_scan_notify_good">Se ha completado el análisis de la aplicación %s. No se detectó ninguna amenaza.</string>
+    <string name="str_av_scan_notify_bad">Amenazas detectadas: %1$s. Aplicación: %2$s.</string>
+    <string name="str_av_virus_detected_title">¡Amenaza detectada!</string>
+    <string name="str_av_virus_detected_info1">Amenaza detectada:</string>
+    <string name="str_av_virus_detected_info_file">Archivo:</string>
+    <string name="str_av_virus_detected_info_application">Aplicación:</string>
+    <string name="str_pp_toggle_mode_tohidden">"Espere.
+Se está ocultando la información de contacto..."</string>
+    <string name="str_pp_toggle_mode_tonormal">"Espere.
+Se está mostrando la información confidencial..."</string>
+    <string name="str_pp_settings_title">Configuración de Protección de privacidad</string>
+    <string name="str_pp_settings_item1_title">Ocultamiento automático</string>
+    <string name="str_pp_settings_item1_subtitle">La información se oculta %d minuto(s) después de que el dispositivo pasa al modo de ahorro de energía</string>
+    <string name="str_pp_settings_item1_subtitle_off">Deshabilitado</string>
+    <string name="str_pp_settings_item2_title">Ocultar por comando SMS</string>
+    <string name="str_pp_settings_item2_subtitle">"Los datos se pueden ocultar de manera remota con el comando SMS 'hide: [código]'"</string>
+    <string name="str_pp_settings_item4_title">Información para ocultar</string>
+    <string name="str_pp_settings_item4_subtitle_nothing">Sin información para ocultar seleccionada</string>
+    <string name="str_pp_whathide_title">Información para ocultar</string>
+    <string name="str_pp_whathide_save">Guardar</string>
+    <string name="str_pp_whathide_cancel">Cancelar</string>
+    <string name="str_pp_autohide_title">Ocultamiento automático</string>
+    <string name="str_pp_autohide_cancel">Cancelar</string>
+    <string name="str_pp_hidden_contacts_title">Lista de contactos para ocultar</string>
+    <string name="str_pp_hidden_contacts_item">Contactos para ocultar</string>
+    <string name="str_pp_hidden_contacts_add">Agregar</string>
+    <string name="str_pp_hidden_contacts_no_contacts">"Agregue los contactos de los que desea ocultar información.
+
+Luego podrá ocultar información sobre ellos con un botón en la ventana principal de la aplicación."</string>
+    <string name="str_pp_item_type_title">Tipo de entrada</string>
+    <string name="str_pp_item_type_cancel">Cancelar</string>
+    <string name="str_pp_enter_phone_title">Número de teléfono</string>
+    <string name="str_pp_enter_phone_save">Guardar</string>
+    <string name="str_pp_enter_phone_cancel">Cancelar</string>
+    <string name="str_updater_settings_auto_update_title">Programación</string>
+    <string name="str_updater_settings_auto_update_subtitle">%s</string>
+    <string name="str_updater_settings_update_day_title">Día de inicio</string>
+    <string name="str_updater_settings_update_time_title">Hora de inicio</string>
+    <string name="str_updater_settings_auto_update_cancel">Cancelar</string>
+    <string name="str_updater_progress_downloading_title">Actualización: en curso</string>
+    <string name="str_updater_progress_server_title">Servidor de actualización:</string>
+    <string name="str_updater_progress_cancel_btn">Cancelar</string>
+    <string name="str_updater_progress_close_btn">Cerrar</string>
+    <string name="str_updater_progress_complete_title">Actualización: completada</string>
+    <string name="str_updater_progress_success">Las bases de datos antivirus se actualizaron correctamente.</string>
+    <string name="str_bases_date">Fecha de base:</string>
+    <string name="str_bases_size">Tamaño de base:</string>
+    <string name="str_updater_progress_err_date_incorrect">Controle la fecha y hora actuales del dispositivo e inicie la actualización una vez más.</string>
+    <string name="str_updater_progress_err_no_new_bases">Las bases de datos antivirus y la versión de la aplicación están actualizadas.</string>
+    <string name="str_updater_progress_err_failed">Falló la actualización de las bases de datos antivirus.</string>
+    <string name="str_no_bases">Faltan las bases de datos antivirus.</string>
+    <string name="str_license_settings_title">Licencia</string>
+    <string name="str_license_settings_trial_subtitle"><u>Pruebe la versión premium de manera gratuita </u></string>
+    <string name="str_license_settings_full_version_features"><u>Obtener más información acerca de las características premium</u></string>
+    <string name="str_license_settings_contact_provider_subtitle"><u>Contactar proveedor</u></string>
+    <string name="str_license_settings_more_about"><u>Detalles de la licencia</u></string>
+    <string name="str_license_settings_buy_license">Comprar una licencia</string>
+    <string name="str_license_settings_already_have_code">Tengo un código de activación</string>
+    <string name="str_license_settings_blocked_title">Código de activación bloqueado</string>
+    <string name="str_license_settings_blocked_license_info"><u>Detalles de la licencia</u></string>
+    <string name="str_license_settings_blocked_subtitle">Está usando la versión gratuita.</string>
+    <string name="str_license_settings_blocked_dont_show">No mostrar de nuevo</string>
+    <string name="str_license_settings_activate_full">Activar versión premium</string>
+    <string name="str_license_settings_refresh_license">Actualizar la información</string>
+    <string name="str_license_settings_refresh_license_link"><u>Actualizar la información de la licencia</u></string>
+    <string name="str_license_settings_support">Contactar al Soporte técnico</string>
+    <string name="str_license_settings_renew">Renovar</string>
+    <string name="str_license_settings_warning_expired_info">La información de la licencia está desactualizada. Para actualizar la información de la licencia, verifique la conexión a Internet.</string>
+    <string name="str_license_settings_warning_connection">Verifique la conexión a Internet</string>
+    <string name="str_license_info_control_free">Versión gratuita</string>
+    <string name="str_license_info_control_commercial">Versión Premium</string>
+    <string name="str_license_info_control_trial">Versión de prueba</string>
+    <string name="str_license_info_control_subscription">Suscripción</string>
+    <string name="str_license_info_control_subscription_limited">Con suscripción limitada</string>
+    <string name="str_license_info_control_beta">Versión Beta</string>
+    <string name="str_license_info_control_expiration_date">Vence el:</string>
+    <string name="str_license_info_control_days_remaining">Días restantes</string>
+    <string name="str_license_active">activada</string>
+    <string name="str_license_blocked">bloqueada</string>
+    <string name="str_license_ucp_restore">Uso</string>
+    <string name="str_license_ucp_found_license_one_title">Usted tiene una licencia en My Kaspersky</string>
+    <string name="str_license_ucp_found_license_several_title">Seleccione una licencia en My Kaspersky para activar la versión Premium</string>
+    <string name="str_license_ucp_found_license_name">Kaspersky Internet Security para Android</string>
+    <string name="str_license_ucp_found_license_expiration_date">Fecha de vencimiento: %s</string>
+    <string name="str_license_ucp_found_license_days_left">Días restantes: %d</string>
+    <string name="str_license_ucp_found_license_info">La aplicación se activará sin cargos adicionales.</string>
+    <string name="str_license_ucp_found_dont_use"><u>Más formas de activación</u></string>
+    <string name="str_license_setting_activation_enter_code_title">Escriba el código de activación</string>
+    <string name="str_license_setting_activation_enter_code_title_old_code">Ingrese el antiguo código de activación para obtener un descuento</string>
+    <string name="str_license_setting_activation_enter_code_subtitle">Usted recibe el código de activación cuando compra una licencia.</string>
+    <string name="str_license_setting_activation_enter_code_subtitle_old_code">Usted recibió el código de activación cuando compró una licencia previa.</string>
+    <string name="str_license_setting_activation_enter_code_hint">Ingrese el código aquí</string>
+    <string name="str_license_setting_activation_enter_code_hint_old_code">Ingrese el código antiguo aquí</string>
+    <string name="str_license_setting_activation_enter_code_example">Ejemplo: XXXXX-XXXXX-XXXXX-XXXXX</string>
+    <string name="str_license_setting_activation_enter_code_continue">Continuar</string>
+    <string name="str_license_setting_activation_enter_code_continue_old_code">Renovar</string>
+    <string name="str_license_title">Acerca de la licencia</string>
+    <string name="str_license_close_button">Cerrar</string>
+    <string name="str_license_serial_number">Clave:</string>
+    <string name="str_license_start_date">Inicia:</string>
+    <string name="str_license_type">Licencia:</string>
+    <string name="str_license_expire_date">Fecha de vencimiento:</string>
+    <string name="str_license_days_left">Días restantes:</string>
+    <string name="str_license_many_days_left_info">La licencia vencerá en %d días.</string>
+    <string name="str_license_few_days_left_info">La licencia vence en %d días.</string>
+    <string name="str_license_1_day_left_info">La licencia vencerá en 1 día.</string>
+    <string name="str_license_device_id">Id. de dispositivo:</string>
+    <string name="str_license_type_commercial">Actual</string>
+    <string name="str_license_type_trial">Prueba</string>
+    <string name="str_license_type_testing">Prueba</string>
+    <string name="str_license_type_unknown">Desconocido</string>
+    <string name="str_license_activation_done_close">Aceptar</string>
+    <string name="str_license_codes_list_commercial">Versión Premium</string>
+    <string name="str_license_codes_list_trial">Versión de prueba</string>
+    <string name="str_license_codes_list_subscription_limited">Con suscripción limitada</string>
+    <string name="str_license_codes_list_beta">Versión Beta</string>
+    <string name="str_license_codes_list_unknown">Desconocido</string>
+    <string name="str_activation_cancel_button">Cancelar</string>
+    <string name="str_activation_progress">Espere. Conectando al servidor...</string>
+    <string name="str_activation_failed">No se puede activar la aplicación.</string>
+    <string name="str_activation_incorrect_code">Código de activación incorrecto. Revise los caracteres ingresados.</string>
+    <string name="str_activation_code_too_long">Se ingresó el número máximo de caracteres permitido.</string>
+    <string name="str_activation_internet_connection_title">Se necesita conexión a Internet</string>
+    <string name="str_activation_internet_connection">"Para activar la aplicación, se necesita conexión a Internet.
+
+Seleccione \"Configuración\" para ir a la configuración de la conexión a Internet."</string>
+    <string name="str_dbupdate_internet_connection">"Para actualizar las bases de datos, se necesita una conexión a Internet.
+
+Seleccione \"Configuración\" para ir a la configuración de la conexión a Internet."</string>
+    <string name="str_setup_connection">Configuración</string>
+    <string name="str_license_days_to_expire">Días restantes: %d</string>
+    <string name="str_sms_block_default_text">¡Este dispositivo está bloqueado! Devuélvalo al propietario.</string>
+    <string name="str_sms_block_lock_screen_enter_code">Escribir código secreto</string>
+    <string name="str_sms_block_lock_screen_text">Dispositivo bloqueado.</string>
+    <string name="str_sms_block_sms_text">Kaspersky Internet Security: dispositivo bloqueado.</string>
+    <string name="str_sms_block_is_disabled_sms_text">Kaspersky Internet Security: no se puede bloquear el dispositivo. La función de bloqueo está deshabilitada en el dispositivo.</string>
+    <string name="str_sms_alarm_sms_text">Kaspersky Internet Security: Alarma habilitada.</string>
+    <string name="str_sms_alarm_is_disabled_sms_text">Kaspersky Internet Security: no se puede encender la alarma. La función Alarma está deshabilitada en el dispositivo.</string>
+    <string name="str_info_activity_button_ok">Continuar</string>
+    <string name="str_sim_watch_settings_title">SIM Watch</string>
+    <string name="str_sim_watch_phone_number_title">Número de teléfono</string>
+    <string name="str_sim_watch_email_title">Correo electrónico</string>
+    <string name="str_sim_watch_block_enable_title">Bloquear ante reemplazo de SIM</string>
+    <string name="str_save_button">Guardar</string>
+    <string name="str_block_text_title">Texto de bloqueo</string>
+    <string name="str_phone_number_title">Número de teléfono</string>
+    <string name="str_email_title">Correo electrónico</string>
+    <string name="str_sms_find_user_sms">Kaspersky Internet Security: coordenadas GPS actuales del dispositivo: latitud - %1$.6f, longitud - %2$.6f</string>
+    <string name="str_sms_find_no_coords">Kaspersky Internet Security: dispositivo sin localizar.</string>
+    <string name="str_sms_find_is_disabled_sms_text">Kaspersky Internet Security: no se puede localizar el dispositivo. La función de localización está deshabilitada.</string>
+    <string name="str_sms_find_settings_disabled">Para habilitar Localizar, habilite el módulo GPS o conéctese a Internet.</string>
+    <string name="str_sms_find_settings_disabled_hdr">No se puede habilitar Localizar</string>
+    <string name="str_pp_delete_all_items_title">¿Está seguro de que desea eliminar todos los registros de la lista de contactos para ocultar?</string>
+    <string name="str_pp_delete_all_button_yes">Sí</string>
+    <string name="str_pp_delete_all_button_no">No</string>
+    <string name="str_pp_items_popup_title">Acción con registro</string>
+    <string name="str_pp_edit_phone_title">Cambiar entrada</string>
+    <string name="str_pp_conflict_warning_title">¡Advertencia!</string>
+    <string name="str_pp_conflict_message">No se puede agregar este contacto. El mismo contacto está en una lista de contactos bloqueados de la característica Filtro de llamadas y SMS.</string>
+    <string name="str_activation_imei_exceeded">El código de activación escrito ya fue usado.</string>
+    <string name="str_activation_wrong_time">Configure la fecha y hora correctas y vuelva a intentar la activación.</string>
+    <string name="str_activation_wrong_appid">No se puede activar la aplicación. El código de activación ingresado no funciona con Kaspersky Internet Security.</string>
+    <string name="str_activation_failed_code_blocked">El código de activación ingresado está bloqueado.</string>
+    <string name="str_enter_code">Escribir código secreto:</string>
+    <string name="str_current_code">Escriba el código secreto actual:</string>
+    <string name="str_enter_code_bad_code">Código secreto incorrecto.</string>
+    <string name="str_enter_code_bad_recovery_code">Código de recuperación no válido.</string>
+    <string name="str_enter_code_set_code">Crear un código secreto</string>
+    <string name="str_enter_code_repeat_code">Volver a escribir el código</string>
+    <string name="str_enter_code_repeat_code_incorrect">Los códigos escritos son diferentes. Defina el código de nuevo.</string>
+    <string name="str_enter_code_repeat_code_ok">Se guardó el código secreto.</string>
+    <string name="str_enter_code_failed_save">No se puede guardar el código secreto.</string>
+    <string name="str_enter_code_toast">Escribir el código secreto de Kaspersky Internet Security:</string>
+    <string name="str_enter_code_short_code_toast">El código es demasiado corto. Un código secreto debe tener entre 4 y 16 dígitos.</string>
+    <string name="str_enter_code_long_code_toast">El código es demasiado largo. Un código secreto debe tener entre 4 y 16 dígitos.</string>
+    <string name="str_enter_code_digit_0">0</string>
+    <string name="str_enter_code_digit_1">1</string>
+    <string name="str_enter_code_digit_2">2</string>
+    <string name="str_enter_code_digit_3">3</string>
+    <string name="str_enter_code_digit_4">4</string>
+    <string name="str_enter_code_digit_5">5</string>
+    <string name="str_enter_code_digit_6">6</string>
+    <string name="str_enter_code_digit_7">7</string>
+    <string name="str_enter_code_digit_8">8</string>
+    <string name="str_enter_code_digit_9">9</string>
+    <string name="str_enter_code_menu">Menú</string>
+    <string name="str_enter_code_enter">Intro</string>
+    <string name="str_enter_code_next">Sgte.</string>
+    <string name="str_enter_code_weak_code_dialog_title">El código secreto es débil.</string>
+    <string name="str_enter_code_weak_code_dialog_text">"Se recomienda utilizar al menos 7 dígitos en el código para que sea seguro.
+
+¿Desea guardar el código actual?"</string>
+    <string name="str_enter_code_weak_code_dialog_ok">Sí</string>
+    <string name="str_enter_code_weak_code_dialog_cancel">No</string>
+    <string name="str_sms_reset_is_disabled_text">Kaspersky Internet Security: no se pueden eliminar los datos. La función Eliminación de datos está deshabilitada en el dispositivo.</string>
+    <string name="str_sim_watch_sms_text">Kaspersky Internet Security: tarjeta SIM reemplazada.</string>
+    <string name="str_pp_locked">Para cambiar la configuración de la protección de la privacidad, deshabilite el ocultamiento de datos.</string>
+    <string name="str_pp_unlocked">Ahora se muestra información de los contactos seleccionados. Para ocultarla, use el botón de la ventana principal de la aplicación.</string>
+    <string name="str_kms_menu_help">Ayuda</string>
+    <string name="str_kms_menu_passw_recover">Recuperar código secreto</string>
+    <string name="str_passw_recovery_action_header">Recuperar código secreto</string>
+    <string name="str_passw_recovery_enter_menu">Recuperar código secreto</string>
+    <string name="str_invalid_email">Dirección de correo electrónico no válida. La dirección contiene caracteres no permitidos. Escriba una dirección de correo electrónico válida.</string>
+    <string name="str_additional_notifications_enabled_title">Notificaciones</string>
+    <string name="str_additional_notifications_enabled_subtitle">Notificaciones pop-up sobre el funcionamiento de la aplicación en la barra de estado</string>
+    <string name="str_additional_sound_enabled_title">Sonido</string>
+    <string name="str_additional_sound_enabled_subtitle">Alerta con sonido sobre eventos de la aplicación</string>
+    <string name="str_additional_widget_title">Widget</string>
+    <string name="str_additional_widget_subtitle">Visualización del widget de la pantalla principal</string>
+    <string name="str_additional_change_secret_code_title">Cambiar código secreto</string>
+    <string name="str_additional_information_caption">Información general</string>
+    <string name="str_about_title">Acerca de</string>
+    <string name="str_app_version">Versión: %s</string>
+    <string name="str_app_copyright">© 2014 Kaspersky Lab ZAO. Reservados todos los derechos</string>
+    <string name="str_antispam_mode_title">Modo Filtro de llamadas y SMS:</string>
+    <string name="str_antispam_mode_subtitle">%s</string>
+    <string name="str_antispam_allow_contacts_title">Permitir contactos</string>
+    <string name="str_antispam_allow_contacts_subtitle">Permitir llamadas y mensajes SMS entrantes de todos los contactos incluidos en el directorio del dispositivo.</string>
+    <string name="str_antispam_block_non_numeric_title">Bloquear núms. no numéricos</string>
+    <string name="str_antispam_block_non_numeric_subtitle">Bloquear llamadas y SMS entrantes provenientes de todos los números con letras.</string>
+    <string name="str_antispam_settings_title">Filtro de llamadas y SMS</string>
+    <string name="str_antispam_mode_dialog_title">Modo Filtro de llamadas y SMS:</string>
+    <string name="str_antispam_mode_dialog_cancel">Cancelar</string>
+    <string name="str_antispam_white_list_title">Contactos permitidos</string>
+    <string name="str_antispam_black_list_title">Contactos bloqueados</string>
+    <string name="str_antispam_white_list_add_button">Agregar</string>
+    <string name="str_antispam_black_list_add_button">Agregar</string>
+    <string name="str_antispam_handle_sms_title">SMS entrantes</string>
+    <string name="str_antispam_handle_voice_title">Llamada entrante</string>
+    <string name="str_antispam_sms_sender">De: &lt;i>%s&lt;/i></string>
+    <string name="str_antispam_sms_content">Texto de SMS: &lt;i>%s&lt;/i></string>
+    <string name="str_antispam_voice_sender">De: &lt;i>%s&lt;/i></string>
+    <string name="str_antispam_action_sms_prompt">Seleccione una acción para el número:</string>
+    <string name="str_antispam_phone_any">-cualquier número-</string>
+    <string name="str_antispam_sms_any">texto: cualquiera</string>
+    <string name="str_antispam_sms_text">texto: %s</string>
+    <string name="str_antispam_cancel">Cancelar</string>
+    <string name="str_antispam_save">Guardar</string>
+    <string name="str_antispam_select_black_list_item_type_title">Bloquear entrante</string>
+    <string name="str_antispam_select_white_list_item_type_title">Permitir entrante</string>
+    <string name="str_antispam_list_item_title">Configuración</string>
+    <string name="str_antispam_black_list_item_phone_number">Número de teléfono bloqueado</string>
+    <string name="str_antispam_black_list_item_text">Texto bloqueado</string>
+    <string name="str_antispam_white_list_item_phone_number">Número de teléfono permitido</string>
+    <string name="str_antispam_white_list_item_text">Texto permitido</string>
+    <string name="str_antispam_delete_item_title">¿Realmente desea eliminar esta entrada de la lista?</string>
+    <string name="str_antispam_delete_all_items_title">¿Está seguro de que desea eliminar todas las entradas de la lista?</string>
+    <string name="str_antispam_delete_all_button_yes">Sí</string>
+    <string name="str_antispam_delete_all_button_no">No</string>
+    <string name="str_antispam_text_hint">escribir el texto</string>
+    <string name="str_antispam_settings_lists_caption">Listas de contactos</string>
+    <string name="str_antispam_black_list_no_items">Agregue contactos de los que no desee recibir llamadas o SMS. Para bloquear las llamadas o SMS de estos contactos, seleccione los modos \"Contactos bloqueados\" o \"Estándar\".</string>
+    <string name="str_antispam_white_list_no_items">Agregue contactos de los que desee recibir llamadas o SMS. Para recibir llamadas o SMS de estos contactos, seleccione los modos \"Contactos permitidos\" o \"Estándar\".</string>
+    <string name="str_main_screen_license_expired_text">Para continuar protegido, renueve la licencia.</string>
+    <string name="str_main_screen_license_renew_button_title">Renovar</string>
+    <string name="str_antispam_list_item_already_exists">Ya existe una entrada con estos criterios.</string>
+    <string name="str_antispam_list_item_already_exists_title">Entrada existente</string>
+    <string name="str_antispam_list_item_change_button">Cambiar</string>
+    <string name="str_antispam_list_item_cancel_button">Cancelar</string>
+    <string name="str_sim_watch_block_enable_subtitle" />
+    <string name="str_activation_region">ES</string>
+    <string name="str_kms_region">ES</string>
+    <string name="str_av_info1">Última actualización:</string>
+    <string name="str_as_hint">Bloqueo de llamadas y mensajes SMS entrantes no deseados mediante la creación de listas de contactos permitidos y bloqueados.</string>
+    <string name="str_change_code_enter_recovery_code">Escribir código de recuperación:</string>
+    <string name="str_change_code_enter_new_code">Crear un código secreto nuevo:</string>
+    <string name="str_change_code_repeat_new_code">Volver a escribir el código nuevo:</string>
+    <string name="str_additional_select_command_title">Comando SMS</string>
+    <string name="str_additional_select_command_cancel">Cancelar</string>
+    <string name="str_additional_select_command_save">Guardar</string>
+    <string name="str_send_command_alarm_title">Alarma</string>
+    <string name="str_send_command_wipe_title">Eliminación de datos</string>
+    <string name="str_send_command_find_title">Bloquear y Localizar</string>
+    <string name="str_send_command_hide_title">Protección de privacidad</string>
+    <string name="str_send_command_reset_title">Restablecimiento completo</string>
+    <string name="str_send_command_enter_target_phone_prompt">Número de teléfono que recibe el comando SMS:</string>
+    <string name="str_send_command_enter_code_prompt">Código secreto de la aplicación en el dispositivo que recibe el comando SMS:</string>
+    <string name="str_send_command_error_title">No se puede enviar el comando</string>
+    <string name="str_send_command_error_empty_phone">Escriba el número de teléfono al que se enviará el comando SMS.</string>
+    <string name="str_send_command_error_empty_code">Escriba el código secreto de la aplicación en el dispositivo al que se enviará el comando SMS.</string>
+    <string name="str_send_command_error_ok">Aceptar</string>
+    <string name="str_send_command_send_button_caption">Enviar</string>
+    <string name="str_send_command_cancel_button_caption">Cancelar</string>
+    <string name="str_eula_title">Contrato de licencia de usuario final</string>
+    <string name="str_notify_kms_started">Espere mientras se inicia Kaspersky Internet Security...</string>
+    <string name="str_notify_scanning_progress">Analizando: %d%%</string>
+    <string name="str_notify_monitor_full">El dispositivo está protegido.</string>
+    <string name="str_notify_monitor_recommended">El dispositivo está protegido.</string>
+    <string name="str_notify_bases_expired">Inicie la actualización.</string>
+    <string name="str_notify_monitor_disabled">El dispositivo no está protegido.</string>
+    <string name="str_license_expired_header_text">La licencia venció</string>
+    <string name="str_data_hidden_message">Kaspersky Internet Security: la información privada está oculta.</string>
+    <string name="str_data_hidden_message_unsuccess">Kaspersky Internet Security: no se puede ocultar la información privada.</string>
+    <string name="str_license_expired_info_caption">Acerca de la licencia</string>
+    <string name="str_license_expired_info_text_header">La licencia venció.</string>
+    <string name="str_license_expired_info_text_body">Kaspersky Internet Security se ejecuta en el modo de funcionalidad limitada. El componente no está disponible.</string>
+    <string name="str_license_expired_info_button_caption">Cerrar</string>
+    <string name="str_data_wipe_is_disabled_text">Kaspersky Internet Security: no se pueden eliminar datos personales. La función Eliminación de datos está deshabilitada en el dispositivo.</string>
+    <string name="str_data_wiped_sms_reply">Kaspersky Internet Security: se eliminaron datos personales del dispositivo.</string>
+    <string name="str_reports_event_title_call_blocked">Llamada entrante bloqueada.</string>
+    <string name="str_reports_event_details_call_blocked">Llamada entrante de %s bloqueada.</string>
+    <string name="str_reports_event_title_message_blocked">SMS entrante bloqueado</string>
+    <string name="str_reports_event_details_message_blocked">SMS entrante de %s bloqueado</string>
+    <string name="str_widget_settings_enable_prompt_title">Widget</string>
+    <string name="str_widget_settings_enable_prompt">Se recomienda que reinicie el dispositivo para implementar los cambios.</string>
+    <string name="str_widget_settings_enable_prompt_ok">Aceptar</string>
+    <string name="str_as_reports_menu_deleteall">Borrar</string>
+    <string name="str_scheduled_scan_started">Un análisis programado de todo el sistema de archivos está en progreso...</string>
+    <string name="str_scheduled_update_started">Una actualización de bases de datos antivirus programada está en curso...</string>
+    <string name="str_empty_sim_watch_title">Establezca la configuración necesaria de SIM Watch</string>
+    <string name="str_empty_sim_watch_info">Para habilitar SIM Watch, especifique un número de teléfono o un correo electrónico para recibir el número nuevo o habilite las opciones de bloqueo del dispositivo.</string>
+    <string name="str_empty_sim_watch_no">Cancelar</string>
+    <string name="str_empty_sim_watch_yes">Configurar</string>
+    <string name="str_notication_license_expired_with_html">"La protección está deshabilitada.
+&lt;b>&lt;font color=#ff8080> Su licencia ha vencido.&lt;/font>&lt;/b>"</string>
+    <string name="str_av_scanned_objects_types_dialog_title">Tipo de archivos para analizar</string>
+    <string name="str_av_scanned_objects_types_dialog_cancel">Cancelar</string>
+    <string name="str_av_virus_found_action_dialog_title">Acción si falla la desinfección</string>
+    <string name="str_av_virus_found_action_dialog_cancel">Cancelar</string>
+    <string name="str_scan_results_title_installedapp">Análisis de aplicaciones instaladas</string>
+    <string name="str_antispam_item_deny_sms_dialog_caption">Bloquear SMS entrantes</string>
+    <string name="str_antispam_item_deny_calls_dialog_caption">Bloquear llamadas entrantes</string>
+    <string name="str_antispam_item_deny_calls_sms_dialog_caption">Bloquear llamadas y SMS entrantes</string>
+    <string name="str_antispam_item_allow_sms_dialog_caption">Permitir SMS entrantes</string>
+    <string name="str_antispam_item_allow_calls_dialog_caption">Permitir llamadas entrantes</string>
+    <string name="str_antispam_item_allow_calls_sms_dialog_caption">Permitir llamadas y SMS entrantes</string>
+    <string name="str_app_loading">Iniciando Kaspersky Internet Security...</string>
+    <string name="str_activation_failed_expired_key">Ya se activó una versión de prueba en este dispositivo. No se la puede volver a activar.</string>
+    <string name="str_activation_failed_limit_reached">No se pudo activar la aplicación. Se alcanzó el límite de activaciones para el código introducido.</string>
+    <string name="str_activation_failed_expired_subscription">Código de activación inválido. La suscripción expiró. Comuníquese con su proveedor.</string>
+    <string name="str_unnamed_contact">Desconocido</string>
+    <string name="str_pp_missed_calls_text">Llamadas perdidas: %d</string>
+    <string name="str_pp_missed_messages_text">SMS perdidos: %d</string>
+    <string name="str_notification_missed_calls_press_prompt">Ver llamadas perdidas</string>
+    <string name="str_notification_missed_messages_press_prompt">Ver SMS perdidos</string>
+    <string name="str_updater_failed_no_connection">No se puede establecer la conexión con el servidor. Compruebe la conexión a Internet y reinicie la actualización.</string>
+    <string name="str_change_code_title_when_launched_from_additional">Cambiar código secreto</string>
+    <string name="str_external_memory_istallation_dialog_text">No es posible ejecutar Kaspersky Internet Security si está instalada en la tarjeta de memoria. Reinstale la aplicación en la memoria del dispositivo.</string>
+    <string name="str_external_memory_istallation_dialog_ok">Aceptar</string>
+    <string name="str_select_protection_mode_dialog_title">Modo de Protección</string>
+    <string name="str_select_protection_mode_dialog_btn_cancel">Cerrar</string>
+    <string name="str_new_version_available_title">Hay una nueva versión de Kaspersky Internet Security disponible. ¿Desea actualizar?</string>
+    <string name="str_new_version_available_info">"Versión actual: %1$s
+Nueva versión: %2$s
+
+Advertencia. Inicie la aplicación después de la actualización de la versión (por ejemplo, toque el icono en el área de notificación)."</string>
+    <string name="str_new_version_available_cancel">Cancelar</string>
+    <string name="str_new_version_available_ok">Actualizar</string>
+    <string name="str_new_version_available_load_update_title">Descargando la nueva versión de Kaspersky Internet Security</string>
+    <string name="str_new_version_available_load_update_info">Bytes cargados: %s</string>
+    <string name="str_new_version_available_load_update_cancel">Cancelando la descarga de la nueva versión de Kaspersky Internet Security...</string>
+    <string name="str_new_version_available_failed">No se puede actualizar la versión de la aplicación. Compruebe que haya espacio libre en la tarjeta de almacenamiento e intente actualizar Kaspersky Internet Security una vez más.</string>
+    <string name="str_enter_secret_code_menu">Escribir código secreto</string>
+    <string name="str_new_version_available_cancel_update_dialog_title">¿Desea cancelar la actualización de versión?</string>
+    <string name="str_new_version_available_cancel_update_dialog_info">"La aplicación dejará de notificarle sobre nuevas versiones disponibles %s .
+Puede actualizar en otro momento iniciando el proceso de forma manual."</string>
+    <string name="str_new_version_available_cancel_update_dialog_yes">Cancelar</string>
+    <string name="str_new_version_available_cancel_update_dialog_no">Actualizar más tarde</string>
+    <string name="str_calllog_activity_title">Importación de contactos del historial de llamadas</string>
+    <string name="str_calllog_header_black_list">Seleccione una llamada del contacto que desee agregar a la lista de contactos bloqueados.</string>
+    <string name="str_calllog_header_white_list">Seleccione una llamada del contacto que desee agregar a la lista de contactos permitidos</string>
+    <string name="str_import_from_sms_activity_title">Importación de contactos de mensajes SMS</string>
+    <string name="str_import_sms_header_black_list">Seleccione un mensaje SMS del contacto que desee agregar a la lista de contactos bloqueados</string>
+    <string name="str_import_sms_header_white_list">Seleccione un mensaje SMS del contacto que desee agregar a la lista de contactos permitidos</string>
+    <string name="str_manage_space_activity_title">No se puede realizar esta acción</string>
+    <string name="str_manage_space_activity_info">Para eliminar la aplicación %1$s, vaya a la ventana principal del programa y seleccione Configuración avanzada > Desinstalar la aplicación > %2$s.</string>
+    <string name="str_manage_space_activity_close_btn">Aceptar</string>
+    <string name="str_uninstall_continue">Sgte.</string>
+    <string name="str_uninstall_cancel">Cancelar</string>
+    <string name="str_disable_deviceadmin_text">La aplicación ya no estará activa como administrador de dispositivos. Se deshabilitará la autodefensa.</string>
+    <string name="str_disable_deviceadmin_continue">Sgte.</string>
+    <string name="str_disable_deviceadmin_cancel">Cancelar</string>
+    <string name="str_device_admin_enable_info">La aplicación necesita estos permisos para habilitar la autodefensa y para bloquear automáticamente el dispositivo robado o extraviado, borrar los datos privados y tomar una foto de la persona que está utilizando el dispositivo en ese momento.</string>
+    <string name="str_block_device_when_disable_device_admin">"La aplicación ya no estará establecida como administrador de dispositivos.
+
+Advertencia. La autoprotección está deshabilitada. No podrá iniciar la característica de Antirrobo en el dispositivo de manera remota.
+
+Para desbloquearlo, escriba el código secreto en la aplicación."</string>
+    <string name="str_intro_screen_select_country_caption">Elija su país:</string>
+    <string name="str_intro_screen_select_country_dialog_title">Elija su país:</string>
+    <string name="str_intro_screen_continue_btn">Sgte.</string>
+    <string name="str_device_admin_setup_title">Configuración de su protección de datos privados</string>
+    <string name="str_device_admin_setup_subtitle">Para poder enviar un comando remoto al dispositivo, proteger sus datos y habilitar la autodefensa de la aplicación, debe establecer la aplicación como administrador de dispositivos en la siguiente ventana.</string>
+    <string name="str_device_admin_setup_continue_btn">Sgte.</string>
+    <string name="str_incompatiple_apps_warning_dialog_title">¿Desea omitir este paso?</string>
+    <string name="str_incompatiple_apps_warning_dialog_yes">Omitir</string>
+    <string name="str_incompatiple_apps_warning_dialog_no">Volver</string>
+    <string name="str_device_admin_enter_recovery_code_btn">Escribir código de recuperación</string>
+    <string name="str_recovery_code_correct_code_title">Código de recuperación</string>
+    <string name="str_recovery_code_correct_code_info">Escribir el código de recuperación para desbloquear el dispositivo:</string>
+    <string name="str_recovery_code_incorrect">Código de recuperación incorrecto. Escriba el código de recuperación correcto que se muestra para el dispositivo en el sitio web.</string>
+    <string name="str_recovery_code_check_btn">Restaurar</string>
+    <string name="str_device_admin_enter_code_btn">Desbloquear</string>
+    <string name="str_device_admin_unlocked_dialog_title">Dispositivo desbloqueado</string>
+    <string name="str_device_admin_unlocked_dialog_info">El bloqueo del sistema del dispositivo (por ejemplo, con un PIN o mecanismo de bloqueo por patrón) también está deshabilitado. Si el bloqueo del sistema antes estaba habilitado, vuelva a activarlo en la configuración del dispositivo.</string>
+    <string name="str_device_admin_unlocked_dialog_ok_btn">Aceptar</string>
+    <string name="settings_detail_ap_info_defaultbrowser_not_found">no se encuentra</string>
+    <string name="settings_detail_ap_info_currentbrowser_not_set">sin establecer</string>
+    <string name="str_reports_event_av_virus_found">"Amenaza detectada.
+Archivo infectado: %1$s
+Amenaza: %2$s"</string>
+    <string name="str_reports_event_av_scan_files_finished">"Análisis de archivos finalizado.
+Ruta: %1$s
+Objetos analizados: %2$s
+Amenazas detectadas: %3$d
+Puestas en cuarentena: %5$d
+Neutralizadas: %6$d"</string>
+    <string name="str_reports_event_av_object_cured">"Archivo desinfectado.
+Archivo desinfectado: %s."</string>
+    <string name="str_reports_event_av_object_skipped">"Archivo analizado y omitido.
+Archivo omitido: %s."</string>
+    <string name="str_reports_event_av_object_deleted">"Archivo eliminado.
+Archivo eliminado: %s."</string>
+    <string name="str_reports_event_av_object_cant_deleted">"No se puede eliminar el archivo infectado.
+Archivo: %s."</string>
+    <string name="str_reports_event_av_object_quarantined">"Archivo puesto en cuarentena.
+Archivo en cuarentena: %s."</string>
+    <string name="str_reports_event_av_monitor_mode_full">El modo de protección avanzada está habilitado.</string>
+    <string name="str_reports_event_av_monitor_mode_recommended">El modo de protección recomendado está configurado.</string>
+    <string name="str_reports_event_av_monitor_mode_off">La protección está deshabilitada.</string>
+    <string name="str_reports_event_av_quarantine_failed">"No se puede poner en cuarentena el archivo infectado.
+Archivo infectado: %s."</string>
+    <string name="str_reports_event_update_finish_success">Las bases de datos antivirus se actualizaron correctamente.</string>
+    <string name="str_reports_event_update_finish_failed">No se pudieron actualizar las bases de datos antivirus. Error: %2$d</string>
+    <string name="str_reports_event_update_no_new_bases">Las bases de datos antivirus están desactualizadas. No es necesario actualizar.</string>
+    <string name="settings_detail_ap_reset_default_dialog_title">Selección del navegador predeterminado</string>
+    <string name="settings_detail_ap_reset_default_dialog_text">"Para que Protección web analice los sitios web que visite, establezca el navegador estándar de Android como predeterminado.
+
+Navegador predeterminado actual: &lt;b>%s&lt;/b>.
+
+Toque \"Sgte.\" > \"Configuración predeterminada\". Luego toque el botón \"Atrás\" para regresar a la pantalla anterior."</string>
+    <string name="settings_detail_ap_reset_default_dialog_btn_continue">Sgte.</string>
+    <string name="settings_detail_ap_select_default_dialog_title">Selección del navegador predeterminado</string>
+    <string name="settings_detail_ap_select_default_dialog_text">"Toque \"Sgte.\".
+
+En la siguiente ventana, active la casilla \"Utilizar de manera predeterminada para esta acción\" y seleccione el navegador estándar de Android, &lt;b>%s&lt;/b>.
+
+Luego toque el botón \"Atrás\" para regresar a la ventana anterior."</string>
+    <string name="settings_detail_ap_select_default_dialog_btn_continue">Sgte.</string>
+    <string name="str_rate_now_button">Hacerlo ahora</string>
+    <string name="str_rate_later_button">Calificar después</string>
+    <string name="str_rate_close_button">Cerrar</string>
+    <string name="str_rate_dont_show">No mostrar de nuevo</string>
+    <string name="str_rate_instructions">Si desea Kaspersky Internet Security, califíquelo en Google Play.</string>
+    <string name="str_reports_event_ap_site_blocked">El sitio web %1$s está bloqueado. Motivo: %2$s</string>
+    <string name="str_reports_event_ap_sms_blocked">El mensaje de texto %1$s con el enlace %2$s está bloqueado. Motivo: %3$s</string>
+    <string name="str_reports_header_title">Informes:</string>
+    <string name="str_select_reports_dialog_title">Mostrar:</string>
+    <string name="str_select_reports_dialog_btn_cancel">Cancelar</string>
+    <string name="str_delete_all_records_btn">Eliminar todos los informes</string>
+    <string name="str_delete_reports_dialog_title">Eliminar todos los informes</string>
+    <string name="str_select_reports_dialog_btn_yes">Sí</string>
+    <string name="str_delete_reports_dialog_message">¿Realmente desea eliminar todos los informes?</string>
+    <string name="str_additional_reports_title">Informes</string>
+    <string name="str_av_additional_cloud_check_title">Cloud Security Scan</string>
+    <string name="str_av_additional_cloud_check_subtitle_on">Análisis adicional de programas nuevos mediante el servicio de nube de Kaspersky Security Network &lt;b>habilitado&lt;/b></string>
+    <string name="str_av_additional_cloud_check_subtitle_off">Análisis adicional de aplicaciones nuevas mediante el servicio de nube de Kaspersky Security Network &lt;b>&lt;font color=#ff8080>deshabilitado&lt;/font>&lt;/b></string>
+    <string name="str_av_additional_protection_params_title">Protección</string>
+    <string name="str_start_premium_version_btn_caption">Continuar</string>
+    <string name="str_activate_full_btn_caption">Tengo un código de activación</string>
+    <string name="str_send_command_allowed_commands">Comandos permitidos</string>
+    <string name="str_send_command_info_receive">Recibir comandos</string>
+    <string name="str_send_command_info_send_btn">Enviar comando SMS ahora</string>
+    <string name="str_send_remote_commands_caption">Enviar comandos remotos</string>
+    <string name="str_send_remote_commands_title">Enviar comandos SMS</string>
+    <string name="str_send_remote_commands_subtitle">Enviar comandos SMS para administrar otro dispositivo</string>
+    <string name="str_web_portal_info_title">Web Management</string>
+    <string name="str_web_portal_info_subtitle">Recibir comandos a través de Web Management</string>
+    <string name="str_sim_watch_settings_info_title">SIM Watch</string>
+    <string name="str_sim_watch_settings_info_subtitle">Recibir comandos de SMS cuando la tarjeta SIM se cambia</string>
+    <string name="str_additional_remove_app_title">Desinstalar la aplicación</string>
+    <string name="str_antivirus_checkbox_apply_to_all_text">Aplicar a todo</string>
+    <string name="str_antispam_private_number">Contacto para ocultar</string>
+    <string name="str_reports_as_private_number">\"Contacto privado\"</string>
+    <string name="str_wizard_device_admin_workaround_title">Establecer un código PIN temporal para el dispositivo</string>
+    <string name="str_wizard_device_admin_workaround_info">"Para que la aplicación bloquee el dispositivo en caso de robo o pérdida, debe establecer un código PIN temporal para el dispositivo. Para ello, establezca el código temporal en la siguiente ventana y haga clic en \"ATRÁS\".
+
+Más adelante, podrá restablecer este código."</string>
+    <string name="str_wizard_device_admin_workaround_info2">"Gracias. Ahora puede bloquear el dispositivo de manera remota en caso de robo o pérdida.
+
+Puede reiniciar este código PIN haciendo clic en \"Restablecer y continuar\". Si elige no restablecerlo, debe recordarlo. Se le solicitará que los escriba cada ver que prenda el dispositivo."</string>
+    <string name="str_wizard_device_admin_workaround_continue_toast">Para regresar a la configuración de la aplicación, toque el botón \"Atrás\" para volver a la pantalla anterior.</string>
+    <string name="str_wizard_device_admin_workaround_continue_btn">Sgte.</string>
+    <string name="str_wizard_device_admin_workaround_reset_btn">Restablecer y continuar</string>
+    <string name="str_wizard_web_sign_or_create_title">Administración remota de Antirrobo</string>
+    <string name="str_wizard_web_sign_or_create_info">Puede controlar la función Antirrobo en su dispositivo de manera remota mediante Web Management. Para ello, necesita una cuenta de Kaspersky.</string>
+    <string name="str_wizard_web_sign_or_create_sign_btn">Tengo una cuenta de Kaspersky</string>
+    <string name="str_wizard_web_sign_or_create_create_btn">Crear una cuenta de Kaspersky</string>
+    <string name="str_av_additional_check_riskware_title">Adware, marc. aut., otros</string>
+    <string name="str_av_additional_check_riskware_subtitle">Detección de adware y aplicaciones que los ciberdelincuentes pueden usar para dañar el dispositivo o los datos del usuario</string>
+    <string name="str_av_additional_trust_system_apps_title">Confiar en las aplicaciones del sistema</string>
+    <string name="str_av_additional_trust_system_apps_subtitle">Excluir las aplicaciones del sistema del escaneo</string>
+    <string name="str_about_show_3rd_code_button">Código de terceros</string>
+    <string name="str_external_code_title">Código de terceros</string>
+    <string name="str_external_code_button">Cerrar</string>
+    <string name="str_wizard_anti_theft_main_title_sign">Iniciar sesión con mi cuenta de Kaspersky para administrar Antirrobo</string>
+    <string name="str_wizard_anti_theft_main_title_create">Crear una cuenta de Kaspersky para administrar el Antirrobo</string>
+    <string name="str_wizard_anti_theft_check_email_title">Correo electrónico</string>
+    <string name="str_wizard_anti_theft_password_title">Contraseña</string>
+    <string name="str_wizard_anti_theft_password_empty">Utilice una contraseña de al menos ocho caracteres de largo, que combine letras mayúsculas y minúsculas y números (ejemplo: Qwerty123).</string>
+    <string name="str_wizard_anti_theft_password_short">Contraseña: corta. Utilice una contraseña de al menos ocho caracteres de largo, que combine letras mayúsculas y minúsculas y números (ejemplo: Qwerty123).</string>
+    <string name="str_wizard_anti_theft_password_weak">Contraseña: débil. Utilice una contraseña de al menos ocho caracteres de largo, que combine letras mayúsculas y minúsculas y números (ejemplo: Qwerty123).</string>
+    <string name="str_wizard_anti_theft_password_repeat_title">Escriba la contraseña nuevamente:</string>
+    <string name="str_wizard_anti_theft_device_name_info">El nombre del dispositivo:</string>
+    <string name="str_wizard_anti_theft_captcha_title">Escriba los caracteres de la imagen:</string>
+    <string name="str_wizard_anti_theft_invalid_captcha">Los caracteres ingresados no coinciden con los de la imagen. Inténtelo de nuevo.</string>
+    <string name="str_wizard_anti_theft_register_progress">Espere. Enviando información...</string>
+    <string name="str_wizard_anti_theft_new_user">Crear</string>
+    <string name="str_wizard_anti_theft_back">Atrás</string>
+    <string name="str_wizard_anti_theft_forgot_pwd">&lt;u>¿Olvidó su contraseña?&lt;/u></string>
+    <string name="str_wizard_anti_theft_new_device">Iniciar sesión</string>
+    <string name="str_wizard_anti_theft_check_email">Sgte.</string>
+    <string name="str_wizard_anti_theft_network_error">Servicio no disponible.</string>
+    <string name="str_wizard_anti_theft_wrong_protocol_exception">No se pudieron actualizar las bases de datos antivirus de la aplicación. El protocolo de conexión de la red cambió. Controle la configuración de la conexión a Internet.</string>
+    <string name="str_wizard_anti_theft_invalid_email">No se escribió una dirección de correo electrónico o es incorrecta. Inténtelo nuevamente.</string>
+    <string name="str_wizard_anti_theft_server_protocol_error">Error de servidor. Inténtelo nuevamente más tarde.</string>
+    <string name="str_wizard_anti_theft_wrong_app_data">Borre la configuración o resintale la aplicación.</string>
+    <string name="str_wizard_anti_theft_password_error_incorrect">Error al escribir la contraseña. Escriba la contraseña de nuevo. Si olvidó la contraseña, puede restaurarla.</string>
+    <string name="str_wizard_anti_theft_server_under_maintenance">Web Management no está disponible en este momento. Inténtelo nuevamente más tarde.</string>
+    <string name="str_wizard_anti_theft_server_general_error_title">No se puede continuar</string>
+    <string name="str_wizard_anti_theft_server_general_error_ok_btn">Aceptar</string>
+    <string name="str_wizard_anti_theft_server_email_exists_error">Ya existe una cuenta de Kaspersky para esta dirección de correo electrónico. Puede &lt;u>iniciar sesión&lt;/u> usando esta dirección de correo electrónico.</string>
+    <string name="str_wizard_anti_theft_server_email_notexists_error">No existe una cuenta de Kaspersky para esta dirección de correo electrónico. Puede &lt;u>registrarse&lt;/u> usando esta dirección de correo electrónico.</string>
+    <string name="str_wizard_anti_theft_no_internet_title">Se necesita una conexión a Internet activa</string>
+    <string name="str_wizard_anti_theft_no_internet_subtitle">Se necesita una conexión a Internet activa para establecer la aplicación completamente. Compruebe la configuración de su conexión a Internet e intente nuevamente.</string>
+    <string name="str_wizard_anti_theft_no_internet_tryagain_btn">Intentar nuevamente</string>
+    <string name="str_wizard_anti_theft_no_internet_setup_btn">Configuración</string>
+    <string name="str_wizard_cancel_dialog_title">¿Detener la instalación de la aplicación?</string>
+    <string name="str_wizard_cancel_dialog_info">"La instalación de la aplicación aún está en curso.
+
+¿Realmente desea detener el proceso de instalación?"</string>
+    <string name="str_wizard_cancel_dialog_btn_ok">Sí</string>
+    <string name="str_wizard_cancel_dialog_btn_cancel">No</string>
+    <string name="str_wizard_secret_code_info">"Debe crear el código secreto para acceder a la configuración de Antirrobo y Protección de privacidad. Este código debe tener entre 4 y 16 dígitos.
+
+Escriba el código secreto y guárdelo en un lugar seguro."</string>
+    <string name="str_wizard_activate_with_code_subtitle">El código de activación se necesita para usar las características premium de %s. &lt;u>Obtener más información acerca de las características premium&lt;/u>.</string>
+    <string name="str_wizard_activate_with_code_free_btn">Usar la versión gratuita</string>
+    <string name="str_big_res_wizard_activation_by_code_title">Escribir código de activación</string>
+    <string name="str_big_res_wizard_activation_by_code_subtitle">Escriba el código de activación que recibió cuando compró la aplicación.</string>
+    <string name="str_big_res_wizard_activation_online_title">Comprar una licencia</string>
+    <string name="str_big_res_wizard_activation_online_subtitle">Compre una licencia nueva mediante la tienda en línea.</string>
+    <string name="str_big_res_wizard_activation_trial_title">Activar versión de prueba</string>
+    <string name="str_big_res_wizard_activation_trial_subtitle">Active una versión de prueba de la aplicación.</string>
+    <string name="str_big_res_wizard_welcome_title">¡Bienvenido a Kaspersky Internet Security!</string>
+    <string name="str_big_res_wizard_device_admin_title">Activar las características de Antirrobo y Autodefensa</string>
+    <string name="str_big_res_wizard_device_admin_continue_btn">Sgte.</string>
+    <string name="str_big_res_wizard_device_admin_description">La aplicación se debe establecer como el único administrador de dispositivos para que pueda iniciar Antirrobo de manera remota si le roban el dispositivo o lo pierde y evitar la eliminación no autorizada de la aplicación. Para hacer esto, toque \"Sgte.\" y, en la ventana que se abre, desactive las casillas junto a los nombres de todas las aplicaciones, excepto Kaspersky Internet Security.</string>
+    <string name="str_big_res_wizard_device_admin_text_info">La aplicación debe establecerse como administrador de dispositivos para iniciar Antirrobo de manera remota, por si hay robo o extravío del dispositivo y para impedir que la aplicación se pueda borrar sin autorización. Para hacerlo, establezca la aplicación como administrador de dispositivos en la siguiente ventana.</string>
+    <string name="str_big_res_wizard_incompatiple_apps_title">Aplicaciones incompatibles con Kaspersky Internet Security detectadas</string>
+    <string name="str_big_res_wizard_incompatiple_apps_info">Para trabajar correctamente, la aplicación se debe establecer como el único administrador de dispositivos. Para ello, se deben revocar los permisos de administrador de dispositivos de las otras aplicaciones haciendo clic en \"Deshabilitar\". Las siguientes aplicaciones están establecidas como administradores de dispositivos:</string>
+    <string name="str_big_res_wizard_incompatiple_apps_turn_off_btn">Deshabilitar</string>
+    <string name="str_big_res_wizard_incompatiple_apps_skip_btn">Omitir y continuar</string>
+    <string name="str_main_menu_update_status">Bases de datos antivirus</string>
+    <string name="str_main_menu_update_status_good">actualizadas</string>
+    <string name="str_license_expiring_soon_one">La licencia vence en %s día</string>
+    <string name="str_license_expiring_soon_two_four">La licencia vence en %s días</string>
+    <string name="str_license_expiring_soon_five_and_more">La licencia vence en %s días</string>
+    <string name="str_main_menu_license_expired">La licencia venció. Para continuar usando la aplicación, renueve la licencia.</string>
+    <string name="str_main_menu_av_start_update">Actualizar</string>
+    <string name="settings_detail_av_info_title">Antivirus</string>
+    <string name="settings_detail_av_info_caption">Configuración</string>
+    <string name="settings_detail_av_info_second_text">"Antivirus ofrece las siguientes funciones: Protección, Analizar, Actualizar y Cuarentena. Puede configurar cada función independientemente.
+
+Para tener una protección de datos óptima, Kaspersky Lab recomienda seleccionar los modos de protección extendido o recomendado y habilitar Cloud Security Scan. Recuerde también actualizar las bases de datos antivirus regularmente para disfrutar de protección en tiempo real contra amenazas y mantener la protección del dispositivo actualizada."</string>
+    <string name="settings_detail_avquarantine_title">Cuarentena</string>
+    <string name="settings_detail_avquarantine_subtitle">Durante el análisis del dispositivo o cuando la protección está activa, la aplicación mueve los archivos infectados detectados a la Cuarentena (un depósito aislado especial). Los archivos en cuarentena no pueden dañar el dispositivo.</string>
+    <string name="settings_detail_web_portal_title">Web Management</string>
+    <string name="settings_detail_web_portal_subtitle">Por medio de &lt;u>Web Management&lt;/u>, puede habilitar de manera remota una alarma en el dispositivo, bloquearlo y localizarlo, eliminar sus datos u obtener una fotografía de la persona que lo está usando en ese momento.</string>
+    <string name="settings_detail_web_portal_open_button_text">Abrir</string>
+    <string name="settings_detail_web_portal_synchronization_title">Sincronización</string>
+    <string name="settings_detail_web_portal_synchronization_time_title">Tiempo esperado para sincronizarse con Web Management para recibir los comandos:</string>
+    <string name="settings_detail_web_portal_trial_version_warning">Usa la versión de prueba de la aplicación. El periodo de espera para la sincronización se extendió.</string>
+    <string name="settings_detail_web_portal_no_internet_connection_warning">Se necesita una conexión a Internet para la sincronización.</string>
+    <string name="settings_detail_web_portal_unknown_synchronization_time">desconocido</string>
+    <string name="settings_detail_web_portal_previous_synchronization_time">Última sincronización:</string>
+    <string name="settings_detail_web_portal_minutes">min.</string>
+    <string name="settings_detail_web_portal_account_info_title">El dispositivo está vinculado a la cuenta de Kaspersky</string>
+    <string name="settings_detail_web_portal_account_verification_warning">"Estimado usuario:
+Revise su correo electrónico %s y confirme el registro de su Kaspersky Account.
+
+Si no recibió una confirmación, es posible que el mensaje se haya marcado como correo no deseado."</string>
+    <string name="settings_detail_at_info_title">Antirrobo</string>
+    <string name="settings_detail_at_info_info">Habilite las funciones de Antirrobo en el dispositivo para iniciarlas a través de Web Management o comandos SMS.</string>
+    <string name="settings_detail_ap_info_title">Protección web</string>
+    <string name="settings_detail_ap_info_info">Protección web analiza los sitios web antes de que se los abra y bloquea los que se consideran malintencionados o copias fraudulentas de sitios de compañías conocidas, como los de bancos, sistemas de pagos en línea o subastas por Internet.</string>
+    <string name="settings_detail_ap_info_subinfo">Protección web únicamente comprueba los sitios web en el navegador estándar de Android y no es compatible con otros navegadores.</string>
+    <string name="settings_detail_ap_info_defaultbrowser">Navegador necesario para trabajar con Protección web: %1$s</string>
+    <string name="settings_detail_ap_info_currentbrowser">Navegador predeterminado actual: %1$s</string>
+    <string name="settings_detail_ap_info_alert">Para que Protección web funcione correctamente, recomendamos establecer el navegador estándar de Android como el navegador predeterminado. Si no desea cambiar el navegador predeterminado, abra el navegador estándar de Android cada vez que deba navegar por la Web de manera segura.</string>
+    <string name="settings_detail_ap_info_alert_no_system_browser">No se encontró un navegador compatible en el dispositivo.</string>
+    <string name="settings_detail_ap_info_alert_off">Está deshabilitada la comprobación de los sitios web antes de que se los abra.</string>
+    <string name="settings_detail_ap_info_setdefault_button">Establecer navegador predeterminado</string>
+    <string name="settings_detail_ap_info_launch_button">Iniciar navegador</string>
+    <string name="settings_detail_ap_param_title">Configuración de Protección web</string>
+    <string name="settings_detail_ap_enable_title">Protección web</string>
+    <string name="settings_detail_ap_sms_enabled_subtitle">Comprobar enlaces en SMS entrantes está habilitado</string>
+    <string name="settings_detail_ap_sms_disabled_subtitle">&lt;font color=#ff8080>Está deshabilitada la comprobación de enlaces en mensajes de texto entrantes&lt;font></string>
+    <string name="str_av_additional_quarantine_vir_fmt">Detectada: %1$s</string>
+    <string name="str_av_additional_quarantine_empty">La carpeta Cuarentena está vacía</string>
+    <string name="str_av_additional_quarantine_menu_delete">Eliminar</string>
+    <string name="str_av_additional_quarantine_menu_delete_all">Eliminar todo</string>
+    <string name="str_av_additional_quarantine_menu_restore">Restaurar</string>
+    <string name="str_av_additional_quarantine_restore_failed">Error al recuperar de la cuarentena</string>
+    <string name="str_av_additional_quarantine_delete_failed">Error al borrar de la cuarentena</string>
+    <string name="str_av_additional_quarantine_deleteall_failed">Error al borrar la cuarentena</string>
+    <string name="str_av_additional_quarantine_delete_confirm_title">Cuarentena</string>
+    <string name="str_av_additional_quarantine_delete_confirm">¿Desea eliminar el archivo %1$s de la cuarentena? El archivo se eliminará permanentemente.</string>
+    <string name="str_av_additional_quarantine_delete_confirm_yes">Sí</string>
+    <string name="str_av_additional_quarantine_delete_confirm_no">No</string>
+    <string name="str_av_additional_quarantine_deleteall_confirm_title">Cuarentena</string>
+    <string name="str_av_additional_quarantine_deleteall_confirm">¿Desea eliminar todos los archivos de la cuarentena? Los archivos se eliminarán permanentemente.</string>
+    <string name="str_av_additional_quarantine_deleteall_confirm_yes">Sí</string>
+    <string name="str_av_additional_quarantine_deleteall_confirm_no">No</string>
+    <string name="str_av_additional_quarantine_loading">Espere. Cargando la cuarentena...</string>
+    <string name="str_additional_license_caption_title">Licencia</string>
+    <string name="str_additional_params_caption_title">Opciones adicionales</string>
+    <string name="str_additional_license_expire_caption">Fecha de vencimiento:</string>
+    <string name="str_additional_days_left_caption">Días restantes:</string>
+    <string name="settings_top_btn_main_window_text">Ventana principal</string>
+    <string name="settings_detail_avprotection_title">Protección</string>
+    <string name="settings_detail_avprotection_subtitle">Protección controla la actividad relacionada con los archivos en tiempo real y en segundo plano. También examina los programas recién instalados antes de que se los inicie por primera vez. Para ello, se utilizan las bases de datos antivirus y el servicio de nube de Kaspersky Security Network.</string>
+    <string name="str_av_update_params_last_update_text">Última actualización: %s</string>
+    <string name="str_av_update_params_additional_params_title">Actualización programada</string>
+    <string name="str_additional_header_title">Configuración adicional</string>
+    <string name="str_additional_header_description">Vea información sobre la licencia actual, configure las notificaciones, cambie el código secreto de la aplicación, vea información sobre la aplicación y desinstale la aplicación.</string>
+    <string name="str_at_device_admin_btn">Activar</string>
+    <string name="str_at_device_admin_off_alert">Para que Kaspersky Internet Security pueda bloquear el dispositivo y eliminar los datos que contiene de manera remota, active la aplicación como administrador de dispositivos.</string>
+    <string name="str_at_learn_sms_title">Enviar comandos SMS</string>
+    <string name="str_at_send_sms_info">Puede enviar comandos SMS desde un dispositivo con Kaspersky Internet Security instalado o desde cualquier otro dispositivo mediante la creación de un mensaje SMS estándar con texto especial: &lt;br>&lt;br> • alarm: [código]: para bloquear el dispositivo y activar una alarma estridente;&lt;br> • find: [código]: para bloquear y localizar el dispositivo;&lt;br> • wipe: [código]: para borrar los datos privados y los de la tarjeta de almacenamiento;&lt;br> • fullreset: [código]: para borrar todos los datos y restablecer la configuración de fábrica del dispositivo;&lt;br> • hide: [código]: para ocultar información de contactos privados.&lt;br>[Código] es el código secreto de Kaspersky Internet Security definido en el dispositivo al cual se envía el comando.&lt;br>&lt;br>&lt;b>Advertencia.&lt;/b> Los comandos SMS son facturados de acuerdo con el plan tarifario del dispositivo móvil que se usa para enviarlos.</string>
+    <string name="settings_detail_at_check_commands">Comprobar comandos</string>
+    <string name="settings_detail_at_check_commands_info">Probar los comandos</string>
+    <string name="settings_detail_av_low_res_scan">Analizar</string>
+    <string name="settings_detail_av_low_res_update">Actualizar</string>
+    <string name="settings_detail_av_low_res_quarantine">Cuarentena</string>
+    <string name="str_av_permanent_protection_subtitle">Protección:</string>
+    <string name="str_av_permanent_protection_subtitle_full">extendido. Controla las acciones relacionadas con archivos y comprueba los programas instalados</string>
+    <string name="str_av_permanent_protection_subtitle_recommended">recomendado. Comprueba solo las aplicaciones instaladas</string>
+    <string name="str_av_permanent_protection_subtitle_off">deshabilitado</string>
+    <string name="str_av_permanent_protection_recommendation">Para proteger los datos del dispositivo contra virus y otros tipos de software malicioso, se recomienda establecer el modo de Protección extendido o recomendado.</string>
+    <string name="str_av_cloud_scan_subtitle_on">Análisis adicional de programas nuevos mediante el servicio de nube de Kaspersky Security Network &lt;b>habilitado&lt;/b></string>
+    <string name="str_av_cloud_scan_subtitle_off">Análisis adicional de programas nuevos mediante el servicio de nube de Kaspersky &lt;b>&lt;font color=#ff8080>deshabilitado&lt;/font>&lt;/b></string>
+    <string name="settings_detail_avscan_subtitle">Análisis de todo el sistema de archivos del dispositivo, el contenido de la tarjeta de almacenamiento interna únicamente o una carpeta seleccionada.</string>
+    <string name="str_av_scan_params_scan_area_title">Analizar área</string>
+    <string name="str_av_scan_params_threat_action_title">Acción al detectar una amenaza</string>
+    <string name="str_localization_id">es</string>
+    <string name="str_activation_subscription_status_not_changed">Estado de suscripción sin cambiar</string>
+    <string name="str_activation_subscription_activated">Suscripción activada</string>
+    <string name="str_activation_subscription_hard_cancelled">Suscripción cancelada</string>
+    <string name="str_activation_subscription_soft_cancelled">Suscripción finalizada por el proveedor</string>
+    <string name="str_activation_subscription_paused">Suscripción suspendida</string>
+    <string name="str_activation_subscription_undefined">Estado de suscripción desconocido</string>
+    <string name="str_activation_ssl_error">No se pudo activar la aplicación. Comuníquese con Soporte Técnico y proporcione este error: servidor de activación incorrecto.</string>
+    <string name="str_subscription_cancelled_title">Suscripción cancelada</string>
+    <string name="str_subscription_paused_title">Suscripción suspendida</string>
+    <string name="str_subscription_active_title">Suscripción activa</string>
+    <string name="str_subscription_expired_title">Suscripción vencida</string>
+    <string name="str_subscription_code_blocked">Este código de activación fue bloqueado. Pruebe con otro código.</string>
+    <string name="str_subscription_ticket_expired">Actualice el estado de la suscripción en la configuración de la aplicación o comuníquese con el proveedor del servicio.</string>
+    <string name="str_subscription_hard_cancelled">Para reanudar la protección, visite el sitio web del proveedor, obtenga un código de activación nuevo y escríbalo en la configuración de la aplicación.</string>
+    <string name="str_subscription_soft_cancelled">Para reanudar la protección, asegúrese de que tiene fondos suficientes en la cuenta del proveedor y, posteriormente, actualice el estado de la suscripción en la configuración de la aplicación.</string>
+    <string name="str_subscription_paused">Para seguir usando la aplicación, reanude la suscripción en su cuenta personal en el sitio web del proveedor y actualice el estado de la suscripción en la configuración de la aplicación.</string>
+    <string name="str_subscription_hard_cancelled_but_active">La suscripción está activa. Se la cancelará en %d día/s por pedido suyo.</string>
+    <string name="str_subscription_soft_cancelled_but_active">La suscripción está activa. Vencerá en %d día/s. Si desea seguir usando la aplicación, la suscripción debe ser abonada.</string>
+    <string name="str_subscription_paused_but_active">La suscripción está activa. Se la suspenderá en %d día/s por pedido suyo.</string>
+    <string name="str_subscription_undefined">Estado de suscripción desconocido</string>
+    <string name="str_activation_subscription_dialog_ok_button">Aceptar</string>
+    <string name="str_additional_licinfo_latest_update_text">Última actualización:</string>
+    <string name="str_additional_licinfo_latest_synchronization_text">Última sincronización:</string>
+    <string name="str_additional_licinfo_type_unlimited_text">ilimitado</string>
+    <string name="str_license_info_item_subscription_cancelled_title">Suscripción cancelada</string>
+    <string name="str_license_info_item_subscription_paused_title">Suscripción suspendida</string>
+    <string name="str_license_info_item_subscription_active_title">Suscripción activa</string>
+    <string name="str_license_info_item_subscription_expired_title">Suscripción vencida</string>
+    <string name="str_license_info_item_subscription_code_blocked">Código de activación bloqueado</string>
+    <string name="str_license_info_item_subscription_ticket_expired">Actualice el estado de la suscripción en la configuración de la aplicación o comuníquese con el proveedor del servicio.</string>
+    <string name="str_license_info_item_subscription_hard_cancelled">Para reanudar la protección, visite el sitio web del proveedor, obtenga un código de activación nuevo y escríbalo en la configuración de la aplicación.</string>
+    <string name="str_license_info_item_subscription_soft_cancelled">Para reanudar la protección, asegúrese de que tiene fondos suficientes en la cuenta del proveedor y, posteriormente, actualice el estado de la suscripción en la configuración de la aplicación.</string>
+    <string name="str_license_info_item_subscription_paused">Para seguir usando la aplicación, reanude la suscripción en su cuenta personal en el sitio web del proveedor y actualice el estado de la suscripción en la configuración de la aplicación.</string>
+    <string name="str_license_info_item_subscription_hard_cancelled_but_active">La suscripción está activa. Se la cancelará en %d día/s por pedido suyo.</string>
+    <string name="str_license_info_item_subscription_soft_cancelled_but_active">La suscripción está activa. Vencerá en %d día/s. Si desea seguir usando la aplicación, la suscripción debe ser abonada.</string>
+    <string name="str_license_info_item_subscription_paused_but_active">La suscripción está activa. Se la suspenderá en %d día/s por pedido suyo.</string>
+    <string name="str_license_info_item_subscription_undefined">Estado de suscripción desconocido</string>
+    <string name="str_additional_license_subscription_state_caption">Estado de la sucripción:</string>
+    <string name="str_additional_license_never_updated">esperando</string>
+    <string name="str_additional_license_never_synchronized">esperando</string>
+    <string name="str_big_res_wizard_refresh_subscription_title">Actualizar estado de suscripción</string>
+    <string name="str_big_res_wizard_refresh_subscription_subtitle">Actualice el estado de la suscripción manualmente después de depositar los fondos en la cuenta del proveedor o cuando el estado de la suscripción esté desactualizado</string>
+    <string name="str_big_res_wizard_contact_provider_title">Comunicarse con el proveedor</string>
+    <string name="str_big_res_wizard_contact_provider_subtitle">Vaya al sitio web del proveedor para administrar la suscripción.</string>
+    <string name="str_contact_provider_error">No se puede abrir el sitio web del proveedor de l suscripción. Vuelva a intentarlo.</string>
+    <string name="str_notication_subscription_expired_with_html">&lt;b>&lt;font color=#ff8080>El estado de la suscripción está desactualizado. La protección está deshabilitada.&lt;/font>&lt;/b> Para reanudar la protección, actualice el estado en la configuración de la aplicación.</string>
+    <string name="str_notication_subscription_hard_cancelled_with_html">&lt;b>&lt;font color=#ff8080>La suscripción se canceló por pedido suyo. La protección está deshabilitada.&lt;/font>&lt;/b> Para reanudar la protección, compre una licencia o ingrese la subscripción de nuevo.</string>
+    <string name="str_notication_subscription_soft_cancelled_with_html">&lt;b>&lt;font color=#ff8080>El proveedor canceló la suscripción. La protección está deshabilitada.&lt;/font>&lt;/b> Para reanudar la protección, deposite fondos suficientes en la cuenta del proveedor.</string>
+    <string name="str_notication_subscription_paused_with_html">&lt;b>&lt;font color=#ff8080>La suscripción se suspendió por pedido suyo. La protección está deshabilitada.&lt;/font>&lt;/b> Para continuar usando la aplicación, renueve la suscripción en la cuenta personal del sitio web del proveedor y, posteriormente, actualice el estado de la protección en la configuración de la aplicación.</string>
+    <string name="str_notication_subscription_waiting_for_key_with_html">Esperando información del estado de la suscripción</string>
+    <string name="str_av_virus_detected_info1_riskware">Los delincuentes pueden usar esta aplicación contra sus intereses:</string>
+    <string name="str_av_virus_detected_info1_adware">Adware:</string>
+    <string name="str_av_riskware_detected_title">¡Advertencia!</string>
+    <string name="str_av_scan_notify_bad_adware">Adware: %1$s. App: %2$s.</string>
+    <string name="str_av_scan_notify_bad_riskware">Delincuentes pueden usar esta aplicación contra sus intereses: %1$s. Aplicación: %2$s.</string>
+    <string name="str_enter_code_current_code_info">El código secreto es este:</string>
+    <string name="str_enter_code_enter_current_code">Escriba el código secreto restaurado aquí:</string>
+    <string name="str_quiz_dialog_title">Ayúdenos a mejorar la aplicación</string>
+    <string name="str_quiz_dialog_text">Dedique unos minutos para responder una encuesta rápida y reciba el código de activación para Kaspersky Internet Security.</string>
+    <string name="str_quiz_dialog_btn_agree">Hacer la encuesta</string>
+    <string name="str_quiz_dialog_btn_dismiss">No</string>
+    <string name="str_activation_provide_current_code_checkbox">Tengo el código de activación anterior</string>
+    <string name="str_activation_cancel_renewal">Cancelar</string>
+    <string name="str_activation_proceed_renewal">Continuar</string>
+    <string name="str_activation_error_entering_current_code">Código de activación antiguo incorrecto. Revise los caracteres ingresados.</string>
+    <string name="str_license_date_unknown">desconocido</string>
+    <string name="str_event_title_root_detected">Dispositivo con privilegios de root</string>
+    <string name="str_event_title_antitheft_email_sent">Las coordenadas del dispositivo se envían por correo electrónico</string>
+    <string name="str_event_title_antitheft_sms_sent">Las coordenadas del dispositivo se envían por SMS</string>
+    <string name="str_event_title_block_off">Bloqueo deshabilitado</string>
+    <string name="str_event_title_block_on">Bloqueo habilitado</string>
+    <string name="str_event_title_data_wipe">Datos personales del usuario eliminados</string>
+    <string name="str_event_title_data_wipe_off">Eliminación de datos deshabilitada</string>
+    <string name="str_event_title_data_wipe_on">Eliminación de datos habilitada</string>
+    <string name="str_event_title_device_blocked">Dispositivo bloqueado</string>
+    <string name="str_event_title_device_unblocked">Dispositivo desbloqueado</string>
+    <string name="str_event_title_gps_find_off">Localización deshabilitada</string>
+    <string name="str_event_title_gps_find_on">Localización habilitada</string>
+    <string name="str_event_title_gps_find_result">Dispositivo localizado</string>
+    <string name="str_event_title_license_expired">La licencia venció</string>
+    <string name="str_event_title_license_expires_soon">Su licencia está a punto de expirar</string>
+    <string name="str_event_title_sim_card_replaced">Tarjeta SIM reemplazada</string>
+    <string name="str_event_title_sim_watch_off">SIM Watch deshabilitado</string>
+    <string name="str_event_title_sim_watch_on">SIM Watch habilitado</string>
+    <string name="str_event_title_virus_cured">Archivo infectado desinfectado</string>
+    <string name="str_event_title_object_deleted">Archivo infectado eliminado</string>
+    <string name="str_event_title_object_quarantined">Archivo infectado en cuarentena</string>
+    <string name="str_event_title_virus_found">Amenaza detectada</string>
+    <string name="str_event_title_skiped">Archivo infectado ignorado</string>
+    <string name="str_event_title_cannot_delete">No se puede eliminar el archivo infectado</string>
+    <string name="str_event_title_cannot_quarantine">No se puede poner el archivo infectado en cuarentena</string>
+    <string name="str_event_title_scan_files_result">Se ha completado el análisis del sistema de archivos del dispositivo</string>
+    <string name="str_event_title_update_result">Actualización completa</string>
+    <string name="str_event_title_update_error">Falló la actualización de las bases de datos antivirus</string>
+    <string name="str_event_title_required_app_missing">Falta instalar una aplicación requerida en el dispositivo.</string>
+    <string name="str_event_title_app_list">Lista de aplicaciones</string>
+    <string name="str_event_details_root_detected">El firmware no oficial puede provocar vulnerabilidades críticas de seguridad. Se aconseja la instalación del firmware oficial.</string>
+    <string name="str_event_details_skiped">Archivo %s ignorado.</string>
+    <string name="str_event_details_cannot_delete">No se puede eliminar archivo %1$s.</string>
+    <string name="str_event_details_antitheft_email_sent">Se envían las coordenadas del dispositivo a la dirección de correo electrónico %s.</string>
+    <string name="str_event_details_antitheft_sms_sent">Se envían las coordenadas del dispositivo mediante SMS al número %1$s con el texto: \"%2$s\".</string>
+    <string name="str_event_details_data_wipe">Datos personales del usuario borrados del dispositivo.</string>
+    <string name="str_event_details_gps_find_result">Locación del dispositivo: %s</string>
+    <string name="str_event_details_license_expired">La licencia venció. Para continuar usando la aplicación, renueve la licencia.</string>
+    <string name="str_event_details_license_expires_soon">Su licencia vencerá pronto. Días restantes: %d.</string>
+    <string name="str_event_details_sim_card_replaced">Tarjeta SIM reemplazada.</string>
+    <string name="str_ussd_call_blocked_title">¡Advertencia!</string>
+    <string name="str_call_blocker_call">Llamar</string>
+    <string name="str_call_blocker_ussd_threat">Solicitud USSD detectada (%1$s)</string>
+    <string name="str_activation_dialog_check_billing">Verificando si las compras son posibles...</string>
+    <string name="str_activation_dialog_restore_transaction">Obteniendo información de compras anteriores...</string>
+    <string name="str_activation_dialog_purschase_item">Comprar una licencia...</string>
+    <string name="str_activation_method_is_not_available">Desafortunadamente, el servicio no está disponible temporariamente. Intente nuevamente más tarde.</string>
+    <string name="str_antitheft_settings_title">Configuración de Antirrobo</string>
+    <string name="str_antitheft_block_options_caption">Bloqueo de dispositivo</string>
+    <string name="str_antitheft_reply_send_caption">Maneras de recibir el nuevo número de teléfono y la ubicación del dispositivo</string>
+    <string name="str_array_scan_types_full">Análisis completo</string>
+    <string name="str_array_scan_types_folder">Análisis de carpeta</string>
+    <string name="str_array_scan_types_applications">Análisis rápido</string>
+    <string name="premium_feature_get_all_features_btn">Obtener todas las funciones</string>
+    <string name="premium_feature_trial_text">Probar de manera gratuita</string>
+    <string name="premium_feature_header_text" />
+    <string name="str_array_auto_hide_times_disabled">Deshabilitada</string>
+    <string name="str_array_auto_hide_times_no_delay">Sin demora</string>
+    <string name="str_array_auto_hide_times_item1">Después de 5 minutos</string>
+    <string name="str_array_auto_hide_times_item2">Después de 10 minutos</string>
+    <string name="str_array_auto_hide_times_item3">Después de 15 minutos</string>
+    <string name="str_array_auto_hide_times_item4">Después de 30 minutos</string>
+    <string name="str_array_item_types_contact">Contacto</string>
+    <string name="str_array_item_types_phone">Número de teléfono</string>
+    <string name="str_array_monitor_checked_object_types_all">Todos los archivos</string>
+    <string name="str_array_monitor_checked_object_types_executable">Aplicaciones y archivos únicamente</string>
+    <string name="str_array_scan_checked_object_types_all">Todos los archivos</string>
+    <string name="str_array_scan_checked_object_types_executable">Aplicaciones y archivos únicamente</string>
+    <string name="str_array_monitor_action_types_quarantine">Cuarentena</string>
+    <string name="str_array_monitor_action_types_delete">Eliminar</string>
+    <string name="str_array_monitor_action_types_skip">Omitir</string>
+    <string name="str_array_virus_action_types_quarantine">Cuarentena</string>
+    <string name="str_array_virus_action_types_ask_user">Alertar en caso de detección</string>
+    <string name="str_array_virus_action_types_delete">Eliminar</string>
+    <string name="str_array_virus_action_types_skip">Omitir</string>
+    <string name="str_array_auto_scan_modes_weekly">Semanalmente</string>
+    <string name="str_array_auto_scan_modes_daily">Diariamente</string>
+    <string name="str_array_auto_scan_modes_disabled">Deshabilitada</string>
+    <string name="str_array_auto_update_modes_weekly">Semanalmente</string>
+    <string name="str_array_auto_update_modes_daily">Diariamente</string>
+    <string name="str_array_auto_update_modes_disabled">Deshabilitada</string>
+    <string name="str_array_week_days_1">Lunes</string>
+    <string name="str_array_week_days_2">Martes</string>
+    <string name="str_array_week_days_3">Miércoles</string>
+    <string name="str_array_week_days_4">Jueves</string>
+    <string name="str_array_week_days_5">Viernes</string>
+    <string name="str_array_week_days_6">Sábado</string>
+    <string name="str_array_week_days_7">Domingo</string>
+    <string name="str_array_what_hide_contacts">Contactos</string>
+    <string name="str_array_what_hide_sms">Historial de SMS</string>
+    <string name="str_array_what_hide_incomming_sms">SMS entrantes</string>
+    <string name="str_array_what_hide_calls">Registro de llamadas</string>
+    <string name="str_array_what_hide_incomming_calls">Llamadas entrantes</string>
+    <string name="str_array_virus_detected_actions_delete">Eliminar</string>
+    <string name="str_array_virus_detected_actions_quarantine">Cuarentena</string>
+    <string name="str_array_virus_detected_actions_skip">Omitir</string>
+    <string name="str_array_virus_in_application_detected_actions_delete">Eliminar</string>
+    <string name="str_array_virus_in_application_detected_actions_skip">Omitir</string>
+    <string name="str_array_virus_in_application_detected_actions_help">Ayuda</string>
+    <string name="str_array_pp_contact_popup_delete">Eliminar</string>
+    <string name="str_array_pp_contact_popup_delete_all">Eliminar todo</string>
+    <string name="str_array_pp_phone_popup_change">Cambiar</string>
+    <string name="str_array_pp_phone_popup_delete">Eliminar</string>
+    <string name="str_array_pp_phone_popup_delete_all">Eliminar todo</string>
+    <string name="str_array_antispam_modes_disabled">Deshabilitado</string>
+    <string name="str_array_antispam_modes_blocked_contacts">Contactos bloqueados</string>
+    <string name="str_array_antispam_modes_allowed_contacts">Contactos permitidos</string>
+    <string name="str_array_antispam_modes_standard">Estándar</string>
+    <string name="str_array_antispam_actions_always_block">Bloquear siempre</string>
+    <string name="str_array_antispam_actions_always_allow">Permitir siempre</string>
+    <string name="str_array_antispam_actions_skip">Omitir</string>
+    <string name="str_array_antispam_item_types_sms">SMS</string>
+    <string name="str_array_antispam_item_types_calls">Llamadas</string>
+    <string name="str_array_antispam_item_types_both">Llamadas y SMS</string>
+    <string name="str_array_antispam_popup_change">Cambiar</string>
+    <string name="str_array_antispam_popup_delete">Eliminar</string>
+    <string name="str_array_antispam_popup_delete_all">Eliminar todo</string>
+    <string name="str_array_antispam_popup_no_edit_delete">Eliminar</string>
+    <string name="str_array_antispam_popup_no_edit_delete_all">Eliminar todo</string>
+    <string name="str_array_stealth_commands_alarm">Alarma</string>
+    <string name="str_array_stealth_commands_wipe">Eliminación de datos</string>
+    <string name="str_array_stealth_commands_find">Bloquear y Localizar</string>
+    <string name="str_array_stealth_commands_mugshot">Foto</string>
+    <string name="str_array_stealth_commands_hide">Protección de privacidad</string>
+    <string name="str_array_stealth_commands_fullreset">Restablecimiento completo</string>
+    <string name="str_array_stealth_commands_no_commands_allowed">Sin comandos permitidos</string>
+    <string name="str_array_hint_pp_settings_title">Protección de privacidad</string>
+    <string name="str_array_hint_pp_settings_body">Protección de privacidad le permite ocultar temporalmente sus contactos confidenciales, el historial de llamadas y los mensajes SMS mediante el uso de la configuración de la aplicación o de manera remota mediante el envío del comando SMS \"hide: [código]\" desde cualquier dispositivo. [Código] es el código secreto de su Kaspersky Internet Security.</string>
+    <string name="str_array_select_protection_mode_dialog_titles_extended">Extendido</string>
+    <string name="str_array_select_protection_mode_dialog_titles_recommended">Recomendado</string>
+    <string name="str_array_select_protection_mode_dialog_titles_disabled">Deshabilitado</string>
+    <string name="str_array_select_protection_mode_dialog_subtitles_extended">Comprueba nuevas aplicaciones y controla operaciones en archivos.</string>
+    <string name="str_array_select_protection_mode_dialog_subtitles_recommended">Comprueba aplicaciones nuevas solamente.</string>
+    <string name="str_array_select_protection_mode_dialog_subtitles_disabled">La protección está deshabilitada.</string>
+    <string name="str_array_antispam_import_number_sources_calls">Historial de llamados</string>
+    <string name="str_array_antispam_import_number_sources_sms">SMS entrantes</string>
+    <string name="str_array_select_reports_dialog_titles_all">Todos los eventos</string>
+    <string name="str_array_select_reports_dialog_titles_av">Antivirus</string>
+    <string name="str_array_select_reports_dialog_titles_as">Filtro de llamadas y SMS</string>
+    <string name="str_array_select_reports_dialog_titles_web">Protección web</string>
+    <string name="str_array_select_reports_dialog_subtitles_all" />
+    <string name="str_array_select_reports_dialog_subtitles_av">Resultados de análisis, actualización</string>
+    <string name="str_array_select_reports_dialog_subtitles_as">Llamadas y SMS bloqueados</string>
+    <string name="str_array_select_reports_dialog_subtitles_web">Sitios web bloqueados</string>
+    <string name="str_array_reports_days_titles_1">Hoy</string>
+    <string name="str_array_reports_days_titles_2">En los últimos 7 días</string>
+    <string name="str_array_reports_days_titles_3">En los últimos 30 días</string>
+    <string name="str_array_reports_days_titles_4">Informes anteriores</string>
+    <string name="str_array_settings_groups_1">Antivirus</string>
+    <string name="str_array_settings_groups_2">Protección de privacidad</string>
+    <string name="str_array_settings_groups_3">Antirrobo</string>
+    <string name="str_array_settings_groups_4">Filtro de llamadas y SMS</string>
+    <string name="str_array_settings_groups_5">Protección web</string>
+    <string name="str_array_settings_groups_6">Configuración adicional</string>
+    <string name="str_array_settings_groups_short_captions_antivirus">Antivirus</string>
+    <string name="str_array_settings_groups_short_captions_privacy_protection">Protección de privacidad</string>
+    <string name="str_array_settings_groups_short_captions_antitheft">Antirrobo</string>
+    <string name="str_array_settings_groups_short_captions_antispam">Filtro de llamadas y SMS</string>
+    <string name="str_array_settings_groups_short_captions_web_protection">Protección web</string>
+    <string name="str_array_settings_groups_short_captions_additional">Configuración adicional</string>
+    <string name="str_array_settings_groups_short_captions_protection">Protección</string>
+    <string name="str_array_settings_groups_short_captions_scan">Analizar</string>
+    <string name="str_array_settings_groups_short_captions_update">Actualizar</string>
+    <string name="str_array_settings_groups_short_captions_quarantine">Cuarentena</string>
+    <string name="str_array_settings_groups_short_captions_pp_settings">Configuración de Protección de privacidad</string>
+    <string name="str_array_settings_groups_short_captions_web_portal">Web Management</string>
+    <string name="str_array_settings_groups_short_captions_sim_watch">SIM Watch</string>
+    <string name="str_array_settings_groups_short_captions_sms_send">Enviar comandos SMS</string>
+    <string name="str_array_settings_groups_short_captions_reports">Informes</string>
+    <string name="str_array_settings_groups_short_captions_license">Licencia</string>
+    <string name="str_array_settings_groups_short_captions_license_activation">Licencia</string>
+    <string name="str_array_settings_groups_short_captions_about">Acerca de</string>
+    <string name="str_array_free_info_title_1">Antivirus</string>
+    <string name="str_array_free_info_title_2">Protección web</string>
+    <string name="str_array_free_info_title_3">Protección de privacidad</string>
+    <string name="str_array_free_info_title_4">Antiphishing de texto</string>
+    <string name="str_ipm_notification_splash_text">Noticias de Kaspersky Lab</string>
+    <string name="str_array_free_info_subtitle_1">Protección de sus datos en tiempo real frente a todas las amenazas conocidas.</string>
+    <string name="str_array_free_info_subtitle_2">Navegación segura. Bloqueo de phishing y sitios web maliciosos diseñados para robar su dinero.</string>
+    <string name="str_array_free_info_subtitle_3">Ocultamiento de llamadas, mensajes de texto y contactos privados de miradas entrometidas.</string>
+    <string name="str_array_free_info_subtitle_4">Bloqueo de mensajes de texto con enlaces a sitios maliciosos o de phishing.</string>
+    <string name="str_sms_antiphishing_phishing_user_actions_title">¡Advertencia!</string>
+    <string name="str_sms_antiphishing_phishing_user_actions_subtitle">Se recibe un SMS con un enlace de phishing desde el número &lt;b>%1$s&lt;/b> con el texto &lt;b>%2$s&lt;/b>.</string>
+    <string name="str_sms_antiphishing_malware_user_actions_title">¡Advertencia!</string>
+    <string name="str_sms_antiphishing_malware_user_actions_subtitle">Se recibe un SMS con un enlace malicioso desde el número &lt;b>%1$s&lt;/b> con el texto &lt;b>%2$s&lt;/b>.</string>
+    <string name="str_sms_antiphishing_user_action_remove">Eliminar SMS</string>
+    <string name="str_sms_antiphishing_user_action_skip">Omitir</string>
+    <string name="str_show_ipm_message_next_btn">Sgte.</string>
+    <string name="str_show_ipm_message_close_btn">Cerrar</string>
+    <string name="str_license_commercial">actual</string>
+    <string name="str_license_trial">prueba</string>
+    <string name="str_license_subscription_limit">con suscripción limitada</string>
+    <string name="str_license_subscription">con suscripción</string>
+    <string name="str_license_oem">para entregas OEM</string>
+    <string name="str_license_test">para pruebas</string>
+    <string name="str_license_beta">para pruebas beta</string>
+    <string name="str_license_unknown">desconocido</string>
+    <string name="str_product_state">Licencia: %s</string>
+    <string name="str_release_application_status">Versión nueva</string>
+    <string name="str_debug_application_status">Versión depurada</string>
+    <string name="str_rebranding_code" />
+    <string name="str_activation_subtitle_free">Está usando la versión gratuita.</string>
+    <string name="str_activation_know_more_premium_features">&lt;u>Obtener más información acerca de las características premium&lt;/u>.</string>
+    <string name="str_additional_free_license_installed_subtitle">La versión gratuita de la aplicación está activada</string>
+    <string name="str_activation_activatie_full">Activar versión premium</string>
+    <string name="str_big_res_wizard_activation_caption">La aplicación está activada</string>
+    <string name="str_av_update_params_threats_count_text">Total de amenazas: %s</string>
+    <string name="str_av_info2">Total de amenazas:</string>
+    <string name="str_reports_event_av_adware_found">"Adware detectado: %1$s
+Detectado: %2$s"</string>
+    <string name="str_reports_event_av_riskware_found">"Se detectó una aplicación que puede ser usada por los ciberdelincuentes en contra de sus intereses: %1$s
+Detectada: %2$s"</string>
+    <string name="str_reports_event_av_adware_object_cant_deleted">"No se puede eliminar el adware.
+Archivo: %s."</string>
+    <string name="str_reports_event_av_riskware_object_cant_deleted">"No se puede eliminar la aplicación que puede ser usada por los ciberdelincuentes en contra de sus intereses.
+Archivo: %s."</string>
+    <string name="str_event_title_adware_found">Adware detectado</string>
+    <string name="str_event_title_riskware_found">Se detectó una aplicación que puede ser usada por los ciberdelincuentes en contra de sus intereses</string>
+    <string name="str_event_title_av_object_cant_deleted">No se puede eliminar el archivo infectado</string>
+    <string name="str_event_title_av_adware_object_cant_deleted">No se puede eliminar el adware</string>
+    <string name="str_event_title_av_riskware_object_cant_deleted">No se puede eliminar la aplicación que puede ser usada por delincuentes en contra de sus intereses</string>
+    <string name="str_kms_main_screen_av_status_free_mode_1_app_to_scan">1 aplicación nueva es &lt;b>&lt;font color=#ff8080>no analizado&lt;/font>&lt;/b></string>
+    <string name="str_kms_main_screen_av_status_free_mode_some_apps_to_scan">%1$d aplicaciones nuevas están &lt;b>&lt;font color=#ff8080>no analizadas&lt;/font>&lt;/b></string>
+    <string name="str_kms_main_screen_av_status_free_mode_more_apps_to_scan">%1$d aplicaciones nuevas están &lt;b>&lt;font color=#ff8080>no analizadas&lt;/font>&lt;/b></string>
+    <string name="str_kms_main_screen_av_status_free_mode_last_scan_overdue">&lt;b>&lt;font color=#ff8080>El último análisis se efectuó hace más de dos semanas&lt;/font>&lt;/b></string>
+    <string name="str_kms_main_screen_av_status_free_mode_last_scan_date">Último análisis: %1$s</string>
+    <string name="str_kms_main_screen_av_status_free_mode_never_scanned">&lt;b>&lt;font color=#ff8080>Aún no se ha efectuado el análisis&lt;/font>&lt;/b></string>
+    <string name="str_notification_av_status_free_mode_1_app_to_scan">Pulse aquí para &lt;b>&lt;font color=#ff8080>analizar 1 nueva aplicación&lt;/font>&lt;/b>.</string>
+    <string name="str_notification_av_status_free_mode_some_apps_to_scan">Pulse aquí para &lt;b>&lt;font color=#ff8080>analizar %1$d nuevas aplicaciones&lt;/font>&lt;/b>.</string>
+    <string name="str_notification_av_status_free_mode_more_apps_to_scan">Pulse aquí para &lt;b>&lt;font color=#ff8080>analizar %1$d nuevas aplicaciones&lt;/font>&lt;/b>.</string>
+    <string name="str_notification_av_status_free_mode_last_scan_overdue">Pulse aquí para &lt;b>&lt;font color=#ff8080> iniciar análisis&lt;/font>&lt;/b>. El dispositivo no ha sido analizado por largo tiempo.</string>
+    <string name="str_notification_av_status_free_mode_last_scan_date">Último análisis: %1$s</string>
+    <string name="str_notification_av_status_free_mode_never_scanned">&lt;b>&lt;font color=#ff8080>Aún no se ha efectuado el análisis de su dispositivo&lt;/font>&lt;/b>.</string>
+    <string name="str_array_scan_types_subtitles_full">Análisis de todo el dispositivo</string>
+    <string name="str_array_scan_types_subtitles_folder">Análisis de carpeta seleccionada</string>
+    <string name="str_array_scan_types_subtitles_applications">Análisis de aplicaciones instaladas</string>
+    <string name="str_at_account_expired_description_in_wizard">Se ha eliminado su cuenta para la administración remota de Antirrobo ya que no fue activada. No puede iniciar las funciones de Antirrobo por medio de Web Management ni recuperar el código secreto. Inicie sesión con otra cuenta o cree una cuenta nueva.</string>
+    <string name="str_at_account_expired_description">Se ha eliminado su cuenta para la administración remota de Antirrobo ya que no fue activada. No puede iniciar las funciones de Antirrobo por medio de Web Management ni recuperar el código secreto. Inicie sesión con otra cuenta o cree una cuenta nueva.</string>
+    <string name="str_additional_ipm_info_enabled_title">Mensajes informativos</string>
+    <string name="str_additional_ipm_info_enabled_subtitle">Recibir noticias de Kaspersky Lab</string>
+    <string name="str_remove_old_kms_dialog_title">Se ha detectado la versión anterior de %s</string>
+    <string name="str_remove_old_kms_dialog_no_deviceadmin_info">"La versión anterior de %1$s, que ya no es compatible, está instalada en su dispositivo. Debe desinstalar la versión anterior de %2$s. Toque &lt;b>Desinstalar&lt;/b>.
+Para activar la versión nueva de %3$s, use su código de activación actual."</string>
+    <string name="str_remove_old_kms_dialog_info">"La versión anterior de %1$s, que ya no es compatible, está instalada en su dispositivo. Debe desinstalar la versión anterior de %2$s. Toque &lt;b>Abrir&lt;/b> > &lt;b>Opciones adicionales&lt;/b> > &lt;b>Desinstalar la aplicación&lt;/b>.
+Para activar la versión nueva de %3$s, use su código de activación actual."</string>
+    <string name="str_remove_old_kms_dialog_btn_delete">Desinstalar</string>
+    <string name="str_remove_old_kms_dialog_btn_open">Abrir</string>
+    <string name="str_at_mugshot_location_enabled_warning">¡Atención! Cuando está en este modo, la aplicación puede tomar fotografías y localizar el dispositivo.</string>
+    <string name="settings_detail_free_av_info_info">El componente Escáner protege los datos contra virus y otro software malicioso a la vez que actualiza las bases de datos antivirus, que son necesarias para proteger los datos contra amenazas nuevas.</string>
+    <string name="settings_detail_free_av_info_second_text">"Escáner realiza las siguientes funciones: Analizar, Actualizar y Cuarentena.
+
+Para obtener una protección de datos óptima, analice su dispositivo con frecuencia y actualice las bases de datos antivirus de forma regular para mantener actualizada la protección de su dispositivo."</string>
+    <string name="str_array_free_settings_groups_1">Escáner</string>
+    <string name="str_array_free_settings_groups_short_captions_scanner">Escáner</string>
+    <string name="str_wizard_start_ucp_ready_check">Espere... conectando a servicio en línea...</string>
+    <string name="str_wizard_ucp_select_account_title">Cuenta de Kaspersky</string>
+    <string name="str_wizard_ucp_select_account_body">Utilice su Kaspersky Account para administrar el dispositivo a través de My Kaspersky.</string>
+    <string name="str_wizard_ucp_select_account_is_expired">Su cuenta no se ha activado en los últimos 14 días y se eliminará ahora.</string>
+    <string name="str_wizard_ucp_registration_main_title_sign">Inicie sesión utilizando la Cuenta de Kaspersky</string>
+    <string name="str_wizard_ucp_registration_main_title_create">Crear su Cuenta de Kaspersky</string>
+    <string name="str_wizard_ucp_new_account_subscribe_news">Suscríbase para recibir novedades y ofertas especiales de Kaspersky Lab</string>
+    <string name="str_wizard_ucp_registration_mail_exists_error">Ya existe una Kaspersky Account vinculada al correo electrónico ingresado. Si esta es su cuenta, inicie sesión.</string>
+    <string name="str_wizard_ucp_registration_password_not_strong_error">La contraseña se débil. La contraseña debe tener 8 caracteres como mínimo e incluir un número, una letra en mayúsculas y una letra en minúsculas (ejemplo: Qwerty*123).</string>
+    <string name="str_wizard_ucp_registration_invalid_mail_format_error">Carácter no válido en correo electrónico.</string>
+    <string name="str_wizard_ucp_registration_bad_credentials_error">Correo electrónico o contraseña incorrectos.</string>
+    <string name="str_wizard_ucp_registration_canceled_error">Error al registrar la Cuenta de Kaspersky. Intente otra vez más tarde.</string>
+    <string name="str_wizard_ucp_registration_general_error">Error al registrar la Cuenta de Kaspersky. Compruebe la conexión a Internet e intente otra vez más tarde. Si este error se presenta nuevamente, comuníquese con el Soporte técnico.</string>
+    <string name="str_agreements_loading">Cargando acuerdos...</string>
+    <string name="str_agreements_privacy_statement">Declaración de privacidad</string>
+    <string name="str_agreements_title">Acepte los términos de los siguientes acuerdos para poder continuar:</string>
+    <string name="str_agreements_accepts_btn">Aceptar y continuar</string>
+    <string name="str_wizard_no_connection_title">Se necesita conexión a Internet</string>
+    <string name="str_wizard_no_connection_text">Se necesita una conexión a Internet activa para establecer la aplicación completamente. Compruebe la configuración de su conexión a Internet e intente nuevamente.</string>
+    <string name="str_wizard_no_connection_try_again_btn">Intentar nuevamente</string>
+    <string name="ucp_notification_is_ready_title">Pruebe el nuevo portal web My Kaspersky.</string>
+    <string name="ucp_notification_is_ready_message">Presione para probar ahora…</string>
+    <string name="TestText">TestText: do not translate!!!</string>
+    <string name="Loading">Cargando datos, espere...…</string>
+    <string name="read_folder_template">"Abriendo la carpeta '%s'.
+Aguarde un instante...…"</string>
+    <string name="str_web_filter_categories_unknown">desconocido</string>
+    <string name="str_web_filter_categories_porn">Contenido para adultos</string>
+    <string name="str_web_filter_categories_illegal_soft">Software ilegal</string>
+    <string name="str_web_filter_categories_drugs">Alcohol, tabaco, narcóticos</string>
+    <string name="str_web_filter_categories_violence">Violencia</string>
+    <string name="str_web_filter_categories_swearing">Blasfemias, obscenidad</string>
+    <string name="str_web_filter_categories_weapons">Armas, explosivos, pirotecnia</string>
+    <string name="str_web_filter_categories_gambling">Juegos de azar, loterías, apuestas</string>
+    <string name="str_web_filter_categories_chat">Medios de comunicación por Internet</string>
+    <string name="str_web_filter_categories_web_mail">Medios de comunicación por Internet</string>
+    <string name="str_web_filter_categories_shops">Comercio electrónico</string>
+    <string name="str_web_filter_categories_social_net">Medios de comunicación por Internet</string>
+    <string name="str_web_filter_categories_job_site">Contratación</string>
+    <string name="str_web_filter_categories_anon_proxy">Redireccionamiento de solicitudes HTTP</string>
+    <string name="str_web_filter_categories_cc_payments">Comercio electrónico</string>
+    <string name="str_web_filter_categories_casual_games">Juegos de computadora</string>
+    <string name="str_web_filter_categories_phishing">Fraude (phishing)</string>
+    <string name="str_web_filter_categories_malware">Vínculos maliciosos</string>
+    <string name="str_web_filter_categories_counterfeit" />
+    <string name="str_kitkat_warning_message_as">Debido a limitaciones técnicas de Android 4.4, la funcionalidad del &amp; Filtro de texto de enviar y recibir mensajes puede no funcionar como está previsto.</string>
+    <string name="str_kitkat_warning_message_pp">Debido a limitaciones técnicas de Android 4.4, la funcionalidad de la Protección de privacidad de enviar y recibir mensajes puede no funcionar como está previsto.</string>
+    <string name="str_kitkat_warning_title_as">Limitación de Android 4.4</string>
+    <string name="str_kitkat_warning_title_pp">Limitación de Android 4.4</string>
+    <string name="str_kitkat_warning_close">Cerrar</string>
+    <string name="str_kitkat_warning_run">Ejecutar función</string>
+    <string name="str_kitkat_warning_accept_risks_checkbox">Acepto</string>
+    <string name="operation_in_progress">Espere...…</string>
+    <string name="str_architecture_check_unsupported">Desafortunadamente, la %s arquitectura de procesador de su dispositivo no es compatible todavía.</string>
+    <string name="str_array_web_filter_mode_subtitle_off">La protección web está &lt;b>&lt;font color=#ff8080>deshabilitada&lt;/font>&lt;/b></string>
+    <string name="str_array_web_filter_mode_subtitle_standard">Modo: estándar. Comprueba los sitios web solamente en navegadores compatibles</string>
+    <string name="str_array_web_filter_mode_subtitle_extended">Modo: extendido. Comprueba los sitios web en todas las aplicaciones que se conectan a Internet</string>
+    <string name="str_array_web_filter_mode_dialog_title_off">Deshabilitada</string>
+    <string name="str_array_web_filter_mode_dialog_title_standard">Estándar</string>
+    <string name="str_array_web_filter_mode_dialog_title_extended">Extendido</string>
+    <string name="str_array_web_filter_mode_dialog_subtitle_off">La protección web está deshabilitada</string>
+    <string name="str_array_web_filter_mode_dialog_subtitle_standard">Comprueba los sitios web solamente en navegadores compatibles</string>
+    <string name="str_array_web_filter_mode_dialog_subtitle_extended">Comprueba los sitios web en todas las aplicaciones que se conectan a Internet</string>
+    <string name="str_web_filter_mode_dialog_title">Modo de Protección web</string>
+    <string name="str_web_filter_mode_dialog_close_btn">Cerrar</string>
+    <string name="error_no_enought_space">Espacio libre insuficiente en el almacenamiento de memoria. Para que la aplicación funcione correctamente, libere %s.</string>
+    <string name="warning_commercial_license_change">"La licencia aún no ha expirado. Luego de comprar una licencia, la aplicación se activará con la licencia nueva. Puede activar la aplicación en otro dispositivo con la licencia previa hasta que expire.
+Si no desea activar la aplicación en otro dispositivo con la licencia previa, Kaspersky Lab recomienda comprar una licencia nueva luego de que la previa expire."</string>
+    <string name="warning_commercial_license_change_clickable_text">licencia previa</string>
+    <string name="str_scan_files_cancel">Cancelar</string>
+    <string name="str_activation_code_info_dialog_title">Licencia</string>
+    <string name="str_activation_code_info_current_code">Código de activación</string>
+    <string name="str_activation_code_info_days_left">Días restantes:</string>
+    <string name="str_activation_code_info_details_usage">Para hacerlo, guarde ese código. Luego de activar la aplicación en este dispositivo con la licencia nueva, aplique este código en otro dispositivo.</string>
+    <string name="kts_str_about_trademark_notification_title">Avisos de marcas comerciales</string>
+    <string name="kts_str_about_trademark_notification_body">"Las marcas comerciales registradas y las marcas de servicio son propiedad exclusiva de sus respectivos propietarios. 
+Android y Google son marcas comerciales de Google, Inc."</string>
+    <string name="kts_str_app_description">"Kaspersky Internet Security ofrece protección contra virus y otro software malicioso, analiza todos los archivos del dispositivo y neutraliza las amenazas detectadas. Kaspersky Internet Security evita el robo de sus datos personales por Internet; esto incluye sus contraseñas de banca en línea y de sistemas de pagos en línea. En caso de pérdida o robo del dispositivo, Kaspersky Internet Security lo ayudará a localizarlo y a mantener sus datos seguros.
+Si tiene alguna consulta, comuníquese con Kaspersky Lab (http://latam.kaspersky.com/mx, http://support.kaspersky.com/helpdesk.html).
+
+La firma digital se verifica con Crypto-C-2.0, (C) CryptoEx LLX http://www.cryptoex.ru."</string>
+    <string name="str_enter_recovery_code_subtitle">El código de recuperación recupera de manera segura el código secreto de la aplicación. Puede obtener el código de recuperación iniciando sesión en Web Management con su Cuenta de Kaspersky.</string>
+    <string name="str_kts_uninstall_title">Desinstalar Kaspersky Internet Security</string>
+    <string name="str_kts_disable_deviceadmin_text">La aplicación ya no estará establecida como administrador de dispositivos.</string>
+    <string name="str_kts_new_version_available_title">Hay una nueva versión de Kaspersky Internet Security. ¿Desea actualizar?</string>
+    <string name="str_kts_webfilter_blockpage_text">Bloqueamos este sitio web para protegerlo frente a ciberdelincuentes.</string>
+    <string name="str_kts_device_admin_locked_screen_info_title">Dispositivo bloqueado por Kaspersky Internet Security</string>
+    <string name="str_kts_enter_recovery_code_title">Recuperar código secreto</string>
+    <string name="str_kts_app_loading">Iniciando Kaspersky Internet Security...</string>
+    <string name="str_kts_final_step_text1">Kaspersky Internet Security está listo para usarse.</string>
+    <string name="str_kts_final_step_text1_accountcreated" />
+    <string name="str_kts_uninstall_text">Por motivos de seguridad, escriba el código secreto de la aplicación.</string>
+    <string name="str_kts_incompatiple_apps_warning_dialog_info">Otras aplicaciones establecidas como administrador de dispositivos pueden tener un impacto negativo en el rendimiento de Kaspersky Internet Security.</string>
+    <string name="str_kts_array_select_reports_dialog_titles_all">Todos los eventos</string>
+    <string name="str_kts_array_select_reports_dialog_titles_av">Antivirus</string>
+    <string name="str_kts_array_select_reports_dialog_titles_web">Protección web</string>
+    <string name="str_kts_array_select_reports_dialog_subtitles_all" />
+    <string name="str_kts_array_select_reports_dialog_subtitles_av">Resultados de análisis, actualización</string>
+    <string name="str_kts_array_select_reports_dialog_subtitles_web">Sitios web bloqueados</string>
+    <string name="str_kts_main_menu_av_free_1_app_to_scan">1 aplicación nueva es &lt;b>&lt;font color=#ff0000>no analizado&lt;/font>&lt;/b></string>
+    <string name="str_kts_main_menu_av_free_some_apps_to_scan">%1$d aplicaciones nuevas están &lt;b>&lt;font color=#ff0000>no analizadas&lt;/font>&lt;/b></string>
+    <string name="str_kts_main_menu_av_free_more_apps_to_scan">%1$d aplicaciones nuevas están &lt;b>&lt;font color=#ff0000>no analizadas&lt;/font>&lt;/b></string>
+    <string name="str_kts_main_menu_av_status_free_mode_last_scan_overdue">&lt;b>&lt;font color=#ff0000>El último análisis se efectuó hace más de dos semanas&lt;/font>&lt;/b></string>
+    <string name="str_kts_main_menu_av_status_free_mode_last_scan_date">Último análisis: %1$s</string>
+    <string name="str_kts_main_menu_av_status_free_mode_never_scanned">&lt;b>&lt;font color=#ff0000>Aún no se ha efectuado el análisis&lt;/font>&lt;/b></string>
+    <string name="str_kts_wizard_secret_code_title">Crear un código secreto</string>
+    <string name="str_kts_final_step_title">Gracias</string>
+    <string name="str_at_account_expired_kts_btn">Cambiar la cuenta</string>
+    <string name="textOn">ACTIVADO</string>
+    <string name="textOff">APAGADO</string>
+    <item type="string" name="APKTOOL_DUMMY_00a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00a4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00a5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00a6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00a7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00a8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04cb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04d0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04d1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04d3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04d7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04d8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04da">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04dc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04de">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04df">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04e2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04e3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04e4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04e6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04e7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04e8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04e9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04ea">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04eb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04ec">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04ed">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04ee">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04ef">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04f0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04f1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04f2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04f3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04f4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04f5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04f6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04f7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04f8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04f9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04fa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04fb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04fc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04fd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04fe">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04ff">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0500">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0501">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0502">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0503">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0504">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0505">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0506">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0507">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0508">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0509">false</item>
+    <item type="string" name="APKTOOL_DUMMY_050a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_050b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_050c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_050d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_050e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_050f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0510">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0511">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0512">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0513">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0514">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0515">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0516">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0517">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0518">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0519">false</item>
+    <item type="string" name="APKTOOL_DUMMY_051a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_051b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_051c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_051d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_051e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_051f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0520">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0521">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0522">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0523">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0524">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0525">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0526">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0527">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0528">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0529">false</item>
+    <item type="string" name="APKTOOL_DUMMY_052a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_052b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_052c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_052d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_052e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_052f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0530">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0531">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0532">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0533">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0534">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0535">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0536">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0537">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0538">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0539">false</item>
+    <item type="string" name="APKTOOL_DUMMY_053a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_053b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_053c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_053d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_053e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_053f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0540">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0541">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0542">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0543">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0544">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0545">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0546">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0547">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0548">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0549">false</item>
+    <item type="string" name="APKTOOL_DUMMY_054a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_054b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_054c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_054d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_054e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_054f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0550">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0551">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0552">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0553">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0554">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0555">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0556">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0557">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0558">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0559">false</item>
+    <item type="string" name="APKTOOL_DUMMY_055a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_055b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_055c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_055d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_055e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_055f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0560">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0561">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0562">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0563">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0564">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0565">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0566">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0567">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0568">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0569">false</item>
+    <item type="string" name="APKTOOL_DUMMY_056a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_056b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_056c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_056d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_056e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_056f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0570">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0571">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0572">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0573">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0574">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0575">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0576">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0577">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0578">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0579">false</item>
+    <item type="string" name="APKTOOL_DUMMY_057a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_057b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_057c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_057d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_057e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_057f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0580">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0581">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0582">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0583">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0584">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0585">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0586">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0587">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0588">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0589">false</item>
+    <item type="string" name="APKTOOL_DUMMY_058a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_058b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_058c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_058d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_058e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_058f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0590">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0591">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0592">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0593">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0594">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0595">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0596">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0597">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0598">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0599">false</item>
+    <item type="string" name="APKTOOL_DUMMY_059a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_059b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_059c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_059d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_059e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_059f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05a4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05a5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05a6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05a7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05a8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05b8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05b9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05ba">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05bf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05c0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05c1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05c6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05cb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05d0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05d1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05d3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05d7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05d8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05da">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05dc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05de">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05df">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05e2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05e3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05e4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05e6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05e7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05e8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05e9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05ea">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05eb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05ec">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05ed">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05ee">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05ef">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05f0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05f1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05f2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05f3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05f4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05f5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05f6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05f7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05f8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05f9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05fa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05fb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05fc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05fd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05fe">false</item>
+    <item type="string" name="APKTOOL_DUMMY_05ff">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0600">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0601">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0602">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0603">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0604">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0605">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0606">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0607">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0608">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0609">false</item>
+    <item type="string" name="APKTOOL_DUMMY_060a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_060b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_060c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_060d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_060e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_060f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0610">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0611">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0612">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0613">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0614">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0615">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0616">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0617">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0618">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0619">false</item>
+    <item type="string" name="APKTOOL_DUMMY_061a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_061b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_061c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_061d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_061e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_061f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0620">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0621">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0622">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0623">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0624">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0625">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0626">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0627">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0628">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0629">false</item>
+    <item type="string" name="APKTOOL_DUMMY_062a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_062b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_062c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_062d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_062e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_062f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0630">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0631">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0632">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0633">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0634">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0635">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0636">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0637">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0638">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0639">false</item>
+    <item type="string" name="APKTOOL_DUMMY_063a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_063b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_063c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_063d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_063e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_063f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0640">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0641">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0642">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0643">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0644">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0645">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0646">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0647">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0648">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0649">false</item>
+    <item type="string" name="APKTOOL_DUMMY_064a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_064b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_064c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_064d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_064e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_064f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0650">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0651">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0652">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0653">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0654">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0655">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0656">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0657">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0658">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0659">false</item>
+    <item type="string" name="APKTOOL_DUMMY_065a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_065b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_065c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_065d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_065e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_065f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0660">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0661">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0662">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0663">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0664">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0665">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0666">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0667">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0668">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0669">false</item>
+    <item type="string" name="APKTOOL_DUMMY_066a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_066b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_066c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_066d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_066e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_066f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0670">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0671">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0672">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0673">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0674">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0675">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0676">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0677">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0678">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0679">false</item>
+    <item type="string" name="APKTOOL_DUMMY_067a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_067b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_067c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_067d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_067e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_067f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0680">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0681">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0682">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0683">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0684">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0685">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0686">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0687">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0688">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0689">false</item>
+    <item type="string" name="APKTOOL_DUMMY_068a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_068b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_068c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_068d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_068e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_068f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0690">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0691">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06a6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06c6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06cb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06d0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06d1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06d3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06d7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06d8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06da">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06dc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_06dd">false</item>
+</resources>

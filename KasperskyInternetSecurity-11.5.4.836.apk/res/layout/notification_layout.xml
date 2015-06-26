@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout a:layout_gravity="center_vertical" a:id="@id/notification_main" a:layout_width="fill_parent" a:layout_height="fill_parent"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <ImageView a:id="@id/notification_background" a:background="@drawable/notification_bg" a:visibility="invisible" a:layout_width="fill_parent" a:layout_height="fill_parent" />
+    <LinearLayout a:id="@id/notification_icon_layout" a:layout_width="wrap_content" a:layout_height="fill_parent">
+        <ImageView a:id="@id/notification_icon" a:layout_width="wrap_content" a:layout_height="fill_parent" a:layout_marginLeft="5.0dip" a:layout_marginRight="5.0dip" a:src="@drawable/ico_k_25" />
+        <ImageView a:id="@id/notification_icon_ics" a:visibility="gone" a:layout_width="wrap_content" a:layout_height="fill_parent" a:layout_marginLeft="20.0dip" a:layout_marginRight="30.0dip" a:src="@drawable/ico_k_25" />
+    </LinearLayout>
+    <LinearLayout a:orientation="vertical" a:id="@id/LinearLayout01" a:layout_width="fill_parent" a:layout_height="wrap_content" a:layout_toRightOf="@id/notification_icon_layout" a:layout_alignParentRight="true" a:layout_centerVertical="true">
+        <TextView a:textSize="19.0sp" a:textStyle="bold" a:textColor="#ff000000" a:id="@id/NotificationHdr" a:layout_width="fill_parent" a:layout_height="wrap_content" a:text="@string/app_name" />
+        <TextView a:textSize="12.0sp" a:textColor="#ff000000" a:gravity="center_vertical" a:id="@id/NotificationTextView01" a:paddingTop="1.0dip" a:layout_width="fill_parent" a:layout_height="wrap_content" />
+        <LinearLayout a:id="@id/NotificationProgressBarFrame01" a:visibility="gone" a:layout_width="fill_parent" a:layout_height="fill_parent">
+            <ProgressBar a:layout_gravity="center_vertical" a:id="@id/NotificationProgressBar01" a:layout_width="fill_parent" a:layout_height="fill_parent" style="@style/KMSProgressBar" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:gravity="center" a:layout_width="fill_parent" a:layout_height="fill_parent"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <ProgressBar a:layout_width="wrap_content" a:layout_height="wrap_content" a:layout_margin="10.0dip" />
+    <TextView a:textColor="#ffffffff" a:layout_gravity="center" a:id="@id/pp_switchmode_text" a:layout_width="wrap_content" a:layout_height="wrap_content" a:layout_margin="10.0dip" />
+</LinearLayout>

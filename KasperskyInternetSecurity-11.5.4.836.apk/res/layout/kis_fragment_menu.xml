@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/kis_fragment_menu"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <include a:id="@id/menu_bubble" layout="@layout/kis_fragment_menu_bubble" />
+    <LinearLayout style="@style/kis_fragment_menu_buttons">
+        <com.kaspersky.components.views.FlowLayout a:id="@id/menu_buttons_viewgroup" a:layout_width="wrap_content" a:layout_height="wrap_content" />
+        <RelativeLayout a:gravity="center_horizontal" a:id="@id/menu_expand_buttons_view" a:padding="0.0dip" a:layout_width="fill_parent" a:layout_height="fill_parent" style="@style/kis_fragment_menu_button">
+            <ImageView a:layout_gravity="center_horizontal" a:id="@id/menu_fold_expand_imageview" a:layout_width="fill_parent" a:layout_height="wrap_content" a:src="@drawable/kis_menu_expand_button" a:layout_alignParentTop="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

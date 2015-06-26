@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:id="@id/dialog_title_linearlayout" style="?kis_dialog_title"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <LinearLayout a:id="@id/dialog_title_content" style="?kis_dialog_title_content">
+        <TextView a:id="@id/dialog_title_text_textview" style="?kis_dialog_title_text" />
+        <ImageView a:id="@id/dialog_title_icon_imageview" style="?kis_dialog_title_icon" />
+    </LinearLayout>
+    <View a:id="@id/dialog_title_divider" style="?kis_dialog_title_divider" />
+</LinearLayout>

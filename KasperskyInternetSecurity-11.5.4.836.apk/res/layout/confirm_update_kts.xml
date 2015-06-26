@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="?kis_dialog"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/alert_dialog_user_action_title" />
+    <ScrollView a:id="@id/dialog_content_scrollview" a:clipToPadding="false" a:layout_width="fill_parent" a:layout_height="wrap_content">
+        <LinearLayout a:orientation="vertical" a:layout_width="fill_parent" a:layout_height="wrap_content">
+            <LinearLayout a:orientation="vertical" a:layout_width="wrap_content" a:layout_height="wrap_content">
+                <TextView a:id="@id/update_dialog_subtitle_textview" a:text="@string/str_kts_new_version_available_title" style="?kis_dialog_subtitle" />
+                <TextView a:id="@id/dialog_content_message_textview" a:text="@string/str_new_version_available_info" style="?kis_dialog_message" />
+            </LinearLayout>
+            <LinearLayout a:gravity="center" a:orientation="vertical" a:id="@id/update_dialog_progress_layout" a:layout_width="fill_parent" a:layout_height="wrap_content">
+                <ProgressBar a:id="@id/ProgressBar01" a:layout_width="wrap_content" a:layout_height="wrap_content" a:layout_margin="10.0dip" />
+                <TextView a:textSize="18.0sp" a:textColor="#ff333333" a:layout_gravity="center" a:id="@id/TextView01" a:layout_width="wrap_content" a:layout_height="wrap_content" a:layout_margin="10.0dip" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <include layout="@layout/alert_dialog_user_action_footer" />
+</LinearLayout>

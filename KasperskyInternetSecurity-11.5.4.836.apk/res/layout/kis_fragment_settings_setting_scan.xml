@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/kis_fragment_settings_setting"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <TextView a:text="@string/settings_detail_avscan_subtitle" style="@style/kis_fragment_settings_setting_text" />
+    <ListView a:id="@android:id/list" style="@style/kis_fragment_settings_setting_list" />
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/topLayout" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/LinearLayout04" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:id="@id/header" android:paddingLeft="15.0dip" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/LinearLayout02" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="20.0dip" android:textColor="@color/kis_text_title" android:gravity="center|left" android:id="@id/title1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_license_title" />
+            </LinearLayout>
+        </LinearLayout>
+        <include layout="@layout/dlg_header_separator" />
+        <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="15.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip" android:fillViewport="false">
+            <LinearLayout android:orientation="vertical" android:id="@id/lic_info" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout style="@style/kis_license_info_row">
+                    <TextView android:id="@id/licSerialTitle" android:text="@string/str_license_serial_number" style="@style/kis_license_info_title" />
+                    <TextView android:id="@id/lic_serial_number" style="@style/kis_license_info_value" />
+                </LinearLayout>
+                <LinearLayout style="@style/kis_license_info_row">
+                    <TextView android:id="@id/licTypeTitle" android:text="@string/str_license_type" style="@style/kis_license_info_title" />
+                    <TextView android:id="@id/lic_type" style="@style/kis_license_info_value" />
+                </LinearLayout>
+                <LinearLayout style="@style/kis_license_info_row">
+                    <TextView android:id="@id/licStartTitle" android:text="@string/str_license_start_date" style="@style/kis_license_info_title" />
+                    <TextView android:id="@id/lic_start_date" style="@style/kis_license_info_value" />
+                </LinearLayout>
+                <LinearLayout style="@style/kis_license_info_row">
+                    <TextView android:id="@id/licEndTitle" android:text="@string/str_license_expire_date" style="@style/kis_license_info_title" />
+                    <TextView android:id="@id/lic_expire_date" style="@style/kis_license_info_value" />
+                </LinearLayout>
+                <LinearLayout style="@style/kis_license_info_row">
+                    <TextView android:id="@id/licRemainTitle" android:text="@string/str_license_days_left" style="@style/kis_license_info_title" />
+                    <TextView android:id="@id/lic_days" style="@style/kis_license_info_value" />
+                </LinearLayout>
+                <LinearLayout style="@style/kis_license_info_row">
+                    <TextView android:id="@id/deviceIdTitle" android:text="@string/str_license_device_id" style="@style/kis_license_info_title" />
+                    <TextView android:id="@id/lic_device_id" style="@style/kis_license_info_value" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <include layout="@layout/dlg_footer_separator" />
+    <LinearLayout android:orientation="vertical" android:id="@id/LinearLayout05" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textColor="@color/kis_text_title" android:id="@id/Button01" android:layout_width="fill_parent" android:text="@string/str_license_close_button" style="@style/kis_dialog_button" />
+    </LinearLayout>
+</LinearLayout>

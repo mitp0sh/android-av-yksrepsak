@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/settingsLicenselayout" android:background="@drawable/settings_detail_list_selector" android:paddingLeft="@dimen/kis_settings_item_horizontal_border" android:paddingTop="@dimen/kis_settings_item_vertical_border" android:paddingRight="@dimen/kis_settings_item_horizontal_border" android:paddingBottom="@dimen/kis_settings_item_vertical_border" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/kis_settings_item_min_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/linearLayout1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/kis_settings_item_subtitle_text_size" android:textColor="#ff333333" android:layout_gravity="left" android:id="@id/licenseStateCaption" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TextView" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/common_license_info_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:id="@id/linearLayout3" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/kis_settings_item_subtitle_text_size" android:textColor="#ff333333" android:layout_gravity="left" android:id="@id/licenseExpireCaption" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_additional_license_expire_caption" android:layout_weight="1.0" />
+            <TextView android:textSize="@dimen/kis_settings_item_subtitle_text_size" android:textColor="#ff333333" android:id="@id/licenseExpireDate" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="TextView" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/linearLayout4" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/kis_settings_item_subtitle_text_size" android:textColor="#ff333333" android:layout_gravity="left" android:id="@id/licenseRemainDaysCaption" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_additional_days_left_caption" android:layout_weight="1.0" />
+            <TextView android:textSize="@dimen/kis_settings_item_subtitle_text_size" android:textColor="#ff333333" android:id="@id/licenseDaysLeftValue" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="TextView" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/subscription_info_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/kis_settings_item_subtitle_text_size" android:textColor="#ff333333" android:layout_gravity="left" android:id="@id/subscription_subtitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_additional_license_expire_caption" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

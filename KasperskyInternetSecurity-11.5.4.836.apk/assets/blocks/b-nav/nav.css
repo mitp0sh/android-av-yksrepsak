@@ -1,0 +1,90 @@
+.b-nav {
+  font-size: 1.66625rem;
+}
+.b-nav nav ul {
+  list-style: none;
+}
+.b-nav nav ul li:first-child a {
+  border-top-width: 0px;
+}
+.b-nav nav ul li a {
+  display: block;
+  width: 100%;
+  padding: 0 17.5%;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  color: #000000;
+  text-decoration: none;
+  border-style: solid;
+  border-width: 1px 0;
+  border-color: #ffffff transparent #cccccc transparent;
+}
+.b-nav nav ul li a span {
+  display: table-cell;
+  vertical-align: middle;
+  height: 6.5625rem;
+}
+.b-nav nav ul li a:hover,
+.b-nav nav ul li a.current {
+  color: #ffffff;
+  background: #217568;
+}
+@media (max-width: 720px) {
+  .b-nav nav ul li a {
+    position: relative;
+    border-width: 0 1px 1px 1px;
+    border-color: #cccccc;
+    line-height: 4.625rem;
+    padding: 0;
+    height: 4.625rem;
+  }
+  .b-nav nav ul li a span {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 4.8125rem 0 1.625rem;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    height: auto;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  [dir="rtl"] .b-nav nav ul li a span {
+    padding: 0 1.625rem 0 4.8125rem;
+  }
+  .b-nav nav ul li a:after {
+    position: absolute;
+    top: 0;
+    right: 0.5rem;
+    width: 3.75rem;
+    height: 100%;
+    content: '';
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: auto 36%;
+    background-image: url('../b-content/menu_black.png');
+  }
+  [dir="rtl"] .b-nav nav ul li a:after {
+    background-image: url('../b-content/menu_black_rtl.png');
+    left: 0.5rem;
+    right: auto;
+  }
+  .b-nav nav ul li a:hover:after,
+  .b-nav nav ul li a.current:after {
+    background-image: url(../b-content/menu_white.png);
+  }
+  [dir="rtl"] .b-nav nav ul li a:hover:after,
+  [dir="rtl"] .b-nav nav ul li a.current:after {
+    background-image: url('../b-content/menu_white_rtl.png');
+  }
+}
+@media (max-width: 720px) {
+  .b-nav nav ul li:first-child a {
+    border-top-width: 1px;
+    border-radius: 0.5rem 0.5rem 0 0;
+  }
+  .b-nav nav ul li:last-child a {
+    border-radius: 0 0 0.5rem 0.5rem;
+  }
+}

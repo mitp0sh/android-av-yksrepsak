@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.kaspersky.components.views.sidebar.SideBarLayout a:id="@id/statuses_sidebar" sbl:slidingViewId="@id/fragment_issues" sbl:mainViewId="@id/menu_sidebar" sbl:slidingViewStyle="hover" sbl:slidingViewLedge="0.0dip" sbl:slidingViewPosition="right" style="@style/kis_activity_center"
+  xmlns:a="http://schemas.android.com/apk/res/android" xmlns:sbl="http://schemas.android.com/apk/res-auto">
+    <com.kaspersky.components.views.sidebar.SideBarLayout a:id="@id/menu_sidebar" a:layout_width="fill_parent" a:layout_height="fill_parent" sbl:slidingViewId="@id/fragment_menu" sbl:mainViewId="@id/fragment_shield" sbl:slidingViewStyle="hover" sbl:slidingViewLedge="@dimen/kis_sidebar_ledge" sbl:slidingViewPosition="bottom">
+        <LinearLayout a:id="@id/fragment_shield" a:layout_width="fill_parent" a:layout_height="fill_parent" />
+        <LinearLayout a:id="@id/fragment_menu" a:layout_width="fill_parent" a:layout_height="wrap_content" />
+    </com.kaspersky.components.views.sidebar.SideBarLayout>
+    <FrameLayout a:id="@id/fragment_issues" a:layout_width="@dimen/kis_statuses_width" a:layout_height="fill_parent">
+        <include layout="@layout/kis_fragment_issues" />
+    </FrameLayout>
+</com.kaspersky.components.views.sidebar.SideBarLayout>

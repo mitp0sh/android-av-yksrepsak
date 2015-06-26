@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root>
+
+  <component clsid="0xca52fe06" name="EkaServicesMetaInfoDescriptors" module="kl_service">
+    <interface iid="0xa53230cb" name="eka.IStructMetaInfoRegistry"/>
+  </component>
+
+  <component clsid="0x525425f5" name="SchedulerMetaInfoDescriptors" module="kl_service">
+    <interface iid="0xa53230cb" name="eka.IStructMetaInfoRegistry"/>
+  </component>
+
+  <component clsid="0xe8a0f48b" name="ThreadManagerMetaInfoDescriptors" module="kl_service">
+    <interface iid="0xa53230cb" name="eka.IStructMetaInfoRegistry"/>
+  </component>
+
+  <component clsid="0x3138f78d" name="eka.SerializableDataStorageFactory" module="kl_service">
+    <interface iid="0x6e70fd8a" name="eka.ISerializableDataStorageFactory"/>
+    <depends service_key="0x79131e29"/>
+  </component>
+
+  <component clsid="0x79131e29" name="services.StorageSerializer" module="kl_service">
+    <interface iid="0x16fb48d6" name="eka.IStorageSerializer"/>
+    <interface iid="0x7cc64bff" name="eka.IStorageSerializer2"/>
+  </component>
+
+  <component clsid="0x7bbedf0d" name="services.BinarySerializer" module="kl_service">
+    <interface iid="0x239fc1db" name="eka.IBinarySerializer"/>
+    <interface iid="0x08c25a9c" name="eka.IBinarySerializer2"/>
+  </component>
+
+  <component clsid="0xa5fd79b7" name="services.BinarySerializerFactory" module="kl_service">
+    <interface iid="0xed899ba4" name="eka.IBinarySerializerFactory"/>
+  </component>
+
+  <component clsid="0x66053a85" name="services.StorageSerializerFactory" module="kl_service">
+    <interface iid="0xe2f30fb9" name="eka.IStorageSerializerFactory"/>
+  </component>
+
+  <component clsid="0xa762e747" name="eka.scheduler.Scheduler" module="kl_service" construct_iface_id="0xd70a98e2" settings_type_id="0xfa494d3a">
+    <interface iid="0x1daa4e9a" name="eka.scheduler.IScheduler"/>
+    <interface iid="0xcdf64fdf" name="eka.scheduler.IScheduleConditionsChecker"/>
+	<interface iid="0x128a5ada" name="eka.scheduler.ISchedulerSettings"/>
+    <depends service_key="0x79131e29" name="eka.StorageSerializer"/>
+  </component>
+
+  <component clsid="0x51efb850" name="eka.ValuesFreeStorageAdapterFactory" module="kl_service">
+    <interface iid="0xCFD465F9" name="eka.IValuesFreeStorageAdapterFactory"/>
+  </component>
+
+  <component clsid="0x88130f32" name="eka.threadpool.ThreadManager" module="kl_service" construct_iface_id="0x9375d75a" settings_type_id="0xb169848c">
+    <interface iid="0x7e948c48" name="eka.IThreadManager"/>
+    <interface iid="0xfe5341d4" name="eka.IThreadPoolFactory"/>	
+	<interface iid="0x58fa01bf" name="eka.IThreadProvider"/>	
+  </component>
+
+  <component clsid="0x1b494082" name="services.ThreadPool" module="kl_service"  construct_iface_id="0x25854fba" settings_type_id="0x31752e60">
+	<interface iid="0x0bad44eb" name="eka.IThreadPool"/>
+	<depends service_key="0x88130f32" name="eka.threadpool.ThreadManager" />
+  </component>
+
+  <component clsid="0x002849bc" name="eka.services.Timer" module="kl_service">
+    <interface iid="0xccd50778" name="eka.ITimer"/>
+  </component>
+
+  <component clsid="0xcfc85774" name="eka.services.SyncFactory" module="kl_service">
+    <interface iid="0x4ecb4ca0" name="eka.ISyncFactory"/>
+  </component>
+
+  <component clsid="0x50346620" name="eka.services.AllocatorFactory" module="kl_service">
+    <interface iid="0x8b877874" name="eka.IAllocatorFactory"/>
+  </component>
+
+  <component clsid="0x4887d3f5" name="eka.services.ThreadSharedContextProvider" module="kl_service">
+    <interface iid="0xdcf1a7df" name="eka.IThreadSharedContextProvider"/>
+  </component>
+
+  <component clsid="0x624d978f" name="services.XmlStorageFactory" module="kl_service">
+    <interface iid="0x570372fa" name="eka.IXmlStorageFactory"/>
+  </component>
+
+  <component clsid="0x6332d8fd" name="services.XmlStorageFactory2" module="kl_service">
+    <interface iid="0x47eaa67d" name="eka.IXmlStorageFactory2"/>
+  </component>
+
+  <component clsid="0x0d08a85c" name="services.JsonStorageFactory" module="kl_service">
+    <interface iid="0x2d52630a" name="eka.IJsonStorageFactory"/>
+  </component>
+
+  <component clsid="0x6df6c1d8" name="services.RegistryStorageFactory" module="kl_service">
+    <interface iid="0x65507d11" name="eka.IRegistryStorageFactory"/>
+    <interface iid="0x7000ce82" name="eka.IRegistryStorageFactory2"/>
+  </component>
+
+  <component clsid="0x27c14243" name="eka.services.RootServiceLocator" module="kl_service">
+    <interface iid="0x84b5bc07" name="eka.IServiceLocator"/>
+    <interface iid="0xfe614bf3" name="eka.IShutdown"/>
+  </component>
+
+  <component clsid="0x81ac2edf" name="eka.MemoryCacheManager" module="kl_service">
+    <interface iid="0xa574505f" name="eka.IMemoryCacheManager"/>
+	<interface iid="0xe6f54175" name="eka.IMemoryCacheManagerConstructor"/>
+	<interface iid="0x9b94957f" name="eka.IMemoryCacheManagerSettings"/>
+  </component>
+
+  <component clsid="0xd7f83506" name="eka.services.MetaInfoRegistry" module="kl_service">
+    <interface iid="0xa53230cb" name="eka.IStructMetaInfoRegistry"/>
+    <interface iid="0xfe7da4e6" name="eka.IMetaInfoProvider"/>
+    <interface iid="0x9f0effd8" name="eka.IGlobalStructMetaInfoRegistry"/>
+  </component>
+
+  <component clsid="0x59e90960" name="eka.services.PSFactoryRegistry" module="kl_service">
+    <interface iid="0xa96f285b" name="eka.IPSFactoryRegistry2"/>
+    <interface iid="0x3e301f74" name="eka.IGlobalPSFactoryRegistry"/>
+  </component>
+
+  <component clsid="0x2839fb5e" name="EkaServicePSFactoryRegistry" module="kl_service">
+    <interface iid="0xa96f285b" name="eka.IPSFactoryRegistry2"/>
+  </component>
+
+</root>

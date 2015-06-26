@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:id="@id/dialog_title_linearlayout" style="?kis_dialog_title"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <FrameLayout a:id="@id/dialog_title_content" style="?kis_dialog_title_content">
+        <TextView a:layout_gravity="center" a:id="@id/dialog_title_text_textview" a:layout_width="wrap_content" style="?kis_dialog_title_text" />
+        <ImageView a:layout_gravity="center|left" a:id="@id/dialog_title_icon_imageview" a:paddingLeft="5.0dip" style="?kis_dialog_title_icon" />
+    </FrameLayout>
+    <View a:id="@id/dialog_title_divider" style="?kis_dialog_title_divider" />
+</LinearLayout>

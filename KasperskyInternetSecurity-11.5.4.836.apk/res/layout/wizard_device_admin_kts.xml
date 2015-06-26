@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.kaspersky.kts.gui.controls.BoundedLinearLayout android:orientation="vertical" android:id="@id/topLayout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.kaspersky.kts.gui.wizard.WizardScrollView android:id="@id/scrollView1" style="@style/WizardScrollView">
+        <LinearLayout android:orientation="vertical" android:id="@id/linearLayoutBkg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.kaspersky.kts.gui.controls.Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <TextView android:id="@id/TextTitle" android:text="@string/str_big_res_wizard_device_admin_title" android:drawableTop="@drawable/ico_wizard_device_admin" style="@style/KTSWizardHeader" />
+            <com.kaspersky.kts.gui.controls.Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <TextView android:id="@id/TextInfo" android:text="@string/str_big_res_wizard_device_admin_description" style="@style/KTSWizardHeader2" />
+            <com.kaspersky.kts.gui.controls.Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="2.0" />
+            <Button android:id="@id/continue_button" android:text="@string/str_big_res_wizard_device_admin_continue_btn" style="@style/KTSWizardButton" />
+        </LinearLayout>
+    </com.kaspersky.kts.gui.wizard.WizardScrollView>
+</com.kaspersky.kts.gui.controls.BoundedLinearLayout>

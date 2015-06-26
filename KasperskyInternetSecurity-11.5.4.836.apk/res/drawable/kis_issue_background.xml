@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/kis_issue_background_info" android:minLevel="0" android:maxLevel="199" />
+    <item android:drawable="@drawable/kis_issue_background_warning" android:minLevel="200" android:maxLevel="299" />
+    <item android:drawable="@drawable/kis_issue_background_error" android:minLevel="300" android:maxLevel="399" />
+</level-list>

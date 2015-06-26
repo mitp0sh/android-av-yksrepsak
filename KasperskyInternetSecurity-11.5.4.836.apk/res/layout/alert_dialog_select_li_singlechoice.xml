@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView a:id="@id/dialog_li_title_textview" style="?kis_dialog_li_checked_title_radio"
+  xmlns:a="http://schemas.android.com/apk/res/android" />

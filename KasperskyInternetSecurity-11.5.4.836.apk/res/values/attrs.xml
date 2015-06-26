@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="layout_x" format="dimension" />
+    <attr name="layout_y" format="dimension" />
+    <attr name="gravity">
+        <flag name="normal" value="0x00000000" />
+        <flag name="center" value="0x00000001" />
+    </attr>
+    <attr name="titleText" format="reference" />
+    <attr name="editHint" format="reference" />
+    <attr name="emptyPasswordHint" format="reference" />
+    <attr name="shortPasswordHint" format="reference" />
+    <attr name="weakPasswordHint" format="reference" />
+    <attr name="goodPasswordHint" format="reference" />
+    <attr name="titleGap" format="dimension" />
+    <attr name="editStyle">
+        <flag name="oneline" value="0x00000000" />
+        <flag name="multiline" value="0x00000001" />
+    </attr>
+    <attr name="passwordIndicator" format="boolean" />
+    <attr name="editImageLeft" format="reference" />
+    <attr name="inputType">
+        <flag name="none" value="0x00000000" />
+        <flag name="text" value="0x00000001" />
+        <flag name="textCapCharacters" value="0x00001001" />
+        <flag name="textCapWords" value="0x00002001" />
+        <flag name="textCapSentences" value="0x00004001" />
+        <flag name="textAutoCorrect" value="0x00008001" />
+        <flag name="textAutoComplete" value="0x00010001" />
+        <flag name="textMultiLine" value="0x00020001" />
+        <flag name="textImeMultiLine" value="0x00040001" />
+        <flag name="textNoSuggestions" value="0x00080001" />
+        <flag name="textUri" value="0x00000011" />
+        <flag name="textEmailAddress" value="0x00000021" />
+        <flag name="textEmailSubject" value="0x00000031" />
+        <flag name="textShortMessage" value="0x00000041" />
+        <flag name="textLongMessage" value="0x00000051" />
+        <flag name="textPersonName" value="0x00000061" />
+        <flag name="textPostalAddress" value="0x00000071" />
+        <flag name="textPassword" value="0x00000081" />
+        <flag name="textVisiblePassword" value="0x00000091" />
+        <flag name="textWebEditText" value="0x000000a1" />
+        <flag name="textFilter" value="0x000000b1" />
+        <flag name="textPhonetic" value="0x000000c1" />
+        <flag name="textWebEmailAddress" value="0x000000d1" />
+        <flag name="textWebPassword" value="0x000000e1" />
+        <flag name="number" value="0x00000002" />
+        <flag name="numberSigned" value="0x00001002" />
+        <flag name="numberDecimal" value="0x00002002" />
+        <flag name="numberPassword" value="0x00000012" />
+        <flag name="phone" value="0x00000003" />
+        <flag name="datetime" value="0x00000004" />
+        <flag name="date" value="0x00000014" />
+        <flag name="time" value="0x00000024" />
+    </attr>
+    <attr name="boundedWidthInches" format="integer" min="0" />
+    <attr name="text" format="reference" />
+    <attr name="remainingText" format="reference" />
+    <attr name="backgroundNoValue" format="reference" />
+    <attr name="backgroundValue" format="reference" />
+    <attr name="kis_fragment_shield" format="reference" />
+    <attr name="kis_fragment_shield_header" format="reference" />
+    <attr name="kis_fragment_shield_header_logo" format="reference" />
+    <attr name="kis_fragment_shield_header_issues" format="reference" />
+    <attr name="kis_fragment_shield_shield" format="reference" />
+    <attr name="kis_fragment_shield_label" format="reference" />
+    <attr name="kis_fragment_menu" format="reference" />
+    <attr name="kis_fragment_menu_bubble" format="reference" />
+    <attr name="kis_fragment_menu_bubble_title" format="reference" />
+    <attr name="kis_fragment_menu_buttons" format="reference" />
+    <attr name="kis_fragment_menu_button" format="reference" />
+    <attr name="kis_fragment_menu_button_icon" format="reference" />
+    <attr name="kis_fragment_menu_button_text" format="reference" />
+    <attr name="kis_fragment_settings" format="reference" />
+    <attr name="kis_fragment_settings_header" format="reference" />
+    <attr name="kis_fragment_settings_header_title" format="reference" />
+    <attr name="kis_fragment_settings_tabs" format="reference" />
+    <attr name="kis_fragment_settings_tab" format="reference" />
+    <attr name="kis_fragment_settings_tab_text" format="reference" />
+    <attr name="kis_fragment_settings_setting" format="reference" />
+    <attr name="kis_fragment_settings_setting_text" format="reference" />
+    <attr name="kis_fragment_settings_setting_list" format="reference" />
+    <attr name="kis_li_setting" format="reference" />
+    <attr name="kis_li_setting_group_title" format="reference" />
+    <attr name="kis_li_setting_title" format="reference" />
+    <attr name="kis_li_setting_value" format="reference" />
+    <attr name="kis_li_setting_dropdown_button" format="reference" />
+    <attr name="kis_li_setting_checkbox" format="reference" />
+    <attr name="kis_switch" format="reference" />
+    <attr name="kis_checkbox" format="reference" />
+    <attr name="kis_fragment_issues" format="reference" />
+    <attr name="kis_fragment_issues_list" format="reference" />
+    <attr name="kis_fragment_issues_header" format="reference" />
+    <attr name="kis_fragment_issues_header_title" format="reference" />
+    <attr name="kis_fragment_issues_header_icon" format="reference" />
+    <attr name="kis_fragment_issues_premium_button" format="reference" />
+    <attr name="kis_li_issue" format="reference" />
+    <attr name="kis_li_issue_icon" format="reference" />
+    <attr name="kis_li_issue_title" format="reference" />
+    <attr name="kis_li_issue_aux" format="reference" />
+    <attr name="kis_li_issue_aux_content" format="reference" />
+    <attr name="kis_li_issue_aux_text" format="reference" />
+    <attr name="kis_li_issue_aux_text_label" format="reference" />
+    <attr name="kis_li_issue_aux_text_error" format="reference" />
+    <attr name="kis_li_issue_more" format="reference" />
+    <attr name="kis_li_issue_description" format="reference" />
+    <attr name="kis_dialog" format="reference" />
+    <attr name="kis_dialog_subtitle" format="reference" />
+    <attr name="kis_dialog_title" format="reference" />
+    <attr name="kis_dialog_title_content" format="reference" />
+    <attr name="kis_dialog_title_icon" format="reference" />
+    <attr name="kis_dialog_title_text" format="reference" />
+    <attr name="kis_dialog_title_divider" format="reference" />
+    <attr name="kis_dialog_li" format="reference" />
+    <attr name="kis_dialog_li_checked_title_radio" format="reference" />
+    <attr name="kis_dialog_li_checked_title_checkbox" format="reference" />
+    <attr name="kis_dialog_li_title" format="reference" />
+    <attr name="kis_dialog_li_subtitle" format="reference" />
+    <attr name="kis_dialog_li_radiobutton" format="reference" />
+    <attr name="kis_dialog_divider_horizontal" format="reference" />
+    <attr name="kis_dialog_divider_vertical" format="reference" />
+    <attr name="kis_dialog_buttonbar" format="reference" />
+    <attr name="kis_dialog_button" format="reference" />
+    <attr name="kis_dialog_listview" format="reference" />
+    <attr name="kis_dialog_message" format="reference" />
+    <attr name="kis_dialog_edittext" format="reference" />
+    <attr name="kis_dialog_textview_left" format="reference" />
+    <attr name="kis_dialog_textview_right" format="reference" />
+    <attr name="kis_dialog_switch" format="reference" />
+    <attr name="kis_dialog_checkbox" format="reference" />
+    <attr name="slidingViewId" format="reference" />
+    <attr name="mainViewId" format="reference" />
+    <attr name="slidingViewStyle">
+        <enum name="hover" value="0" />
+        <enum name="push" value="1" />
+        <enum name="shrink" value="2" />
+    </attr>
+    <attr name="slidingViewLedge" format="dimension" />
+    <attr name="slidingViewPosition">
+        <enum name="left" value="0" />
+        <enum name="top" value="1" />
+        <enum name="right" value="2" />
+        <enum name="bottom" value="3" />
+    </attr>
+    <attr name="horizontalSpacing" format="dimension" />
+    <attr name="verticalSpacing" format="dimension" />
+    <attr name="orientation">
+        <enum name="horizontal" value="0" />
+        <enum name="vertical" value="1" />
+    </attr>
+    <attr name="debugDraw" format="boolean" />
+    <attr name="layout_newLine" format="boolean" />
+    <attr name="layout_horizontalSpacing" format="dimension" />
+    <attr name="layout_verticalSpacing" format="dimension" />
+    <attr name="wireframeDrawableId" format="reference" />
+    <attr name="infoDrawableId" format="reference" />
+    <attr name="warningDrawableId" format="reference" />
+    <attr name="errorDrawableId" format="reference" />
+    <attr name="progressDelimDrawableId" format="reference" />
+    <attr name="progressHiDrawableId" format="reference" />
+    <attr name="progressLowDrawableId" format="reference" />
+    <attr name="progressPaddingTopPercent" format="float" />
+    <attr name="progressPaddingBottomPercent" format="float" />
+    <attr name="switchStyle" format="reference" />
+    <attr name="thumb" format="reference" />
+    <attr name="track" format="reference" />
+    <attr name="switchMinWidth" format="dimension" />
+    <attr name="switchPadding" format="dimension" />
+</resources>

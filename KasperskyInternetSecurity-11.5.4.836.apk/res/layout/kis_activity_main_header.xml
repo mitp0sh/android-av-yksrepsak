@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:id="@id/main_header_content" style="@style/kis_activity_main_header"
+  xmlns:a="http://schemas.android.com/apk/res/android" />

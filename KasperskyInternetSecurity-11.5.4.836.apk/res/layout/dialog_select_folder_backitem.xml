@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="?kis_dialog_li"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <LinearLayout a:id="@id/BackBtnLayout" a:layout_width="wrap_content" a:layout_height="fill_parent">
+        <Button a:id="@id/BackBtn" a:padding="12.0dip" a:paddingLeft="12.0dip" a:paddingTop="10.0dip" a:paddingRight="12.0dip" a:layout_width="fill_parent" a:layout_height="fill_parent" a:layout_marginLeft="0.0dip" a:layout_marginTop="5.0dip" a:layout_marginRight="15.0px" a:layout_marginBottom="5.0dip" a:drawableLeft="@drawable/kts_ico_hard_back_30" style="@style/KTSButton" />
+    </LinearLayout>
+    <LinearLayout a:orientation="vertical" a:id="@id/LinearLayout01" a:layout_width="0.0dip" a:layout_height="fill_parent" a:layout_marginTop="5.0dip" a:layout_weight="50.0">
+        <TextView a:textColor="#ff2a2a2a" a:id="@id/TextView01" a:paddingTop="5.0dip" a:layout_width="fill_parent" a:layout_height="fill_parent" a:maxLines="2" />
+    </LinearLayout>
+    <LinearLayout a:id="@id/ScanBtnLayout" a:layout_width="wrap_content" a:layout_height="fill_parent">
+        <Button a:id="@id/ScanBtn" a:paddingLeft="17.0dip" a:paddingTop="10.0dip" a:paddingRight="17.0dip" a:paddingBottom="10.0dip" a:layout_width="wrap_content" a:layout_height="fill_parent" a:layout_marginLeft="10.0dip" a:layout_marginTop="5.0dip" a:layout_marginRight="0.0dip" a:layout_marginBottom="5.0dip" a:drawableLeft="@drawable/kts_ico_search_20" a:drawablePadding="0.0dip" style="@style/KTSButton" />
+    </LinearLayout>
+</LinearLayout>

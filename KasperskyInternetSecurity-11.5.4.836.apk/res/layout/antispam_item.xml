@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:baselineAligned="false" style="?kis_dialog"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/alert_dialog_title" />
+    <ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_margin="10.0dip" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textColor="@color/kis_text_title" android:id="@id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/str_antispam_black_list_item_phone_number" />
+            <include layout="@layout/phone_item_with_button" />
+            <TextView android:textColor="@color/kis_text_title" android:id="@id/TextView03" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/str_antispam_black_list_item_text" />
+            <EditText android:id="@id/text" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/str_antispam_text_hint" />
+        </LinearLayout>
+    </ScrollView>
+    <include layout="@layout/alert_dialog_footer" />
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/kis_fragment_settings_setting"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <TextView a:textSize="36.0dip" a:id="@id/setting_item_title_textview" a:layout_width="fill_parent" a:layout_height="wrap_content" />
+</LinearLayout>

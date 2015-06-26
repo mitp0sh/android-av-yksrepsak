@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="kis_setting_width">200.0dip</dimen>
+    <dimen name="kis_menu_button_text_size">20.0sp</dimen>
+    <dimen name="kis_title_text_size">40.0sp</dimen>
+</resources>

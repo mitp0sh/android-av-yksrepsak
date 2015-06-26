@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:gravity="center|left" a:orientation="vertical" a:layout_width="fill_parent" a:layout_height="wrap_content"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <TextView a:id="@id/dialog_li_name_textview" style="?kis_dialog_li_title" />
+    <TextView a:id="@id/dialog_li_description_textview" a:visibility="gone" style="?kis_dialog_li_subtitle" />
+</LinearLayout>

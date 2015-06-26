@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button a:id="@id/fragment_issues_premium_button" a:paddingLeft="80.0dip" a:paddingRight="10.0dip" a:text="Some loooooong text jhd f g k j h d  f j hdkhg" style="@style/kis_fragment_issues_premium_button"
+  xmlns:a="http://schemas.android.com/apk/res/android" />

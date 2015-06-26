@@ -1,0 +1,16 @@
+/* CSS crunched with Crunch - http://crunchapp.net/ */
+.b-footer {
+  padding: 0 0.875rem;
+  padding-top: 3.3125rem;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 5.25rem;
+  font-size: 1rem;
+  font-weight: bold;
+}
+@media (max-width: 1400px) {
+  .b-footer {
+    padding-top: 1rem;
+    padding-bottom: 3.3125rem;
+  }
+}

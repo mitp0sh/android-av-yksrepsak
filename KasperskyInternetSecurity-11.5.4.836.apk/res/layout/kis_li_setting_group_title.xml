@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/kis_li_setting"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <TextView a:id="@id/li_setting_group_title_textview" style="@style/kis_li_setting_group_title" />
+</LinearLayout>

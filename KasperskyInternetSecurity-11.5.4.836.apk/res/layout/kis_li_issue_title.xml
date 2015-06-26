@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout style="@style/kis_li_issue"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <TextView a:gravity="center" a:id="@id/li_issue_title_textview" a:layout_width="fill_parent" style="@style/kis_li_issue_title" />
+</RelativeLayout>

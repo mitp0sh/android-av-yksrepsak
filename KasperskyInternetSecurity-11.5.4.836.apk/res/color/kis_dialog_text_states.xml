@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <item a:state_focused="true" a:color="@color/kis_dialog_button" />
+    <item a:state_pressed="true" a:color="@color/kis_dialog_button" />
+    <item a:state_enabled="false" a:color="@color/kis_dialog_button_disabled" />
+    <item a:color="@color/kis_text" />
+</selector>

@@ -1,0 +1,102 @@
+@import "../b-common/style.less";
+
+.b-nav {
+    font-size: 1.66625rem;
+    nav {
+        ul {
+            list-style: none;
+            li {
+                &:first-child {
+                    a {
+                        border-top-width: 0px;
+                    }
+                }
+                a {
+                    display: block;
+                    width: 100%;
+                    padding: 0 17.5%;
+                    .box-sizing();
+                    color: @color-black;
+                    text-decoration: none;
+                    border-style: solid;
+                    border-width: 1px 0;
+                    border-color: @color-white transparent @color-grey-dark transparent;
+                    span {
+                        display: table-cell;
+                        vertical-align: middle;
+                        height: 6.5625rem;
+                    }
+                    &:hover,
+                    &.current {
+                        color: @color-white;
+                        background: @color-green;
+                    }
+                    @media (max-width: @media-size) {
+                        position: relative;
+                        border-width: 0 1px 1px 1px;
+                        border-color: @color-grey-dark;
+                        line-height: 4.625rem;
+                        padding: 0;
+                        height: 4.625rem;
+                        span {
+                            display: inline-block;
+                            vertical-align: top;
+                            padding: 0 4.8125rem 0 1.625rem;
+                            width: 100%;
+                            .box-sizing();
+                            height: auto;
+                            white-space: nowrap;
+                            overflow: hidden;
+                            text-overflow: ellipsis;
+                            [dir="rtl"] & {
+                                padding: 0 1.625rem 0 4.8125rem;
+                            }
+                        }
+
+                        &:after {
+                            position: absolute;
+                            top: 0;
+                            right: 0.5rem;
+                            width: 6.25rem - 2.5rem;
+                            height: 100%;
+                            content: '';
+                            background-position: center center;
+                            background-repeat: no-repeat;
+                            background-size: auto 36%;
+                            background-image: url('../b-content/menu_black.png');
+                            [dir="rtl"] & {
+                                background-image: url('../b-content/menu_black_rtl.png');
+                                left: 0.5rem;
+                                right: auto;
+                            }
+                        }
+
+                        &:hover,
+                        &.current {
+                            &:after {
+                                background-image: url(../b-content/menu_white.png);
+                                [dir="rtl"] & {
+                                    background-image: url('../b-content/menu_white_rtl.png');
+                                }
+                            }
+                        }
+                    }
+                }
+                @media (max-width: @media-size) {
+                    &:first-child {
+                        a {
+                            border-top-width: 1px;
+                            border-radius: 0.5rem 0.5rem 0 0;
+                        }
+                    }
+
+                    &:last-child {
+                        a {
+                            border-radius: 0 0 0.5rem 0.5rem;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

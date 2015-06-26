@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:scrollbars="vertical" android:baselineAligned="false" style="?kis_dialog"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/alert_dialog_title" />
+    <LinearLayout android:orientation="vertical" android:id="@id/LinearLayout04" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="30.0dip" android:layout_weight="1.0">
+        <TextView android:id="@id/TextView02" android:text="@string/str_antispam_list_item_already_exists" style="?kis_dialog_message" />
+    </LinearLayout>
+    <include layout="@layout/alert_dialog_footer" />
+</LinearLayout>

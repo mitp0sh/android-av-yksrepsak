@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ico_info_39_light" android:id="@id/itemRestore" android:title="@string/str_av_additional_quarantine_menu_restore" />
+    <item android:icon="@drawable/ico_info_39_light" android:id="@id/itemDelete" android:title="@string/str_av_additional_quarantine_menu_delete" />
+    <item android:icon="@drawable/ico_info_39_light" android:id="@id/itemDeleteAll" android:title="@string/str_av_additional_quarantine_menu_delete_all" />
+</menu>

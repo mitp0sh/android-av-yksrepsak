@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:background="@drawable/kis_list_bg_selector" style="@style/kis_activity_list_item"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <ImageView a:layout_gravity="center|right" a:id="@id/ImageView01" a:paddingTop="10.0dip" a:paddingBottom="10.0dip" a:layout_width="wrap_content" a:layout_height="wrap_content" a:layout_marginLeft="10.0dip" a:layout_marginRight="10.0dip" a:src="@drawable/ico_phone_30" />
+    <LinearLayout a:gravity="center_vertical" a:layout_gravity="center_vertical" a:orientation="vertical" a:id="@id/LinearLayout01" a:duplicateParentState="true" a:layout_width="0.0dip" a:layout_height="wrap_content" a:layout_weight="50.0">
+        <TextView a:id="@id/TextView01" a:text="@id/TextView01" style="@style/kis_activity_list_item_text" />
+        <TextView a:id="@id/TextView02" a:text="@id/TextView02" style="@style/kis_activity_list_item_text2" />
+    </LinearLayout>
+</LinearLayout>

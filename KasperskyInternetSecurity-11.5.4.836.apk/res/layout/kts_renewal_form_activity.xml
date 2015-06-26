@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <WebView android:id="@id/renewalWebView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/LinearLayout05" android:background="@drawable/kts_dialog_footer" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/cancelRenewal" android:layout_width="fill_parent" android:text="@string/str_activation_cancel_renewal" android:maxLines="2" android:layout_weight="1.0" style="@style/KTSDialogBtn" />
+        <Button android:id="@id/proceedRenewal" android:text="@string/str_activation_proceed_renewal" android:layout_weight="1.0" style="@style/KTSDialogBtn" />
+    </LinearLayout>
+</LinearLayout>

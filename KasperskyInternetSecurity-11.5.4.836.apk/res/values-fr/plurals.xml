@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="str_license_activation_done">
+        <item quantity="other">"&amp;lt;b>Merci d'avoir activé l'application&amp;lt;/b>&amp;lt;br>Votre licence est désormais valide pour %d jours."</item>
+        <item quantity="zero">"&amp;lt;b>Merci d'avoir activé l'application&amp;lt;/b>&amp;lt;br>Votre licence est désormais valide pour %d jours."</item>
+        <item quantity="one">"&amp;lt;b>Merci d'avoir activé l'application&amp;lt;/b>&amp;lt;br>Votre licence est désormais valide pour %d jours."</item>
+        <item quantity="two">"&amp;lt;b>Merci d'avoir activé l'application&amp;lt;/b>&amp;lt;br>Votre licence est désormais valide pour %d jours."</item>
+        <item quantity="few">"&amp;lt;b>Merci d'avoir activé l'application&amp;lt;/b>&amp;lt;br>Votre licence est désormais valide pour %d jours."</item>
+        <item quantity="many">"&amp;lt;b>Merci d'avoir activé l'application&amp;lt;/b>&amp;lt;br>Votre licence est désormais valide pour %d jours."</item>
+    </plurals>
+    <plurals name="str_activation_code_info_details_code">
+        <item quantity="other">"Vous pouvez activer l'application sur un autre périphérique à l'aide de ce code pendant encore %s jours."</item>
+        <item quantity="zero">"Vous pouvez activer l'application sur un autre périphérique à l'aide de ce code pendant encore %s jours."</item>
+        <item quantity="one">"Vous pouvez activer l'application sur un autre périphérique à l'aide de ce code pendant encore %s jour."</item>
+        <item quantity="two">"Vous pouvez activer l'application sur un autre périphérique à l'aide de ce code pendant encore %s jours."</item>
+        <item quantity="few">"Vous pouvez activer l'application sur un autre périphérique à l'aide de ce code pendant encore %s jours."</item>
+        <item quantity="many">"Vous pouvez activer l'application sur un autre périphérique à l'aide de ce code pendant encore %s jours."</item>
+    </plurals>
+</resources>

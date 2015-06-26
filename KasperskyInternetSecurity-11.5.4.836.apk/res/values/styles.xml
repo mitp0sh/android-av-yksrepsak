@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="kis_text">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/kis_text</item>
+    </style>
+    <style name="kis_text_title">
+        <item name="android:textSize">@dimen/kis_title_text_size</item>
+        <item name="android:textColor">@color/kis_text_title</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_activity">
+        <item name="android:textColor">@color/kis_text</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@color/kis_activity_bg</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="kis_activity_main_header">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_activity_header">
+        <item name="android:background">@drawable/hdr_bitmap</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_activity_footer">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_activity_center">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="kis_fragment" parent="@style/kis_text">
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@color/kis_bg</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="kis_fragment_shield_shield">
+        <item name="android:layout_gravity">center|top</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="kis_fragment_shield" parent="@style/kis_fragment">
+        <item name="android:gravity">center|top</item>
+    </style>
+    <style name="kis_fragment_shield_label" parent="@style/kis_text_title">
+        <item name="android:gravity">center|top</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_fragment_shield_header_logo" parent="@style/kis_header_icon_left">
+        <item name="android:src">@drawable/kis_header_logo</item>
+    </style>
+    <style name="kis_header_icon_left">
+        <item name="android:layout_gravity">center|left</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+    <style name="kis_header_icon_right">
+        <item name="android:layout_gravity">center|right</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+    <style name="kis_fragment_issues_header_icon" parent="@style/kis_header_icon_left">
+        <item name="android:src">@drawable/kis_issues_header_hide</item>
+    </style>
+    <style name="kis_header_icon_back" parent="@style/kis_header_icon_left">
+        <item name="android:src">@drawable/kis_header_icon_back</item>
+    </style>
+    <style name="kis_fragment_shield_header_issues" parent="@style/kis_header_icon_right">
+        <item name="android:layout_marginRight">@dimen/kis_header_icon_space</item>
+        <item name="android:src">@drawable/kis_header_button_issues</item>
+    </style>
+    <style name="kis_fragment_shield_header">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/kis_shield_header_height</item>
+    </style>
+    <style name="kis_fragment_menu_bubble_title" parent="@style/kis_text_title" />
+    <style name="kis_fragment_menu_bubble">
+        <item name="android:textColor">@color/kis_secondary_text</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@drawable/kis_menu_bubble_background_closed</item>
+        <item name="android:paddingTop">@dimen/kis_menu_border</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/kis_sidebar_bubble_height</item>
+    </style>
+    <style name="kis_fragment_menu" parent="@style/kis_fragment">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_fragment_menu_buttons">
+        <item name="android:textColor">@color/kis_secondary_text</item>
+        <item name="android:background">@drawable/kis_menu_buttons_background</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_fragment_menu_button_text">
+        <item name="android:textSize">@dimen/kis_menu_button_text_size</item>
+        <item name="android:textColor">@color/kis_menu_button_text</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_fragment_menu_button_icon">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_fragment_menu_button" parent="@style/base_kis_fragment_menu_button" />
+    <style name="base_kis_fragment_menu_button">
+        <item name="android:textColor">@color/kis_secondary_text</item>
+        <item name="android:gravity">center|top</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@drawable/kis_menu_button</item>
+        <item name="android:padding">5.0dip</item>
+        <item name="android:layout_width">@dimen/kis_menu_button_width</item>
+        <item name="android:layout_height">@dimen/kis_menu_button_height</item>
+    </style>
+    <style name="kis_fragment_settings_header_title">
+        <item name="android:textSize">36.0dip</item>
+        <item name="android:paddingLeft">@dimen/kis_fragment_settings_setting_padding</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/kis_setting_width</item>
+    </style>
+    <style name="kis_fragment_settings_header">
+        <item name="android:gravity">center|left</item>
+        <item name="android:background">@drawable/kis_header_background</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/kis_shield_header_height</item>
+    </style>
+    <style name="kis_fragment_settings_tab_text">
+        <item name="android:textColor">@color/kis_li_states_text</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:drawablePadding">5.0dip</item>
+    </style>
+    <style name="kis_fragment_settings_tab" parent="@style/kis_base_fragment_settings_tab">
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="kis_base_fragment_settings_tab">
+        <item name="android:textColor">@color/kis_li_states_text</item>
+        <item name="android:background">@drawable/kis_li_states_bg</item>
+        <item name="android:padding">10.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_fragment_settings_setting" parent="@style/kis_fragment">
+        <item name="android:padding">0.0dip</item>
+    </style>
+    <style name="kis_fragment_settings_setting_list">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:divider">@null</item>
+        <item name="android:dividerHeight">0.0dip</item>
+    </style>
+    <style name="kis_fragment_settings_setting_text" parent="@style/kis_text">
+        <item name="android:paddingLeft">@dimen/kis_fragment_settings_setting_padding</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_fragment_settings" parent="@style/kis_fragment">
+        <item name="android:background">@color/kis_secondary_bg</item>
+    </style>
+    <style name="kis_fragment_settings_tabs">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:divider">@null</item>
+        <item name="android:dividerHeight">0.0dip</item>
+    </style>
+    <style name="kis_li_setting">
+        <item name="android:paddingLeft">@dimen/kis_fragment_settings_setting_padding</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_li_setting_group_title" parent="@style/kis_text">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:background">@color/kis_li_setting_group_title_bg</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_li_setting_title" parent="@style/kis_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_checkbox" parent="@style/kis_text">
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@drawable/kis_checkbox_holo_light</item>
+    </style>
+    <style name="kis_switch">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="thumb">@drawable/kis_switch_inner_holo_light</item>
+        <item name="track">@drawable/kis_switch_track_holo_light</item>
+        <item name="switchMinWidth">60.0dip</item>
+        <item name="switchPadding">1.0dip</item>
+    </style>
+    <style name="kis_li_setting_checkbox" parent="@style/kis_checkbox" />
+    <style name="kis_li_setting_dropdown_button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/settings_detail_round_button_kts</item>
+    </style>
+    <style name="kis_li_setting_value" parent="@style/kis_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_li_issue_description" parent="@style/kis_text">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_li_issue_aux_text_label" parent="@style/kis_li_issue_aux_text">
+        <item name="android:textColor">@color/kis_li_issue_overview</item>
+    </style>
+    <style name="kis_li_issue_aux_text" parent="@style/kis_text">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+    </style>
+    <style name="kis_li_issue_aux_text_error" parent="@style/kis_li_issue_aux_text">
+        <item name="android:textColor">@color/kis_li_issue_text_error</item>
+    </style>
+    <style name="kis_li_issue_aux_content" parent="@style/kis_text">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_li_issue_aux">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_li_issue_title" parent="@style/kis_text">
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/kis_issue_height</item>
+    </style>
+    <style name="kis_li_issue_more">
+        <item name="android:layout_width">@dimen/kis_issues_margin_left</item>
+        <item name="android:layout_height">@dimen/kis_issue_height</item>
+        <item name="android:src">@drawable/kis_li_issue_show_states</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="kis_li_issue_icon">
+        <item name="android:layout_width">@dimen/kis_issues_margin_left</item>
+        <item name="android:layout_height">@dimen/kis_issue_height</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="kis_li_issue">
+        <item name="android:background">@drawable/kis_issue_background</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_fragment_issues_list">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:divider">@color/kis_li_issue_divider</item>
+        <item name="android:dividerHeight">1.0dip</item>
+    </style>
+    <style name="kis_fragment_issues_header">
+        <item name="android:background">@drawable/kis_header_background</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:paddingRight">5.0dip</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/kis_shield_header_height</item>
+    </style>
+    <style name="kis_fragment_issues_premium_button">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/kis_issues_premium_button_text</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:background">@drawable/kis_issues_premium_button</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">10.0dip</item>
+    </style>
+    <style name="kis_fragment_issues_header_title" parent="@style/kis_text">
+        <item name="android:textSize">28.0sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="kis_dialog_listview">
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:cacheColorHint">@null</item>
+        <item name="android:divider">@color/kis_dialog_divider</item>
+        <item name="android:dividerHeight">@dimen/kis_alert_dialog_divider_height</item>
+    </style>
+    <style name="kis_dialog_li" parent="@style/kis_dialog_li_title">
+        <item name="android:gravity">center|left</item>
+        <item name="android:background">@drawable/kis_dialog_li_states</item>
+        <item name="android:paddingLeft">@dimen/kis_alert_dialog_text_margin_left</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:paddingRight">@dimen/kis_alert_dialog_text_margin_right</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/kis_alert_dialog_li_min_height</item>
+    </style>
+    <style name="kis_dialog_li_radiobutton">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@drawable/kis_radiobutton_holo_light</item>
+    </style>
+    <style name="kis_dialog_li_subtitle" parent="@style/kis_dialog_li_title">
+        <item name="android:textSize">14.0sp</item>
+    </style>
+    <style name="kis_dialog_li_checked_title_radio" parent="@style/kis_dialog_li">
+        <item name="android:checkMark">@drawable/kis_radiobutton_holo_light</item>
+    </style>
+    <style name="kis_dialog_li_checked_title_checkbox" parent="@style/kis_dialog_li">
+        <item name="android:checkMark">@drawable/kis_checkbox_holo_light</item>
+    </style>
+    <style name="kis_dialog_li_title" parent="@style/kis_text">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_dialog_title_divider">
+        <item name="android:background">@color/kis_dialog_title_divider</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">2.0dip</item>
+    </style>
+    <style name="kis_dialog_title_text">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@color/kis_dialog_title</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/kis_alert_dialog_text_margin_left</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="kis_dialog_title_icon">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">@dimen/kis_alert_dialog_text_margin_right</item>
+    </style>
+    <style name="kis_dialog_title_content">
+        <item name="android:gravity">center|left</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/kis_alert_dialog_title_height</item>
+    </style>
+    <style name="kis_dialog_user_action_title_content" parent="@style/kis_dialog_title_content">
+        <item name="android:minHeight">0.0dip</item>
+    </style>
+    <style name="kis_dialog_user_action_title_icon" parent="@style/kis_dialog_title_icon">
+        <item name="android:src">@drawable/kis_dialog_user_action_kaspersky_icon</item>
+    </style>
+    <style name="kis_dialog_user_action_title_divider" parent="@style/kis_dialog_title_divider">
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="kis_dialog_user_action_title_text" parent="@style/kis_dialog_title_text">
+        <item name="android:textColor">@color/kis_dialog_user_action_title</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_marginLeft">0.0dip</item>
+    </style>
+    <style name="kis_dialog_user_action_subtitle" parent="@style/kis_dialog_subtitle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@color/kis_dialog_user_action_subtitle</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/kis_dialog_user_action_subtitle</item>
+    </style>
+    <style name="kis_dialog_user_action_title" parent="@style/kis_dialog_title">
+        <item name="android:background">@color/kis_dialog_user_action_title_bg</item>
+    </style>
+    <style name="kis_dialog_subtitle" parent="@style/kis_text">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_dialog_title">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_dialog">
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@color/kis_dialog</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minWidth">300.0dip</item>
+    </style>
+    <style name="kis_dialog_buttonbar">
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@color/kis_dialog_buttonbar</item>
+        <item name="android:padding">0.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_dialog_textview_left" parent="@style/kis_text">
+        <item name="android:gravity">right</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="kis_dialog_textview_right" parent="@style/kis_text">
+        <item name="android:gravity">left</item>
+        <item name="android:paddingLeft">2.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="kis_dialog_edittext" parent="@style/kis_text">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/kis_alert_dialog_text_margin_left</item>
+        <item name="android:layout_marginTop">8.0dip</item>
+        <item name="android:layout_marginRight">@dimen/kis_alert_dialog_text_margin_right</item>
+        <item name="android:layout_marginBottom">8.0dip</item>
+        <item name="android:freezesText">true</item>
+    </style>
+    <style name="dialog_kis_checkbox" parent="@style/kis_checkbox">
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:layout_marginLeft">@dimen/kis_alert_dialog_text_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/kis_alert_dialog_text_margin_right</item>
+    </style>
+    <style name="dialog_kis_switch" parent="@style/kis_switch">
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:layout_marginLeft">@dimen/kis_alert_dialog_text_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/kis_alert_dialog_text_margin_right</item>
+    </style>
+    <style name="kis_dialog_message" parent="@style/kis_text">
+        <item name="android:paddingLeft">@dimen/kis_alert_dialog_text_margin_left</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingRight">@dimen/kis_alert_dialog_text_margin_right</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_dialog_button" parent="@style/kis_text">
+        <item name="android:textColor">@color/kis_dialog_text_states</item>
+        <item name="android:background">@drawable/kis_dialog_button_states</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:minHeight">@dimen/kis_alert_dialog_button_bar_min_height</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="kis_settings_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/popup_dialog_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="kis_settings_rotated_bg_dialog" parent="@style/kis_settings_dialog">
+        <item name="android:windowBackground">@drawable/popup_dialog_rotated_background</item>
+    </style>
+    <style name="kis_activity_list_item" parent="@style/kis_text">
+        <item name="android:background">@drawable/kis_list_bg_selector</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:baselineAligned">false</item>
+    </style>
+    <style name="kis_activity_list_item_text" parent="@style/kis_text">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">@drawable/kis_textview_selector</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:lines">1</item>
+        <item name="android:minLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+    </style>
+    <style name="kis_activity_list_item_text2" parent="@style/kis_text">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@drawable/kis_textview_selector</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:paddingLeft">2.0dip</item>
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:lines">1</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+    </style>
+    <style name="kis_settings_title" parent="@style/kis_text">
+        <item name="android:textSize">@dimen/kis_license_screen_large_title_text_size</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_settings_subtitle" parent="@style/kis_text">
+        <item name="android:textSize">@dimen/kis_license_screen_title_text_size</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_license_info" parent="@style/kis_text">
+        <item name="android:textSize">@dimen/kis_license_screen_info_text_size</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_license_info_row">
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingRight">15.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_license_info_title" parent="@style/kis_text">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ff4d4d4d</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:paddingBottom">2.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="kis_license_info_value" parent="@style/kis_text">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="kis_activation_code_info_regular_text">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/kis_dialog_activation_code_info_regular</item>
+    </style>
+    <style name="kis_activation_code_info_bold_text">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/kis_dialog_activation_code_info_bold</item>
+    </style>
+    <style name="kis_theme" parent="@android:style/Theme">
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="kis_dialog_user_action_theme" parent="@style/kis_dialog_theme">
+        <item name="kis_dialog_subtitle">@style/kis_dialog_user_action_subtitle</item>
+        <item name="kis_dialog_title">@style/kis_dialog_user_action_title</item>
+        <item name="kis_dialog_title_content">@style/kis_dialog_user_action_title_content</item>
+        <item name="kis_dialog_title_icon">@style/kis_dialog_user_action_title_icon</item>
+        <item name="kis_dialog_title_text">@style/kis_dialog_user_action_title_text</item>
+        <item name="kis_dialog_title_divider">@style/kis_dialog_user_action_title_divider</item>
+    </style>
+    <style name="kis_dialog_theme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/kis_dialog</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="kis_switch">@style/kis_switch</item>
+        <item name="kis_checkbox">@style/kis_checkbox</item>
+        <item name="kis_dialog">@style/kis_dialog</item>
+        <item name="kis_dialog_subtitle">@style/kis_dialog_subtitle</item>
+        <item name="kis_dialog_title">@style/kis_dialog_title</item>
+        <item name="kis_dialog_title_content">@style/kis_dialog_title_content</item>
+        <item name="kis_dialog_title_icon">@style/kis_dialog_title_icon</item>
+        <item name="kis_dialog_title_text">@style/kis_dialog_title_text</item>
+        <item name="kis_dialog_title_divider">@style/kis_dialog_title_divider</item>
+        <item name="kis_dialog_li">@style/kis_dialog_li</item>
+        <item name="kis_dialog_li_checked_title_radio">@style/kis_dialog_li_checked_title_radio</item>
+        <item name="kis_dialog_li_checked_title_checkbox">@style/kis_dialog_li_checked_title_checkbox</item>
+        <item name="kis_dialog_li_title">@style/kis_dialog_li_title</item>
+        <item name="kis_dialog_li_subtitle">@style/kis_dialog_li_subtitle</item>
+        <item name="kis_dialog_li_radiobutton">@style/kis_dialog_li_radiobutton</item>
+        <item name="kis_dialog_divider_horizontal">?android:listDivider</item>
+        <item name="kis_dialog_divider_vertical">?android:listDivider</item>
+        <item name="kis_dialog_buttonbar">@style/kis_dialog_buttonbar</item>
+        <item name="kis_dialog_button">@style/kis_dialog_button</item>
+        <item name="kis_dialog_listview">@style/kis_dialog_listview</item>
+        <item name="kis_dialog_message">@style/kis_dialog_message</item>
+        <item name="kis_dialog_edittext">@style/kis_dialog_edittext</item>
+        <item name="kis_dialog_textview_left">@style/kis_dialog_textview_left</item>
+        <item name="kis_dialog_textview_right">@style/kis_dialog_textview_right</item>
+        <item name="kis_dialog_switch">@style/dialog_kis_switch</item>
+        <item name="kis_dialog_checkbox">@style/dialog_kis_checkbox</item>
+    </style>
+    <style name="NoBkgTheme" parent="@android:style/Theme">
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="KMSDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/kmsdialog</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="PPDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/ppdialog</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="KTSDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/kts_dialog</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="KMSButton" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">?android:textAppearanceSmallInverse</item>
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:background">@drawable/button</item>
+        <item name="android:paddingLeft">20.0dip</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:paddingRight">20.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">52.0dip</item>
+        <item name="android:layout_marginBottom">12.0dip</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">15.0dip</item>
+    </style>
+    <style name="KTSButton" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">?android:textAppearanceSmallInverse</item>
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:background">@drawable/settings_detail_btn_selector</item>
+        <item name="android:paddingLeft">20.0dip</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:paddingRight">20.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">52.0dip</item>
+        <item name="android:layout_marginBottom">12.0dip</item>
+        <item name="android:minWidth">52.0dip</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">15.0dip</item>
+    </style>
+    <style name="KMSDialogBtn" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">?android:textAppearanceSmallInverse</item>
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/button</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">4.0dip</item>
+        <item name="android:layout_marginTop">7.0dip</item>
+        <item name="android:layout_marginRight">4.0dip</item>
+        <item name="android:layout_marginBottom">7.0dip</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="KMSEnterCodeBtn" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">?android:textAppearanceSmallInverse</item>
+        <item name="android:textSize">25.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/button</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginBottom">12.0dip</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="KMSEnterCodeBtnEnter" parent="@style/KMSEnterCodeBtn">
+        <item name="android:background">@drawable/button_enter</item>
+    </style>
+    <style name="KMSProgressBar">
+        <item name="android:maxHeight">20.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@android:drawable/progress_indeterminate_horizontal</item>
+        <item name="android:progressDrawable">@drawable/kms_progress_bar</item>
+        <item name="android:minHeight">20.0dip</item>
+    </style>
+    <style name="KTSProgressBar">
+        <item name="android:maxHeight">20.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@android:drawable/progress_indeterminate_horizontal</item>
+        <item name="android:progressDrawable">@drawable/kts_progress_bar</item>
+        <item name="android:minHeight">20.0dip</item>
+    </style>
+    <style name="KMSMainScreenPlaceHoder">
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">9.0dip</item>
+    </style>
+    <style name="KMSAlertDialogBtn" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">?android:textAppearanceSmallInverse</item>
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/button</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:layout_width">52.0px</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">4.0dip</item>
+        <item name="android:layout_marginTop">7.0dip</item>
+        <item name="android:layout_marginRight">4.0dip</item>
+        <item name="android:layout_marginBottom">7.0dip</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="KMSMainText">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">25.0dip</item>
+        <item name="android:layout_marginRight">25.0dip</item>
+    </style>
+    <style name="WizardScrollView" parent="@android:style/Widget.ScrollView">
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0.0dip</item>
+        <item name="android:layout_marginLeft">10.0dip</item>
+        <item name="android:layout_marginTop">10.0dip</item>
+        <item name="android:layout_marginRight">10.0dip</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+        <item name="android:fillViewport">true</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="KMSWizardHeader" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">22.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">25.0dip</item>
+        <item name="android:paddingRight">25.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">10.0dip</item>
+        <item name="android:layout_marginBottom">10.0dip</item>
+        <item name="android:drawablePadding">20.0dip</item>
+    </style>
+    <style name="KMSWizardHeader2" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">10.0dip</item>
+        <item name="android:layout_marginTop">10.0dip</item>
+        <item name="android:layout_marginRight">10.0dip</item>
+        <item name="android:layout_marginBottom">10.0dip</item>
+    </style>
+    <style name="KMSWizardButton" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">?android:textAppearanceSmallInverse</item>
+        <item name="android:textSize">17.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/button</item>
+        <item name="android:paddingLeft">20.0dip</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:paddingRight">20.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">12.0dip</item>
+        <item name="android:maxLines">3</item>
+        <item name="android:drawablePadding">15.0dip</item>
+    </style>
+    <style name="KMSWizardNormal">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="KMSPanelTextNormal">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="KMSWizardError">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffca1414</item>
+    </style>
+    <style name="KMSWizardSettingItemLabel">
+        <item name="android:textSize">22.0px</item>
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="KTSWizardHeader" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">22.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff666666</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">25.0dip</item>
+        <item name="android:paddingRight">25.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">10.0dip</item>
+        <item name="android:layout_marginBottom">10.0dip</item>
+        <item name="android:drawablePadding">20.0dip</item>
+    </style>
+    <style name="KTSWizardHeader2" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textColor">#ff666666</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">10.0dip</item>
+        <item name="android:layout_marginTop">10.0dip</item>
+        <item name="android:layout_marginRight">10.0dip</item>
+        <item name="android:layout_marginBottom">10.0dip</item>
+    </style>
+    <style name="WizardSubtitleText" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">5.0dip</item>
+    </style>
+    <style name="KTSWizardButton" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">?android:textAppearanceSmallInverse</item>
+        <item name="android:textSize">@dimen/green_button_text_size</item>
+        <item name="android:textColor">@color/green_button_text</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/settings_top_btn_selector</item>
+        <item name="android:paddingLeft">20.0dip</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:paddingRight">20.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">40.0dip</item>
+        <item name="android:layout_marginRight">40.0dip</item>
+        <item name="android:layout_marginBottom">12.0dip</item>
+        <item name="android:maxLines">3</item>
+        <item name="android:drawablePadding">10.0dip</item>
+    </style>
+    <style name="KTSWizardBlueButton" parent="@style/KTSWizardButton">
+        <item name="android:background">@drawable/settings_blue_btn_selector</item>
+    </style>
+    <style name="KTSWizardGreyButton" parent="@style/KTSWizardButton">
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:background">@drawable/wizard_grey_btn_selector</item>
+    </style>
+    <style name="HiddenDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="KTSSettingGroupText" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">20.0px</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">0.0px</item>
+        <item name="android:paddingRight">10.0px</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="KTSDialogBtn" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">?android:textAppearanceSmallInverse</item>
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/kts_button</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">4.0dip</item>
+        <item name="android:layout_marginTop">7.0dip</item>
+        <item name="android:layout_marginRight">4.0dip</item>
+        <item name="android:layout_marginBottom">7.0dip</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="KTSAlertDialogBtn" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">?android:textAppearanceSmallInverse</item>
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/kts_button</item>
+        <item name="android:paddingLeft">10.0px</item>
+        <item name="android:paddingTop">0.0px</item>
+        <item name="android:paddingRight">10.0px</item>
+        <item name="android:paddingBottom">0.0px</item>
+        <item name="android:layout_width">52.0px</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">4.0px</item>
+        <item name="android:layout_marginTop">7.0px</item>
+        <item name="android:layout_marginRight">4.0px</item>
+        <item name="android:layout_marginBottom">7.0px</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="KTSEnterCodeBtnEnter" parent="@style/KTSEnterCodeBtn">
+        <item name="android:background">@drawable/button_enter_kts</item>
+    </style>
+    <style name="KTSEnterCodeBtn" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">?android:textAppearanceSmallInverse</item>
+        <item name="android:textSize">25.0sp</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/kts_button</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginBottom">12.0dip</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="FormEditCaptionKms" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:padding">0.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="FormEditKms" parent="@android:style/Widget.EditText">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:inputType">text</item>
+    </style>
+    <style name="FormEditErrorKms" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ffff8080</item>
+        <item name="android:padding">0.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="FormEditCaptionKts" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ff666666</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="FormEditKts" parent="@android:style/Widget.EditText">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ff666666</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:inputType">text</item>
+    </style>
+    <style name="FormEditErrorKts" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ff555555</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ActivationCodeEditKts" parent="@style/FormEditKts">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:minEms">5</item>
+        <item name="android:inputType">textVisiblePassword|textCapCharacters|textNoSuggestions</item>
+    </style>
+    <style name="ActivationCodeEditKms" parent="@style/FormEditKms">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:minEms">5</item>
+        <item name="android:inputType">textVisiblePassword|textCapCharacters|textNoSuggestions</item>
+    </style>
+    <style name="EnterCodeBtn" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">?android:textAppearanceSmallInverse</item>
+        <item name="android:textSize">25.0sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/kts_button</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginBottom">12.0dip</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="SettingsSetupCodeBtn" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">?android:textAppearanceSmallInverse</item>
+        <item name="android:textSize">25.0sp</item>
+        <item name="android:textColor">#ff6a6a6a</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">#ffe5e5e5</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="SettingsSetupTitile" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">30.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff7f7f7f</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">25.0dip</item>
+        <item name="android:paddingRight">25.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">10.0dip</item>
+        <item name="android:layout_marginBottom">10.0dip</item>
+        <item name="android:drawablePadding">20.0dip</item>
+    </style>
+    <style name="SettingsSetupText" parent="@android:style/Widget.TextView">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">#ff7f7f7f</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">25.0dip</item>
+        <item name="android:paddingRight">25.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">10.0dip</item>
+        <item name="android:layout_marginBottom">10.0dip</item>
+        <item name="android:drawablePadding">20.0dip</item>
+    </style>
+    <style name="premium_features_icon">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

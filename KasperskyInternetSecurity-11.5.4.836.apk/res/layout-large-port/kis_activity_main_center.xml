@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.kaspersky.components.views.sidebar.SideBarLayout a:id="@id/menu_sidebar" sbl:slidingViewId="@id/fragment_menu" sbl:mainViewId="@id/fragment_shield" sbl:slidingViewStyle="hover" sbl:slidingViewLedge="@dimen/kis_sidebar_ledge" sbl:slidingViewPosition="bottom" style="@style/kis_activity_center"
+  xmlns:a="http://schemas.android.com/apk/res/android" xmlns:sbl="http://schemas.android.com/apk/res-auto">
+    <LinearLayout a:id="@id/fragment_shield" a:layout_width="fill_parent" a:layout_height="fill_parent" />
+    <LinearLayout a:id="@id/fragment_menu" a:layout_width="fill_parent" a:layout_height="wrap_content" />
+</com.kaspersky.components.views.sidebar.SideBarLayout>

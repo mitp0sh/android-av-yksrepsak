@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout a:orientation="vertical" a:layout_width="fill_parent" a:layout_height="wrap_content"
+  xmlns:a="http://schemas.android.com/apk/res/android">
+    <TextView a:id="@id/virus_info_subtitle" a:text="@string/str_av_virus_detected_info1" style="?kis_dialog_subtitle" />
+    <TextView a:id="@id/ObjectType" a:maxLines="3" style="?kis_dialog_message" />
+    <CheckBox a:id="@id/applyToAllCheckbox" a:text="@string/str_antivirus_checkbox_apply_to_all_text" style="?kis_dialog_checkbox" />
+</LinearLayout>

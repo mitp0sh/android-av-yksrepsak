@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/settingsInfoView" android:focusable="false" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/kis_settings_item_title_text_size" android:textColor="#ff000000" android:gravity="center" android:id="@id/emailText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/kis_settings_item_horizontal_border" android:layout_marginTop="@dimen/kis_settings_item_vertical_border" android:layout_marginRight="@dimen/kis_settings_item_horizontal_border" android:layout_marginBottom="@dimen/kis_settings_item_vertical_border" />
+    <LinearLayout android:id="@id/alertView" android:background="@drawable/settings_detail_alert_bg" android:paddingBottom="@dimen/kis_settings_item_title_bottom_margin" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip">
+        <ImageView android:id="@id/imageView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginBottom="10.0dip" android:src="@drawable/attention_icon" />
+        <TextView android:textSize="@dimen/kis_settings_item_alert_text_size" android:textColor="#ff000000" android:id="@id/alertText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="4.0dip" />
+    </LinearLayout>
+</LinearLayout>
